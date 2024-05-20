@@ -1,0 +1,2 @@
+# GakumasTranslationData
+GakumasTranslationData
