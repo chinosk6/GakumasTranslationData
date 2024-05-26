@@ -1,0 +1,6 @@
+[submodule "GakumasPreTranslation"]
+	path = GakumasPreTranslation
+	url = https://github.com/imas-tools/GakumasPreTranslation.git
+[submodule "gakuen-adapted-translation-data"]
+	path = gakuen-adapted-translation-data
+	url = https://github.com/imas-tools/gakuen-adapted-translation-data.git
