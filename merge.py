@@ -59,5 +59,5 @@ if __name__ == "__main__":
     merge_translation_files(raw_folder, translation_folder, pretranslation_folder, resource_folder)
     shutil.copy(
         f"{pretranslation_folder}/etc/localization.json",
-        f"{resource_folder}/localization.json",
+        f"./local-files/localization.json",
     )
