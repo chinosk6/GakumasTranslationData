@@ -9,6 +9,7 @@
 - `./GakumasPreTranslation`: pretranslation files, if no translation files are found, these files will be used
 - `./local-files/localization.json`: localization strings. expected to be copied from `./gakuen-adapted-translation-data/etc/localization.json`
 - `./local-files/generic.json`: Other tracked strings
+- `./local-files/genericTrans`: Same as `generic.json`. The folder/file name can be customized to distinguish translated content
 
 ## How to build resource
 
