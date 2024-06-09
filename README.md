@@ -7,7 +7,7 @@
 - `./raw`: Raw game resource file (.txt). Not included in the repository
 - `./gakuen-adapted-translation-data`: translation files
 - `./GakumasPreTranslation`: pretranslation files, if no translation files are found, these files will be used
-- `./local-files/localization.json`: localization strings. expected to be copied from `./gakuen-adapted-translation-data/etc/localization.json`
+- `./local-files/localization.json`: localization strings. expected to be copied from `./GakumasPreTranslation/etc/localization.json`
 - `./local-files/generic.json`: Other tracked strings
 
 ## How to build resource
