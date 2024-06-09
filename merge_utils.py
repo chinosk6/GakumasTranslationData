@@ -74,6 +74,7 @@ def trivial_translation_merger(
     *,
     is_choice=False,
 ):
+    translated_text = escape_equals(translated_text)
     if (
         validation_original_text is not None
         and validation_original_text != original_text
@@ -123,7 +124,7 @@ def line_level_dual_lang_translation_merger(
         )
 
     original_text = remove_r_elements(original_text)
-    translated_text = remove_r_elements(translated_text)
+    translated_text = remove_r_elements(escape_equals(translated_text))
     if len(original_text.split("\\n")) < len(translated_text.split("\\n")):
         text_len = len(original_text)
         original_text = (
