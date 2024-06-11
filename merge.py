@@ -26,7 +26,7 @@ def merge_translation_files(raw_folder: str, translation_folder: str, pretransla
             translation_file_index[k] = posixpath.join(translation_folder, tmp[k])
 
     for file in os.listdir(raw_folder):
-        if not file.endswith(".txt"):
+        if not file.endswith(".txt") and not file.startswith("adv_"):
             continue
         translation_file_path = translation_file_index.get(file)
         if translation_file_path is None:
