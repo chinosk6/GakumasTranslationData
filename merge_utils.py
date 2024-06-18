@@ -25,7 +25,7 @@ def merge_translated_csv_into_txt(
     iterator = iter(story_csv.data)
 
     for line in parsed:
-        if line["__tag__"] == "message":
+        if line["__tag__"] == "message" or line["__tag__"] == "narration":
             if line.get("text"):
                 next_csv_line = next(iterator)
                 new_text = merger(
@@ -34,6 +34,17 @@ def merge_translated_csv_into_txt(
                 gakuen_txt = gakuen_txt.replace(
                     f"text={line['text']}",
                     f"text={new_text}",
+                    1,
+                )
+        if line["__tag__"] == "title":
+            if line.get("title"):
+                next_csv_line = next(iterator)
+                new_text = merger(
+                    line["title"], next_csv_line["trans"], next_csv_line["text"]
+                )
+                gakuen_txt = gakuen_txt.replace(
+                    f"title={line['title']}",
+                    f"title={new_text}",
                     1,
                 )
         if line["__tag__"] == "choicegroup":
