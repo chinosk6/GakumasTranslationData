@@ -56,7 +56,7 @@ if __name__ == "__main__":
     translation_folder = "./gakuen-adapted-translation-data"
     pretranslation_folder = "./GakumasPreTranslation"
     generic_translation_source_folder = "./gakumas-generic-strings-translation/translated"
-    generic_translation_dest_folder = "./local-files/generic"
+    generic_translation_dest_folder = "./local-files/genericTrans"
     resource_folder = "./local-files/resource"
     merge_translation_files(raw_folder, translation_folder, pretranslation_folder, resource_folder)
     shutil.copy(
