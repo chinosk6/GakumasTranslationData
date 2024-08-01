@@ -124,7 +124,8 @@ def line_level_dual_lang_translation_merger(
             f"Original text does not match validation text: {validation_original_text} != {original_text}"
         )
     if is_choice:
-        return f"{original_text}\\n{translated_text}"
+        # return f"{original_text}\\n{translated_text}"
+        return translated_text
     # if line level doesn't match, fallback
     if abs(len(original_text.split("\\n")) - len(translated_text.split("\\n"))) > 1:
         warnings.warn(
@@ -146,5 +147,6 @@ def line_level_dual_lang_translation_merger(
     binds = zip(original_text.split("\\n"), translated_text.split("\\n"))
     texts = []
     for item in binds:
-        texts.append(f"<r\\={item[0]}>{item[1]}</r>")
-    return "\\n".join(texts)
+        if any(item):
+            texts.append(f"<r\\={item[0]}>{item[1]}</r>")
+    return "\\r\\n".join(texts)
