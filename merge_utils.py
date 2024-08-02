@@ -100,7 +100,7 @@ def trivial_translation_merger(
 def remove_r_elements(input_string):
     pattern = r"<r\\=.*?>(.*?)</r>"
     cleaned_string = re.sub(pattern, r"\1", input_string)
-    return cleaned_string
+    return cleaned_string.replace("―", "—")
 
 # bare "=" is not allowed
 # replace all bare "=" with r"\n"
