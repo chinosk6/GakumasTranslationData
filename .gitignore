@@ -7,3 +7,6 @@ raw
 *.pyc
 /local-files/genericTrans
 /local-files/localization.json
+*.zip
+Campus_adv_txts/
+node_modules/
