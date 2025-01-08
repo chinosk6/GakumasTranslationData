@@ -58,6 +58,9 @@ if __name__ == "__main__":
     generic_translation_source_folder = "./gakumas-generic-strings-translation/translated"
     generic_translation_dest_folder = "./local-files/genericTrans"
     resource_folder = "./local-files/resource"
+    master_translation_source_folder = "./gakumas-master-translation/data"
+    master_translation_dest_folder = "./local-files/masterTrans"
+
     merge_translation_files(raw_folder, translation_folder, pretranslation_folder, resource_folder)
     shutil.copy(
         f"{pretranslation_folder}/etc/localization.json",
@@ -66,3 +69,7 @@ if __name__ == "__main__":
     if os.path.exists(generic_translation_dest_folder):
         shutil.rmtree(generic_translation_dest_folder)
     shutil.copytree(generic_translation_source_folder, generic_translation_dest_folder)
+
+    if os.path.exists(master_translation_dest_folder):
+        shutil.rmtree(master_translation_dest_folder)
+    shutil.copytree(master_translation_source_folder, master_translation_dest_folder)

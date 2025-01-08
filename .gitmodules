@@ -7,3 +7,6 @@
 [submodule "gakumas-generic-strings-translation"]
 	path = gakumas-generic-strings-translation
 	url = https://github.com/imas-tools/gakumas-generic-strings-translation.git
+[submodule "gakumas-master-translation"]
+	path = gakumas-master-translation
+	url = https://github.com/imas-tools/gakumas-master-translation.git
