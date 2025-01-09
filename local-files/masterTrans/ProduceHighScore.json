@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "highscore-event-001",
+      "name": "十王邦夫的偶像强化月"
+    },
+    {
+      "id": "highscore-event-002",
+      "name": "高得分活动"
+    },
+    {
+      "id": "highscore-event-003",
+      "name": "高得分活动"
+    }
+  ]
+}

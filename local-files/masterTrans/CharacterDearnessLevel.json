@@ -1,0 +1,1110 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "dearnessLevel"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将声乐力提升到450以上"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就「不只是帅气」的状态下通过培育的期中考试"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将声乐力提升到1000以上"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将形象力提升到450以上"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就「偶像适正S」的状态下通过培育的期中考试"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将舞蹈力提升到800以上"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将舞蹈力提升到450以上"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就“溢出的想法”的状态下通过培育的中间考试"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将形象力提升到800以上"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将声乐力提升到450以上"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就「合格是理所当然」的状态下通过培育的期中考试"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将形象力提升到1000以上"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将舞蹈力提升到450以上"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "获得成就“挑战姐姐”"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将声乐力提升到1000以上"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将声乐力提升到450以上"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就“累积而来的东西”的状态下，通过培育的中间考试"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将形象力提升至900以上"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将形象力提升到450以上"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就「元气突破」的状态下通过培育的期中考试"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将舞蹈力提升到1000以上"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将声乐力提升到450以上"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就「微笑练习」的状态下通过培育的期中考试"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将形象力提升到1000以上"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将舞蹈力提升到450以上"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就「即使没有才能也能做到的事」的状态下通过培育的期中考试"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将声乐力提升到1000以上"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将形象力提升到450以上"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就「认真实力」的状态下通过培育的期中考试"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将舞蹈力提升到1000以上"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "完成1次以上课程"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "通过期中考试后经过1周"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育第2周"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名通过期中考试"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中将舞蹈力提升到450以上"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在获得成就「不妥协」的状态下通过培育的期中考试"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中将声乐力提升到1000以上"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "难度「Pro」的培育中获得最终考试中第1名"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A+评价完成培育"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A培育开始"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A培育推进"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "在N.I.A突破一次试镜"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "在完成一次N.I.A培育后，在N.I.A突破二次试镜"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "在最终试镜中选择「QUARTET」并合格"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "在最终试镜中选择「FINALE」并合格"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "在最终试镜「FINALE」合格后完成培育"
+    }
+  ]
+}

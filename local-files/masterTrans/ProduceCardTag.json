@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "idol-unique",
+      "name": "偶像固有技能卡"
+    },
+    {
+      "id": "starter",
+      "name": "初始技能卡"
+    },
+    {
+      "id": "strike",
+      "name": "课程菜单"
+    }
+  ]
+}

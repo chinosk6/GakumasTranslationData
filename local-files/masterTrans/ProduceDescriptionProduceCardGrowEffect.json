@@ -1,0 +1,213 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProduceCardGrowEffectType_LessonAdd",
+      "name": "数值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonReduce",
+      "name": "分数值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountAdd",
+      "name": "数值上升次数增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountReduce",
+      "name": "分数上升次数减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockAdd",
+      "name": "元气值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockReduce",
+      "name": "元气值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+      "name": "全力值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+      "name": "全力值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffReduce",
+      "name": "强化状态消耗减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffAdd",
+      "name": "强化状态消耗增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReduce",
+      "name": "消耗减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAdd",
+      "name": "成本值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+      "name": "体力消耗消耗减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+      "name": "体力消耗消耗增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "name": "好调值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+      "name": "好调值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "name": "集中值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+      "name": "集中值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewAdd",
+      "name": "好印象值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewReduce",
+      "name": "好印象值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveAdd",
+      "name": "干劲值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveReduce",
+      "name": "干劲值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawAdd",
+      "name": "抽牌张数增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawReduce",
+      "name": "抽牌张数减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+      "name": "绝好调值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+      "name": "绝好调值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+      "name": "体耗减半值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+      "name": "体耗减半值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+      "name": "体耗翻倍值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+      "name": "体耗翻倍值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectAdd",
+      "name": "效果追加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectDelete",
+      "name": "效果删除"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectChange",
+      "name": "效果替换"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "name": "成长效果替换"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+      "name": "使用条件替换"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+      "name": "替换效果触发条件"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+      "name": "使用后移动先变更"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_InitialAdd",
+      "name": "开始时附加手牌效果"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
+      "name": "集中成本值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
+      "name": "集中成本值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReviewReduce",
+      "name": "好印象费用值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReviewAdd",
+      "name": "好印象费用值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
+      "name": "干劲费用值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
+      "name": "干劲费用值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
+      "name": "好调费用值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
+      "name": "好调费用值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
+      "name": "全力值费用值减少"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
+      "name": "全力值费用值增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
+      "name": "元气分分数倍率增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
+      "name": "干劲分数倍率增加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
+      "name": "好印象分数倍率增加"
+    }
+  ]
+}

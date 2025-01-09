@@ -1,0 +1,213 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "npc_andk",
+      "name": "蓝井 抚子"
+    },
+    {
+      "id": "npc_atbm",
+      "name": "雨夜 燕"
+    },
+    {
+      "id": "npc_krnh",
+      "name": "贺阳 燐羽"
+    },
+    {
+      "id": "npc_mob-da-1",
+      "name": "白崎 爱莉"
+    },
+    {
+      "id": "npc_mob-da-2",
+      "name": "森下 ほのか"
+    },
+    {
+      "id": "npc_mob-da-3",
+      "name": "汐入 风花"
+    },
+    {
+      "id": "npc_mob-da-4",
+      "name": "久我山 百合"
+    },
+    {
+      "id": "npc_mob-da-5",
+      "name": "蔓日 友美"
+    },
+    {
+      "id": "npc_mob-vi-1",
+      "name": "赤羽 カオリ"
+    },
+    {
+      "id": "npc_mob-vi-2",
+      "name": "春野栞"
+    },
+    {
+      "id": "npc_mob-vi-3",
+      "name": "前原 玛莉娜"
+    },
+    {
+      "id": "npc_mob-vi-4",
+      "name": "高圆寺 レイ"
+    },
+    {
+      "id": "npc_mob-vi-5",
+      "name": "莲田 娜娜"
+    },
+    {
+      "id": "npc_mob-vo-1",
+      "name": "四谷 莉莉"
+    },
+    {
+      "id": "npc_mob-vo-2",
+      "name": "石田 莉娜"
+    },
+    {
+      "id": "npc_mob-vo-3",
+      "name": "细川 雫"
+    },
+    {
+      "id": "npc_mob-vo-4",
+      "name": "花冈 审美"
+    },
+    {
+      "id": "npc_mob-vo-5",
+      "name": "宫地 小春"
+    },
+    {
+      "id": "npc_nia_01",
+      "name": "冬木 萨拉"
+    },
+    {
+      "id": "npc_nia_02",
+      "name": "霜月 瑞穗"
+    },
+    {
+      "id": "npc_nia_03",
+      "name": "冰室 悠月"
+    },
+    {
+      "id": "npc_nia_04",
+      "name": "鹤见 蕾拉"
+    },
+    {
+      "id": "npc_nia_05",
+      "name": "鹰宫 美纱"
+    },
+    {
+      "id": "npc_nia_06",
+      "name": "莺泽 向日葵"
+    },
+    {
+      "id": "npc_nia_07",
+      "name": "熊谷 市香"
+    },
+    {
+      "id": "npc_nia_08",
+      "name": "有马 理音"
+    },
+    {
+      "id": "npc_nia_09",
+      "name": "鹿岛 美"
+    },
+    {
+      "id": "npc_nia_10",
+      "name": "鲛岛 海有"
+    },
+    {
+      "id": "npc_nia_11",
+      "name": "滨村 加奈美"
+    },
+    {
+      "id": "npc_nia_12",
+      "name": "波野 兰"
+    },
+    {
+      "id": "npc_nia_13",
+      "name": "绿川 文"
+    },
+    {
+      "id": "npc_nia_14",
+      "name": "红野 三月"
+    },
+    {
+      "id": "npc_nia_15",
+      "name": "黄濑 梨梨华"
+    },
+    {
+      "id": "npc_nia_16",
+      "name": "雪村 理子"
+    },
+    {
+      "id": "npc_nia_17",
+      "name": "寒川 凉香"
+    },
+    {
+      "id": "npc_nia_18",
+      "name": "鸠山 友奈"
+    },
+    {
+      "id": "npc_nia_19",
+      "name": "乌丸 真穗"
+    },
+    {
+      "id": "npc_nia_20",
+      "name": "猪俣 凛子"
+    },
+    {
+      "id": "npc_nia_21",
+      "name": "牛岛 真纪"
+    },
+    {
+      "id": "npc_nia_22",
+      "name": "鲇川 娜娜"
+    },
+    {
+      "id": "npc_nia_23",
+      "name": "蛯名 真子"
+    },
+    {
+      "id": "npc_nia_24",
+      "name": "绀野 夕夏"
+    },
+    {
+      "id": "npc_nia_25",
+      "name": "橙田 风子"
+    },
+    {
+      "id": "npc_rare-mob-da-1",
+      "name": "晓美 水月"
+    },
+    {
+      "id": "npc_rare-mob-da-2",
+      "name": "风间 理音"
+    },
+    {
+      "id": "npc_rare-mob-vi-1",
+      "name": "神崎 圭"
+    },
+    {
+      "id": "npc_rare-mob-vi-2",
+      "name": "华月 百合花"
+    },
+    {
+      "id": "npc_rare-mob-vo-1",
+      "name": "天城 樱花"
+    },
+    {
+      "id": "npc_rare-mob-vo-2",
+      "name": "鸣海 光"
+    },
+    {
+      "id": "npc_sgka",
+      "name": "白草 月花"
+    },
+    {
+      "id": "npc_sson",
+      "name": "白草 四音"
+    }
+  ]
+}

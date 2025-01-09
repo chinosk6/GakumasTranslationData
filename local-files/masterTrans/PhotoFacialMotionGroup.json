@@ -1,0 +1,30 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "id": "photo_facial_motion_group-amao-001",
+      "number": 1,
+      "name": "笑着"
+    },
+    {
+      "id": "photo_facial_motion_group-amao-001",
+      "number": 2,
+      "name": "生气地"
+    },
+    {
+      "id": "photo_facial_motion_group-amao-001",
+      "number": 3,
+      "name": "困扰地"
+    },
+    {
+      "id": "photo_facial_motion_group-amao-001",
+      "number": 4,
+      "name": "害羞地"
+    }
+  ]
+}

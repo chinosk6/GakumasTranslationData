@@ -1,0 +1,33 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "panel_mission-event-002",
+      "name": "面板任务"
+    },
+    {
+      "id": "panel_mission-event-003",
+      "name": "150万DL纪念面板任务"
+    },
+    {
+      "id": "panel_mission-event-004",
+      "name": "面板任务"
+    },
+    {
+      "id": "panel_mission-event-006",
+      "name": "面板任务"
+    },
+    {
+      "id": "panel_mission-event-niv",
+      "name": "十王邦夫的挑战任务 〜A+之路〜"
+    },
+    {
+      "id": "panel-mission-01",
+      "name": "面板任务"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "number": 1,
+      "title": "崭新的自己",
+      "description": "形象力300以上"
+    },
+    {
+      "characterId": "amao",
+      "number": 2,
+      "title": "成长的证明",
+      "description": "声乐力450以上"
+    },
+    {
+      "characterId": "amao",
+      "number": 3,
+      "title": "靠近憧憬",
+      "description": "形象力1000以上"
+    },
+    {
+      "characterId": "fktn",
+      "number": 1,
+      "title": "生活改善",
+      "description": "舞蹈力300以上"
+    },
+    {
+      "characterId": "fktn",
+      "number": 2,
+      "title": "才华横溢",
+      "description": "形象力450以上"
+    },
+    {
+      "characterId": "fktn",
+      "number": 3,
+      "title": "信任的力量",
+      "description": "舞蹈力1000以上"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 1,
+      "title": "三年级生的实力",
+      "description": "声乐力200以上"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 2,
+      "title": "为了再次抓住梦想",
+      "description": "舞蹈力450以上"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 3,
+      "title": "大家的姐姐",
+      "description": "形象力1000以上"
+    },
+    {
+      "characterId": "hski",
+      "number": 1,
+      "title": "稳健的一步",
+      "description": "舞蹈力200以上"
+    },
+    {
+      "characterId": "hski",
+      "number": 2,
+      "title": "全力前进",
+      "description": "声乐力450以上"
+    },
+    {
+      "characterId": "hski",
+      "number": 3,
+      "title": "绝对不败的力量",
+      "description": "形象力900以上"
+    },
+    {
+      "characterId": "hume",
+      "number": 1,
+      "title": "从负数开始",
+      "description": "舞蹈力300以上"
+    },
+    {
+      "characterId": "hume",
+      "number": 2,
+      "title": "不可测的才能",
+      "description": "声乐力450以上"
+    },
+    {
+      "characterId": "hume",
+      "number": 3,
+      "title": "爆诞",
+      "description": "舞蹈力1000以上"
+    },
+    {
+      "characterId": "jsna",
+      "number": 1,
+      "title": "重新启动",
+      "description": "舞蹈力200以上"
+    },
+    {
+      "characterId": "jsna",
+      "number": 2,
+      "title": "迈进的精英",
+      "description": "声乐力450以上"
+    },
+    {
+      "characterId": "jsna",
+      "number": 3,
+      "title": "光辉灿然",
+      "description": "形象力900以上"
+    },
+    {
+      "characterId": "kcna",
+      "number": 1,
+      "title": "第一步",
+      "description": "声乐力200以上"
+    },
+    {
+      "characterId": "kcna",
+      "number": 2,
+      "title": "元气可爱的力量",
+      "description": "形象力450以上"
+    },
+    {
+      "characterId": "kcna",
+      "number": 3,
+      "title": "靠近憧憬的一步",
+      "description": "舞蹈力1000以上"
+    },
+    {
+      "characterId": "kllj",
+      "number": 1,
+      "title": "一步一步慢慢来",
+      "description": "舞蹈力200以上"
+    },
+    {
+      "characterId": "kllj",
+      "number": 2,
+      "title": "传递的力量",
+      "description": "声乐力450以上"
+    },
+    {
+      "characterId": "kllj",
+      "number": 3,
+      "title": "理想的形象",
+      "description": "形象力1000以上"
+    },
+    {
+      "characterId": "shro",
+      "number": 1,
+      "title": "必要的基础力",
+      "description": "声乐力300以上"
+    },
+    {
+      "characterId": "shro",
+      "number": 2,
+      "title": "跳舞的体力",
+      "description": "舞蹈力450以上"
+    },
+    {
+      "characterId": "shro",
+      "number": 3,
+      "title": "持续歌唱的力量",
+      "description": "声乐力1000以上"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 1,
+      "title": "前进的一步",
+      "description": "舞蹈力300以上"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 2,
+      "title": "磨练的笑容",
+      "description": "形象力450以上"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 3,
+      "title": "再一次，开始跳舞",
+      "description": "舞蹈力1000以上"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 1,
+      "title": "发挥实力",
+      "description": "声乐力200以上"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 2,
+      "title": "克服弱点",
+      "description": "舞蹈力450以上"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 3,
+      "title": "突破极限",
+      "description": "声乐力1000以上"
+    }
+  ]
+}

@@ -1,0 +1,1069 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "amao-casl-0000",
+      "name": "平时的私服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "amao-casl-0001",
+      "name": "真正的我",
+      "description": "将有村麻央的亲密度Lv提升到10"
+    },
+    {
+      "id": "amao-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "amao-cstm-0004",
+      "name": "Fluorite",
+      "description": "【Fluorite】获取有村 麻央"
+    },
+    {
+      "id": "amao-cstm-0016",
+      "name": "Fluorite",
+      "description": "【Fluorite】有村 麻央在才能开花第4阶段获取"
+    },
+    {
+      "id": "amao-cstm-0035",
+      "name": "Feel Jewel Dream",
+      "description": "【Feel Jewel Dream】获得有村麻央"
+    },
+    {
+      "id": "amao-cstm-0036",
+      "name": "Feel Jewel Dream",
+      "description": "【Feel Jewel Dream】在获得有村麻央的才能开花第4阶段"
+    },
+    {
+      "id": "amao-cstm-0051",
+      "name": "キミとセミブルー",
+      "description": "【你与半蓝】获得有村麻央"
+    },
+    {
+      "id": "amao-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得有村麻央"
+    },
+    {
+      "id": "amao-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】有村麻央的才能开花第4阶段获得"
+    },
+    {
+      "id": "amao-cstm-0063",
+      "name": "冠菊",
+      "description": "【Fluorite】'24祭 获得有村 麻央"
+    },
+    {
+      "id": "amao-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【Fluorite】获得'24万圣节 有村 麻央"
+    },
+    {
+      "id": "amao-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Fluorite】获得'24圣诞节 有村 麻央"
+    },
+    {
+      "id": "amao-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "amao-cstm-0072",
+      "name": "金色的光辉",
+      "description": "有村麻央的偶像之路 舞台10通关"
+    },
+    {
+      "id": "amao-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "有村麻央的偶像之路 舞台15通关"
+    },
+    {
+      "id": "amao-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳装（有村麻央）"
+    },
+    {
+      "id": "amao-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "amao-trng-0001",
+      "name": "课程服装",
+      "description": "将有村麻央的大师成就提升到Rank3"
+    },
+    {
+      "id": "amao-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（有村麻央）"
+    },
+    {
+      "id": "atbm-schl-0000",
+      "name": "初星学园制服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "fktn-casl-0000",
+      "name": "平时的私服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "fktn-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "fktn-cstm-0001",
+      "name": "世界一可愛い私",
+      "description": "【世界第一可爱的我】获得藤田琴音"
+    },
+    {
+      "id": "fktn-cstm-0013",
+      "name": "世界一可愛い私",
+      "description": "【世界第一可爱的我】获得藤田琴音的才能绽放4阶段"
+    },
+    {
+      "id": "fktn-cstm-0027",
+      "name": "Yellow Big Bang！",
+      "description": "【Yellow Big Bang！】获取藤田 琴音"
+    },
+    {
+      "id": "fktn-cstm-0028",
+      "name": "Yellow Big Bang！",
+      "description": "【Yellow Big Bang！】藤田 琴音在才能开花第4阶段获取"
+    },
+    {
+      "id": "fktn-cstm-0045",
+      "name": "冠菊",
+      "description": "【冠菊】藤田 ことねを入手"
+    },
+    {
+      "id": "fktn-cstm-0046",
+      "name": "冠菊",
+      "description": "【冠菊】藤田 ことね的才能开花第4阶段获取"
+    },
+    {
+      "id": "fktn-cstm-0051",
+      "name": "キミとセミブルー",
+      "description": "【世界第一可爱的我】'24夏获得藤田琴音"
+    },
+    {
+      "id": "fktn-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得藤田 ことね"
+    },
+    {
+      "id": "fktn-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】藤田 ことね的才华开花第4阶段取得"
+    },
+    {
+      "id": "fktn-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【世界上最可爱的我】'24万圣节 藤田 ことねを入手"
+    },
+    {
+      "id": "fktn-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】获得藤田 ことね"
+    },
+    {
+      "id": "fktn-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "fktn-cstm-0072",
+      "name": "金色的光辉",
+      "description": "藤田琴音的偶像之路通关阶段10"
+    },
+    {
+      "id": "fktn-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "藤田琴音的偶像之路通关阶段15"
+    },
+    {
+      "id": "fktn-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳衣（藤田琴音）"
+    },
+    {
+      "id": "fktn-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "fktn-trng-0001",
+      "name": "课程服装",
+      "description": "将藤田琴音的大师成就提升至Rank3"
+    },
+    {
+      "id": "fktn-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（藤田琴音）"
+    },
+    {
+      "id": "hmsz-schl-0000",
+      "name": "初星学园制服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hrnm-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hrnm-cstm-0005",
+      "name": "clumsy trick",
+      "description": "【clumsy trick】获得姫崎莉波"
+    },
+    {
+      "id": "hrnm-cstm-0017",
+      "name": "clumsy trick",
+      "description": "【clumsy trick】获得姫崎莉波的才能绽放4阶段"
+    },
+    {
+      "id": "hrnm-cstm-0037",
+      "name": "L.U.V",
+      "description": "【L.U.V】获得姫崎 莉波"
+    },
+    {
+      "id": "hrnm-cstm-0038",
+      "name": "L.U.V",
+      "description": "【L.U.V】姫崎 莉波的才华开花第4阶段取得"
+    },
+    {
+      "id": "hrnm-cstm-0043",
+      "name": "キミとセミブルー",
+      "description": "【你与半蓝】获得姫崎莉波"
+    },
+    {
+      "id": "hrnm-cstm-0044",
+      "name": "キミとセミブルー",
+      "description": "【与你的半蓝】姫崎 莉波的才能开花第4阶段获取"
+    },
+    {
+      "id": "hrnm-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得姬崎莉波"
+    },
+    {
+      "id": "hrnm-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】姬崎莉波的才能开花第4阶段获得"
+    },
+    {
+      "id": "hrnm-cstm-0063",
+      "name": "冠菊",
+      "description": "【clumsy trick】'24祭 获得姫崎 莉波"
+    },
+    {
+      "id": "hrnm-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【clumsy trick】'24万圣节 姫崎 莉波を入手"
+    },
+    {
+      "id": "hrnm-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【clumsy trick】'24圣诞节 姫崎 莉波を入手"
+    },
+    {
+      "id": "hrnm-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "hrnm-cstm-0072",
+      "name": "金色的光辉",
+      "description": "姬崎莉波的偶像之路 舞台10通关"
+    },
+    {
+      "id": "hrnm-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "姬崎莉波的偶像之路 舞台15通关"
+    },
+    {
+      "id": "hrnm-othr-0000",
+      "name": "温泉浴巾",
+      "description": "无法获得"
+    },
+    {
+      "id": "hrnm-othr-0002",
+      "name": "欢迎光临初星温泉",
+      "description": "【欢迎来到初星温泉】姫崎 莉波を入手"
+    },
+    {
+      "id": "hrnm-othr-0003",
+      "name": "欢迎光临初星温泉",
+      "description": "【欢迎来到初星温泉】姫崎 莉波的才能开花第4阶段获取"
+    },
+    {
+      "id": "hrnm-schl-0000",
+      "name": "初星学园制服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hrnm-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hrnm-trng-0001",
+      "name": "课程服装",
+      "description": "将姬崎莉波的大师成就提升到Rank3"
+    },
+    {
+      "id": "hrnm-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（姬崎莉波）"
+    },
+    {
+      "id": "hski-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hski-cstm-0002",
+      "name": "Fighting My Way",
+      "description": "【Fighting My Way】获取花海 咲季"
+    },
+    {
+      "id": "hski-cstm-0014",
+      "name": "Fighting My Way",
+      "description": "【Fighting My Way】花海 咲季在才能开花第4阶段获取"
+    },
+    {
+      "id": "hski-cstm-0029",
+      "name": "Boom Boom Pow",
+      "description": "【Boom Boom Pow】获取花海 咲季"
+    },
+    {
+      "id": "hski-cstm-0030",
+      "name": "Boom Boom Pow",
+      "description": "【Boom Boom Pow】花海 咲季在才能开花第4阶段获取"
+    },
+    {
+      "id": "hski-cstm-0051",
+      "name": "キミとセミブルー",
+      "description": "【Fighting my way】'24夏获取花海 咲季"
+    },
+    {
+      "id": "hski-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得花海咲季"
+    },
+    {
+      "id": "hski-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】花海咲季的才能开花第4阶段获得"
+    },
+    {
+      "id": "hski-cstm-0063",
+      "name": "冠菊",
+      "description": "【冠菊】获得花海 咲季"
+    },
+    {
+      "id": "hski-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【Fighting My Way】获得'24万圣节 花海 咲季"
+    },
+    {
+      "id": "hski-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Fighting my way 】获得'24圣诞节 花海 咲季"
+    },
+    {
+      "id": "hski-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "hski-cstm-0070",
+      "name": "古今东西轻轻松松",
+      "description": "【古今东西ちょちょいのちょい】花海 咲季获得"
+    },
+    {
+      "id": "hski-cstm-0072",
+      "name": "金色的光辉",
+      "description": "花海咲季的偶像之路通关阶段10"
+    },
+    {
+      "id": "hski-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "花海咲季的偶像之路通关阶段15"
+    },
+    {
+      "id": "hski-cstm-0074",
+      "name": "古今东西轻轻松松",
+      "description": "【古今东西ちょちょいのちょい】花海 咲季的才能开花4阶段获得"
+    },
+    {
+      "id": "hski-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳衣（花海咲季）"
+    },
+    {
+      "id": "hski-schl-0000",
+      "name": "初星学园制服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hski-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hski-trng-0001",
+      "name": "课程服装",
+      "description": "将花海 咲季的大师成就提升至Rank3"
+    },
+    {
+      "id": "hski-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（花海咲季）"
+    },
+    {
+      "id": "hume-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hume-cstm-0010",
+      "name": "The Rolling Riceball",
+      "description": "【The Rolling Riceball】获取花海 佑芽"
+    },
+    {
+      "id": "hume-cstm-0022",
+      "name": "The Rolling Riceball",
+      "description": "【The Rolling Riceball】花海 佑芽在才能开花第4阶段获取"
+    },
+    {
+      "id": "hume-cstm-0049",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】获得花海 佑芽"
+    },
+    {
+      "id": "hume-cstm-0050",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】花海 佑芽的才华开花第4阶段取得"
+    },
+    {
+      "id": "hume-cstm-0051",
+      "name": "キミとセミブルー",
+      "description": "【The Rolling Riceball】获得'24夏 花海 佑芽"
+    },
+    {
+      "id": "hume-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得花海佑芽"
+    },
+    {
+      "id": "hume-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】在花海佑芽的天赋开花4阶段获得"
+    },
+    {
+      "id": "hume-cstm-0063",
+      "name": "冠菊",
+      "description": "【The Rolling Riceball】获得'24祭 花海 佑芽"
+    },
+    {
+      "id": "hume-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【The Rolling Riceball】获得'24万圣节 花海 佑芽"
+    },
+    {
+      "id": "hume-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装（花海佑芽）"
+    },
+    {
+      "id": "hume-cstm-0072",
+      "name": "金色的光辉",
+      "description": "花海佑芽的偶像之路 舞台10通关"
+    },
+    {
+      "id": "hume-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "花海佑芽的偶像之路 舞台15通关"
+    },
+    {
+      "id": "hume-othr-0000",
+      "name": "温泉浴巾",
+      "description": "无法获得"
+    },
+    {
+      "id": "hume-othr-0002",
+      "name": "温泉泳装",
+      "description": ""
+    },
+    {
+      "id": "hume-schl-0000",
+      "name": "初星学园制服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hume-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "hume-trng-0001",
+      "name": "课程服装",
+      "description": "将花海 佑芽的大师成就提升至Rank3"
+    },
+    {
+      "id": "hume-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（花海佑芽）"
+    },
+    {
+      "id": "jsna-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "jsna-cstm-0012",
+      "name": "小小野望",
+      "description": "【小小的野心】十王 星南获得"
+    },
+    {
+      "id": "jsna-cstm-0024",
+      "name": "小小野望",
+      "description": "【小小的野心】十王 星南的才能开花4阶段获得"
+    },
+    {
+      "id": "jsna-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得十王星南"
+    },
+    {
+      "id": "jsna-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】十王星南的才能开花第4阶段获得"
+    },
+    {
+      "id": "jsna-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装（十王星南）"
+    },
+    {
+      "id": "jsna-cstm-0072",
+      "name": "金色的光辉",
+      "description": "十王星南的偶像之路 舞台10通关"
+    },
+    {
+      "id": "jsna-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "十王星南的偶像之路 舞台15通关"
+    },
+    {
+      "id": "jsna-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳装（十王星南）"
+    },
+    {
+      "id": "jsna-schl-0000",
+      "name": "初星学园制服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "jsna-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "jsna-trng-0001",
+      "name": "课程服装",
+      "description": "十王 星南的Master成就达到Rank3"
+    },
+    {
+      "id": "jsna-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（十王星南）"
+    },
+    {
+      "id": "kcna-casl-0000",
+      "name": "平时的私服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "kcna-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "kcna-cstm-0008",
+      "name": "Wonder Scale",
+      "description": "【Wonder Scale】获取仓本 千奈"
+    },
+    {
+      "id": "kcna-cstm-0020",
+      "name": "Wonder Scale",
+      "description": "【Wonder Scale】仓本 千奈在才能开花第4阶段获取"
+    },
+    {
+      "id": "kcna-cstm-0033",
+      "name": "日々、発見的ステップ！",
+      "description": "【日常、发现性的步骤！】倉本 千奈获得"
+    },
+    {
+      "id": "kcna-cstm-0034",
+      "name": "日々、発見的ステップ！",
+      "description": "【日常、发现性的步骤！】倉本 千奈的才能开花4阶段获得"
+    },
+    {
+      "id": "kcna-cstm-0051",
+      "name": "キミとセミブルー",
+      "description": "【Wonder Scale】'24夏 仓本 千奈を入手"
+    },
+    {
+      "id": "kcna-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得仓本千奈"
+    },
+    {
+      "id": "kcna-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】在仓本千奈的天赋开花4阶段获得"
+    },
+    {
+      "id": "kcna-cstm-0063",
+      "name": "冠菊",
+      "description": "【Wonder Scale】'24祭 仓本 千奈を入手"
+    },
+    {
+      "id": "kcna-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】仓本 千奈を入手"
+    },
+    {
+      "id": "kcna-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Wonder Scale】获得'24圣诞节 倉本 千奈"
+    },
+    {
+      "id": "kcna-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "kcna-cstm-0072",
+      "name": "金色的光辉",
+      "description": "倉本千奈的偶像之路 舞台10完成"
+    },
+    {
+      "id": "kcna-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "倉本千奈的偶像之路 舞台15完成"
+    },
+    {
+      "id": "kcna-othr-0002",
+      "name": "欢迎光临初星温泉",
+      "description": "【欢迎来到初星温泉】获得倉本千奈"
+    },
+    {
+      "id": "kcna-othr-0003",
+      "name": "欢迎光临初星温泉",
+      "description": "【欢迎来到初星温泉】在获得倉本千奈的才能开花第4阶段"
+    },
+    {
+      "id": "kcna-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "kcna-trng-0001",
+      "name": "课程服装",
+      "description": "将仓本千奈的大师成就提升到Rank3"
+    },
+    {
+      "id": "kcna-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（仓本千奈）"
+    },
+    {
+      "id": "kllj-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "kllj-cstm-0007",
+      "name": "白線",
+      "description": "【白線】获得葛城莉莉娅"
+    },
+    {
+      "id": "kllj-cstm-0019",
+      "name": "白線",
+      "description": "【白線】获得葛城莉莉娅的才能绽放4阶段"
+    },
+    {
+      "id": "kllj-cstm-0045",
+      "name": "冠菊",
+      "description": "【冠菊】获得葛城 莉莉娅"
+    },
+    {
+      "id": "kllj-cstm-0046",
+      "name": "冠菊",
+      "description": "【冠菊】葛城 莉莉娅的才能开花第4阶段获取"
+    },
+    {
+      "id": "kllj-cstm-0049",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】获得葛城 リーリヤ"
+    },
+    {
+      "id": "kllj-cstm-0050",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】葛城 リーリヤ的才华开花第4阶段取得"
+    },
+    {
+      "id": "kllj-cstm-0051",
+      "name": "キミとセミブルー",
+      "description": "【白線】'24夏获得葛城莉莉娅"
+    },
+    {
+      "id": "kllj-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【白线】'24万圣节 葛城 リーリヤ获得"
+    },
+    {
+      "id": "kllj-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "kllj-cstm-0072",
+      "name": "金色的光辉",
+      "description": "葛城莉莉亚的偶像之路通关第10关"
+    },
+    {
+      "id": "kllj-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "葛城莉莉亚的偶像之路通关第15关"
+    },
+    {
+      "id": "kllj-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳衣（葛城莉莉亚）"
+    },
+    {
+      "id": "kllj-schl-0000",
+      "name": "初星学园制服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "kllj-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "kllj-trng-0001",
+      "name": "课程服装",
+      "description": "将葛城莉莉娅的大师成就提升至Rank3"
+    },
+    {
+      "id": "kllj-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（葛城莉莉娅）"
+    },
+    {
+      "id": "shro-casl-0000",
+      "name": "平时的私服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "shro-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "shro-cstm-0006",
+      "name": "光景",
+      "description": "【光景】获得筱泽广"
+    },
+    {
+      "id": "shro-cstm-0018",
+      "name": "光景",
+      "description": "【光景】获得筱泽广的才能绽放4阶段"
+    },
+    {
+      "id": "shro-cstm-0031",
+      "name": "コントラスト",
+      "description": "【对比】获得篠泽 広"
+    },
+    {
+      "id": "shro-cstm-0032",
+      "name": "コントラスト",
+      "description": "【对比】篠泽 広在才能开花第4阶段获得"
+    },
+    {
+      "id": "shro-cstm-0047",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】篠泽 広を入手"
+    },
+    {
+      "id": "shro-cstm-0048",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】篠泽 広的才能开花第4阶段获取"
+    },
+    {
+      "id": "shro-cstm-0051",
+      "name": "キミとセミブルー",
+      "description": "【光景】'24夏 篠泽 広を入手"
+    },
+    {
+      "id": "shro-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得筱泽广"
+    },
+    {
+      "id": "shro-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】在筱泽广的天赋开花4阶段获得"
+    },
+    {
+      "id": "shro-cstm-0063",
+      "name": "冠菊",
+      "description": "【光景】'24祭 篠泽 広を入手"
+    },
+    {
+      "id": "shro-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【光景】'24圣诞节 篠泽 広を入手"
+    },
+    {
+      "id": "shro-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "shro-cstm-0072",
+      "name": "金色的光辉",
+      "description": "通关篠澤広的偶像之路第10关"
+    },
+    {
+      "id": "shro-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "通关篠澤広的偶像之路第15关"
+    },
+    {
+      "id": "shro-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳装（篠澤広）"
+    },
+    {
+      "id": "shro-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "shro-trng-0001",
+      "name": "课程服装",
+      "description": "将筱泽广的大师成就提升到Rank3"
+    },
+    {
+      "id": "shro-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（篠澤広）"
+    },
+    {
+      "id": "ssmk-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "ssmk-cstm-0009",
+      "name": "Tame-Lie-One-Step",
+      "description": "【Tame-Lie-One-Step】获取紫云 清夏"
+    },
+    {
+      "id": "ssmk-cstm-0021",
+      "name": "Tame-Lie-One-Step",
+      "description": "【Tame-Lie-One-Step】紫云 清夏在才能开花第4阶段获取"
+    },
+    {
+      "id": "ssmk-cstm-0039",
+      "name": "隐藏的我",
+      "description": "【隐秘的我】紫云 清夏を入手"
+    },
+    {
+      "id": "ssmk-cstm-0040",
+      "name": "隐藏的我",
+      "description": "【隐秘的我】紫云 清夏的才能开花第4阶段获取"
+    },
+    {
+      "id": "ssmk-cstm-0043",
+      "name": "キミとセミブルー",
+      "description": "【你与半蓝】获得紫云清夏"
+    },
+    {
+      "id": "ssmk-cstm-0044",
+      "name": "キミとセミブルー",
+      "description": "【你与半蓝】获得紫云清夏的才能绽放4阶段"
+    },
+    {
+      "id": "ssmk-cstm-0063",
+      "name": "冠菊",
+      "description": "【Tame-Lie-One-Step】'24祭 获得紫云 清夏"
+    },
+    {
+      "id": "ssmk-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【Tame-Lie-One-Step】获得'24万圣节 紫雲 清夏"
+    },
+    {
+      "id": "ssmk-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Tame-Lie-One-Step】获得'24圣诞节 紫雲 清夏"
+    },
+    {
+      "id": "ssmk-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "ssmk-cstm-0072",
+      "name": "金色的光辉",
+      "description": "紫云清夏的偶像之路通关第10关"
+    },
+    {
+      "id": "ssmk-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "紫云清夏的偶像之路通关第15关"
+    },
+    {
+      "id": "ssmk-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳衣（紫云清夏）"
+    },
+    {
+      "id": "ssmk-schl-0000",
+      "name": "初星学园制服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "ssmk-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "ssmk-trng-0001",
+      "name": "课程服装",
+      "description": "将紫云清夏的大师成就提升至Rank3"
+    },
+    {
+      "id": "ssmk-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（紫云清夏）"
+    },
+    {
+      "id": "ttmr-casl-0000",
+      "name": "平时的私服",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "ttmr-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "ttmr-cstm-0003",
+      "name": "Luna say maybe",
+      "description": "【Luna say maybe】获取月村 手毬"
+    },
+    {
+      "id": "ttmr-cstm-0015",
+      "name": "Luna say maybe",
+      "description": "【Luna say maybe】月村 手毬在才能开花第4阶段获取"
+    },
+    {
+      "id": "ttmr-cstm-0025",
+      "name": "アイヴイ",
+      "description": "【Ivy】获得月村手毬"
+    },
+    {
+      "id": "ttmr-cstm-0026",
+      "name": "アイヴイ",
+      "description": "【Ivy】获得月村手毬的才能绽放4阶段"
+    },
+    {
+      "id": "ttmr-cstm-0047",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】月村 手毬を入手"
+    },
+    {
+      "id": "ttmr-cstm-0048",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】月村 手毬的才能开花第4阶段获取"
+    },
+    {
+      "id": "ttmr-cstm-0051",
+      "name": "キミとセミブルー",
+      "description": "【Luna say maybe】'24夏获取月村 手毬"
+    },
+    {
+      "id": "ttmr-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得月村手毬"
+    },
+    {
+      "id": "ttmr-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】月村手毬的才能开花第4阶段获得"
+    },
+    {
+      "id": "ttmr-cstm-0063",
+      "name": "冠菊",
+      "description": "【Luna say maybe】'24祭 获得月村 手毬"
+    },
+    {
+      "id": "ttmr-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Luna say maybe】获得'24圣诞节 月村 手毬"
+    },
+    {
+      "id": "ttmr-cstm-0069",
+      "name": "幼儿园童装",
+      "description": "购买幼儿园童装服装包"
+    },
+    {
+      "id": "ttmr-cstm-0072",
+      "name": "金色的光辉",
+      "description": "月村手毬的偶像之路通关第10关"
+    },
+    {
+      "id": "ttmr-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "月村手毬的偶像之路通关第15关"
+    },
+    {
+      "id": "ttmr-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳装（月村手毬）"
+    },
+    {
+      "id": "ttmr-trng-0000",
+      "name": "课程服装",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "ttmr-trng-0001",
+      "name": "课程服装",
+      "description": "将月村手毬的大师成就提升到Rank3"
+    },
+    {
+      "id": "ttmr-trng-0002",
+      "name": "初星学园运动服",
+      "description": "购买初星学园运动服（月村手毬）"
+    }
+  ]
+}

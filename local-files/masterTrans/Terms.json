@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "TermsType_TermsOfService",
+      "name": "使用条款"
+    },
+    {
+      "type": "TermsType_PrivacyPolicy",
+      "name": "隐私政策"
+    },
+    {
+      "type": "TermsType_GlobalConsent",
+      "name": "国际化许可"
+    }
+  ]
+}

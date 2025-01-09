@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "memory_gift-fktn",
+      "name": "第一次演唱会"
+    },
+    {
+      "id": "memory_gift-hski",
+      "name": "第一次演唱会"
+    },
+    {
+      "id": "memory_gift-ttmr",
+      "name": "第一次演唱会"
+    }
+  ]
+}

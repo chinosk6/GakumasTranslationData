@@ -1,0 +1,521 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "dearness-story-amao-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-amao-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-fktn-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-fktn-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-hrnm-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-hrnm-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-hski-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-hski-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-hume-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-hume-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-kcna-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-kcna-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-kllj-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-kllj-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-shro-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-shro-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-ssmk-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-ssmk-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "dearness-story-ttmr-10",
+      "title": "第10话"
+    },
+    {
+      "id": "dearness-story-ttmr-10-1",
+      "title": "第10.5话"
+    },
+    {
+      "id": "story-2024_bd-01_jsna-01",
+      "title": "十王星南生日 2024"
+    },
+    {
+      "id": "story-2024_bd-01_kcna-01",
+      "title": "仓本千奈生日 2024"
+    },
+    {
+      "id": "story-2024_bd-01_kllj-01",
+      "title": "葛城莉莉娅生日 2024"
+    },
+    {
+      "id": "story-2024_bd-01_shro-01",
+      "title": "篠泽广生日 2024"
+    },
+    {
+      "id": "story-2024_bd-01_ssmk-01",
+      "title": "紫云清夏生日 2024"
+    },
+    {
+      "id": "story-2024_bd-01_ttmr-01",
+      "title": "月村手毬生日 2024"
+    },
+    {
+      "id": "story-2024_p-bd-01_amao-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_fktn-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_hrnm-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_hski-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_hume-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_jsna-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_kcna-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_kllj-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_shro-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_ssmk-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-2024_p-bd-01_ttmr-01",
+      "title": "制作人生日"
+    },
+    {
+      "id": "story-box-gasha-event-001-01",
+      "title": "第1话"
+    },
+    {
+      "id": "story-box-gasha-event-001-02",
+      "title": "第2话"
+    },
+    {
+      "id": "story-box-gasha-event-001-03",
+      "title": "第3话"
+    },
+    {
+      "id": "story-box-gasha-event-001-04",
+      "title": "第4话"
+    },
+    {
+      "id": "story-box-gasha-event-001-05",
+      "title": "第5话"
+    },
+    {
+      "id": "story-box-gasha-event-002-01",
+      "title": "夏宵对决 1话"
+    },
+    {
+      "id": "story-box-gasha-event-002-02",
+      "title": "夏宵对峙 第2话"
+    },
+    {
+      "id": "story-box-gasha-event-002-03",
+      "title": "夏宵对决 3话"
+    },
+    {
+      "id": "story-box-gasha-event-002-04",
+      "title": "夏宵对决 4话"
+    },
+    {
+      "id": "story-box-gasha-event-002-05",
+      "title": "夏宵对决 5话"
+    },
+    {
+      "id": "story-box-gasha-event-007-01",
+      "title": "万圣节狂想曲 1话"
+    },
+    {
+      "id": "story-box-gasha-event-007-02",
+      "title": "万圣节狂想曲 第2话"
+    },
+    {
+      "id": "story-box-gasha-event-007-03",
+      "title": "万圣节狂想曲 第3话"
+    },
+    {
+      "id": "story-box-gasha-event-007-04",
+      "title": "万圣节狂想曲 第4话"
+    },
+    {
+      "id": "story-box-gasha-event-007-05",
+      "title": "万圣节狂想曲 第5话"
+    },
+    {
+      "id": "story-box-gasha-event-009-01",
+      "title": "蛋糕结缘的朋友圣诞节 第1话"
+    },
+    {
+      "id": "story-box-gasha-event-009-02",
+      "title": "蛋糕结缘的朋友圣诞节 第2话"
+    },
+    {
+      "id": "story-box-gasha-event-009-03",
+      "title": "蛋糕结缘的朋友圣诞节 第3话"
+    },
+    {
+      "id": "story-box-gasha-event-009-04",
+      "title": "蛋糕结缘的朋友圣诞节 第4话"
+    },
+    {
+      "id": "story-box-gasha-event-009-05",
+      "title": "蛋糕结缘的朋友圣诞节 第5话"
+    },
+    {
+      "id": "story-circle-battle-event-001-01",
+      "title": "#让アニメイト兴奋起来队 第1话"
+    },
+    {
+      "id": "story-circle-battle-event-001-02",
+      "title": "#让アニメイト兴奋起来队 第2话"
+    },
+    {
+      "id": "story-circle-battle-event-001-03",
+      "title": "#让アニメイト兴奋起来队 第3话"
+    },
+    {
+      "id": "story-circle-battle-event-001-04",
+      "title": "#让アニメイト兴奋起来队 第4话"
+    },
+    {
+      "id": "story-circle-battle-event-001-05",
+      "title": "#让アニメイト兴奋起来队 第5话"
+    },
+    {
+      "id": "story-event-01-01-01",
+      "title": "第1话"
+    },
+    {
+      "id": "story-event-01-01-02",
+      "title": "第2话"
+    },
+    {
+      "id": "story-event-01-01-03",
+      "title": "第3话"
+    },
+    {
+      "id": "story-event-01-01-04",
+      "title": "第4话"
+    },
+    {
+      "id": "story-event-01-01-05",
+      "title": "第5话"
+    },
+    {
+      "id": "story-event-01-02-01",
+      "title": "第1话"
+    },
+    {
+      "id": "story-event-01-02-02",
+      "title": "第2话"
+    },
+    {
+      "id": "story-event-01-02-03",
+      "title": "第3话"
+    },
+    {
+      "id": "story-event-01-02-04",
+      "title": "第4话"
+    },
+    {
+      "id": "story-event-01-02-05",
+      "title": "第5话"
+    },
+    {
+      "id": "story-event-01-05-01",
+      "title": "第1话"
+    },
+    {
+      "id": "story-event-01-05-02",
+      "title": "第2话"
+    },
+    {
+      "id": "story-event-01-05-03",
+      "title": "第3话"
+    },
+    {
+      "id": "story-event-01-05-04",
+      "title": "第4话"
+    },
+    {
+      "id": "story-event-01-05-05",
+      "title": "第5话"
+    },
+    {
+      "id": "story-event-01-06-01",
+      "title": "第1话"
+    },
+    {
+      "id": "story-event-01-06-02",
+      "title": "第2话"
+    },
+    {
+      "id": "story-event-01-06-03",
+      "title": "第3话"
+    },
+    {
+      "id": "story-event-01-06-04",
+      "title": "第4话"
+    },
+    {
+      "id": "story-event-01-06-05",
+      "title": "第5话"
+    },
+    {
+      "id": "story-main-01-01-01",
+      "title": "第1章 第1话"
+    },
+    {
+      "id": "story-main-01-01-02",
+      "title": "第1章 第2话"
+    },
+    {
+      "id": "story-main-01-01-03",
+      "title": "第1章 第3话"
+    },
+    {
+      "id": "story-main-01-01-04",
+      "title": "第1章 第4话"
+    },
+    {
+      "id": "story-main-01-01-05",
+      "title": "第1章 第5话"
+    },
+    {
+      "id": "story-main-01-01-06",
+      "title": "第1章 第6话"
+    },
+    {
+      "id": "story-main-01-01-07",
+      "title": "1章7话"
+    },
+    {
+      "id": "story-main-01-01-08",
+      "title": "1章8话"
+    },
+    {
+      "id": "story-main-01-01-09",
+      "title": "1章9话"
+    },
+    {
+      "id": "story-main-01-01-10",
+      "title": "1章10话"
+    },
+    {
+      "id": "story-main-01-01-11",
+      "title": "1章11话"
+    },
+    {
+      "id": "story-main-01-01-12",
+      "title": "1章12话"
+    },
+    {
+      "id": "story-main-01-01-13",
+      "title": "1章13话"
+    },
+    {
+      "id": "story-main-01-01-14",
+      "title": "1章14话"
+    },
+    {
+      "id": "story-main-01-02-01",
+      "title": "2章1话"
+    },
+    {
+      "id": "story-main-01-02-02",
+      "title": "2章2话"
+    },
+    {
+      "id": "story-main-01-02-03",
+      "title": "2章3话"
+    },
+    {
+      "id": "story-main-01-02-04",
+      "title": "2章4话"
+    },
+    {
+      "id": "story-main-01-02-05",
+      "title": "2章5话"
+    },
+    {
+      "id": "story-main-01-02-06",
+      "title": "2章6话"
+    },
+    {
+      "id": "story-main-01-02-07",
+      "title": "2章7话"
+    },
+    {
+      "id": "story-main-01-02-08",
+      "title": "2章8话"
+    },
+    {
+      "id": "story-main-01-02-09",
+      "title": "2章9话"
+    },
+    {
+      "id": "story-main-01-02-10",
+      "title": "2章10话"
+    },
+    {
+      "id": "story-main-01-02-11",
+      "title": "2章11话"
+    },
+    {
+      "id": "story-main-01-02-12",
+      "title": "2章12话"
+    },
+    {
+      "id": "story-main-01-02-13",
+      "title": "2章13话"
+    },
+    {
+      "id": "story-main-01-02-14",
+      "title": "2章14话"
+    },
+    {
+      "id": "story-main-01-02-15",
+      "title": "2章15话"
+    },
+    {
+      "id": "story-main-01-03-01",
+      "title": "3章1话"
+    },
+    {
+      "id": "story-main-01-03-02",
+      "title": "3章2话"
+    },
+    {
+      "id": "story-main-01-03-03",
+      "title": "3章3话"
+    },
+    {
+      "id": "story-main-01-03-04",
+      "title": "3章4话"
+    },
+    {
+      "id": "story-main-01-03-05",
+      "title": "3章5话"
+    },
+    {
+      "id": "story-main-01-03-06",
+      "title": "3章6话"
+    },
+    {
+      "id": "story-main-01-03-07",
+      "title": "3章7话"
+    },
+    {
+      "id": "story-main-01-03-08",
+      "title": "3章8话"
+    },
+    {
+      "id": "story-main-01-03-09",
+      "title": "3章9话"
+    },
+    {
+      "id": "story-main-01-03-10",
+      "title": "3章10话"
+    },
+    {
+      "id": "story-main-01-03-11",
+      "title": "3章11话"
+    },
+    {
+      "id": "story-main-01-03-12",
+      "title": "3章12话"
+    },
+    {
+      "id": "story-main-01-04-01",
+      "title": "4章1话"
+    },
+    {
+      "id": "story-main-01-04-02",
+      "title": "4章2话"
+    },
+    {
+      "id": "story-main-01-04-03",
+      "title": "4章3话"
+    },
+    {
+      "id": "story-main-01-04-04",
+      "title": "4章4话"
+    },
+    {
+      "id": "story-main-01-04-05",
+      "title": "4章5话"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "order"
+    ]
+  },
+  "data": [
+    {
+      "id": "gasha_button-001-01",
+      "order": 2,
+      "name": "1次扭蛋",
+      "description": "1次扭蛋"
+    },
+    {
+      "id": "gasha_button-001-01-discount",
+      "order": 1,
+      "name": "每日1次扭蛋",
+      "description": "每日1次扭蛋"
+    },
+    {
+      "id": "gasha_button-001-10",
+      "order": 3,
+      "name": "10次扭蛋",
+      "description": "10次扭蛋"
+    },
+    {
+      "id": "gasha_button-001-10-ssr",
+      "order": 1,
+      "name": "10次扭蛋",
+      "description": "10次扭蛋"
+    },
+    {
+      "id": "gasha_button-001-ticket",
+      "order": 2,
+      "name": "使用券进行抽取",
+      "description": "使用券进行抽取"
+    },
+    {
+      "id": "gasha_button-010-item_01",
+      "order": 3,
+      "name": "10次道具扭蛋",
+      "description": "10次道具扭蛋"
+    },
+    {
+      "id": "gasha_button-010-ticket",
+      "order": 3,
+      "name": "10次票券扭蛋",
+      "description": "10次票券扭蛋"
+    },
+    {
+      "id": "gasha_button-free-10-01",
+      "order": 1,
+      "name": "10次扭蛋",
+      "description": "10次扭蛋"
+    },
+    {
+      "id": "gasha_button-pickup-001-01",
+      "order": 2,
+      "name": "1次扭蛋",
+      "description": "1次扭蛋"
+    },
+    {
+      "id": "gasha_button-pickup-001-01-discount",
+      "order": 1,
+      "name": "每日1次扭蛋",
+      "description": "每日1次扭蛋"
+    },
+    {
+      "id": "gasha_button-pickup-001-10",
+      "order": 3,
+      "name": "10次扭蛋",
+      "description": "10次扭蛋"
+    },
+    {
+      "id": "gasha_button-select-pickup-01",
+      "order": 1,
+      "name": "10次扭蛋",
+      "description": "10次扭蛋"
+    },
+    {
+      "id": "gasha_button-select-pickup-01-discount",
+      "order": 1,
+      "name": "10次扭蛋",
+      "description": "10次扭蛋"
+    },
+    {
+      "id": "gasha_ticket_ssr_10_button-001",
+      "order": 1,
+      "name": "使用SSR确定券进行抽取",
+      "description": "SSR确定10连抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button",
+      "order": 1,
+      "name": "使用SSR确定券进行抽取",
+      "description": "SSR确定1次抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button_idol",
+      "order": 1,
+      "name": "使用SSR确定券进行抽取",
+      "description": "SSR偶像确定1次抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button_support",
+      "order": 1,
+      "name": "使用SSR确定券进行抽取",
+      "description": "SSR支援确定1次抽"
+    }
+  ]
+}

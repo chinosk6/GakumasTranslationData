@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "1",
+      "initialUserName": "制作人",
+      "banWarningMessage": "检测到您的账户使用了被篡改的客户端软件或未经许可的第三方非法软件，并以违反使用条款的形式访问了“学园偶像Master”。"
+    }
+  ]
+}

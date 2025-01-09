@@ -1,0 +1,5309 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "hidden_mission-app-review-main-task-clear",
+      "name": "课题14未完成"
+    },
+    {
+      "id": "hidden_mission-normal-amao-piece-pack-remind",
+      "name": "麻央角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-normal-fktn-piece-pack-remind",
+      "name": "ことね角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-normal-hrnm-piece-pack-remind",
+      "name": "莉波角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-normal-hski-piece-pack-remind",
+      "name": "咲季角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-normal-kcna-piece-pack-remind",
+      "name": "千奈角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-normal-kllj-piece-pack-remind",
+      "name": "リーリヤ角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-normal-main-task-clear-01-001",
+      "name": "课题1完成"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-amao-3-000-b",
+      "name": "SSR麻央B评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-fktn-3-000-b",
+      "name": "SSRことねB评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-hrnm-3-000-b",
+      "name": "SSR莉波B评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-hski-3-000-b",
+      "name": "SSR咲季B评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-hume-3-000-b",
+      "name": "SSR佑芽B评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-jsna-3-000-b",
+      "name": "SSR星南B评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-kcna-3-000-b",
+      "name": "SSR千奈B评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-kllj-3-000-b",
+      "name": "SSRリーリヤB评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-shro-3-000-b",
+      "name": "SSR広B评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-ssmk-3-000-b",
+      "name": "SSR清夏B评价"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-ttmr-3-000-b",
+      "name": "SSR手毬B评价"
+    },
+    {
+      "id": "hidden_mission-normal-shro-piece-pack-remind",
+      "name": "広角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-normal-ssmk-piece-pack-remind",
+      "name": "清夏角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-normal-ttmr-piece-pack-remind",
+      "name": "手毬角色碎片包提醒用"
+    },
+    {
+      "id": "hidden_mission-produce-audition-failure_kcna_initial-card",
+      "name": "千奈初期SSR/SR/R培育不合格"
+    },
+    {
+      "id": "hidden_mission-produce-audition-failure_shro_initial-card",
+      "name": "広初期SSR/SR/R培育不合格"
+    },
+    {
+      "id": "hidden_mission-tower_amao-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_fktn-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_hrnm-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_hski-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_hume-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_jsna-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_kcna-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_kllj-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_shro-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_ssmk-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-tower_ttmr-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-amao",
+      "name": "通过麻央达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-fktn",
+      "name": "通过ことね达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-hrnm",
+      "name": "通过莉波达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-hski",
+      "name": "通过咲季达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-hume",
+      "name": "通过佑芽达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-jsna",
+      "name": "通过星南达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-kcna",
+      "name": "通过千奈达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-kllj",
+      "name": "通过リーリヤ达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-shro",
+      "name": "通过広达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-ssmk",
+      "name": "通过清夏达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-ttmr",
+      "name": "通过手毬达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-amao",
+      "name": "通过麻央查看A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-fktn",
+      "name": "通过ことね查看A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-hrnm",
+      "name": "通过莉波查看A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-hski",
+      "name": "通过咲季查看A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-hume",
+      "name": "佑芽A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-jsna",
+      "name": "星南A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-kcna",
+      "name": "千奈A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-kllj",
+      "name": "リーリヤA End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-shro",
+      "name": "广A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-ssmk",
+      "name": "清夏A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-ttmr",
+      "name": "手毬A End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-amao",
+      "name": "麻央B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-fktn",
+      "name": "ことねB End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-hrnm",
+      "name": "莉波B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-hski",
+      "name": "咲季B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-hume",
+      "name": "佑芽B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-jsna",
+      "name": "星南B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-kcna",
+      "name": "千奈B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-kllj",
+      "name": "リーリヤB End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-shro",
+      "name": "广B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-ssmk",
+      "name": "清夏B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-ttmr",
+      "name": "手毬B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-amao",
+      "name": "麻央C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-fktn",
+      "name": "ことねC End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-hrnm",
+      "name": "莉波触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-hski",
+      "name": "咲季触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-hume",
+      "name": "佑芽触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-jsna",
+      "name": "星南触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-kcna",
+      "name": "千奈触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-kllj",
+      "name": "リーリヤ触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-shro",
+      "name": "広触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-ssmk",
+      "name": "清夏触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-ttmr",
+      "name": "手毬触发C End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-amao",
+      "name": "麻央触发True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-fktn",
+      "name": "ことね触发True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hrnm",
+      "name": "莉波触发True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hski",
+      "name": "咲季触发True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hume",
+      "name": "佑芽触发True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-jsna",
+      "name": "星南触发TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-kcna",
+      "name": "千奈触发True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-kllj",
+      "name": "リーリヤ触发True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002",
+      "name": "N.I.A触发TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-amao",
+      "name": "麻央达成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-fktn",
+      "name": "ことね达成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-hrnm",
+      "name": "莉波完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-hski",
+      "name": "咲季完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-hume",
+      "name": "佑芽完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-jsna",
+      "name": "星南完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-kcna",
+      "name": "千奈完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-kllj",
+      "name": "リーリヤ完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-shro",
+      "name": "广完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-ssmk",
+      "name": "清夏完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-ttmr",
+      "name": "手毬完成TrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-shro",
+      "name": "广看到True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-ssmk",
+      "name": "清夏看到True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-ttmr",
+      "name": "手毬看到True End"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_2",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_3",
+      "name": "抽{threshold}次活动扭蛋吧"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_4",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_5",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_2",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_3",
+      "name": "抽{threshold}次活动扭蛋吧"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_4",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_5",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_2",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_3",
+      "name": "抽{threshold}次活动扭蛋吧"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_4",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_5",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_2",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_3",
+      "name": "抽{threshold}次活动箱扭蛋吧"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_4",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_5",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_2",
+      "name": "挑战任何舞台{threshold}次吧"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_3",
+      "name": "通过花海咲季的培育的最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_4",
+      "name": "月村手毬的培育中通过最终考试{threshold}次"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_5",
+      "name": "藤田琴音的培育中通过最终考试{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_11",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_12",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_13",
+      "name": "开始工作{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_14",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_15",
+      "name": "进行金币扭蛋{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_16",
+      "name": "完成第1天的所有任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_21",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_22",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_23",
+      "name": "开始工作{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_24",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_25",
+      "name": "进行金币扭蛋{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_26",
+      "name": "完成第2天的所有任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_31",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_32",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_33",
+      "name": "开始工作{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_34",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_35",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_36",
+      "name": "完成第3天的所有任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_41",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_42",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_43",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_44",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_45",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_46",
+      "name": "完成第4天的所有任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_51",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_52",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_53",
+      "name": "开始工作{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_54",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_55",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_56",
+      "name": "完成第5天的所有任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_61",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_62",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_63",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_64",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_65",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_66",
+      "name": "完成第6天的所有任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_71",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_72",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_73",
+      "name": "开始工作{threshold}次"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_74",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_75",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_76",
+      "name": "完成1次Master最终考试"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_77",
+      "name": "完成第7天的所有任务"
+    },
+    {
+      "id": "mission-daily-incrementgashadrawcount-1",
+      "name": "进行金币扭蛋{threshold}次"
+    },
+    {
+      "id": "mission-daily-incrementmoneyexchangecount-1",
+      "name": "在金币交换所进行{threshold}次交换"
+    },
+    {
+      "id": "mission-daily-incrementproduceclearcount-1",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-daily-incrementpvpratewincount-1",
+      "name": "挑战竞赛{threshold}次"
+    },
+    {
+      "id": "mission-daily-incrementreceivemoney-1",
+      "name": "回收金币"
+    },
+    {
+      "id": "mission-daily-incrementsupportcardenhancecount-1",
+      "name": "强化支援卡{threshold}次"
+    },
+    {
+      "id": "mission-daily-incrementworkcount-1",
+      "name": "开始工作{threshold}次"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_11",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_11_1",
+      "name": "消耗{threshold}个AP（截至8月1日4:59:59）"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_12",
+      "name": "月村手毬的声乐力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_12_1",
+      "name": "在2023年8月1日4:59:59之前将月村手毬的声乐力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_13",
+      "name": "将葛城莉莉娅的形象力培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_13_1",
+      "name": "在2023年8月1日4:59:59之前将葛城莉莉娅的形象力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_14",
+      "name": "筱泽广的声乐力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_14_1",
+      "name": "在2023年8月1日4:59:59之前将筱泽广的声乐力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_15",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_15_1",
+      "name": "在2023年8月1日4:59:59之前用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_16",
+      "name": "用葛城莉莉娅总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_16_1",
+      "name": "在2023年8月1日4:59:59之前用葛城莉莉娅总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_17",
+      "name": "用筱泽广总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_17_1",
+      "name": "在2023年8月1日4:59:59之前用筱泽广总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_11",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_11_1",
+      "name": "在2023年9月1日4:59:59之前消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_12",
+      "name": "仓本千奈的舞蹈力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_12_1",
+      "name": "在2023年9月1日4:59:59之前将仓本千奈的舞蹈力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_13",
+      "name": "花海咲季的形象力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_13_1",
+      "name": "在2023年9月1日4:59:59之前将花海咲季的形象力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_14",
+      "name": "花海佑芽的舞蹈力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_14_1",
+      "name": "在2023年9月1日4:59:59之前将花海佑芽的舞蹈力培育到1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_15",
+      "name": "用仓本千奈总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_15_1",
+      "name": "仓本千奈在培育评价中累计获得{threshold}（9/1 4:59:59之前）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_16",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_16_1",
+      "name": "花海咲季在培育评价中累计获得{threshold}（9/1 4:59:59之前）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_17",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_17_1",
+      "name": "花海佑芽在培育评价中累计获得{threshold}（9/1 4:59:59之前）"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_11",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_12",
+      "name": "将姫崎莉波的形象力培育到1000以上，完成培育"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_13",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_14",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_15",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_16",
+      "name": "完成第一天的所有任务"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_21",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_22",
+      "name": "将藤田琴音的舞蹈力培育到1000以上，完成培育"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_23",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_24",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_25",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_26",
+      "name": "完成第二天的所有任务"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_31",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_32",
+      "name": "将紫云清夏的舞蹈力培育到1000以上，完成培育"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_33",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_34",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_35",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_36",
+      "name": "完成第三天的所有任务"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_41",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_42",
+      "name": "通过姫崎莉波、藤田琴音或紫云清夏的培育在最终考试中合格{threshold}次"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_43",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_44",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_45",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_46",
+      "name": "完成第四天的所有任务"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_51",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_52",
+      "name": "通过姫崎莉波、藤田琴音或紫云清夏的培育在最终考试中合格{threshold}次"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_53",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_54",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_55",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_56",
+      "name": "完成第五天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_11",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_12",
+      "name": "获得藤田琴音的{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_13",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_14",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_15",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_16",
+      "name": "完成第一天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_21",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_22",
+      "name": "获得花海咲季的{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_23",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_24",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_25",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_26",
+      "name": "完成第二天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_31",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_32",
+      "name": "获得月村手毬的{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_33",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_34",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_35",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_36",
+      "name": "完成第三天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_41",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_42",
+      "name": "藤田琴音或花海咲季或月村手毬的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_43",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_44",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_45",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_46",
+      "name": "完成第四天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_51",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_52",
+      "name": "藤田琴音或花海咲季或月村手毬的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_53",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_54",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_55",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_56",
+      "name": "完成第五天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_11",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_12",
+      "name": "紫云清夏的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_13",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_14",
+      "name": "用葛城莉莉娅总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_15",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_16",
+      "name": "完成第一天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_21",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_22",
+      "name": "葛城莉莉娅的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_23",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_24",
+      "name": "用葛城莉莉娅总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_25",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_26",
+      "name": "完成第二天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_31",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_32",
+      "name": "花海佑芽的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_33",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_34",
+      "name": "用葛城莉莉娅总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_35",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_36",
+      "name": "完成第三天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_41",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_42",
+      "name": "紫云清夏或葛城莉莉娅或花海佑芽的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_43",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_44",
+      "name": "用葛城莉莉娅总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_45",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_46",
+      "name": "完成第四天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_51",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_52",
+      "name": "紫云清夏或葛城莉莉娅或花海佑芽的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_53",
+      "name": "紫云清夏在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_54",
+      "name": "用葛城莉莉娅总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_55",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_56",
+      "name": "完成第五天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_11",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_12",
+      "name": "仓本千奈的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_13",
+      "name": "用仓本千奈总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_14",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_15",
+      "name": "用有村麻央培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_16",
+      "name": "完成第一天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_21",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_22",
+      "name": "花海佑芽的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_23",
+      "name": "用仓本千奈总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_24",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_25",
+      "name": "用有村麻央培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_26",
+      "name": "完成第二天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_31",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_32",
+      "name": "有村麻央的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_33",
+      "name": "用仓本千奈总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_34",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_35",
+      "name": "用有村麻央培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_36",
+      "name": "完成第三天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_41",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_42",
+      "name": "仓本千奈或花海佑芽或有村麻央的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_43",
+      "name": "用仓本千奈总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_44",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_45",
+      "name": "用有村麻央培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_46",
+      "name": "完成第四天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_51",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_52",
+      "name": "仓本千奈或花海佑芽或有村麻央的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_53",
+      "name": "用仓本千奈总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_54",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_55",
+      "name": "用有村麻央培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_56",
+      "name": "完成第五天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_11",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_12",
+      "name": "获得花海咲季的{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_13",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_14",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_15",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_16",
+      "name": "完成第一天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_21",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_22",
+      "name": "获得藤田琴音的{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_23",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_24",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_25",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_26",
+      "name": "完成第二天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_31",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_32",
+      "name": "姫崎莉波的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_33",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_34",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_35",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_36",
+      "name": "完成第三天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_41",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_42",
+      "name": "花海咲季或藤田琴音或姫崎莉波的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_43",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_44",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_45",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_46",
+      "name": "完成第四天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_51",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_52",
+      "name": "花海咲季或藤田琴音或姫崎莉波的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_53",
+      "name": "花海咲季在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_54",
+      "name": "藤田琴音在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_55",
+      "name": "姫崎莉波在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_56",
+      "name": "完成第五天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_11",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_12",
+      "name": "获得月村手毬的{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_13",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_14",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_15",
+      "name": "用十王星南培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_16",
+      "name": "完成第一天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_21",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_22",
+      "name": "花海佑芽的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_23",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_24",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_25",
+      "name": "用十王星南培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_26",
+      "name": "完成第二天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_31",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_32",
+      "name": "十王星南的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_33",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_34",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_35",
+      "name": "用十王星南培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_36",
+      "name": "完成第三天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_41",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_42",
+      "name": "月村手毬或花海佑芽或十王星南的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_43",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_44",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_45",
+      "name": "用十王星南培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_46",
+      "name": "完成第四天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_51",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_52",
+      "name": "月村手毬或花海佑芽或十王星南的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_53",
+      "name": "用月村手毬总共获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_54",
+      "name": "花海佑芽在培育评价中累计获得{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_55",
+      "name": "用十王星南培育评价总共达到{threshold}"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_56",
+      "name": "完成第五天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_11",
+      "name": "消耗AP {threshold}"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_12",
+      "name": "花海咲季的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_13",
+      "name": "通过花海咲季培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_14",
+      "name": "通过月村手毬培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_15",
+      "name": "通过藤田琴音培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_16",
+      "name": "完成第一天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_21",
+      "name": "消耗AP {threshold}"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_22",
+      "name": "月村手毬的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_23",
+      "name": "通过花海咲季培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_24",
+      "name": "通过月村手毬培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_25",
+      "name": "通过藤田琴音培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_26",
+      "name": "完成第二天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_31",
+      "name": "消耗AP {threshold}"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_32",
+      "name": "藤田琴音的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_33",
+      "name": "通过花海咲季培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_34",
+      "name": "通过月村手毬培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_35",
+      "name": "通过藤田琴音培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_36",
+      "name": "完成第三天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_41",
+      "name": "消耗AP {threshold}"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_42",
+      "name": "花海咲季或月村手毬或藤田琴音的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_43",
+      "name": "通过花海咲季培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_44",
+      "name": "通过月村手毬培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_45",
+      "name": "通过藤田琴音培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_46",
+      "name": "完成第四天的所有任务"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_51",
+      "name": "消耗AP {threshold}"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_52",
+      "name": "花海咲季或月村手毬或藤田琴音的粉丝达到{threshold}人"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_53",
+      "name": "通过花海咲季培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_54",
+      "name": "通过月村手毬培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_55",
+      "name": "通过藤田琴音培育获得合计{threshold}的评价"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_56",
+      "name": "完成第五天的所有任务"
+    },
+    {
+      "id": "mission-normal-absolutedearnesslevel-1",
+      "name": "任意偶像的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "mission-normal-absolutefancount-1",
+      "name": "总粉丝数达到{threshold}人"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardcount-1",
+      "name": "迎接{threshold}个可培育偶像"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardpotentialrankcount-1",
+      "name": "将{threshold}个可培育偶像的才能开花阶段提升至1"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardpotentialrankcount-2",
+      "name": "将{threshold}个可培育偶像的才能开花阶段提升至2"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardpotentialrankcount-3",
+      "name": "将{threshold}个可培育偶像的才能开花阶段提升至3"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardpotentialrankcount-4",
+      "name": "可培育偶像{threshold}人的才能开花阶段达到4"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-2",
+      "name": "在竞赛中达到2级"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-3",
+      "name": "在竞赛中达到等级3"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-4",
+      "name": "在竞赛中达到等级4"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-5",
+      "name": "在竞赛中达到等级5"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-6",
+      "name": "在竞赛中达到等级6"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-7",
+      "name": "在竞赛中达到等级7"
+    },
+    {
+      "id": "mission-normal-absolutepvprateunitoverallpower-1",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "mission-normal-absolutesupportcardcount-1",
+      "name": "获取{threshold}种支援卡"
+    },
+    {
+      "id": "mission-normal-absolutesupportcardlevel-1",
+      "name": "将支援卡的Lv达到{threshold}"
+    },
+    {
+      "id": "mission-normal-discord-join-1",
+      "name": "加入官方Discord服务器"
+    },
+    {
+      "id": "mission-normal-incrementgashadrawcount-1",
+      "name": "进行金币扭蛋{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementguilddonationcount-1",
+      "name": "在社团中捐赠{threshold}次道具"
+    },
+    {
+      "id": "mission-normal-incrementidolcardlevellimitrankupdatecount-1",
+      "name": "特训可培育偶像{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementIdolcardpotentialrankupdatecount-1",
+      "name": "可培育偶像进行才能开花{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementmeishiexchangecount-1",
+      "name": "从其他制作人收到名片{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-a-1",
+      "name": "获取评价A以上的回忆{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-a-2",
+      "name": "获取评价A+以上的回忆{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-b-1",
+      "name": "获取评价B+以上的回忆{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-s-1",
+      "name": "获取评价S以上的回忆{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-s-2",
+      "name": "获取评价S+以上的回忆{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementmissionclear-1",
+      "name": "课题を{threshold}个清除しよう"
+    },
+    {
+      "id": "mission-normal-incrementmoneyexchangecount-1",
+      "name": "在金币交换所进行{threshold}次交换"
+    },
+    {
+      "id": "mission-normal-incrementproduceclearcount-1",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-normal-incrementproducememorydeckupdatecount-1",
+      "name": "编成回忆"
+    },
+    {
+      "id": "mission-normal-incrementproducesupportcarddeckupdatecount-1",
+      "name": "编成支援卡吧"
+    },
+    {
+      "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "mission-normal-incrementpvpratewincount-1",
+      "name": "在竞赛中获胜{threshold}次吧"
+    },
+    {
+      "id": "mission-normal-incrementreceivemoney-1",
+      "name": "通过活动资金领取合计{threshold}的金币吧"
+    },
+    {
+      "id": "mission-normal-incrementsupportcardenhancecount-1",
+      "name": "强化支援卡{threshold}次"
+    },
+    {
+      "id": "mission-normal-incrementsupportcardlevellimitrankupdatecount-1",
+      "name": "将支援卡解锁{threshold}次吧"
+    },
+    {
+      "id": "mission-normal-incrementworktimecount-1",
+      "name": "总计进行{threshold}小时工作吧"
+    },
+    {
+      "id": "mission-normal-linkBandaiNamco-1",
+      "name": "进行数据联动\n※菜单 > 可以通过数据联动进行"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-amao-1st",
+      "name": "获得过麻央考试的第一名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-amao-3rd",
+      "name": "获得过麻央考试的第三名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-fktn-1st",
+      "name": "获得过ことね考试的第一名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-fktn-3rd",
+      "name": "获得过ことね考试的第三名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-hrnm-1st",
+      "name": "获得过莉波考试的第一名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-hrnm-3rd",
+      "name": "获得过莉波考试的第三名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-hski-1st",
+      "name": "获得过咲季考试的第一名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-hski-3rd",
+      "name": "获得过咲季考试的第三名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-kcna-1st",
+      "name": "获得过千奈考试的第一名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-kcna-3rd",
+      "name": "获得过千奈考试的第三名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-kllj-1st",
+      "name": "获得过リーリヤ考试的第一名"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-kllj-3rd",
+      "name": "リーリヤ考试取得第3位经验"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-shro-1st",
+      "name": "广考试取得第1位经验"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-shro-3rd",
+      "name": "广考试取得第3位经验"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-ssmk-1st",
+      "name": "清夏考试取得第1位经验"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-ssmk-3rd",
+      "name": "清夏考试取得第3位经验"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-ttmr-1st",
+      "name": "手毬考试取得第1位经验"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-ttmr-3rd",
+      "name": "手毬考试取得第3位经验"
+    },
+    {
+      "id": "mission-normal-produce-clear-amao-c",
+      "name": "麻央达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-fktn-c",
+      "name": "ことね达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-hrnm-c",
+      "name": "莉波达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-hski-c",
+      "name": "咲季达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-hume-c",
+      "name": "佑芽达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-jsna-c",
+      "name": "星南达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-kcna-c",
+      "name": "千奈达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-kllj-c",
+      "name": "リーリヤ达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-shro-c",
+      "name": "广达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-ssmk-c",
+      "name": "清夏达成C评价"
+    },
+    {
+      "id": "mission-normal-produce-clear-ttmr-c",
+      "name": "手毬达成C评价"
+    },
+    {
+      "id": "mission-normal-profileupdate-1",
+      "name": "设置个人资料"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_hume-0001",
+      "name": "佑芽角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0006",
+      "name": "咲季角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0007",
+      "name": "手毬角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0008",
+      "name": "ことね角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0009",
+      "name": "麻央角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0010",
+      "name": "リーリヤ角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0011",
+      "name": "千奈角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0012",
+      "name": "清夏角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0013",
+      "name": "広角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0014",
+      "name": "莉波角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_jsna-0001",
+      "name": "星南角色碎片包触发条件"
+    },
+    {
+      "id": "mission-normal-x-follow-1",
+      "name": "关注官方X"
+    },
+    {
+      "id": "mission-panel-mission-1-1",
+      "name": "在培育的咨询中交换{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-1-2",
+      "name": "完成声乐课{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-1-3",
+      "name": "完成舞蹈课{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-1-4",
+      "name": "完成形象课{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-1-5",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-panel-mission-1-6",
+      "name": "在培育中选择咨询{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-1-7",
+      "name": "在培育中选择外出{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-1-8",
+      "name": "在培育中选择活动补给{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-1-9",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-panel-mission-2-1",
+      "name": "完成感性方案的培育{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-2-2",
+      "name": "完成理性方案的培育{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-2-3",
+      "name": "最终考试中拿到第一名10次"
+    },
+    {
+      "id": "mission-panel-mission-2-4",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-2-5",
+      "name": "培育完成{threshold}次"
+    },
+    {
+      "id": "mission-panel-mission-2-6",
+      "name": "合计获得{threshold}P饮料"
+    },
+    {
+      "id": "mission-panel-mission-2-7",
+      "name": "在培育中合计消耗体力{threshold}"
+    },
+    {
+      "id": "mission-panel-mission-2-8",
+      "name": "合计获得{threshold}技能卡"
+    },
+    {
+      "id": "mission-panel-mission-2-9",
+      "name": "合计获得{threshold}P点数"
+    },
+    {
+      "id": "mission-release_mission-1-1",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-release_mission-1-2",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-release_mission-1-3",
+      "name": "完成课题10"
+    },
+    {
+      "id": "mission-release_mission-1-4",
+      "name": "完成一次研修"
+    },
+    {
+      "id": "mission-release_mission-1-5",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "mission-release_mission-1-6",
+      "name": "完成第一天的所有任务"
+    },
+    {
+      "id": "mission-release_mission-2-1",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-release_mission-2-2",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-release_mission-2-3",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-release_mission-2-4",
+      "name": "完成课题20"
+    },
+    {
+      "id": "mission-release_mission-2-5",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "mission-release_mission-2-6",
+      "name": "完成第二天的所有任务"
+    },
+    {
+      "id": "mission-release_mission-3-1",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-release_mission-3-2",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-release_mission-3-3",
+      "name": "挑战竞赛{threshold}次"
+    },
+    {
+      "id": "mission-release_mission-3-4",
+      "name": "方案：在感性培育偶像的培育中达到评价C+以上"
+    },
+    {
+      "id": "mission-release_mission-3-5",
+      "name": "方案：在理性培育偶像的培育中达到评价C+以上"
+    },
+    {
+      "id": "mission-release_mission-3-6",
+      "name": "完成课题28"
+    },
+    {
+      "id": "mission-release_mission-3-7",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "mission-release_mission-3-8",
+      "name": "完成第三天的所有任务"
+    },
+    {
+      "id": "mission-release_mission-4-1",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-release_mission-4-2",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-release_mission-4-3",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "mission-release_mission-4-4",
+      "name": "完成课题35"
+    },
+    {
+      "id": "mission-release_mission-4-5",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "mission-release_mission-4-6",
+      "name": "完成第四天的所有任务"
+    },
+    {
+      "id": "mission-release_mission-5-1",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-release_mission-5-2",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-release_mission-5-3",
+      "name": "将特训阶段提高到{threshold}"
+    },
+    {
+      "id": "mission-release_mission-5-4",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "mission-release_mission-5-5",
+      "name": "完成第五天的所有任务"
+    },
+    {
+      "id": "mission-release_mission-6-1",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-release_mission-6-2",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-release_mission-6-3",
+      "name": "在专业培育中达到评价B以上\n【条件】方案：感性可培育偶像"
+    },
+    {
+      "id": "mission-release_mission-6-4",
+      "name": "在专业培育中达到评价B以上\n【条件】方案：理性可培育偶像"
+    },
+    {
+      "id": "mission-release_mission-6-5",
+      "name": "完成课题55"
+    },
+    {
+      "id": "mission-release_mission-6-6",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "mission-release_mission-6-7",
+      "name": "完成第六天的所有任务"
+    },
+    {
+      "id": "mission-release_mission-7-1",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "mission-release_mission-7-2",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-release_mission-7-3",
+      "name": "完成课题60"
+    },
+    {
+      "id": "mission-release_mission-7-4",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "mission-release_mission-7-5",
+      "name": "完成第七天的所有任务"
+    },
+    {
+      "id": "mission-story-event-001-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-story-event-001-mission_2",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-story-event-001-mission_3",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-story-event-001-mission_4",
+      "name": "在培育的咨询中交换{threshold}次"
+    },
+    {
+      "id": "mission-story-event-001-mission_5",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-story-event-001-mission_6",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-story-event-002-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-story-event-002-mission_2",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-story-event-002-mission_3",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-story-event-002-mission_4",
+      "name": "在培育的咨询中交换{threshold}次"
+    },
+    {
+      "id": "mission-story-event-002-mission_5",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-story-event-002-mission_6",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-story-event-003-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-story-event-003-mission_2",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-story-event-003-mission_3",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-story-event-003-mission_4",
+      "name": "在培育的咨询中交换{threshold}次"
+    },
+    {
+      "id": "mission-story-event-003-mission_5",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-story-event-003-mission_6",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-story-event-004-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-story-event-004-mission_2",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-story-event-004-mission_3",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-story-event-004-mission_4",
+      "name": "在培育的咨询中交换{threshold}次"
+    },
+    {
+      "id": "mission-story-event-004-mission_5",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-story-event-004-mission_6",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-weekly-incrementgashadrawcount-1",
+      "name": "进行金币扭蛋{threshold}次"
+    },
+    {
+      "id": "mission-weekly-incrementlogincount-1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-weekly-incrementmoneyexchangecount-1",
+      "name": "在金币交换所进行{threshold}次交换"
+    },
+    {
+      "id": "mission-weekly-incrementproduceclearcount-1",
+      "name": "通过最终考试{threshold}次吧"
+    },
+    {
+      "id": "mission-weekly-incrementpvpratewincount-1",
+      "name": "挑战竞赛{threshold}次"
+    },
+    {
+      "id": "mission-weekly-incrementsupportcardenhancecount-1",
+      "name": "强化支援卡{threshold}次"
+    },
+    {
+      "id": "mission-weekly-incrementworktimecount-1",
+      "name": "总计进行{threshold}小时工作吧"
+    },
+    {
+      "id": "panel_mission-event-002-mission_1",
+      "name": "在培育的咨询中交换{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_11",
+      "name": "完成感性方案的培育{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_12",
+      "name": "完成理性方案的培育{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_13",
+      "name": "在最终考试中获得5次第一"
+    },
+    {
+      "id": "panel_mission-event-002-mission_14",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_15",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "panel_mission-event-002-mission_16",
+      "name": "合计获得{threshold}P饮料"
+    },
+    {
+      "id": "panel_mission-event-002-mission_17",
+      "name": "在培育中合计消耗体力{threshold}"
+    },
+    {
+      "id": "panel_mission-event-002-mission_18",
+      "name": "合计获得{threshold}技能卡"
+    },
+    {
+      "id": "panel_mission-event-002-mission_19",
+      "name": "合计获得{threshold}P点数"
+    },
+    {
+      "id": "panel_mission-event-002-mission_2",
+      "name": "完成SP声乐课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_3",
+      "name": "完成SP舞蹈课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_4",
+      "name": "完成SP形象课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_5",
+      "name": "完成课程{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_6",
+      "name": "在培育中选择咨询{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_7",
+      "name": "在培育中选择外出{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_8",
+      "name": "在培育中选择活动补给{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-002-mission_9",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "panel_mission-event-003-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "panel_mission-event-003-mission_2",
+      "name": "完成声乐课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-003-mission_3",
+      "name": "完成舞蹈课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-003-mission_4",
+      "name": "完成形象课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-003-mission_5",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "panel_mission-event-003-mission_6",
+      "name": "合计获得{threshold}P点数"
+    },
+    {
+      "id": "panel_mission-event-003-mission_7",
+      "name": "合计获得{threshold}技能卡"
+    },
+    {
+      "id": "panel_mission-event-003-mission_8",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-003-mission_9",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "panel_mission-event-004-mission_1",
+      "name": "在培育的咨询中交换{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_11",
+      "name": "完成感性方案的培育{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_12",
+      "name": "完成理性方案的培育{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_13",
+      "name": "在最终考试中获得5次第一"
+    },
+    {
+      "id": "panel_mission-event-004-mission_14",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_15",
+      "name": "培育完成{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_16",
+      "name": "合计获得{threshold}P饮料"
+    },
+    {
+      "id": "panel_mission-event-004-mission_17",
+      "name": "在培育中合计消耗体力{threshold}"
+    },
+    {
+      "id": "panel_mission-event-004-mission_18",
+      "name": "合计获得{threshold}技能卡"
+    },
+    {
+      "id": "panel_mission-event-004-mission_19",
+      "name": "合计获得{threshold}P点数"
+    },
+    {
+      "id": "panel_mission-event-004-mission_2",
+      "name": "完成声乐课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_3",
+      "name": "完成舞蹈课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_4",
+      "name": "完成形象课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_5",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "panel_mission-event-004-mission_6",
+      "name": "在培育中选择咨询{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_7",
+      "name": "在培育中选择外出{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_8",
+      "name": "在培育中选择活动补给{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-004-mission_9",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "panel_mission-event-006-mission_1",
+      "name": "在培育的咨询中交换{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_11",
+      "name": "完成感性方案的培育{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_12",
+      "name": "完成理性方案的培育{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_13",
+      "name": "在最终考试中获得5次第一"
+    },
+    {
+      "id": "panel_mission-event-006-mission_14",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_15",
+      "name": "培育完成{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_16",
+      "name": "合计获得{threshold}P饮料"
+    },
+    {
+      "id": "panel_mission-event-006-mission_17",
+      "name": "在培育中合计消耗体力{threshold}"
+    },
+    {
+      "id": "panel_mission-event-006-mission_18",
+      "name": "合计获得{threshold}技能卡"
+    },
+    {
+      "id": "panel_mission-event-006-mission_19",
+      "name": "合计获得{threshold}P点数"
+    },
+    {
+      "id": "panel_mission-event-006-mission_2",
+      "name": "完成声乐课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_3",
+      "name": "完成舞蹈课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_4",
+      "name": "完成形象课{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_5",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "panel_mission-event-006-mission_6",
+      "name": "在培育中选择咨询{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_7",
+      "name": "在培育中选择外出{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_8",
+      "name": "在培育中选择活动补给{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-006-mission_9",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_1",
+      "name": "以得分B+以上通过最终考试{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_2",
+      "name": "以得分A以上通过最终考试{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_3",
+      "name": "以得分A+以上通过最终考试{threshold}次"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_4",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_5",
+      "name": "任意偶像的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_6",
+      "name": "观看True End{threshold}人"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_7",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_8",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_9",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-001-01",
+      "name": "【你与半蓝】有村麻央的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-amao-3-001-02",
+      "name": "【与你和半蓝】将有村麻央的特训阶段设置为{threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-001-03",
+      "name": "【与你和半蓝】在有村麻央的培育中获得{threshold}次评价A+以上"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-01",
+      "name": "【Feel Jewel Dream】通过有村麻央的培育最终考试"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-02",
+      "name": "【Feel Jewel Dream】有村麻央的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-03",
+      "name": "【Feel Jewel Dream】在有村麻央的培育中获得A+以上的评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-amao-3-007-01",
+      "name": "【Campus mode!!】有村麻央的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-amao-3-007-02",
+      "name": "【Campus mode!!】有村麻央的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-007-03",
+      "name": "【Campus mode!!】在有村麻央的培育中获得A+以上的评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-01",
+      "name": "【Yellow Big Bang！】藤田琴音的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-02",
+      "name": "【Yellow Big Bang！】藤田琴音的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-03",
+      "name": "【Yellow Big Bang！】在藤田琴音的培育中获得A+以上的评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-002-01",
+      "name": "【冠菊】藤田琴音的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-002-02",
+      "name": "【冠菊】藤田琴音的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-002-03",
+      "name": "【冠菊】在藤田琴音的培育中获得A+以上的评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-01",
+      "name": "【White Night! White Wish!】藤田琴音的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-02",
+      "name": "【White Night! White Wish!】藤田琴音的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-03",
+      "name": "【White Night! White Wish!】在藤田琴音的培育中获得A+以上的评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-007-01",
+      "name": "【Campus mode!!】藤田琴音的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-007-02",
+      "name": "【Campus mode!!】藤田琴音的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-007-03",
+      "name": "【Campus mode!!】在藤田琴音的培育中获得A+以上的评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-01",
+      "name": "【你与半蓝】姫崎莉波的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-02",
+      "name": "【キミとセミブルー】姫崎莉波的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-03",
+      "name": "【キミとセミブルー】在姫崎莉波的培育中获得A+以上的评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-002-01",
+      "name": "【L.U.V】姬崎莉波的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-002-02",
+      "name": "【L.U.V】姬崎莉波的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-002-03",
+      "name": "【L.U.V】姬崎莉波的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-01",
+      "name": "【ようこそ初星温泉】姬崎莉波的培育中最终考试合格"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-02",
+      "name": "【ようこそ初星温泉】姬崎莉波的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-03",
+      "name": "【ようこそ初星温泉】姬崎莉波的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-007-01",
+      "name": "【Campus mode!!】姬崎莉波的培育中最终考试合格"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-007-02",
+      "name": "【Campus mode!!】姬崎莉波的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-007-03",
+      "name": "【Campus mode!!】姬崎莉波的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hski-3-001-01",
+      "name": "【Boom Boom Pow】花海咲季的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-hski-3-001-02",
+      "name": "【Boom Boom Pow】花海咲季的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-001-03",
+      "name": "【Boom Boom Pow】花海咲季的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-01",
+      "name": "【冠菊】花海咲季的培育中最终考试合格"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-02",
+      "name": "【冠菊】花海咲季的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-03",
+      "name": "【冠菊】花海咲季的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hski-3-006-01",
+      "name": "【古今东西简简单单】花海咲季的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-hski-3-006-02",
+      "name": "【古今東西ちょちょいのちょい】花海咲季的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-006-03",
+      "name": "【古今東西ちょちょいのちょい】花海咲季的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-01",
+      "name": "【Campus mode!!】花海咲季的培育中最终考试合格"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-02",
+      "name": "【Campus mode!!】花海咲季的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-03",
+      "name": "【Campus mode!!】花海咲季的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hume-2-000-01",
+      "name": "【爱豆之路，出发！】花海佑芽的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-hume-2-000-02",
+      "name": "【偶像、开始吧！】花海佑芽的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hume-2-000-03",
+      "name": "【偶像、开始吧！】花海佑芽的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-01",
+      "name": "【The Rolling Riceball】花海佑芽的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-02",
+      "name": "【The Rolling Riceball】花海佑芽的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-03",
+      "name": "【The Rolling Riceball】花海佑芽的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hume-3-005-01",
+      "name": "【White Night! White Wish!】花海佑芽的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-hume-3-005-02",
+      "name": "【White Night! White Wish!】花海佑芽的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hume-3-005-03",
+      "name": "【White Night! White Wish!】花海佑芽的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-01",
+      "name": "【Campus mode!!】通过花海佑芽的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-02",
+      "name": "【Campus mode!!】将花海佑芽的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-03",
+      "name": "【Campus mode!!】通过花海佑芽的培育获取{threshold}次以上的A+评价"
+    },
+    {
+      "id": "achieve-i_card-jsna-2-000-01",
+      "name": "【一番星】十王星南的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-jsna-2-000-02",
+      "name": "【一番星】十王星南的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-2-000-03",
+      "name": "【一番星】十王星南的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-01",
+      "name": "【小小的野心】十王星南的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-02",
+      "name": "【小小的野心】十王星南的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-03",
+      "name": "【小小的野心】十王星南的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-002-01",
+      "name": "【Campus mode!!】十王星南的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-002-02",
+      "name": "【Campus mode!!】十王星南的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-002-03",
+      "name": "【Campus mode!!】十王星南的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-01",
+      "name": "【日常、发现性的步骤！】仓本千奈的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-02",
+      "name": "【日々、发见的ステップ！】仓本千奈的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-03",
+      "name": "【日々、发见的ステップ！】在仓本千奈的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-002-01",
+      "name": "【仮装狂騒曲】在仓本千奈的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-002-02",
+      "name": "【仮装狂騒曲】仓本千奈的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-002-03",
+      "name": "【仮装狂騒曲】在仓本千奈的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-01",
+      "name": "【ようこそ初星温泉】在仓本千奈的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-02",
+      "name": "【ようこそ初星温泉】仓本千奈的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-03",
+      "name": "【ようこそ初星温泉】在仓本千奈的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-01",
+      "name": "【Campus mode!!】通过仓本千奈的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-02",
+      "name": "【Campus mode!!】将仓本千奈的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-03",
+      "name": "【Campus mode!!】通过仓本千奈的培育获取{threshold}次以上的A+评价"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-01",
+      "name": "【冠菊】在葛城莉莉娅的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-02",
+      "name": "【冠菊】葛城莉莉娅的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-03",
+      "name": "【冠菊】在葛城莉莉娅的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-005-01",
+      "name": "【White Night! White Wish!】在葛城莉莉娅的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-005-02",
+      "name": "【White Night! White Wish!】葛城莉莉娅的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-005-03",
+      "name": "【White Night! White Wish!】在葛城莉莉娅的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-shro-3-001-01",
+      "name": "【反差】筱泽广的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-shro-3-001-02",
+      "name": "【コントラスト】筱泽广的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-001-03",
+      "name": "【コントラスト】在筱泽广的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-01",
+      "name": "【仮装狂騒曲】在筱泽广的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-02",
+      "name": "【仮装狂騒曲】筱泽广的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-03",
+      "name": "【仮装狂騒曲】在筱泽广的培育中获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-01",
+      "name": "【Campus mode!!】通过筱泽广的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-02",
+      "name": "【Campus mode!!】筱泽广的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-03",
+      "name": "【Campus mode!!】在筱泽广的培育中获得A+以上的评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-01",
+      "name": "【你与半蓝】紫云清夏的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-02",
+      "name": "【キミとセミブルー】紫云清夏的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-03",
+      "name": "【キミとセミブルー】紫云清夏的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-002-01",
+      "name": "【カクシタワタシ】紫云清夏的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-002-02",
+      "name": "【カクシタワタシ】紫云清夏的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-002-03",
+      "name": "【カクシタワタシ】紫云清夏的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-001-01",
+      "name": "【Ivy】月村手毬的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-001-02",
+      "name": "【アイヴイ】月村手毬的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-001-03",
+      "name": "【アイヴイ】月村手毬的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-01",
+      "name": "【仮装狂騒曲】月村手毬的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-02",
+      "name": "【仮装狂騒曲】月村手毬的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-03",
+      "name": "【仮装狂騒曲】月村手毬的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-01",
+      "name": "【Campus mode!!】月村手毬的培育通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-02",
+      "name": "【Campus mode!!】月村手毬的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-03",
+      "name": "【Campus mode!!】月村手毬的培育获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-m_amao-001",
+      "name": "有村麻央的成就获得{threshold}个★"
+    },
+    {
+      "id": "achieve-m_fktn-001",
+      "name": "藤田琴音的成就获得{threshold}个★"
+    },
+    {
+      "id": "achieve-m_hrnm-001",
+      "name": "姫崎莉波的成就获得{threshold}个★"
+    },
+    {
+      "id": "achieve-m_hski-001",
+      "name": "花海咲季的成就获得{threshold}个★"
+    },
+    {
+      "id": "achieve-m_hume-001",
+      "name": "花海佑芽的成就获得{threshold}个★"
+    },
+    {
+      "id": "achieve-m_jsna-001",
+      "name": "十王星南的成就★获得{threshold}个"
+    },
+    {
+      "id": "achieve-m_kcna-001",
+      "name": "仓本千奈的成就★获得{threshold}个"
+    },
+    {
+      "id": "achieve-m_kllj-001",
+      "name": "葛城莉莉娅的成就★获得{threshold}个"
+    },
+    {
+      "id": "achieve-m_shro-001",
+      "name": "筱泽广的成就★获得{threshold}个"
+    },
+    {
+      "id": "achieve-m_ssmk-001",
+      "name": "紫云清夏的成就★获得{threshold}个"
+    },
+    {
+      "id": "achieve-m_ttmr-001",
+      "name": "月村手毬的成就★获得{threshold}个"
+    },
+    {
+      "id": "achieve-o_001",
+      "name": "开始培育的证明"
+    },
+    {
+      "id": "achieve-o_002",
+      "name": "总共工作{threshold}小时"
+    },
+    {
+      "id": "achieve-o_003",
+      "name": "完成{threshold}个课题"
+    },
+    {
+      "id": "achieve-o_004",
+      "name": "完成{threshold}个课题"
+    },
+    {
+      "id": "achieve-o_006",
+      "name": "制作人Lv{threshold}到达"
+    },
+    {
+      "id": "achieve-o_007",
+      "name": "制作人Lv{threshold}到达"
+    },
+    {
+      "id": "achieve-o_009",
+      "name": "从活动资金中总共接收{threshold}金币"
+    },
+    {
+      "id": "achieve-o_010",
+      "name": "总粉丝数达到{threshold}人"
+    },
+    {
+      "id": "achieve-o_011",
+      "name": "总粉丝数达到{threshold}人"
+    },
+    {
+      "id": "achieve-o_012",
+      "name": "总粉丝数达到{threshold}人"
+    },
+    {
+      "id": "achieve-o_013",
+      "name": "追随者数超过{threshold}人"
+    },
+    {
+      "id": "achieve-o_014",
+      "name": "在竞赛中获得第1名"
+    },
+    {
+      "id": "achieve-o_015",
+      "name": "进入竞赛前100名"
+    },
+    {
+      "id": "achieve-o_016",
+      "name": "在竞赛中达到等级1"
+    },
+    {
+      "id": "achieve-o_017",
+      "name": "在竞赛中达到等级2"
+    },
+    {
+      "id": "achieve-o_018",
+      "name": "在竞赛中达到等级3"
+    },
+    {
+      "id": "achieve-o_019",
+      "name": "在竞赛中达到等级4"
+    },
+    {
+      "id": "achieve-o_020",
+      "name": "在竞赛中达到等级5"
+    },
+    {
+      "id": "achieve-o_021",
+      "name": "竞赛中达到等级6"
+    },
+    {
+      "id": "achieve-o_022",
+      "name": "竞赛中达到等级7"
+    },
+    {
+      "id": "achieve-o_023",
+      "name": "竞赛中得分达到{threshold}以上"
+    },
+    {
+      "id": "achieve-o_024",
+      "name": "竞赛中得分达到{threshold}以上"
+    },
+    {
+      "id": "achieve-o_025",
+      "name": "竞赛中得分达到{threshold}以上"
+    },
+    {
+      "id": "achieve-o_026",
+      "name": "竞赛的等级7中获得第1名"
+    },
+    {
+      "id": "achieve-o_027",
+      "name": "竞赛的等级7中进入100名以内"
+    },
+    {
+      "id": "achieve-p_common-001",
+      "name": "获得合计P点数{threshold}"
+    },
+    {
+      "id": "achieve-p_common-002",
+      "name": "获得{threshold}个成就"
+    },
+    {
+      "id": "achieve-p_common-003",
+      "name": "获得合计{threshold}张技能卡"
+    },
+    {
+      "id": "achieve-p_common-004",
+      "name": "获得合计{threshold}个P道具"
+    },
+    {
+      "id": "achieve-p_common-005",
+      "name": "获得合计{threshold}个P饮料"
+    },
+    {
+      "id": "achieve-p_common-006",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "achieve-p_common-007",
+      "name": "获得{threshold}种P道具"
+    },
+    {
+      "id": "achieve-p_common-008",
+      "name": "获得{threshold}种P饮料"
+    },
+    {
+      "id": "achieve-p_common-009",
+      "name": "培育中选择Vo课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_common-010",
+      "name": "培育中选择Da课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_common-011",
+      "name": "培育中选择Vi课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_common-012",
+      "name": "培育中选择活动补给{threshold}次"
+    },
+    {
+      "id": "achieve-p_common-013",
+      "name": "培育中选择授课/出去玩{threshold}次"
+    },
+    {
+      "id": "achieve-p_common-014",
+      "name": "培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_common-015",
+      "name": "在咨询室中交换{threshold}次"
+    },
+    {
+      "id": "achieve-p_common-016",
+      "name": "课程を{threshold}回完成"
+    },
+    {
+      "id": "achieve-p_common-017",
+      "name": "SP课程を{threshold}回完成"
+    },
+    {
+      "id": "achieve-p_common-018",
+      "name": "在培育中总共消耗体力{threshold}"
+    },
+    {
+      "id": "achieve-p_common-019",
+      "name": "以得分B以上通过最终考试{threshold}回"
+    },
+    {
+      "id": "achieve-p_common-020",
+      "name": "以得分A以上通过最终考试{threshold}回"
+    },
+    {
+      "id": "achieve-p_common-021",
+      "name": "以得分A+以上通过最终考试{threshold}回"
+    },
+    {
+      "id": "achieve-p_common-022",
+      "name": "以得分S以上通过最终考试{threshold}回"
+    },
+    {
+      "id": "achieve-p_common-023",
+      "name": "以得分S+以上通过最终考试{threshold}回"
+    },
+    {
+      "id": "achieve-p_common-024",
+      "name": "达成True End的{threshold}人"
+    },
+    {
+      "id": "achieve-p_common-025",
+      "name": "培育{threshold}回完成"
+    },
+    {
+      "id": "achieve-p_common-026",
+      "name": "以得分SS以上通过最终考试{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-amao-000",
+      "name": "在有村麻央中看到True End"
+    },
+    {
+      "id": "achieve-p_idol-amao-000-1",
+      "name": "在有村麻央中看到True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-amao-001",
+      "name": "在有村麻央的培育中使用技能卡{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-amao-002",
+      "name": "在有村麻央中完成课程{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-amao-003",
+      "name": "在有村麻央中完成SP课程{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-amao-004",
+      "name": "在有村麻央中通过最终考试并获得评价B以上{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-amao-005",
+      "name": "在有村麻央中通过最终考试并获得评价A以上{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-amao-006",
+      "name": "在有村麻央中通过最终考试并获得评价S以上{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-amao-007",
+      "name": "有村麻央的培育完成{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-amao-008",
+      "name": "有村麻央的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-amao-009",
+      "name": "有村麻央培育中在最终考试中合格{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-amao-010",
+      "name": "有村麻央的粉丝增加{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-amao-011",
+      "name": "有村麻央的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-amao-012",
+      "name": "使用有村麻央时使用P饮料{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-amao-013",
+      "name": "有村麻央的培育中总共消耗{threshold}体力"
+    },
+    {
+      "id": "achieve-p_idol-amao-014",
+      "name": "有村 麻央的形象力培育到1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-amao-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-amao-016",
+      "name": "使用有村麻央合格最终考试并获得S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-amao-017",
+      "name": "有村麻央在难度“Master”中获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-amao-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-amao-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-002-1",
+      "name": "【帅气的开始】有村麻央的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-002-2",
+      "name": "【帅气的开始】有村麻央的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-002-3",
+      "name": "【帅气的开始】有村麻央的培育中获得A+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-003-1",
+      "name": "【Fluorite】有村麻央的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-003-2",
+      "name": "【Fluorite】有村麻央的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-003-3",
+      "name": "【Fluorite】有村麻央的培育中获得A+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-002-1",
+      "name": "【卡哇伊♡开始~】藤田琴音的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-002-2",
+      "name": "【可爱♡开始了】藤田琴音的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-002-3",
+      "name": "【カワイイ♡はじめました】藤田琴音的培育达到评估A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-003-1",
+      "name": "【世界第一可爱的我】藤田琴音的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-003-2",
+      "name": "【世界一可愛い私】藤田琴音的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-003-3",
+      "name": "【世界一可愛い私】藤田琴音的培育达到评估A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-002-1",
+      "name": "【『我的风格』的开端】姫崎莉波的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-002-2",
+      "name": "【『私らしさ』のはじまり】姫崎莉波的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-002-3",
+      "name": "【『私らしさ』のはじまり】姫崎莉波的培育达到评估A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-003-1",
+      "name": "【clumsy trick】姫崎莉波的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-003-2",
+      "name": "【clumsy trick】姫崎莉波的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-003-3",
+      "name": "【clumsy trick】姫崎莉波的培育达到评估A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-002-1",
+      "name": "【我才是第一！】花海咲季的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-002-2",
+      "name": "【わたしが一番！】花海咲季的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-002-3",
+      "name": "【わたしが一番！】花海咲季的培育达到评估A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-003-1",
+      "name": "【Fighting My Way】花海咲季的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-003-2",
+      "name": "【Fighting My Way】花海咲季的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-003-3",
+      "name": "【Fighting My Way】花海咲季的培育达到评估A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-002-1",
+      "name": "【昂首阔步】仓本千奈的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-002-2",
+      "name": "【胸を张って一歩ずつ】仓本千奈的特训阶段到达{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-002-3",
+      "name": "【胸を张って一歩ずつ】仓本千奈的培育达到评估A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-003-1",
+      "name": "【Wonder Scale】倉本千奈的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-003-2",
+      "name": "【Wonder Scale】仓本千奈的特训阶段设为{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-003-3",
+      "name": "【Wonder Scale】在培育仓本千奈时获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-002-1",
+      "name": "【迈出第一步】葛城莉莉娅的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-002-2",
+      "name": "【一つ踏み出した先に】葛城莉莉娅的特训阶段设为{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-002-3",
+      "name": "【一つ踏み出した先に】在培育葛城莉莉娅时获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-003-1",
+      "name": "【白线】葛城莉莉娅的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-003-2",
+      "name": "【白线】葛城莉莉娅的特训阶段设为{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-003-3",
+      "name": "【白线】在培育葛城莉莉娅时获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-002-1",
+      "name": "【最不擅长的事】筱泽广的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-002-2",
+      "name": "【一番向いてないこと】筱泽广的特训阶段设为{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-002-3",
+      "name": "【一番向いてないこと】在培育筱泽广时获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-003-1",
+      "name": "【光景】筱泽广的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-003-2",
+      "name": "【光景】筱泽广的特训阶段设为{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-003-3",
+      "name": "【光景】在培育筱泽广时获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-002-1",
+      "name": "【梦想的重启】紫云清夏的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-002-2",
+      "name": "【梦へのリスタート】紫云清夏的特训阶段设为{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-002-3",
+      "name": "【梦へのリスタート】在培育紫云清夏时获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-003-1",
+      "name": "【Tame-Lie-One-Step】紫云清夏的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-003-2",
+      "name": "【Tame-Lie-One-Step】紫云清夏的特训阶段设为{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-003-3",
+      "name": "【Tame-Lie-One-Step】在培育紫云清夏时获得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-002-1",
+      "name": "【一匹狼】月村手毬的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-002-2",
+      "name": "【一匹狼】将月村手毬的特训阶段提升到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-002-3",
+      "name": "【一匹狼】月村手毬的培育中取得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-003-1",
+      "name": "【Luna say maybe】月村手毬的培育中通过期末考试"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-003-2",
+      "name": "【Luna say maybe】将月村手毬的特训阶段提升到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-003-3",
+      "name": "【Luna say maybe】月村手毬的培育中取得评价A+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-000",
+      "name": "观看藤田琴音的True End"
+    },
+    {
+      "id": "achieve-p_idol-fktn-000-1",
+      "name": "观看藤田琴音的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-fktn-001",
+      "name": "在藤田琴音的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-002",
+      "name": "在藤田琴音中完成课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-003",
+      "name": "在藤田琴音中完成SP课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-004",
+      "name": "在藤田琴音中最终考试合格并获得评价B以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-005",
+      "name": "在藤田琴音中最终考试合格并获得评价A以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-006",
+      "name": "在藤田琴音中最终考试合格并获得评价S以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-007",
+      "name": "完成藤田琴音的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-008",
+      "name": "将藤田琴音的特训阶段提升到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-fktn-009",
+      "name": "在藤田琴音的培育中最终考试合格{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-010",
+      "name": "获得藤田琴音的粉丝{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-fktn-011",
+      "name": "将藤田琴音的亲密度Lv提升到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-fktn-012",
+      "name": "在藤田琴音中合计获得培育评价{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-fktn-013",
+      "name": "藤田琴音的培育咨询交换{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-014",
+      "name": "将藤田琴音的舞蹈力培育到1000以上，完成培育"
+    },
+    {
+      "id": "achieve-p_idol-fktn-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-fktn-016",
+      "name": "藤田琴音在最终考试及格并获得S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-017",
+      "name": "藤田琴音在难度「Master」中获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-fktn-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-fktn-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-000",
+      "name": "姫崎莉波达成True End"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-000-1",
+      "name": "姫崎莉波达成True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-001",
+      "name": "姫崎莉波的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-002",
+      "name": "姫崎莉波进行课程清除{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-003",
+      "name": "姫崎莉波进行SP课程清除{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-004",
+      "name": "姫崎莉波在最终考试及格并获得B以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-005",
+      "name": "姫崎莉波在最终考试及格并获得A以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-006",
+      "name": "姫崎莉波在最终考试及格并获得S以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-007",
+      "name": "姫崎莉波的培育完成{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-008",
+      "name": "姫崎莉波的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-009",
+      "name": "姫崎莉波在培育中最终考试合格{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-010",
+      "name": "姫崎莉波获得粉丝{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-011",
+      "name": "姫崎莉波的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-012",
+      "name": "姫崎莉波使用P饮料{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-013",
+      "name": "姫崎莉波的培育中累计消耗体力{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-014",
+      "name": "将姫崎莉波的形象力培育到1000以上，完成培育"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-016",
+      "name": "姫崎莉波在最终考试及格并获得S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-017",
+      "name": "姫崎莉波在难度「Master」中获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hski-000",
+      "name": "花海咲季看True End"
+    },
+    {
+      "id": "achieve-p_idol-hski-000-1",
+      "name": "花海咲季看True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hski-001",
+      "name": "花海咲季在培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-002",
+      "name": "花海咲季完成课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-003",
+      "name": "花海咲季完成SP课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-004",
+      "name": "花海咲季在最终考试中合格并获得评价B以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-005",
+      "name": "花海咲季在最终考试中合格并获得评价A以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-006",
+      "name": "花海咲季在最终考试中合格并获得评价S以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-007",
+      "name": "花海咲季的培育完成{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-008",
+      "name": "花海咲季的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hski-009",
+      "name": "花海咲季的培育中最终考试通过{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-010",
+      "name": "获得花海咲季的粉丝{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-hski-011",
+      "name": "花海咲季的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hski-012",
+      "name": "花海咲季在培育中获得总评价{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hski-013",
+      "name": "花海咲季在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-014",
+      "name": "将花海咲季的形象力育至900以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-hski-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-hski-016",
+      "name": "花海咲季在最终考试中合格并获得评价S+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-017",
+      "name": "花海咲季在难度「Master」中获得最终考试第1名"
+    },
+    {
+      "id": "achieve-p_idol-hski-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hski-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hume-000",
+      "name": "花海佑芽看True End"
+    },
+    {
+      "id": "achieve-p_idol-hume-000-1",
+      "name": "花海佑芽看True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hume-001",
+      "name": "花海佑芽的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-002",
+      "name": "花海佑芽完成课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-003",
+      "name": "花海佑芽完成SP课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-004",
+      "name": "花海佑芽在最终考试中及格并达到B以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-005",
+      "name": "花海佑芽在最终考试中及格并达到A以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-006",
+      "name": "花海佑芽在最终考试中及格并达到S以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-007",
+      "name": "花海佑芽的培育完成{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-008",
+      "name": "花海佑芽的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hume-009",
+      "name": "花海佑芽的培育中最终考试合格{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-010",
+      "name": "花海佑芽获得{threshold}名粉丝"
+    },
+    {
+      "id": "achieve-p_idol-hume-011",
+      "name": "花海佑芽的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hume-012",
+      "name": "花海佑芽使用P饮料{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-013",
+      "name": "花海佑芽的培育中总共获得元气{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hume-014",
+      "name": "花海佑芽的舞蹈力培育到1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-hume-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-hume-016",
+      "name": "花海佑芽在最终考试中及格并达到S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-017",
+      "name": "花海佑芽在难度「Master」中获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-hume-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-jsna-000",
+      "name": "十王星南观看True End"
+    },
+    {
+      "id": "achieve-p_idol-jsna-000-1",
+      "name": "十王星南观看True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-jsna-001",
+      "name": "十王星南的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-002",
+      "name": "十王星南完成课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-003",
+      "name": "十王星南完成SP课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-004",
+      "name": "十王星南在最终考试中合格并获得评价B以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-005",
+      "name": "十王星南在最终考试中合格并获得评价A以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-006",
+      "name": "十王星南在最终考试中合格并获得评价S以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-007",
+      "name": "十王星南的培育完成{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-008",
+      "name": "十王星南的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-jsna-009",
+      "name": "十王星南的培育在最终考试中合格{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-010",
+      "name": "十王星南的粉丝获得{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-jsna-011",
+      "name": "十王星南的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-jsna-012",
+      "name": "十王星南的培育咨询进行{threshold}次交换"
+    },
+    {
+      "id": "achieve-p_idol-jsna-013",
+      "name": "十王星南的培育总共消耗体力{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-jsna-014",
+      "name": "十王星南形象力培养到900以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-jsna-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-jsna-016",
+      "name": "十王星南在最终考试中合格并获得评价S+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-017",
+      "name": "十王星南在难度「Master」中获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-jsna-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-kcna-000",
+      "name": "仓本千奈看到True End"
+    },
+    {
+      "id": "achieve-p_idol-kcna-000-1",
+      "name": "仓本千奈看到True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-kcna-001",
+      "name": "仓本千奈的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-002",
+      "name": "仓本千奈完成课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-003",
+      "name": "仓本千奈完成SP课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-004",
+      "name": "仓本千奈在最终考试中合格并获得评价B以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-005",
+      "name": "仓本千奈在最终考试中合格并获得评价A以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-006",
+      "name": "仓本千奈通过最终考试并获得评价S以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-007",
+      "name": "完成仓本千奈的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-008",
+      "name": "将仓本千奈的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-kcna-009",
+      "name": "在仓本千奈的培育中{threshold}次通过最终考试"
+    },
+    {
+      "id": "achieve-p_idol-kcna-010",
+      "name": "获得仓本千奈的粉丝{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-kcna-011",
+      "name": "将仓本千奈的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-kcna-012",
+      "name": "在仓本千奈的培育中合计获得元气{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-kcna-013",
+      "name": "在仓本千奈的培育咨询中交换{threshold}回"
+    },
+    {
+      "id": "achieve-p_idol-kcna-014",
+      "name": "仓本千奈的舞蹈力培育到1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-kcna-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-kcna-016",
+      "name": "仓本千奈通过最终考试并获得评价S+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-017",
+      "name": "在仓本千奈的难度「Master」中获得最终考试第1位"
+    },
+    {
+      "id": "achieve-p_idol-kcna-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-kllj-000",
+      "name": "通过葛城莉莉娅看到True End"
+    },
+    {
+      "id": "achieve-p_idol-kllj-000-1",
+      "name": "通过葛城莉莉娅看到True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-kllj-001",
+      "name": "在葛城莉莉娅的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-002",
+      "name": "完成葛城莉莉娅的课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-003",
+      "name": "完成葛城莉莉娅的SP课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-004",
+      "name": "葛城莉莉娅通过最终考试并获得评价B以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-005",
+      "name": "葛城莉莉娅通过最终考试并获得评价A以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-006",
+      "name": "葛城莉莉娅通过最终考试并获得评价S以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-007",
+      "name": "完成葛城莉莉娅的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-008",
+      "name": "将葛城莉莉娅的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-kllj-009",
+      "name": "葛城莉莉娅的培育中最终考试合格{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-010",
+      "name": "获得葛城莉莉娅的粉丝{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-kllj-011",
+      "name": "将葛城莉莉娅的亲密度Lv提升至{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-kllj-012",
+      "name": "在葛城莉莉娅的培育中总共获得元气{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-kllj-013",
+      "name": "在葛城莉莉娅的培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-014",
+      "name": "将葛城莉莉娅的形象力培养至1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-kllj-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-kllj-016",
+      "name": "葛城莉莉娅在最终考试中合格并获得S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-017",
+      "name": "在葛城莉莉娅的难度「Master」中获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-kllj-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kllj-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-shro-000",
+      "name": "观看筱泽广的True End"
+    },
+    {
+      "id": "achieve-p_idol-shro-000-1",
+      "name": "观看筱泽广的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-shro-001",
+      "name": "筱泽广的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-002",
+      "name": "筱泽广的课程完成{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-003",
+      "name": "筱泽广的SP课程完成{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-004",
+      "name": "筱泽广在最终考试中合格并获得B以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-005",
+      "name": "筱泽广在最终考试中合格并获得A以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-006",
+      "name": "筱泽广在最终考试中合格并获得S以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-007",
+      "name": "筱泽广的培育完成{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-008",
+      "name": "将筱泽广的特训阶段提升至{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-shro-009",
+      "name": "筱泽广的培育中最终考试合格{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-010",
+      "name": "获得筱泽广的粉丝{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-shro-011",
+      "name": "将筱泽广的亲密度Lv提升至{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-shro-012",
+      "name": "筱泽广培育评价合计获得{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-shro-013",
+      "name": "筱泽广的培育中合计获得元气{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-shro-014",
+      "name": "筱泽广的声乐力培育到1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-shro-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-shro-016",
+      "name": "筱泽广通过最终考试并获得S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-017",
+      "name": "筱泽广在难度「Master」中获得最终考试第1名"
+    },
+    {
+      "id": "achieve-p_idol-shro-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-000",
+      "name": "紫云清夏观看True End"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-000-1",
+      "name": "紫云清夏观看True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-001",
+      "name": "紫云清夏的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-002",
+      "name": "紫云清夏完成课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-003",
+      "name": "紫云清夏完成SP课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-004",
+      "name": "紫云清夏通过最终考试并获得B以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-005",
+      "name": "紫云清夏通过最终考试并获得A以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-006",
+      "name": "紫云清夏通过最终考试并获得S以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-007",
+      "name": "紫云清夏的培育完成{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-008",
+      "name": "紫云清夏的特训阶段达到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-009",
+      "name": "紫云清夏的培育中通过最终考试{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-010",
+      "name": "紫云清夏获得{threshold}名粉丝"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-011",
+      "name": "紫云清夏的亲密度Lv提升到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-012",
+      "name": "紫云清夏使用P饮料{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-013",
+      "name": "紫云清夏的培育中合计消耗体力{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-014",
+      "name": "将紫云清夏的舞蹈力培育到1000以上，完成培育"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-016",
+      "name": "紫云清夏通过最终考试并获得S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-017",
+      "name": "紫云清夏在难度「Master」下获得最终考试第1位"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-000",
+      "name": "在月村手毬中查看True End"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-000-1",
+      "name": "在月村手毬中查看True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-001",
+      "name": "在月村手毬的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-002",
+      "name": "在月村手毬中完成课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-003",
+      "name": "在月村手毬中完成SP课程{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-004",
+      "name": "在月村手毬中通过最终考试并获得评价B以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-005",
+      "name": "在月村手毬中通过最终考试并获得评价A以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-006",
+      "name": "在月村手毬中通过最终考试并获得评价S以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-007",
+      "name": "完成月村手毬的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-008",
+      "name": "将月村手毬的特训阶段提升到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-009",
+      "name": "月村手毬的培育中通过最终考试{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-010",
+      "name": "获得月村手毬的粉丝{threshold}人"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-011",
+      "name": "将月村手毬的亲密度Lv提升到{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-012",
+      "name": "在月村手毬的培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-013",
+      "name": "在月村手毬的培育咨询中进行{threshold}次交换"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-014",
+      "name": "月村手毬的声乐力培育到1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-015",
+      "name": "在“通向偶像之路”中获得{threshold}个★完成条件"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-016",
+      "name": "在月村手毬中通过最终考试并获得评价S+以上{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-017",
+      "name": "月村手毬在难度「Master」下获得最终考试第1位"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-018",
+      "name": "在培育中选择特别指导{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-019",
+      "name": "在培育中获得粉丝投票数{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#1",
+      "name": "进行培育吧"
+    },
+    {
+      "id": "main_task_group-01-01#2",
+      "name": "观看第1章第1话"
+    },
+    {
+      "id": "main_task_group-01-01#3",
+      "name": "强化支援卡吧"
+    },
+    {
+      "id": "main_task_group-01-01#4",
+      "name": "编辑名片"
+    },
+    {
+      "id": "main_task_group-01-01#5",
+      "name": "关注其他制作人"
+    },
+    {
+      "id": "main_task_group-01-01#6",
+      "name": "完成一次研修"
+    },
+    {
+      "id": "main_task_group-01-01#7",
+      "name": "完成1个考试培训"
+    },
+    {
+      "id": "main_task_group-01-01#8",
+      "name": "进行培育吧"
+    },
+    {
+      "id": "main_task_group-01-01#9",
+      "name": "观看第1章第2话"
+    },
+    {
+      "id": "main_task_group-01-01#10",
+      "name": "可培育偶像进行特训"
+    },
+    {
+      "id": "main_task_group-01-01#11",
+      "name": "收回活动费用"
+    },
+    {
+      "id": "main_task_group-01-01#12",
+      "name": "在金币兑换所进行兑换"
+    },
+    {
+      "id": "main_task_group-01-01#13",
+      "name": "进行培育吧"
+    },
+    {
+      "id": "main_task_group-01-01#14",
+      "name": "观看第1章第3话"
+    },
+    {
+      "id": "main_task_group-01-01#15",
+      "name": "开始工作吧"
+    },
+    {
+      "id": "main_task_group-01-01#16",
+      "name": "进行培育吧\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-01-01#17",
+      "name": "抽一次感性扭蛋吧"
+    },
+    {
+      "id": "main_task_group-01-01#18",
+      "name": "观看第1章第4话"
+    },
+    {
+      "id": "main_task_group-01-01#19",
+      "name": "将{threshold}张支援卡提升至Lv20吧"
+    },
+    {
+      "id": "main_task_group-01-01#20",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-01-01#21",
+      "name": "进行培育吧\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-01-01#22",
+      "name": "抽一次理性扭蛋"
+    },
+    {
+      "id": "main_task_group-01-01#23",
+      "name": "观看第1章第5话"
+    },
+    {
+      "id": "main_task_group-01-01#24",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#25",
+      "name": "完成不同的{threshold}位偶像的培育吧"
+    },
+    {
+      "id": "main_task_group-01-01#26",
+      "name": "在竞赛中编成吧"
+    },
+    {
+      "id": "main_task_group-01-01#27",
+      "name": "任意偶像的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#28",
+      "name": "观看第1章第6话"
+    },
+    {
+      "id": "main_task_group-01-01#29",
+      "name": "将{threshold}张支援卡提升至Lv20吧"
+    },
+    {
+      "id": "main_task_group-01-01#30",
+      "name": "挑战培育获取评价C+以上"
+    },
+    {
+      "id": "main_task_group-01-01#31",
+      "name": "观看第1章第7话"
+    },
+    {
+      "id": "main_task_group-01-01#32",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#33",
+      "name": "研修的【应用1】方案：完成感性"
+    },
+    {
+      "id": "main_task_group-01-01#34",
+      "name": "挑战培育获取评价C+以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-01-01#35",
+      "name": "观看第1章第8话"
+    },
+    {
+      "id": "main_task_group-01-01#36",
+      "name": "研修的【应用2】方案：完成理性"
+    },
+    {
+      "id": "main_task_group-01-01#37",
+      "name": "挑战培育获取评价C+以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-01-01#38",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-01-01#39",
+      "name": "观看第1章第9话"
+    },
+    {
+      "id": "main_task_group-01-01#40",
+      "name": "可培育偶像{threshold}人的特训阶段达到2吧"
+    },
+    {
+      "id": "main_task_group-01-01#41",
+      "name": "进行培育难度专业"
+    },
+    {
+      "id": "main_task_group-01-01#42",
+      "name": "将{threshold}张支援卡提升至Lv20吧"
+    },
+    {
+      "id": "main_task_group-01-01#43",
+      "name": "观看第1章第10话"
+    },
+    {
+      "id": "main_task_group-01-01#44",
+      "name": "任意偶像的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#45",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#46",
+      "name": "在培育中将任意数值提升至600以上"
+    },
+    {
+      "id": "main_task_group-01-01#47",
+      "name": "观看第1章第11话"
+    },
+    {
+      "id": "main_task_group-01-01#48",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-01-01#49",
+      "name": "挑战培育获取评价B以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-01-01#50",
+      "name": "挑战培育获取评价B以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-01-01#51",
+      "name": "观看第1章第12话"
+    },
+    {
+      "id": "main_task_group-01-01#52",
+      "name": "将支援卡的Lv达到{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#53",
+      "name": "在最终考试中成为第一"
+    },
+    {
+      "id": "main_task_group-01-01#54",
+      "name": "观看第1章第13话"
+    },
+    {
+      "id": "main_task_group-01-01#55",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#56",
+      "name": "可培育偶像{threshold}人的特训阶段达到3吧"
+    },
+    {
+      "id": "main_task_group-01-01#57",
+      "name": "在培育中将任意数值提升至800以上"
+    },
+    {
+      "id": "main_task_group-01-01#58",
+      "name": "观看第1章第14话"
+    },
+    {
+      "id": "main_task_group-01-01#59",
+      "name": "任意偶像的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "main_task_group-01-01#60",
+      "name": "看看TrueEnd"
+    },
+    {
+      "id": "main_task_group-02-01#1",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-02-01#2",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#3",
+      "name": "培育使任意分数达到1000以上"
+    },
+    {
+      "id": "main_task_group-02-01#4",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-02-01#5",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#6",
+      "name": "可培育偶像{threshold}人的特训阶段达到3吧"
+    },
+    {
+      "id": "main_task_group-02-01#7",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "main_task_group-02-01#8",
+      "name": "将{threshold}张支援卡提升到Lv30"
+    },
+    {
+      "id": "main_task_group-02-01#9",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "main_task_group-02-01#10",
+      "name": "挑战培育获取评价B+以上"
+    },
+    {
+      "id": "main_task_group-02-01#11",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#12",
+      "name": "总计进行{threshold}小时工作吧"
+    },
+    {
+      "id": "main_task_group-02-01#13",
+      "name": "挑战培育获取评价B+以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-02-01#14",
+      "name": "挑战培育获取评价B+以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-02-01#15",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#16",
+      "name": "可培育偶像{threshold}人的特训阶段达到3吧"
+    },
+    {
+      "id": "main_task_group-02-01#17",
+      "name": "观看True End{threshold}人"
+    },
+    {
+      "id": "main_task_group-02-01#18",
+      "name": "将支援卡的Lv达到{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#19",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#20",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#21",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-02-01#22",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-02-01#23",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "main_task_group-02-01#24",
+      "name": "将{threshold}张支援卡提升到Lv30"
+    },
+    {
+      "id": "main_task_group-02-01#25",
+      "name": "将{threshold}个可培育偶像的特训阶段提升到4"
+    },
+    {
+      "id": "main_task_group-02-01#26",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#27",
+      "name": "让我们挑战竞赛"
+    },
+    {
+      "id": "main_task_group-02-01#28",
+      "name": "观看True End{threshold}人"
+    },
+    {
+      "id": "main_task_group-02-01#29",
+      "name": "将{threshold}张支援卡提升到Lv30"
+    },
+    {
+      "id": "main_task_group-02-01#30",
+      "name": "培育通过最终考试\n【条件】：花海 咲季"
+    },
+    {
+      "id": "main_task_group-02-01#31",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-02-01#32",
+      "name": "培育中通过最终考试\n【条件】：月村 手毬"
+    },
+    {
+      "id": "main_task_group-02-01#33",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#34",
+      "name": "培育通过最终考试\n【条件】：藤田 ことね"
+    },
+    {
+      "id": "main_task_group-02-01#35",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#36",
+      "name": "获得{threshold}种P饮料"
+    },
+    {
+      "id": "main_task_group-02-01#37",
+      "name": "培育中通过最终考试\n【条件】：有村 麻央"
+    },
+    {
+      "id": "main_task_group-02-01#38",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-02-01#39",
+      "name": "培育中通过最终考试\n【条件】：姫崎 莉波"
+    },
+    {
+      "id": "main_task_group-02-01#40",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#41",
+      "name": "培育通过最终考试\n【条件】：葛城 リーリヤ"
+    },
+    {
+      "id": "main_task_group-02-01#42",
+      "name": "让我们挑战竞赛"
+    },
+    {
+      "id": "main_task_group-02-01#43",
+      "name": "将{threshold}个可培育偶像的特训阶段提升到4"
+    },
+    {
+      "id": "main_task_group-02-01#44",
+      "name": "培育中通过最终考试\n【条件】：紫雲 清夏"
+    },
+    {
+      "id": "main_task_group-02-01#45",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#46",
+      "name": "培育中通过最终考试\n【条件】：篠澤 広"
+    },
+    {
+      "id": "main_task_group-02-01#47",
+      "name": "将{threshold}张支援卡提升到Lv40"
+    },
+    {
+      "id": "main_task_group-02-01#48",
+      "name": "培育中通过最终考试\n【条件】：倉本 千奈"
+    },
+    {
+      "id": "main_task_group-02-01#49",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-02-01#50",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "main_task_group-02-01#51",
+      "name": "进行培育并获得评价A以上"
+    },
+    {
+      "id": "main_task_group-02-01#52",
+      "name": "总计进行{threshold}小时工作吧"
+    },
+    {
+      "id": "main_task_group-02-01#53",
+      "name": "将{threshold}个可培育偶像的特训阶段提升到4"
+    },
+    {
+      "id": "main_task_group-02-01#54",
+      "name": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-02-01#55",
+      "name": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-02-01#56",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-02-01#57",
+      "name": "让我们挑战竞赛"
+    },
+    {
+      "id": "main_task_group-02-01#58",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#59",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#60",
+      "name": "任意偶像的亲密度Lv达到{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#61",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-02-01#62",
+      "name": "进行培育并获得评价A以上"
+    },
+    {
+      "id": "main_task_group-02-01#63",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-02-01#64",
+      "name": "将{threshold}张支援卡提升到Lv40"
+    },
+    {
+      "id": "main_task_group-02-01#65",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#66",
+      "name": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-02-01#67",
+      "name": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "id": "main_task_group-02-01#68",
+      "name": "总粉丝数达到{threshold}人"
+    },
+    {
+      "id": "main_task_group-02-01#69",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#70",
+      "name": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "main_task_group-02-01#71",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-02-01#72",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-02-01#73",
+      "name": "观看True End{threshold}人"
+    },
+    {
+      "id": "main_task_group-02-01#74",
+      "name": "将{threshold}张支援卡提升到Lv40"
+    },
+    {
+      "id": "main_task_group-02-01#75",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#76",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-02-01#77",
+      "name": "通过最终考试，筱泽广获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#78",
+      "name": "通过最终考试，仓本千奈获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#79",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#80",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-02-01#81",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-02-01#82",
+      "name": "通过最终考试，葛城莉莉娅获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#83",
+      "name": "通过最终考试，紫云清夏获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#84",
+      "name": "可培育偶像{threshold}人的特训阶段达到5"
+    },
+    {
+      "id": "main_task_group-02-01#85",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#86",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "main_task_group-02-01#87",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-02-01#88",
+      "name": "通过最终考试，有村麻央获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#89",
+      "name": "通过最终考试，姫崎莉波获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#90",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-02-01#91",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-02-01#92",
+      "name": "通过最终考试，月村手毬获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#93",
+      "name": "通过最终考试，藤田琴音获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#94",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "main_task_group-02-01#95",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-02-01#96",
+      "name": "可培育偶像{threshold}人的特训阶段达到6"
+    },
+    {
+      "id": "main_task_group-02-01#97",
+      "name": "通过最终考试，花海咲季获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#98",
+      "name": "通过最终考试，花海佑芽获得{threshold}次以上评价A"
+    },
+    {
+      "id": "main_task_group-02-01#99",
+      "name": "观看True End{threshold}人"
+    },
+    {
+      "id": "main_task_group-02-01#100",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-03-01#1",
+      "name": "完成培训【基础7】全力"
+    },
+    {
+      "id": "main_task_group-03-01#2",
+      "name": "完成培训【基础8】强气"
+    },
+    {
+      "id": "main_task_group-03-01#3",
+      "name": "用非凡方案的可培育偶像通过{threshold}次最终考试"
+    },
+    {
+      "id": "main_task_group-03-01#4",
+      "name": "非凡扭蛋抽{threshold}次"
+    },
+    {
+      "id": "main_task_group-03-01#5",
+      "name": "完成培训【应用5】非凡方案"
+    },
+    {
+      "id": "main_task_group-03-01#6",
+      "name": "将{threshold}个可培育偶像的特训阶段提升到4"
+    },
+    {
+      "id": "main_task_group-03-01#7",
+      "name": "提升十王星南的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#8",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-03-01#9",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "main_task_group-03-01#10",
+      "name": "提升十王星南的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#11",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-03-01#12",
+      "name": "提升十王星南的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#13",
+      "name": "完成敏锐P培训中的任何一项"
+    },
+    {
+      "id": "main_task_group-03-01#14",
+      "name": "挑战培育中的难度Master"
+    },
+    {
+      "id": "main_task_group-03-01#15",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-03-01#16",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-03-01#17",
+      "name": "将{threshold}张支援卡提升到Lv40"
+    },
+    {
+      "id": "main_task_group-03-01#18",
+      "name": "非凡方案的可培育偶像通过最终考试并获得评价A以上{threshold}次"
+    },
+    {
+      "id": "main_task_group-03-01#19",
+      "name": "可培育偶像{threshold}人的特训阶段达到6"
+    },
+    {
+      "id": "main_task_group-03-01#20",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-03-01#21",
+      "name": "消耗{threshold}个AP"
+    },
+    {
+      "id": "main_task_group-03-01#22",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-03-01#23",
+      "name": "获得{threshold}个成就吧"
+    },
+    {
+      "id": "main_task_group-03-01#24",
+      "name": "在培育中将任一分数提升至1500以上"
+    },
+    {
+      "id": "main_task_group-03-01#25",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-03-01#26",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#27",
+      "name": "获得{threshold}种技能卡"
+    },
+    {
+      "id": "main_task_group-03-01#28",
+      "name": "总粉丝数达到{threshold}人"
+    },
+    {
+      "id": "main_task_group-03-01#29",
+      "name": "在难度Master的最终考试中合格{threshold}次\n【条件】非凡方案的可培育偶像"
+    },
+    {
+      "id": "main_task_group-03-01#30",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-03-01#31",
+      "name": "竞赛组合综合力达到{threshold}以上"
+    },
+    {
+      "id": "main_task_group-03-01#32",
+      "name": "总计进行{threshold}小时工作吧"
+    },
+    {
+      "id": "main_task_group-03-01#33",
+      "name": "可培育偶像{threshold}人的特训阶段达到6"
+    },
+    {
+      "id": "main_task_group-03-01#34",
+      "name": "进行培育并获得评价A+以上"
+    },
+    {
+      "id": "main_task_group-03-01#35",
+      "name": "十王星南的粉丝达到{threshold}人"
+    },
+    {
+      "id": "main_task_group-03-01#36",
+      "name": "在竞赛中获得超过{threshold}的得分吧"
+    },
+    {
+      "id": "main_task_group-03-01#37",
+      "name": "在偶像之路上总共获得{threshold}以上的★"
+    },
+    {
+      "id": "main_task_group-03-01#38",
+      "name": "达到制作人Lv{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#39",
+      "name": "提升花海咲季的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#40",
+      "name": "提升月村手毬的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#41",
+      "name": "提升藤田琴音的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#42",
+      "name": "提升有村麻央的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#43",
+      "name": "提升葛城莉莉娅的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#44",
+      "name": "提升仓本千奈的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#45",
+      "name": "提升紫云清夏的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#46",
+      "name": "提升筱泽广的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#47",
+      "name": "提升花海佑芽的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#48",
+      "name": "提升姫崎莉波的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#49",
+      "name": "提升十王星南的亲密度Lv到{threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#50",
+      "name": "挑战培育并获得评价S以上"
+    }
+  ]
+}

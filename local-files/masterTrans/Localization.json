@@ -1,0 +1,537 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "achievement.cell.true_end.nia_condition",
+      "description": " 最终试镜\\n「FINALE」1位"
+    },
+    {
+      "id": "achievement.cell.true_end.nia_toast_produce_condition",
+      "description": "P课题35完成\\n亲密度Lv10即解锁培育「N.I.A」"
+    },
+    {
+      "id": "achievement.true_end_condition.description",
+      "description": "获得以下成就，\\n培育：定期演出『初』的最终考试获得1位"
+    },
+    {
+      "id": "achievement.true_end.condition",
+      "description": "获得3个True End条件成就，培育：定期演出『初』的最终考试获得1位"
+    },
+    {
+      "id": "achievement.true_end.lesson_bonus",
+      "description": "数值加成"
+    },
+    {
+      "id": "achievement.true_end.nia_condition",
+      "description": "在最终试镜中选择「FINALE」试镜并获得1位"
+    },
+    {
+      "id": "angya.top.user_status.exchange",
+      "description": "交换所"
+    },
+    {
+      "id": "card.idol_card.high_score",
+      "description": "强化月间对象"
+    },
+    {
+      "id": "card.idol_card.preview.attention",
+      "description": "True End加成会反映当前的状况"
+    },
+    {
+      "id": "card.idol_card.release.confirm.sheet.message",
+      "description": "要消耗材料解锁偶像吗？\\n　\\n如果已获得另一版本，\\n可以获得原版本的可培育偶像\\n角色碎片"
+    },
+    {
+      "id": "card.idol_card.skin_change_sheet.title",
+      "description": "可培育偶像变更"
+    },
+    {
+      "id": "card.idol_card.skin_new_confirm_warning",
+      "description": "※现场曲目会更改\\n※在培育另一个ver.的可培育偶像时，不会发生可培育偶像交流"
+    },
+    {
+      "id": "card.sort.produce_dance_growth_rate_permil",
+      "description": "数值加成\\n舞蹈力"
+    },
+    {
+      "id": "card.sort.produce_visual_growth_rate_permil",
+      "description": "数值加成\\n形象力"
+    },
+    {
+      "id": "card.sort.produce_vocal_growth_rate_permil",
+      "description": "数值加成\\n声乐力"
+    },
+    {
+      "id": "card.sort.story_event_point_bonus",
+      "description": "事件加成"
+    },
+    {
+      "id": "card.upgrade_status_list.parameter",
+      "description": "分数・数值加成提升"
+    },
+    {
+      "id": "card.upgrade_status_list.produce_card",
+      "description": "固有技能卡强化"
+    },
+    {
+      "id": "common.live_battle_stage.mid.name",
+      "description": "MID舞台适性"
+    },
+    {
+      "id": "common.user_exp.description",
+      "description": "制作人Lv上升所需的经验值"
+    },
+    {
+      "id": "exchange.confirm.consumption_shortage",
+      "description": "所持的「{0}」不足"
+    },
+    {
+      "id": "faq_confirm_sheet.description",
+      "description": "要打开FAQ页面吗？\\n※将打开网页浏览器"
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.costume_body",
+      "description": "服装・"
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.costume_head",
+      "description": "发型・"
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.music",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.separator",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.suffix",
+      "description": "附加曲目!"
+    },
+    {
+      "id": "home.gasha.draw_jewel_confirm_sheet.description.multiple_button",
+      "description": "消耗{0}<color=#u:Negative>{1:N0}</color>个\\n抽取{2}吗？"
+    },
+    {
+      "id": "home.gasha.draw_jewel_confirm_sheet.select_pickup.description",
+      "description": "以下已被选为精选"
+    },
+    {
+      "id": "home.gasha.point_detail_overlay.description",
+      "description": "交换Pt，交换内容因扭蛋而不同。获得的\\nP偶像将转换为「可培育偶像的角色碎片」。"
+    },
+    {
+      "id": "home.gasha.result.duplicate_info",
+      "description": "获得的P偶像将转换为「可培育偶像的角色碎片」。"
+    },
+    {
+      "id": "invite.progress.friend_empty",
+      "description": "邀请的制作人达到\nPLv5后会显示"
+    },
+    {
+      "id": "invite.progress.invited_friend.label",
+      "description": "达到PLv5"
+    },
+    {
+      "id": "invite.publication.share.text",
+      "description": "初星学院正在招收新生！\n输入代码获得珠宝！\n现在是开始学园偶像大师的好机会！\n▼邀请码\n{0}\n\nhttps://app.adjust.com/1b1lvieu\n\n※通过教程后可输入\n#学园偶像大师 #学マス"
+    },
+    {
+      "id": "limit.unti",
+      "description": ""
+    },
+    {
+      "id": "meishi.create_confirm_sheet.toast.custom_disable",
+      "description": "2024/9/1 维护结束后解锁"
+    },
+    {
+      "id": "meishi.edit_custom.sub_menu.character.card.description",
+      "description": "请选择要追加的可培育偶像的种类"
+    },
+    {
+      "id": "meishi.edit_custom.sub_menu.character.sd",
+      "description": "迷你偶像"
+    },
+    {
+      "id": "memory.detail.produce.card.phase.audition_mid",
+      "description": "中间考试/初次试镜后获得"
+    },
+    {
+      "id": "memory.detail.tab.contest",
+      "description": "阶段"
+    },
+    {
+      "id": "memory.detail.tab.exam_battle",
+      "description": "阶段"
+    },
+    {
+      "id": "memory.filter.exam_battle_card_effect",
+      "description": "舞台用技能卡"
+    },
+    {
+      "id": "memory.filter.exam_battle_item_effect",
+      "description": "舞台用P道具"
+    },
+    {
+      "id": "memory.sort.score",
+      "description": "舞台综合力"
+    },
+    {
+      "id": "mission.mission_list.max_point_text.daily",
+      "description": "可获得的每日Pt已达到最大"
+    },
+    {
+      "id": "mission.mission_list.max_point_text.weekly",
+      "description": "可获得的每周Pt已达到最大"
+    },
+    {
+      "id": "music.external_url_sheet.description",
+      "description": "要移至乐曲配信信息网站吗？\\n※将打开Web浏览器"
+    },
+    {
+      "id": "octo_file_download_confirm_sheet.alert.all",
+      "description": "※通过进行批量下载，可以削减游戏中的通信量\\n　\\n※推荐在Wi-Fi环境下下载"
+    },
+    {
+      "id": "photography.save.album.over_limit_confirm.description",
+      "description": "<color=#u:Negative>可保存数量已达上限</color>\\n要保存选中的所有照片，\\n需要删除{0}张照片"
+    },
+    {
+      "id": "picturebook.live.costume.select.description",
+      "description": "请选择发型和衣装。"
+    },
+    {
+      "id": "picturebook.live.costume.select.disabled",
+      "description": "正在选择固定发型的衣装"
+    },
+    {
+      "id": "picturebook.live.costume.select.subtitle.head",
+      "description": "发型"
+    },
+    {
+      "id": "produce.card.move_position.deck",
+      "description": "牌堆"
+    },
+    {
+      "id": "produce.card.move_position.hold.description",
+      "description": "变更为全力时，移动到手牌的技能卡\\n最多可以保存2张，超过2张则送至弃牌堆"
+    },
+    {
+      "id": "produce.change_upgrade.message.result",
+      "description": " 把{0}转换为{1}并强化了"
+    },
+    {
+      "id": "produce.change.message.result",
+      "description": " 把{0}转换为{1}"
+    },
+    {
+      "id": "produce.common.lesson_bonus",
+      "description": "数值加成"
+    },
+    {
+      "id": "produce.confirm_reroll_sheet.description",
+      "description": "要重新抽选可获得的技能卡候选吗？\\n<color=#u:Negative>※培育中的重新抽选次数有限</color>\\n<color=#u:Negative>※稀有度也将重新抽选</color>"
+    },
+    {
+      "id": "produce.drink.cannot_use.noneproduceeffect",
+      "description": "课程、考试、试镜以外不能使用"
+    },
+    {
+      "id": "produce.item.card.empty",
+      "description": "技能卡未被选择。"
+    },
+    {
+      "id": "produce.item.item.empty",
+      "description": "P道具未被选择"
+    },
+    {
+      "id": "produce.lesson.no_effect.block_restriction",
+      "description": "因为无效状态，元气增加效果未发动。"
+    },
+    {
+      "id": "produce.lesson.no_effect.stamina_recover_restriction",
+      "description": "因为无效状态，体力恢复效果未发动。"
+    },
+    {
+      "id": "produce.lesson.no_effect.stance_same",
+      "description": "因为已经是变更后的指针，所以指针的效果不会生效。"
+    },
+    {
+      "id": "produce.lesson.no_effect.stance_step_max",
+      "description": "因为指针的阶段已经达到上限，所以指针的效果不会生效。"
+    },
+    {
+      "id": "produce.log.detail.title.audition_npc_enhance",
+      "description": "对手的得分增加"
+    },
+    {
+      "id": "produce.memory_limit.warning",
+      "description": "因为回忆已达到持有上限，所以无法开始培育"
+    },
+    {
+      "id": "produce.multi_device.confirm.description",
+      "description": "培育中在不同终端上登录或清除终端缓存时，\\n游戏中的培育数据将被丢弃。\\n确定要继续登录吗？"
+    },
+    {
+      "id": "produce.nia.audition_name.finalhard",
+      "description": "QUARTET"
+    },
+    {
+      "id": "produce.nia.audition.finale_condition",
+      "description": "“FINALE”试镜解锁条件"
+    },
+    {
+      "id": "produce.result.photo.delete_save.toast",
+      "description": "已删除{0}张，并保存了新照片"
+    },
+    {
+      "id": "produce.result.photo.re_create.button",
+      "description": "重新生成"
+    },
+    {
+      "id": "produce.result.photo.re_create.button.decide",
+      "description": "确认"
+    },
+    {
+      "id": "produce.result.photo.re_create.button.disable.shortage_count",
+      "description": "没有再生成的次数了"
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.button",
+      "description": "进行再生成"
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.description",
+      "description": "消耗再生成道具重新生成回忆吗？\\n※可以选择获得当前回忆或再生成后的回忆\\n※一个培育中可执行的再生成次数有限制"
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.remain_count",
+      "description": "剩余再生成次数"
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.title",
+      "description": "回忆再生成确认"
+    },
+    {
+      "id": "produce.result.photo.re_create.decide_confirm_sheet.button",
+      "description": "生成"
+    },
+    {
+      "id": "produce.result.photo.re_create.description",
+      "description": "请选择要获取的回忆"
+    },
+    {
+      "id": "produce.result.photo.re_create.select_status_origin",
+      "description": "再生成前"
+    },
+    {
+      "id": "produce.result.photo.re_create.select_status_reroll",
+      "description": "再生成{0}次"
+    },
+    {
+      "id": "produce.schedule.step_business_description",
+      "description": "获得粉丝投票数。\\n根据营业地点会产生各种效果。"
+    },
+    {
+      "id": "produce.schedule.step_customize_description",
+      "description": "消耗P点数，可以自定义已强化的\\n技能卡。"
+    },
+    {
+      "id": "produce.schedule.step_fan_present_description",
+      "description": "可以获得P点数和道具。有时候会有粉丝\\n投票数加成。"
+    },
+    {
+      "id": "produce.schedule.step_self_dance_description",
+      "description": "消耗体力提升\\n舞蹈力。"
+    },
+    {
+      "id": "produce.schedule.step_self_dance_sp_description",
+      "description": "舞蹈力提升。\\n虽然体力消耗量大，但奖励也很丰厚。"
+    },
+    {
+      "id": "produce.schedule.step_self_visual_description",
+      "description": "消耗体力提升\\n形象力。"
+    },
+    {
+      "id": "produce.schedule.step_self_visual_sp_description",
+      "description": "形象力提升。\\n虽然体力消耗量大，但奖励也很丰厚。"
+    },
+    {
+      "id": "produce.schedule.step_self_vocal_description",
+      "description": "消耗体力提升\\n声乐力。"
+    },
+    {
+      "id": "produce.schedule.step_self_vocal_sp_description",
+      "description": "声乐力提升。\\n虽然体力消耗量大，但奖励也很丰厚。"
+    },
+    {
+      "id": "produce.shop.end_warning.description",
+      "description": "还可以交换。\\n要结束咨询吗？"
+    },
+    {
+      "id": "produce.support_event_effect",
+      "description": "效果"
+    },
+    {
+      "id": "producer.level.additional_reward",
+      "description": "已经获得了新增加的PLv提升奖励中\\n已达成的部分。"
+    },
+    {
+      "id": "profile.activity.evaluate",
+      "description": "最高评价"
+    },
+    {
+      "id": "profile.activity.produce",
+      "description": "定期公演『初』"
+    },
+    {
+      "id": "pvp.rate.reward.rate.description",
+      "description": "每累计一定数量的计分点数即可获得奖励"
+    },
+    {
+      "id": "pvp.rate.same_character_confirm_sheet.description",
+      "description": "正在选择其他组合框中编成的偶像的回忆。这样编成的话，以下舞台中设置的选中回忆将从组合中移除，可以吗？"
+    },
+    {
+      "id": "pvp.rate.same_character_confirm_sheet.description_sub",
+      "description": "正在选择其他组合框中编成的偶像的回忆。这样编成的话，以下舞台中设置的选中回忆将从组合中移除，可以吗？"
+    },
+    {
+      "id": "setting.live_quality_sheet.description",
+      "description": "请选择品质"
+    },
+    {
+      "id": "setting.produce.exam_effect_warning",
+      "description": "技能卡/P饮料使用确认"
+    },
+    {
+      "id": "setting.produce.exam_effect_warning.description",
+      "description": "当技能卡/P饮料效果未激活时\\n显示确认信息。"
+    },
+    {
+      "id": "shop.label.term_suffix",
+      "description": "期间"
+    },
+    {
+      "id": "story_event.box_gasha.draw.sheet.description",
+      "description": "消耗{0}\\n去抽取活动扭蛋吗？"
+    },
+    {
+      "id": "story_event.box_gasha.draw.sheet.title",
+      "description": "确认活动扭蛋"
+    },
+    {
+      "id": "story_event.box_gasha.item_name",
+      "description": "活动用道具"
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.EmptyAll",
+      "description": "获取所有报酬后将自动更新活动扭蛋的列表。"
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.EmptyFeature",
+      "description": "获取所有精选报酬后将自动更新活动扭蛋的列表。"
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.Optional",
+      "description": "执行奖励重置后，活动扭蛋的列表可以随时更新。※执行后立即更新"
+    },
+    {
+      "id": "story_event.box_gasha.reset_result.sheet.description",
+      "description": "已获得第{0}箱的所有奖励\\n更新活动扭蛋"
+    },
+    {
+      "id": "story_event.box_gasha.reset_result.sheet.title",
+      "description": "确认活动扭蛋"
+    },
+    {
+      "id": "story_event.box_gasha.reset.sheet.title",
+      "description": "确认活动扭蛋"
+    },
+    {
+      "id": "story_event.box_gasha.story_reward_gasha_count_sheet.condition",
+      "description": "抽取活动扭蛋{0}次后解锁"
+    },
+    {
+      "id": "story_event.event_coin_bonus",
+      "description": "活动交换所用道具加成"
+    },
+    {
+      "id": "story_event.exchange",
+      "description": "活动交换所"
+    },
+    {
+      "id": "story_event.exchange_item",
+      "description": "活动交换所用道具"
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.confirm",
+      "description": "联动任务"
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.guild_description",
+      "description": "加入社团即可参加联动任务。\\n要转到社团吗？"
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.main_task_description",
+      "description": "加入社团即可参加联动任务。\\n<color=#u:Negative>{0}</color>"
+    },
+    {
+      "id": "story_event.period.end",
+      "description": "领取期间"
+    },
+    {
+      "id": "story.idol.produce.activity",
+      "description": "外出"
+    },
+    {
+      "id": "story.lock.unread_previous.description",
+      "description": "通过查看上一个交流解锁"
+    },
+    {
+      "id": "story.play_confirm_sheet.unread_previous_chapter.description",
+      "description": "有未读的交流\\n阅读完所有交流后可以阅读初星交流的最新故事"
+    },
+    {
+      "id": "story.story_event.main_story.move_to_story_list",
+      "description": "一起来看交流吧"
+    },
+    {
+      "id": "story.story_event.section.box_gasha_condition_lock_text",
+      "description": "通过抽特定次数的活动扭蛋和查看上一个交流解锁"
+    },
+    {
+      "id": "story.story_event.section.normal_condition_lock_text",
+      "description": "获得活动Pt并阅读前一个交流解锁"
+    },
+    {
+      "id": "story.story_event.section.unlockable_condition_lock_text",
+      "description": "用记录的钥匙解锁"
+    },
+    {
+      "id": "tutorial.idol_receive.attention_1",
+      "description": "获得初始状态的可培育偶像\\n一旦获得后不能更改\\n如果已获得另一个ver.，也可以获得原版可培育偶像的角色碎片"
+    },
+    {
+      "id": "tutorial.idol_receive.attention_3",
+      "description": "可培育偶像会自动领取"
+    },
+    {
+      "id": "tutorial.idol_receive.attention_4",
+      "description": "可培育偶像的角色碎片会自动领取"
+    },
+    {
+      "id": "tutorial.idol_receive.description_4",
+      "description": "已将「{0}」\\n转换为「{1}」并获得。"
+    },
+    {
+      "id": "twitter_confirm_sheet.description",
+      "description": "是否打开官方X（以前的Twitter）页面？\\n※将启动Web浏览器"
+    }
+  ]
+}

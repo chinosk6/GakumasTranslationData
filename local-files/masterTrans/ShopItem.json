@@ -1,0 +1,321 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "shop_costume_amao-trng-0002",
+      "name": "初星学园体操服（有村麻央）"
+    },
+    {
+      "id": "shop_costume_costume_head_hume-hair-0001",
+      "name": "绣球花发饰（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_costume_head_jsna-hair-0001",
+      "name": "绣球花发饰（十王星南）"
+    },
+    {
+      "id": "shop_costume_costume_head_jsna-hair-0003",
+      "name": "圆形眼镜（十王星南）"
+    },
+    {
+      "id": "shop_costume_fktn-trng-0002",
+      "name": "初星学园体操服（藤田ことね）"
+    },
+    {
+      "id": "shop_costume_hrnm-trng-0002",
+      "name": "初星学园体操服（姫崎莉波）"
+    },
+    {
+      "id": "shop_costume_hski-trng-0002",
+      "name": "初星学园体操服（花海咲季）"
+    },
+    {
+      "id": "shop_costume_hume-cstm-0069",
+      "name": "儿童罩衫（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_hume-trng-0002",
+      "name": "初星学园体操服（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_jsna-cstm-0069",
+      "name": "儿童罩衫（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-othr-0002",
+      "name": "温泉泳衣（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-trng-0002",
+      "name": "初星学园体操服（十王星南）"
+    },
+    {
+      "id": "shop_costume_kcna-trng-0002",
+      "name": "初星学园体操服（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_kllj-trng-0002",
+      "name": "初星学园体操服（葛城リーリヤ）"
+    },
+    {
+      "id": "shop_costume_shro-trng-0002",
+      "name": "初星学园体操服（篠澤広）"
+    },
+    {
+      "id": "shop_costume_ssmk-trng-0002",
+      "name": "初星学园体操服（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_ttmr-trng-0002",
+      "name": "初星学园体操服（月村手毬）"
+    },
+    {
+      "id": "shop_jewel_item-0001",
+      "name": "珠宝80个"
+    },
+    {
+      "id": "shop_jewel_item-0002",
+      "name": "珠宝360个"
+    },
+    {
+      "id": "shop_jewel_item-0003",
+      "name": "珠宝600个"
+    },
+    {
+      "id": "shop_jewel_item-0004",
+      "name": "珠宝1,200个"
+    },
+    {
+      "id": "shop_jewel_item-0005",
+      "name": "珠宝2,500个"
+    },
+    {
+      "id": "shop_jewel_item-0006",
+      "name": "珠宝4,000个"
+    },
+    {
+      "id": "shop_jewel_item-0007",
+      "name": "珠宝8,200个"
+    },
+    {
+      "id": "shop_jewel_item-0008",
+      "name": "【一次性优惠！】珠宝12,300颗（6/28前）"
+    },
+    {
+      "id": "shop_jewel_item-0009",
+      "name": "【一次性优惠！】珠宝450颗（6/28前）"
+    },
+    {
+      "id": "shop_jewel_item-0010",
+      "name": "【一次性优惠！】珠宝6,000颗（6/28前）"
+    },
+    {
+      "id": "shop_jewel_item-0011",
+      "name": "【巡演纪念仅限1次特惠！】宝石6,000个"
+    },
+    {
+      "id": "shop_jewel_item-0014",
+      "name": "【仅限2次特惠！】宝石12,300个"
+    },
+    {
+      "id": "shop_jewel_item-0015",
+      "name": "【仅限2次特惠！】宝石6,000个"
+    },
+    {
+      "id": "shop_jewel_item-0016",
+      "name": "【限购2次优惠！】宝石6,000个"
+    },
+    {
+      "id": "shop_jewel_item-0017",
+      "name": "【限购2次优惠！】宝石12,300个"
+    },
+    {
+      "id": "shop_pack_hume-0001",
+      "name": "【限时72小时】可培育偶像角色碎片包（佑芽）"
+    },
+    {
+      "id": "shop_pack_item-0001",
+      "name": "【限时24小时】入学纪念包"
+    },
+    {
+      "id": "shop_pack_item-0002",
+      "name": "【限时14天】新人制作人应援包"
+    },
+    {
+      "id": "shop_pack_item-0003",
+      "name": "每周发放！初星礼包"
+    },
+    {
+      "id": "shop_pack_item-0004",
+      "name": "每周更新！培养礼包"
+    },
+    {
+      "id": "shop_pack_item-0005",
+      "name": "每月更新！培养包"
+    },
+    {
+      "id": "shop_pack_item-0006",
+      "name": "【72小时限定】可培育偶像零件包（咲季）"
+    },
+    {
+      "id": "shop_pack_item-0007",
+      "name": "【限时72小时】可培育偶像角色碎片包（手毬）"
+    },
+    {
+      "id": "shop_pack_item-0008",
+      "name": "【限时72小时】可培育偶像角色碎片包（ことね）"
+    },
+    {
+      "id": "shop_pack_item-0009",
+      "name": "【限时72小时】可培育偶像角色碎片包（麻央）"
+    },
+    {
+      "id": "shop_pack_item-0010",
+      "name": "【72小时限定】可培育偶像角色碎片包（莉莉娅）"
+    },
+    {
+      "id": "shop_pack_item-0011",
+      "name": "【72小时限定】可培育偶像零件包（千奈）"
+    },
+    {
+      "id": "shop_pack_item-0012",
+      "name": "【72小时限定】可培育偶像角色碎片包（清夏）"
+    },
+    {
+      "id": "shop_pack_item-0013",
+      "name": "【72小时限定】可培育偶像角色碎片包（广）"
+    },
+    {
+      "id": "shop_pack_item-0014",
+      "name": "【72小时限定】可培育偶像角色碎片包（莉波）"
+    },
+    {
+      "id": "shop_pack_item-100dl",
+      "name": "【100万DL纪念】培养包（6/28前）"
+    },
+    {
+      "id": "shop_pack_item-childsmock-01",
+      "name": "【100万DL纪念】儿童罩衫包A（6/28前）"
+    },
+    {
+      "id": "shop_pack_item-childsmock-02",
+      "name": "【100万DL纪念】儿童罩衫包B（6/28前）"
+    },
+    {
+      "id": "shop_pack_item-childsmock-03",
+      "name": "【100万DL纪念】儿童罩衫包C（6/28前）"
+    },
+    {
+      "id": "shop_pack_item-daily-AP-0001",
+      "name": "每日更新！AP包"
+    },
+    {
+      "id": "shop_pack_item-first-live_001",
+      "name": "首次声演纪念包"
+    },
+    {
+      "id": "shop_pack_item-first-live_002",
+      "name": "初心公演纪念包"
+    },
+    {
+      "id": "shop_pack_item-first-live_003",
+      "name": "初恋公演纪念包"
+    },
+    {
+      "id": "shop_pack_item-half-aniversary-selection-ticket",
+      "name": "半周年前夜祭纪念包"
+    },
+    {
+      "id": "shop_pack_item-monthly-0002",
+      "name": "每月更新！培养包"
+    },
+    {
+      "id": "shop_pack_item-monthly-0002_re01",
+      "name": "每月更新！培养包"
+    },
+    {
+      "id": "shop_pack_item-newyear_2500_01",
+      "name": "福袋包2025银"
+    },
+    {
+      "id": "shop_pack_item-newyear_5000_01",
+      "name": "福袋包2025金"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-amao",
+      "name": "温泉专用泳装（有村麻央）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-fktn",
+      "name": "温泉专用泳装（藤田琴音）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-hski",
+      "name": "温泉专用泳装（花海咲季）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-kllj",
+      "name": "温泉专用泳装（葛城莉莉亚）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-shro",
+      "name": "温泉专用泳装（篠泽广）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-ssmk",
+      "name": "温泉专用泳装（紫云清夏）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-ttmr",
+      "name": "温泉专用泳装（月村手毬）"
+    },
+    {
+      "id": "shop_pack_item-weekly-0002",
+      "name": "每周更新！培养礼包"
+    },
+    {
+      "id": "shop_pack_jsna-0001",
+      "name": "【72小时限定】可培育偶像角色碎片包（星南）"
+    },
+    {
+      "id": "shop_pass_item-0001",
+      "name": "高级任务通行证 2024年5月"
+    },
+    {
+      "id": "shop_pass_item-0002",
+      "name": "高级任务通行证 2024年6月"
+    },
+    {
+      "id": "shop_pass_item-0003",
+      "name": "高级任务通行证 2024年7月"
+    },
+    {
+      "id": "shop_pass_item-0004",
+      "name": "高级任务通行证 2024年8月"
+    },
+    {
+      "id": "shop_pass_item-0005",
+      "name": "高级任务通行证 2024年9月"
+    },
+    {
+      "id": "shop_pass_item-0006",
+      "name": "高级任务通行证 2024年10月"
+    },
+    {
+      "id": "shop_pass_item-0007",
+      "name": "高级任务通行证 2024年11月"
+    },
+    {
+      "id": "shop_pass_item-0008",
+      "name": "高级任务通行证 2024年12月"
+    },
+    {
+      "id": "shop_pass_item-0009",
+      "name": "高级任务通行证 2025年1月"
+    }
+  ]
+}

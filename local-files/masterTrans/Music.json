@@ -1,0 +1,713 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "music-all-amao-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-amao-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-amao-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-amao-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-amao-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-amao-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-fktn-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-fktn-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-fktn-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-fktn-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-fktn-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-fktn-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-hrnm-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-hrnm-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-hrnm-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-hrnm-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-hrnm-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-hrnm-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-hski-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-hski-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-hski-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-hski-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-hski-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-hski-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-hski-008",
+      "title": "古今东西轻轻松松",
+      "displayTitle": "古今东西轻轻松松",
+      "lyrics": "大泽咩（Bandai Namco Studios Inc.）",
+      "composer": "大泽咩（Bandai Namco Studios Inc.）",
+      "arranger": "大泽咩（Bandai Namco Studios Inc.）"
+    },
+    {
+      "id": "music-all-hume-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-hume-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-hume-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-hume-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-hume-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-hume-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-jsna-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-jsna-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-kcna-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-kcna-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-kcna-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-kcna-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-kcna-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-kcna-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-kllj-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-kllj-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-kllj-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-kllj-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-kllj-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-kllj-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-shro-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-shro-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-shro-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-shro-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-shro-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-shro-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-ssmk-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-ssmk-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-ssmk-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-ssmk-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-ssmk-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-ssmk-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-all-ttmr-001",
+      "title": "初",
+      "displayTitle": "初（はじめ）",
+      "lyrics": "原口沙辅",
+      "composer": "原口沙辅",
+      "arranger": "宫川弹、原口沙辅"
+    },
+    {
+      "id": "music-all-ttmr-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "田淵智也",
+      "composer": "田淵智也",
+      "arranger": "滝泽俊辅（TRYTONELABO）"
+    },
+    {
+      "id": "music-all-ttmr-003",
+      "title": "キミとセミブルー",
+      "displayTitle": "",
+      "lyrics": "树音",
+      "composer": "光增ハジメ（FirstCall）",
+      "arranger": "光增ハジメ（FirstCall）"
+    },
+    {
+      "id": "music-all-ttmr-004",
+      "title": "冠菊",
+      "displayTitle": "冠菊",
+      "lyrics": "大山恭子 (Rebrast)",
+      "composer": "早川博隆 (Rebrast)、河原雷欧 (Rebrast)",
+      "arranger": "河原雷欧 (Rebrast)"
+    },
+    {
+      "id": "music-all-ttmr-005",
+      "title": "假装狂躁曲",
+      "displayTitle": "假装狂躁曲",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-ttmr-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "林英树",
+      "composer": "佐藤纯一(fhána)",
+      "arranger": "佐藤纯一(fhána)"
+    },
+    {
+      "id": "music-char-amao-001",
+      "title": "Fluorite",
+      "displayTitle": "",
+      "lyrics": "羊沼夏菜",
+      "composer": "Moe Shop",
+      "arranger": "Moe Shop"
+    },
+    {
+      "id": "music-char-amao-002",
+      "title": "Feel Jewel Dream",
+      "displayTitle": "",
+      "lyrics": "DÉ DÉ MOUSE",
+      "composer": "DÉ DÉ MOUSE",
+      "arranger": "DÉ DÉ MOUSE"
+    },
+    {
+      "id": "music-char-fktn-001",
+      "title": "世界一可愛い私",
+      "displayTitle": "",
+      "lyrics": "HoneyWorks",
+      "composer": "HoneyWorks",
+      "arranger": "HoneyWorks"
+    },
+    {
+      "id": "music-char-fktn-002",
+      "title": "Yellow Big Bang！",
+      "displayTitle": "",
+      "lyrics": "羊沼夏菜",
+      "composer": "濑尾祥太郎 (MONACA)",
+      "arranger": "濑尾祥太郎 (MONACA)"
+    },
+    {
+      "id": "music-char-hrnm-001",
+      "title": "clumsy trick",
+      "displayTitle": "",
+      "lyrics": "渡边 翔",
+      "composer": "渡边 翔",
+      "arranger": "奈须野 新平"
+    },
+    {
+      "id": "music-char-hrnm-002",
+      "title": "L.U.V",
+      "displayTitle": "",
+      "lyrics": "谕吉佳作/men",
+      "composer": "谕吉佳作/men",
+      "arranger": "仓内达矢"
+    },
+    {
+      "id": "music-char-hski-001",
+      "title": "Fighting My Way",
+      "displayTitle": "",
+      "lyrics": "HIROMI",
+      "composer": "Giga",
+      "arranger": "Giga"
+    },
+    {
+      "id": "music-char-hski-002",
+      "title": "Boom Boom Pow",
+      "displayTitle": "",
+      "lyrics": "KENTZ",
+      "composer": "KENTZ, ERECA",
+      "arranger": "KENTZ"
+    },
+    {
+      "id": "music-char-hume-001",
+      "title": "The Rolling Riceball",
+      "displayTitle": "",
+      "lyrics": "佐藤贵文（Bandai Namco Studios Inc.）",
+      "composer": "佐藤贵文（Bandai Namco Studios Inc.）",
+      "arranger": "半田彬伦"
+    },
+    {
+      "id": "music-char-jsna-001",
+      "title": "小小野望",
+      "displayTitle": "",
+      "lyrics": "小室光子",
+      "composer": "椎名豪",
+      "arranger": "椎名豪"
+    },
+    {
+      "id": "music-char-jsna-003",
+      "title": "Cosmetic",
+      "displayTitle": "",
+      "lyrics": "Stephanie Topalian、MOMONADY",
+      "composer": "MOMONADY、YUKI FUNAKOSHI (Digz, Inc. Group)",
+      "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-kcna-001",
+      "title": "Wonder Scale",
+      "displayTitle": "",
+      "lyrics": "大森祥子",
+      "composer": "兼松 众",
+      "arranger": "兼松 众"
+    },
+    {
+      "id": "music-char-kcna-002",
+      "title": "日々、発見的ステップ！",
+      "displayTitle": "日々、発見的ステップ！",
+      "lyrics": "椿山日南子(Dream Monster)",
+      "composer": "椿山日南子(Dream Monster)",
+      "arranger": "椿山日南子(Dream Monster)"
+    },
+    {
+      "id": "music-char-kcna-003",
+      "title": "憧れをいっぱい",
+      "displayTitle": "",
+      "lyrics": "高木龙一(Dream Monster)",
+      "composer": "高木龙一(Dream Monster)",
+      "arranger": "高木龙一(Dream Monster)"
+    },
+    {
+      "id": "music-char-kllj-001",
+      "title": "白線",
+      "displayTitle": "",
+      "lyrics": "纳尤坦星人",
+      "composer": "纳尤坦星人",
+      "arranger": "纳尤坦星人"
+    },
+    {
+      "id": "music-char-kllj-003",
+      "title": "Wake up!!",
+      "displayTitle": "Wake up!!",
+      "lyrics": "田中透真 (Dream Monster)",
+      "composer": "田中透真 (Dream Monster)",
+      "arranger": "阿什井上(Dream Monster)、田中透真 (Dream Monster)"
+    },
+    {
+      "id": "music-char-shro-001",
+      "title": "光景",
+      "displayTitle": "",
+      "lyrics": "长谷川白纸",
+      "composer": "长谷川白纸",
+      "arranger": "长谷川白纸"
+    },
+    {
+      "id": "music-char-shro-002",
+      "title": "コントラスト",
+      "displayTitle": "コントラスト",
+      "lyrics": "佐佐木惠梨",
+      "composer": "佐佐木惠梨、鹈居大干、中村浩",
+      "arranger": "中村浩"
+    },
+    {
+      "id": "music-char-shro-003",
+      "title": "翻转",
+      "displayTitle": "",
+      "lyrics": "封锁",
+      "composer": "封锁",
+      "arranger": "封锁"
+    },
+    {
+      "id": "music-char-ssmk-001",
+      "title": "Tame-Lie-One-Step",
+      "displayTitle": "",
+      "lyrics": "东优太",
+      "composer": "东优太",
+      "arranger": "东优太"
+    },
+    {
+      "id": "music-char-ssmk-002",
+      "title": "隐藏的我",
+      "displayTitle": "隐藏的我",
+      "lyrics": "东优太",
+      "composer": "东优太",
+      "arranger": "东优太"
+    },
+    {
+      "id": "music-char-ssmk-003",
+      "title": "Ride on Beat",
+      "displayTitle": "",
+      "lyrics": "田中龙志 (Rebrast)",
+      "composer": "田中龙志 (Rebrast)、柿迫光(Rebrast)、早川博隆 (Rebrast)",
+      "arranger": "柿迫光 (Rebrast)、早川博隆 (Rebrast)"
+    },
+    {
+      "id": "music-char-ttmr-001",
+      "title": "Luna say maybe",
+      "displayTitle": "",
+      "lyrics": "美波",
+      "composer": "美波",
+      "arranger": "美波、真船胜博"
+    },
+    {
+      "id": "music-char-ttmr-002",
+      "title": "アイヴイ",
+      "displayTitle": "",
+      "lyrics": "积木",
+      "composer": "积木",
+      "arranger": "积木"
+    },
+    {
+      "id": "music-char-ttmr-003",
+      "title": "叶えたい、ことばかり",
+      "displayTitle": "",
+      "lyrics": "田中透真(Dream Monster)",
+      "composer": "田中透真(Dream Monster)",
+      "arranger": "田中透真(Dream Monster)"
+    }
+  ]
+}

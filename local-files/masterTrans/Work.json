@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "WorkType_MiniLive",
+      "name": "小型表演"
+    },
+    {
+      "type": "WorkType_LiveStreaming",
+      "name": "直播"
+    }
+  ]
+}

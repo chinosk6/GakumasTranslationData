@@ -1,0 +1,45 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "eventType"
+    ]
+  },
+  "data": [
+    {
+      "eventType": "EventType_MissionDailyRelease",
+      "name": "特别任务"
+    },
+    {
+      "eventType": "EventType_MissionPanel",
+      "name": "面板任务"
+    },
+    {
+      "eventType": "EventType_ProduceHighScore",
+      "name": "十王邦夫的偶像强化月"
+    },
+    {
+      "eventType": "EventType_StoryCampaign",
+      "name": "交流免费解锁中"
+    },
+    {
+      "eventType": "EventType_StoryEvent",
+      "name": "故事"
+    },
+    {
+      "eventType": "EventType_StoryEventMainStory",
+      "name": "初星交流"
+    },
+    {
+      "eventType": "EventType_StoryEventBoxGasha",
+      "name": "赛季"
+    },
+    {
+      "eventType": "EventType_StoryEventGuildMission",
+      "name": "故事"
+    },
+    {
+      "eventType": "EventType_GvgRaid",
+      "name": "地方巡演"
+    }
+  ]
+}

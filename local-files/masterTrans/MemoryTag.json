@@ -1,0 +1,105 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "memory_tag_01",
+      "defaultName": "声乐"
+    },
+    {
+      "id": "memory_tag_02",
+      "defaultName": "舞蹈"
+    },
+    {
+      "id": "memory_tag_03",
+      "defaultName": "形象"
+    },
+    {
+      "id": "memory_tag_04",
+      "defaultName": "标签1"
+    },
+    {
+      "id": "memory_tag_05",
+      "defaultName": "标签2"
+    },
+    {
+      "id": "memory_tag_06",
+      "defaultName": "标签3"
+    },
+    {
+      "id": "memory_tag_07",
+      "defaultName": "标签4"
+    },
+    {
+      "id": "memory_tag_08",
+      "defaultName": "感性"
+    },
+    {
+      "id": "memory_tag_09",
+      "defaultName": "理性"
+    },
+    {
+      "id": "memory_tag_10",
+      "defaultName": "体力"
+    },
+    {
+      "id": "memory_tag_11",
+      "defaultName": "P点数"
+    },
+    {
+      "id": "memory_tag_12",
+      "defaultName": "比赛"
+    },
+    {
+      "id": "memory_tag_13",
+      "defaultName": "培育"
+    },
+    {
+      "id": "memory_tag_14",
+      "defaultName": "好调"
+    },
+    {
+      "id": "memory_tag_15",
+      "defaultName": "集中"
+    },
+    {
+      "id": "memory_tag_16",
+      "defaultName": "好印象"
+    },
+    {
+      "id": "memory_tag_17",
+      "defaultName": "干劲"
+    },
+    {
+      "id": "memory_tag_18",
+      "defaultName": "元气"
+    },
+    {
+      "id": "memory_tag_19",
+      "defaultName": "消耗体力减少"
+    },
+    {
+      "id": "memory_tag_20",
+      "defaultName": "非凡"
+    },
+    {
+      "id": "memory_tag_21",
+      "defaultName": "全力"
+    },
+    {
+      "id": "memory_tag_22",
+      "defaultName": "强气"
+    },
+    {
+      "id": "memory_tag_23",
+      "defaultName": "温存"
+    },
+    {
+      "id": "memory_tag_24",
+      "defaultName": "成长效果"
+    }
+  ]
+}

@@ -1,0 +1,1480 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "mainTaskGroupId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 1,
+      "title": "初星课题1",
+      "description": "进行培育吧",
+      "homeDescription": "进行培育吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 2,
+      "title": "初星课题2",
+      "description": "观看第1章第1话",
+      "homeDescription": "观看第1章第1话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 3,
+      "title": "初星课题3",
+      "description": "强化支援卡吧",
+      "homeDescription": "强化支援卡吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 4,
+      "title": "初星课题4",
+      "description": "编辑名片",
+      "homeDescription": "编辑名片"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 5,
+      "title": "初星课题5",
+      "description": "关注其他制作人",
+      "homeDescription": "关注其他制作人"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 6,
+      "title": "初星课题6",
+      "description": "完成一次研修",
+      "homeDescription": "完成一次研修"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 7,
+      "title": "初星课题7",
+      "description": "完成1个考试培训",
+      "homeDescription": "完成1个考试培训"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 8,
+      "title": "初星课题8",
+      "description": "进行培育吧",
+      "homeDescription": "进行培育吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 9,
+      "title": "初星课题9",
+      "description": "观看第1章第2话",
+      "homeDescription": "观看第1章第2话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 10,
+      "title": "初星课题10",
+      "description": "可培育偶像进行特训",
+      "homeDescription": "可培育偶像进行特训"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 11,
+      "title": "初星课题11",
+      "description": "收回活动费用",
+      "homeDescription": "收回活动费用"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 12,
+      "title": "初星课题12",
+      "description": "在金币兑换所进行兑换",
+      "homeDescription": "在金币兑换所进行兑换"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 13,
+      "title": "初星课题13",
+      "description": "进行培育吧",
+      "homeDescription": "进行培育吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 14,
+      "title": "初星课题14",
+      "description": "观看第1章第3话",
+      "homeDescription": "观看第1章第3话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 15,
+      "title": "初星课题15",
+      "description": "开始工作吧",
+      "homeDescription": "开始工作吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 16,
+      "title": "初星课题16",
+      "description": "进行培育吧\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "进行培育吧\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 17,
+      "title": "初星课题17",
+      "description": "抽一次感性扭蛋吧",
+      "homeDescription": "抽一次感性扭蛋吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 18,
+      "title": "初星课题18",
+      "description": "观看第1章第4话",
+      "homeDescription": "观看第1章第4话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 19,
+      "title": "初星课题19",
+      "description": "将{threshold}张支援卡提升至Lv20",
+      "homeDescription": "将{threshold}张支援卡提升至Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 20,
+      "title": "初星课题20",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 21,
+      "title": "初星课题21",
+      "description": "进行培育吧\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "进行培育吧\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 22,
+      "title": "初星课题22",
+      "description": "抽一次理性扭蛋",
+      "homeDescription": "抽一次理性扭蛋"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 23,
+      "title": "初星课题23",
+      "description": "观看第1章第5话",
+      "homeDescription": "观看第1章第5话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 24,
+      "title": "初星课题24",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 25,
+      "title": "初星课题25",
+      "description": "完成不同偶像的{threshold}次培育",
+      "homeDescription": "完成不同偶像的{threshold}次培育"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 26,
+      "title": "初星课题26",
+      "description": "在竞赛中编成吧",
+      "homeDescription": "在竞赛中编成吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 27,
+      "title": "初星课题27",
+      "description": "任一偶像的亲密度达到Lv{threshold}",
+      "homeDescription": "任一偶像的亲密度达到Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 28,
+      "title": "初星课题28",
+      "description": "观看第1章第6话",
+      "homeDescription": "观看第1章第6话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 29,
+      "title": "初星课题29",
+      "description": "将{threshold}张支援卡提升至Lv20",
+      "homeDescription": "将{threshold}张支援卡提升至Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 30,
+      "title": "初星课题30",
+      "description": "挑战培育获取评价C+以上",
+      "homeDescription": "挑战培育获取评价C+以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 31,
+      "title": "初星课题31",
+      "description": "观看第1章第7话",
+      "homeDescription": "观看第1章第7话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 32,
+      "title": "初星课题32",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 33,
+      "title": "初星课题33",
+      "description": "研修的【应用1】方案：完成感性",
+      "homeDescription": "研修的【应用1】方案：完成感性"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 34,
+      "title": "初星课题34",
+      "description": "挑战培育获取评价C+以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "挑战培育获取评价C+以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 35,
+      "title": "初星课题35",
+      "description": "观看第1章第8话",
+      "homeDescription": "观看第1章第8话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 36,
+      "title": "初星课题36",
+      "description": "研修的【应用2】方案：完成理性",
+      "homeDescription": "研修的【应用2】方案：完成理性"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 37,
+      "title": "初星课题37",
+      "description": "挑战培育获取评价C+以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价C+以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 38,
+      "title": "初星课题38",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 39,
+      "title": "初星课题39",
+      "description": "观看第1章第9话",
+      "homeDescription": "观看第1章第9话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 40,
+      "title": "初星课题40",
+      "description": "让可培育偶像{threshold}人的特训阶段达到2吧",
+      "homeDescription": "让可培育偶像{threshold}人的特训阶段达到2吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 41,
+      "title": "初星课题41",
+      "description": "进行培育难度专业",
+      "homeDescription": "进行培育难度专业"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 42,
+      "title": "初星课题42",
+      "description": "将{threshold}张支援卡提升至Lv20",
+      "homeDescription": "将{threshold}张支援卡提升至Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 43,
+      "title": "初星课题43",
+      "description": "观看第1章第10话",
+      "homeDescription": "观看第1章第10话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 44,
+      "title": "初星课题44",
+      "description": "任一偶像的亲密度达到Lv{threshold}",
+      "homeDescription": "任一偶像的亲密度达到Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 45,
+      "title": "初星课题45",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 46,
+      "title": "初星课题46",
+      "description": "在培育中将任意数值提升至600以上",
+      "homeDescription": "在培育中将任意数值提升至600以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 47,
+      "title": "初星课题47",
+      "description": "观看第1章第11话",
+      "homeDescription": "观看第1章第11话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 48,
+      "title": "初星课题48",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 49,
+      "title": "初星课题49",
+      "description": "挑战培育获取评价B以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "挑战培育获取评价B以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 50,
+      "title": "初星课题50",
+      "description": "挑战培育获取评价B以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价B以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 51,
+      "title": "初星课题51",
+      "description": "观看第1章第12话",
+      "homeDescription": "观看第1章第12话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 52,
+      "title": "初星课题52",
+      "description": "将支援卡的Lv提升到{threshold}",
+      "homeDescription": "将支援卡的Lv提升到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 53,
+      "title": "初星课题53",
+      "description": "在最终考试中成为第一",
+      "homeDescription": "在最终考试中成为第一"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 54,
+      "title": "初星课题54",
+      "description": "观看第1章第13话",
+      "homeDescription": "观看第1章第13话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 55,
+      "title": "初星课题55",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 56,
+      "title": "初星课题56",
+      "description": "可培育偶像{threshold}人的特训阶段提升至3",
+      "homeDescription": "可培育偶像{threshold}人的特训阶段提升至3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 57,
+      "title": "初星课题57",
+      "description": "在培育中将任意数值提升至800以上",
+      "homeDescription": "在培育中将任意数值提升至800以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 58,
+      "title": "初星课题58",
+      "description": "观看第1章第14话",
+      "homeDescription": "观看第1章第14话"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 59,
+      "title": "初星课题59",
+      "description": "任一偶像的亲密度达到Lv{threshold}",
+      "homeDescription": "任一偶像的亲密度达到Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 60,
+      "title": "初星课题60",
+      "description": "看看TrueEnd",
+      "homeDescription": "看看TrueEnd"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 1,
+      "title": "P课题1",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 2,
+      "title": "P课题2",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 3,
+      "title": "P课题3",
+      "description": "培育中任意一个分数提高到1000以上",
+      "homeDescription": "培育中任意一个分数提高到1000以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 4,
+      "title": "P课题4",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 5,
+      "title": "P课题5",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 6,
+      "title": "P课题6",
+      "description": "可培育偶像{threshold}人的特训阶段提升至3",
+      "homeDescription": "可培育偶像{threshold}人的特训阶段提升至3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 7,
+      "title": "P课题7",
+      "description": "完成SP课程{threshold}次",
+      "homeDescription": "完成SP课程{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 8,
+      "title": "P课题8",
+      "description": "支援卡{threshold}张提升至Lv30",
+      "homeDescription": "支援卡{threshold}张提升至Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 9,
+      "title": "P课题9",
+      "description": "获取{threshold}种技能卡",
+      "homeDescription": "获取{threshold}种技能卡"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 10,
+      "title": "P课题10",
+      "description": "挑战培育获取评价B+以上",
+      "homeDescription": "挑战培育获取评价B+以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 11,
+      "title": "P课题11",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 12,
+      "title": "P课题12",
+      "description": "进行累计{threshold}小时的工作",
+      "homeDescription": "进行累计{threshold}小时的工作"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 13,
+      "title": "P课题13",
+      "description": "挑战培育获取评价B+以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "挑战培育获取评价B+以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 14,
+      "title": "P课题14",
+      "description": "挑战培育获取评价B+以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价B+以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 15,
+      "title": "P课题15",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 16,
+      "title": "P课题16",
+      "description": "可培育偶像{threshold}人的特训阶段提升至3",
+      "homeDescription": "可培育偶像{threshold}人的特训阶段提升至3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 17,
+      "title": "P课题17",
+      "description": "观看{threshold}人达到True End",
+      "homeDescription": "观看{threshold}人达到True End"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 18,
+      "title": "P课题18",
+      "description": "将支援卡的Lv提升到{threshold}",
+      "homeDescription": "将支援卡的Lv提升到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 19,
+      "title": "P课题19",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 20,
+      "title": "P课题20",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 21,
+      "title": "P课题21",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 22,
+      "title": "P课题22",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 23,
+      "title": "P课题23",
+      "description": "获取{threshold}种技能卡",
+      "homeDescription": "获取{threshold}种技能卡"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 24,
+      "title": "P课题24",
+      "description": "支援卡{threshold}张提升至Lv30",
+      "homeDescription": "支援卡{threshold}张提升至Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 25,
+      "title": "P课题25",
+      "description": "可培育偶像{threshold}人的特训阶段达到4吧",
+      "homeDescription": "可培育偶像{threshold}人的特训阶段达到4吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 26,
+      "title": "P课题26",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 27,
+      "title": "P课题27",
+      "description": "让我们挑战竞赛",
+      "homeDescription": "让我们挑战竞赛"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 28,
+      "title": "P课题28",
+      "description": "观看{threshold}人达到True End",
+      "homeDescription": "观看{threshold}人达到True End"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 29,
+      "title": "P课题29",
+      "description": "支援卡{threshold}张提升至Lv30",
+      "homeDescription": "支援卡{threshold}张提升至Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 30,
+      "title": "P课题30",
+      "description": "培育通过最终考试\n【条件】：花海 咲季",
+      "homeDescription": "培育通过最终考试\n【条件】：花海 咲季"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 31,
+      "title": "P课题31",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 32,
+      "title": "P课题32",
+      "description": "培育中通过最终考试\n【条件】：月村 手毬",
+      "homeDescription": "培育中通过最终考试\n【条件】：月村 手毬"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 33,
+      "title": "P课题33",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 34,
+      "title": "P课题34",
+      "description": "培育通过最终考试\n【条件】：藤田 ことね",
+      "homeDescription": "培育通过最终考试\n【条件】：藤田 ことね"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 35,
+      "title": "P课题35",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 36,
+      "title": "P课题36",
+      "description": "P饮料获取{threshold}种类",
+      "homeDescription": "P饮料获取{threshold}种类"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 37,
+      "title": "P课题37",
+      "description": "培育中通过最终考试\n【条件】：有村 麻央",
+      "homeDescription": "培育中通过最终考试\n【条件】：有村 麻央"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 38,
+      "title": "P课题38",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 39,
+      "title": "P课题39",
+      "description": "培育中通过最终考试\n【条件】：姫崎 莉波",
+      "homeDescription": "培育中通过最终考试\n【条件】：姫崎 莉波"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 40,
+      "title": "P课题40",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 41,
+      "title": "P课题41",
+      "description": "培育通过最终考试\n【条件】：葛城 リーリヤ",
+      "homeDescription": "培育通过最终考试\n【条件】：葛城 リーリヤ"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 42,
+      "title": "P课题42",
+      "description": "让我们挑战竞赛",
+      "homeDescription": "让我们挑战竞赛"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 43,
+      "title": "P课题43",
+      "description": "可培育偶像{threshold}人的特训阶段达到4吧",
+      "homeDescription": "可培育偶像{threshold}人的特训阶段达到4吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 44,
+      "title": "P课题44",
+      "description": "培育中通过最终考试\n【条件】：紫雲 清夏",
+      "homeDescription": "培育中通过最终考试\n【条件】：紫雲 清夏"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 45,
+      "title": "P课题45",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 46,
+      "title": "P课题46",
+      "description": "培育中通过最终考试\n【条件】：篠澤 広",
+      "homeDescription": "培育中通过最终考试\n【条件】：篠澤 広"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 47,
+      "title": "P课题47",
+      "description": "支援卡{threshold}枚升级到Lv40",
+      "homeDescription": "支援卡{threshold}枚升级到Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 48,
+      "title": "P课题48",
+      "description": "培育中通过最终考试\n【条件】：倉本 千奈",
+      "homeDescription": "培育中通过最终考试\n【条件】：倉本 千奈"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 49,
+      "title": "P课题49",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 50,
+      "title": "P课题50",
+      "description": "获取{threshold}种技能卡",
+      "homeDescription": "获取{threshold}种技能卡"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 51,
+      "title": "P课题51",
+      "description": "进行培育并获得评价A以上",
+      "homeDescription": "进行培育并获得评价A以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 52,
+      "title": "P课题52",
+      "description": "进行累计{threshold}小时的工作",
+      "homeDescription": "进行累计{threshold}小时的工作"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 53,
+      "title": "P课题53",
+      "description": "可培育偶像{threshold}人的特训阶段达到4吧",
+      "homeDescription": "可培育偶像{threshold}人的特训阶段达到4吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 54,
+      "title": "P课题54",
+      "description": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 55,
+      "title": "P课题55",
+      "description": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 56,
+      "title": "P课题56",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 57,
+      "title": "P课题57",
+      "description": "让我们挑战竞赛",
+      "homeDescription": "让我们挑战竞赛"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 58,
+      "title": "P课题58",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 59,
+      "title": "P课题59",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 60,
+      "title": "P课题60",
+      "description": "任一偶像的亲密度达到Lv{threshold}",
+      "homeDescription": "任一偶像的亲密度达到Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 61,
+      "title": "P课题61",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 62,
+      "title": "P课题62",
+      "description": "进行培育并获得评价A以上",
+      "homeDescription": "进行培育并获得评价A以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 63,
+      "title": "P课题63",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 64,
+      "title": "P课题64",
+      "description": "支援卡{threshold}枚升级到Lv40",
+      "homeDescription": "支援卡{threshold}枚升级到Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 65,
+      "title": "P课题65",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 66,
+      "title": "P课题66",
+      "description": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 67,
+      "title": "P课题67",
+      "description": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 68,
+      "title": "P课题68",
+      "description": "合计粉丝数达到{threshold}人",
+      "homeDescription": "合计粉丝数达到{threshold}人"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 69,
+      "title": "P课题69",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 70,
+      "title": "P课题70",
+      "description": "在培育中强化技能卡{threshold}次",
+      "homeDescription": "在培育中强化技能卡{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 71,
+      "title": "P课题71",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 72,
+      "title": "P课题72",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 73,
+      "title": "P课题73",
+      "description": "观看{threshold}人达到True End",
+      "homeDescription": "观看{threshold}人达到True End"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 74,
+      "title": "P课题74",
+      "description": "支援卡{threshold}枚升级到Lv40",
+      "homeDescription": "支援卡{threshold}枚升级到Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 75,
+      "title": "P课题75",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 76,
+      "title": "P课题76",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 77,
+      "title": "P课题77",
+      "description": "使用筱泽广在最终考试合格并达到评价A以上{threshold}次",
+      "homeDescription": "使用筱泽广在最终考试合格并达到评价A以上{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 78,
+      "title": "P课题78",
+      "description": "使用仓本千奈在最终考试合格并达到评价A以上{threshold}次",
+      "homeDescription": "使用仓本千奈在最终考试合格并达到评价A以上{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 79,
+      "title": "P课题79",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 80,
+      "title": "P课题80",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 81,
+      "title": "P课题81",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 82,
+      "title": "P课题82",
+      "description": "使用葛城莉莉娅通过最终考试并获得A以上评价{threshold}次",
+      "homeDescription": "使用葛城莉莉娅通过最终考试并获得A以上评价{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 83,
+      "title": "P课题83",
+      "description": "使用紫云清夏通过最终考试并获得A以上评价{threshold}次",
+      "homeDescription": "使用紫云清夏通过最终考试并获得A以上评价{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 84,
+      "title": "P课题84",
+      "description": "将{threshold}位可培育偶像的特训阶段提升至5",
+      "homeDescription": "将{threshold}位可培育偶像的特训阶段提升至5"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 85,
+      "title": "P课题85",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 86,
+      "title": "P课题86",
+      "description": "合计获得培育评价{threshold}",
+      "homeDescription": "合计获得培育评价{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 87,
+      "title": "P课题87",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 88,
+      "title": "P课题88",
+      "description": "使用有村麻央通过最终考试并获得A以上评价{threshold}次",
+      "homeDescription": "使用有村麻央通过最终考试并获得A以上评价{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 89,
+      "title": "P课题89",
+      "description": "使用姫崎莉波通过最终考试并获得A以上评价{threshold}次",
+      "homeDescription": "使用姫崎莉波通过最终考试并获得A以上评价{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 90,
+      "title": "P课题90",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 91,
+      "title": "P课题91",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 92,
+      "title": "P课题92",
+      "description": "使用月村手毬通过最终考试并获得A以上评价{threshold}次",
+      "homeDescription": "使用月村手毬通过最终考试并获得A以上评价{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 93,
+      "title": "P课题93",
+      "description": "通过藤田琴音的最终考试并至少获得{threshold}次评价A",
+      "homeDescription": "通过藤田琴音的最终考试并至少获得{threshold}次评价A"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 94,
+      "title": "P课题94",
+      "description": "获取{threshold}种技能卡",
+      "homeDescription": "获取{threshold}种技能卡"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 95,
+      "title": "P课题95",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 96,
+      "title": "P课题96",
+      "description": "将可培育偶像{threshold}人的特训阶段提升到6",
+      "homeDescription": "将可培育偶像{threshold}人的特训阶段提升到6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 97,
+      "title": "P课题97",
+      "description": "通过花海咲季的最终考试并至少获得{threshold}次评价A",
+      "homeDescription": "通过花海咲季的最终考试并至少获得{threshold}次评价A"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 98,
+      "title": "P课题98",
+      "description": "通过花海佑芽的最终考试并至少获得{threshold}次评价A",
+      "homeDescription": "通过花海佑芽的最终考试并至少获得{threshold}次评价A"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 99,
+      "title": "P课题99",
+      "description": "观看{threshold}人达到True End",
+      "homeDescription": "观看{threshold}人达到True End"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 100,
+      "title": "P课题100",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 1,
+      "title": "P课题2-1",
+      "description": "完成培训【基础7】全力",
+      "homeDescription": "完成培训【基础7】全力"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 2,
+      "title": "P课题2-2",
+      "description": "完成培训【基础8】强气",
+      "homeDescription": "完成培训【基础8】强气"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 3,
+      "title": "P课题2-3",
+      "description": "使用非凡方案的可培育偶像通过最终考试{threshold}次",
+      "homeDescription": "使用非凡方案的可培育偶像通过最终考试{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 4,
+      "title": "P课题2-4",
+      "description": "进行非凡扭蛋{threshold}次",
+      "homeDescription": "进行非凡扭蛋{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 5,
+      "title": "P课题2-5",
+      "description": "完成培训【应用5】非凡方案",
+      "homeDescription": "完成培训【应用5】非凡方案"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 6,
+      "title": "P课题2-6",
+      "description": "可培育偶像{threshold}人的特训阶段达到4吧",
+      "homeDescription": "可培育偶像{threshold}人的特训阶段达到4吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 7,
+      "title": "P课题2-7",
+      "description": "将十王星南的亲密度Lv提高到{threshold}",
+      "homeDescription": "将十王星南的亲密度Lv提高到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 8,
+      "title": "P课题2-8",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 9,
+      "title": "P课题2-9",
+      "description": "获取{threshold}种技能卡",
+      "homeDescription": "获取{threshold}种技能卡"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 10,
+      "title": "P课题2-10",
+      "description": "将十王星南的亲密度Lv提高到{threshold}",
+      "homeDescription": "将十王星南的亲密度Lv提高到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 11,
+      "title": "P课题2-11",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 12,
+      "title": "P课题2-12",
+      "description": "将十王星南的亲密度Lv提高到{threshold}",
+      "homeDescription": "将十王星南的亲密度Lv提高到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 13,
+      "title": "P课题2-13",
+      "description": "完成敏锐P培训中的任何一项",
+      "homeDescription": "完成敏锐P培训中的任何一项"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 14,
+      "title": "P课题2-14",
+      "description": "挑战培育中的难度Master",
+      "homeDescription": "挑战培育中的难度Master"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 15,
+      "title": "P课题2-15",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 16,
+      "title": "P课题2-16",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 17,
+      "title": "P课题2-17",
+      "description": "支援卡{threshold}枚升级到Lv40",
+      "homeDescription": "支援卡{threshold}枚升级到Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 18,
+      "title": "P课题2-18",
+      "description": "通过非凡方案的可培育偶像的最终考试，并获得评价A以上{threshold}次",
+      "homeDescription": "通过非凡方案的可培育偶像的最终考试，并获得评价A以上{threshold}次"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 19,
+      "title": "P课题2-19",
+      "description": "将可培育偶像{threshold}人的特训阶段提升到6",
+      "homeDescription": "将可培育偶像{threshold}人的特训阶段提升到6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 20,
+      "title": "P课题2-20",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 21,
+      "title": "P课题2-21",
+      "description": "消耗{threshold} AP",
+      "homeDescription": "消耗{threshold} AP"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 22,
+      "title": "P课题2-22",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 23,
+      "title": "P课题2-23",
+      "description": "获得{threshold}个成就",
+      "homeDescription": "获得{threshold}个成就"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 24,
+      "title": "P课题2-24",
+      "description": "在培育中将任一分数提高至1500以上",
+      "homeDescription": "在培育中将任一分数提高至1500以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 25,
+      "title": "P课题2-25",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 26,
+      "title": "P课题2-26",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 27,
+      "title": "P课题2-27",
+      "description": "获取{threshold}种技能卡",
+      "homeDescription": "获取{threshold}种技能卡"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 28,
+      "title": "P课题2-28",
+      "description": "合计粉丝数达到{threshold}人",
+      "homeDescription": "合计粉丝数达到{threshold}人"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 29,
+      "title": "P课题2-29",
+      "description": "在难度Master的最终考试中合格{threshold}次\n【条件】非凡方案的可培育偶像",
+      "homeDescription": "在难度Master的最终考试中合格{threshold}次\n【条件】非凡方案的可培育偶像"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 30,
+      "title": "P课题2-30",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 31,
+      "title": "P课题2-31",
+      "description": "将竞赛组合综合力提升到{threshold}以上",
+      "homeDescription": "将竞赛组合综合力提升到{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 32,
+      "title": "P课题2-32",
+      "description": "进行累计{threshold}小时的工作",
+      "homeDescription": "进行累计{threshold}小时的工作"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 33,
+      "title": "P课题2-33",
+      "description": "将可培育偶像{threshold}人的特训阶段提升到6",
+      "homeDescription": "将可培育偶像{threshold}人的特训阶段提升到6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 34,
+      "title": "P课题2-34",
+      "description": "进行培育并获得评价A+以上",
+      "homeDescription": "进行培育并获得评价A+以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 35,
+      "title": "P课题2-35",
+      "description": "十王星南的粉丝要达到{threshold}人",
+      "homeDescription": "十王星南的粉丝要达到{threshold}人"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 36,
+      "title": "P课题2-36",
+      "description": "在竞赛中获得得分超过{threshold}",
+      "homeDescription": "在竞赛中获得得分超过{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 37,
+      "title": "P课题2-37",
+      "description": "在通往偶像的道路上累计获得★{threshold}以上",
+      "homeDescription": "在通往偶像的道路上累计获得★{threshold}以上"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 38,
+      "title": "P课题2-38",
+      "description": "达到制作人Lv{threshold}",
+      "homeDescription": "达到制作人Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 39,
+      "title": "P课题2-39",
+      "description": "花海咲季的亲密度Lv要达到{threshold}",
+      "homeDescription": "花海咲季的亲密度Lv要达到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 40,
+      "title": "P课题2-40",
+      "description": "月村手毬的亲密度Lv要达到{threshold}",
+      "homeDescription": "月村手毬的亲密度Lv要达到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 41,
+      "title": "P课题2-41",
+      "description": "藤田琴音的亲密度Lv要达到{threshold}",
+      "homeDescription": "藤田琴音的亲密度Lv要达到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 42,
+      "title": "P课题2-42",
+      "description": "有村麻央的亲密度Lv要达到{threshold}",
+      "homeDescription": "有村麻央的亲密度Lv要达到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 43,
+      "title": "P课题2-43",
+      "description": "葛城莉莉娅的亲密度Lv要达到{threshold}",
+      "homeDescription": "葛城莉莉娅的亲密度Lv要达到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 44,
+      "title": "P课题2-44",
+      "description": "仓本千奈的亲密度Lv要达到{threshold}",
+      "homeDescription": "仓本千奈的亲密度Lv要达到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 45,
+      "title": "P课题2-45",
+      "description": "紫云清夏的亲密度Lv要达到{threshold}",
+      "homeDescription": "紫云清夏的亲密度Lv要达到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 46,
+      "title": "P课题2-46",
+      "description": "筱泽广的亲密度Lv要达到{threshold}",
+      "homeDescription": "筱泽广的亲密度Lv要达到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 47,
+      "title": "P课题2-47",
+      "description": "花海佑芽的亲密度Lv达到{threshold}吧",
+      "homeDescription": "花海佑芽的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 48,
+      "title": "P课题2-48",
+      "description": "姫崎莉波的亲密度Lv达到{threshold}吧",
+      "homeDescription": "姫崎莉波的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 49,
+      "title": "P课题2-49",
+      "description": "将十王星南的亲密度Lv提高到{threshold}",
+      "homeDescription": "将十王星南的亲密度Lv提高到{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 50,
+      "title": "P课题2-50",
+      "description": "挑战培育并获得评价S以上",
+      "homeDescription": "挑战培育并获得评价S以上"
+    }
+  ]
+}

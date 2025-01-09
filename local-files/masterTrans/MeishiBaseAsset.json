@@ -1,0 +1,453 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "amao-001",
+      "name": "Master成就 麻央"
+    },
+    {
+      "id": "common-frame-001",
+      "name": "初始框架1"
+    },
+    {
+      "id": "common-frame-002",
+      "name": "初始框架2"
+    },
+    {
+      "id": "common-frame-003",
+      "name": "初始框架3"
+    },
+    {
+      "id": "common-frame-004",
+      "name": "初始框架4"
+    },
+    {
+      "id": "common-frame-005",
+      "name": "初始框架5"
+    },
+    {
+      "id": "common-frame-006",
+      "name": "初始框架6"
+    },
+    {
+      "id": "common-frame-007",
+      "name": "初始框架7"
+    },
+    {
+      "id": "common-frame-008",
+      "name": "初始框架8"
+    },
+    {
+      "id": "common-frame-009",
+      "name": "初始框架9"
+    },
+    {
+      "id": "common-frame-010",
+      "name": "初始框架10"
+    },
+    {
+      "id": "event-story-001",
+      "name": "1年1组的偶像们"
+    },
+    {
+      "id": "event-story-002",
+      "name": "1年2组的偶像们"
+    },
+    {
+      "id": "event-story-005",
+      "name": "学生会的偶像们"
+    },
+    {
+      "id": "event-story-006",
+      "name": "初星温泉～落叶飘零～"
+    },
+    {
+      "id": "first-live-01",
+      "name": "初声公演"
+    },
+    {
+      "id": "first-live-02",
+      "name": "初心公演"
+    },
+    {
+      "id": "first-live-03",
+      "name": "初恋公演"
+    },
+    {
+      "id": "fktn-001",
+      "name": "Master成就 ことね"
+    },
+    {
+      "id": "hrnm-001",
+      "name": "Master成就 莉波"
+    },
+    {
+      "id": "hski-001",
+      "name": "Master成就 咲季"
+    },
+    {
+      "id": "hume-001",
+      "name": "Master成就 佑芽"
+    },
+    {
+      "id": "jsna-001",
+      "name": "Master成就 星南"
+    },
+    {
+      "id": "jsna-birthday-01",
+      "name": "Cosmetic"
+    },
+    {
+      "id": "kcna-001",
+      "name": "Master成就 千奈"
+    },
+    {
+      "id": "kcna-birthday-01",
+      "name": "憧れをいっぱい"
+    },
+    {
+      "id": "kllj-001",
+      "name": "Master成就 リーリヤ"
+    },
+    {
+      "id": "kllj-birthday-01",
+      "name": "Wake up!!"
+    },
+    {
+      "id": "normal-001",
+      "name": "名片初期背景"
+    },
+    {
+      "id": "normal-002",
+      "name": "初次见面，初星学园"
+    },
+    {
+      "id": "panel-mission-001",
+      "name": "偶像们的幕后照片"
+    },
+    {
+      "id": "panel-mission-002",
+      "name": "某天的用餐场景"
+    },
+    {
+      "id": "panel-mission-006-01",
+      "name": "世界第一？可爱！"
+    },
+    {
+      "id": "shibuya-ooh-001",
+      "name": "DEBUT LIVE 初 TOUR 举办纪念"
+    },
+    {
+      "id": "shro-001",
+      "name": "Master成就 広"
+    },
+    {
+      "id": "shro-birthday-01",
+      "name": "翻阅"
+    },
+    {
+      "id": "ssmk-001",
+      "name": "Master成就 清夏"
+    },
+    {
+      "id": "ssmk-birthday-01",
+      "name": "Ride on Beat"
+    },
+    {
+      "id": "story-bg-dormitory-amaoroom-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-corridor-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-corridor-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-fktnroom-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-fktnroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-gate-00-evening",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-gate-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-gate-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-hskiroom-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-hskiroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-humeroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-kllj-ssmkroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-shroroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-ttmrroom-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-dormitory-ttmrroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-beachhouse-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-beachhouse-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-dream-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-livehouse-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-negative-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-outstage-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-positive-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-river-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-river-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-sea-00-evening",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-sea-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-sea-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-sky-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-sky-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-other-summerstage-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-aquarium-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-arcade-street-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-arcade-street-01-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-cafe-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-gamecenter-in-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-gamecenter-out-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-karaoke-in-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-kcnahouse-corridor-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-kcnahouse-kcnaroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-kcnahouse-out-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-maidcafe-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-mall-entrance-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-mall-passage-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-proom-00-evening",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-proom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-spa-resort-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-sports-facilities-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-station-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-summer-festival-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-themepark-gate-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-themepark-in-00-evening",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-themepark-in-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-themepark-outstage-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-themepark-picnicarea-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-townstreet-00-evening",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-townstreet-00-night",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-townstreet-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-outschool-train-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-cafeteria-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-councilroom-00-evening",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-councilroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-entrance-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-entrance-01-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-ground-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-nurseoffice-00-evening",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-nurseoffice-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-pclassroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-principal-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-store-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-bg-school-teachersroom-00-noon",
+      "name": "交流背景"
+    },
+    {
+      "id": "story-event-003",
+      "name": "1年2组的偶像们"
+    },
+    {
+      "id": "ttmr-001",
+      "name": "Master成就 手毬"
+    },
+    {
+      "id": "ttmr-birthday-01",
+      "name": "叶えたい、ことばかり"
+    }
+  ]
+}

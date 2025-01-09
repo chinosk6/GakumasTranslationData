@@ -1,0 +1,320 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "swapType"
+    ]
+  },
+  "data": [
+    {
+      "id": "Swap_Convert_001",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "课程"
+    },
+    {
+      "id": "Swap_Convert_001",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "回合"
+    },
+    {
+      "id": "Swap_Convert_002",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "课程"
+    },
+    {
+      "id": "Swap_Convert_002",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "考试・舞台"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "课程CLEAR的"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分是"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_NotClear",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "课程未CLEAR"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_NotClear",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分是999以下"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_100",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "10%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_100",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "100"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_1000",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "100%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_1000",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "1000"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_300",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "30%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_300",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "300"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_500",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "50%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_500",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "500"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_DanceLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【舞蹈课・舞蹈回合限定】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_DanceLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "如果是舞蹈回合，"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_SpLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【SP课程限定】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_SpLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "【SP课程限定】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VisualLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【形象课・形象回合限定】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VisualLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "如果是形象回合，"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VocalLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【声乐课・声乐回合限定】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VocalLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "如果是声乐回合，"
+    },
+    {
+      "id": "Swap_Label_ExamCardUpgrade",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "课程中强化"
+    },
+    {
+      "id": "Swap_Label_ExamCardUpgrade",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "考试・舞台中强化"
+    },
+    {
+      "id": "Swap_Label_ExamLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "分数"
+    },
+    {
+      "id": "Swap_Label_ExamLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "分数"
+    },
+    {
+      "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "分数上升值变化"
+    },
+    {
+      "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分上升值变化"
+    },
+    {
+      "id": "Swap_Label_ExamLessonFix",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "固定分数"
+    },
+    {
+      "id": "Swap_Label_ExamLessonFix",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "固定得分"
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultiple",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "数值提升量增加"
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultiple",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分提升量增加"
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultipleDown",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "分数上升量减少"
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultipleDown",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分上升量减少"
+    },
+    {
+      "id": "Swap_Label_ExamStaminaDamage",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "体力减少"
+    },
+    {
+      "id": "Swap_Label_ExamStaminaDamage",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "体力减少"
+    },
+    {
+      "id": "Swap_Label_ExamStaminaRecoverFix",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "体力恢复"
+    },
+    {
+      "id": "Swap_Label_ExamStaminaRecoverFix",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "体力恢复"
+    },
+    {
+      "id": "Swap_Label_LessonAdd",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "数值增加"
+    },
+    {
+      "id": "Swap_Label_LessonAdd",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分值增加"
+    },
+    {
+      "id": "Swap_Label_LessonCountAdd",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "数值上升次数增加"
+    },
+    {
+      "id": "Swap_Label_LessonCountAdd",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分上升次数增加"
+    },
+    {
+      "id": "Swap_Label_LessonCountReduce",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "分数上升次数减少"
+    },
+    {
+      "id": "Swap_Label_LessonCountReduce",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分上升次数减少"
+    },
+    {
+      "id": "Swap_Label_LessonReduce",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "分数值减少"
+    },
+    {
+      "id": "Swap_Label_LessonReduce",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分值减少"
+    },
+    {
+      "id": "Swap_Label_ProduceCardMovePositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "课程中1次"
+    },
+    {
+      "id": "Swap_Label_ProduceCardMovePositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "考试・舞台中1次"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "牌堆的上面"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "牌堆的上面"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckLast",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "牌堆的下面"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckLast",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "牌堆的下面"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "牌堆的随机位置"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "牌堆的随机位置"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Grave",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "弃牌堆"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Grave",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "弃牌堆"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Hand",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "手牌"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Hand",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "手牌"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "除外"
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "除外"
+    }
+  ]
+}

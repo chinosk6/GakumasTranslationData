@@ -1,0 +1,61 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "comeback_daily_release_mission_001_point",
+      "name": "回归任务点数"
+    },
+    {
+      "id": "highscore-event-001_point",
+      "name": "偶像强化月活动点数"
+    },
+    {
+      "id": "highscore-event-002_point",
+      "name": "偶像强化月活动点数"
+    },
+    {
+      "id": "highscore-event-003_point",
+      "name": "高得分活动点数"
+    },
+    {
+      "id": "main-story-event-001_point",
+      "name": "初星交流活动任务Pt"
+    },
+    {
+      "id": "main-story-event-002_point",
+      "name": "初星交流事件点数"
+    },
+    {
+      "id": "main-story-event-003_point",
+      "name": "初星交流事件点数"
+    },
+    {
+      "id": "main-story-event-004_point",
+      "name": "初星交流事件点数"
+    },
+    {
+      "id": "main-story-event-005_point",
+      "name": "初星交流事件点数"
+    },
+    {
+      "id": "main-story-event-006_point",
+      "name": "初星交流活动点数"
+    },
+    {
+      "id": "mission-daily-point",
+      "name": "每日Pt"
+    },
+    {
+      "id": "mission-release_memorial_point",
+      "name": "新手Pt"
+    },
+    {
+      "id": "mission-weekly-point",
+      "name": "每周Pt"
+    }
+  ]
+}

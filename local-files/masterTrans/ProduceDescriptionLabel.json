@@ -1,0 +1,737 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "Convert_001",
+      "name": "课程"
+    },
+    {
+      "id": "Convert_002",
+      "name": "课程"
+    },
+    {
+      "id": "Convert_ConditionThreshold",
+      "name": "课程CLEAR的"
+    },
+    {
+      "id": "Convert_ConditionThreshold_NotClear",
+      "name": "课程未CLEAR"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_100",
+      "name": "10%"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_1000",
+      "name": "100%"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_300",
+      "name": "30%"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_500",
+      "name": "50%"
+    },
+    {
+      "id": "Convert_StepLessonType_DanceLesson",
+      "name": "【舞蹈课・舞蹈回合限定】"
+    },
+    {
+      "id": "Convert_StepLessonType_SpLesson",
+      "name": "【SP课程限定】"
+    },
+    {
+      "id": "Convert_StepLessonType_VisualLesson",
+      "name": "【形象课・形象回合限定】"
+    },
+    {
+      "id": "Convert_StepLessonType_VocalLesson",
+      "name": "【声乐课・声乐回合限定】"
+    },
+    {
+      "id": "Description_LessonCountAdd_CountSection",
+      "name": ""
+    },
+    {
+      "id": "Description_ProduceCardIsInitial",
+      "name": ""
+    },
+    {
+      "id": "Label_ActiveSkillCard",
+      "name": "主动技能卡"
+    },
+    {
+      "id": "Label_AggressiveAdd",
+      "name": "干劲值增加"
+    },
+    {
+      "id": "Label_AggressiveReduce",
+      "name": "干劲值减少"
+    },
+    {
+      "id": "Label_AuditionNpcEnhance",
+      "name": "对手的得分增加"
+    },
+    {
+      "id": "Label_BlockAdd",
+      "name": "元气值增加"
+    },
+    {
+      "id": "Label_BlockReduce",
+      "name": "元气值减少"
+    },
+    {
+      "id": "Label_CardDrawAdd",
+      "name": "抽牌张数增加"
+    },
+    {
+      "id": "Label_CardDrawReduce",
+      "name": "抽牌张数减少"
+    },
+    {
+      "id": "Label_CardStatusEnchantChange",
+      "name": "成长效果替换"
+    },
+    {
+      "id": "Label_CostAdd",
+      "name": "成本值增加"
+    },
+    {
+      "id": "Label_CostAggressiveAdd",
+      "name": "干劲费用值增加"
+    },
+    {
+      "id": "Label_CostAggressiveReduce",
+      "name": "干劲费用值减少"
+    },
+    {
+      "id": "Label_CostBuffAdd",
+      "name": "强化状态消耗增加"
+    },
+    {
+      "id": "Label_CostBuffReduce",
+      "name": "强化状态消耗减少"
+    },
+    {
+      "id": "Label_CostFullPowerPointAdd",
+      "name": "全力值成本值增加"
+    },
+    {
+      "id": "Label_CostFullPowerPointReduce",
+      "name": "全力值成本值减少"
+    },
+    {
+      "id": "Label_CostLessonBuffAdd",
+      "name": "集中成本值增加"
+    },
+    {
+      "id": "Label_CostLessonBuffReduce",
+      "name": "集中成本值减少"
+    },
+    {
+      "id": "Label_CostParameterBuffAdd",
+      "name": "好调成本值增加"
+    },
+    {
+      "id": "Label_CostParameterBuffReduce",
+      "name": "好调成本值减少"
+    },
+    {
+      "id": "Label_CostPenetrateAdd",
+      "name": "体力消耗消耗增加"
+    },
+    {
+      "id": "Label_CostPenetrateReduce",
+      "name": "体力消耗消耗减少"
+    },
+    {
+      "id": "Label_CostReduce",
+      "name": "消耗减少"
+    },
+    {
+      "id": "Label_CostReviewAdd",
+      "name": "好印象成本值增加"
+    },
+    {
+      "id": "Label_CostReviewReduce",
+      "name": "好印象成本值减少"
+    },
+    {
+      "id": "Label_EffectAdd",
+      "name": "效果追加"
+    },
+    {
+      "id": "Label_EffectChange",
+      "name": "效果替换"
+    },
+    {
+      "id": "Label_EffectDelete",
+      "name": "效果删除"
+    },
+    {
+      "id": "Label_ExamAddGrowEffect",
+      "name": "成长"
+    },
+    {
+      "id": "Label_ExamAggressiveReduce",
+      "name": "干劲减少"
+    },
+    {
+      "id": "Label_ExamAntiDebuff",
+      "name": "状态下降无效"
+    },
+    {
+      "id": "Label_ExamBlock",
+      "name": "元气"
+    },
+    {
+      "id": "Label_ExamBlockAddDown",
+      "name": "不安"
+    },
+    {
+      "id": "Label_ExamBlockAddDownRestriction",
+      "name": "不安无效"
+    },
+    {
+      "id": "Label_ExamBlockFix",
+      "name": "固定元气"
+    },
+    {
+      "id": "Label_ExamBlockRestriction",
+      "name": "元气增加无效"
+    },
+    {
+      "id": "Label_ExamCardCreateId",
+      "name": "生成"
+    },
+    {
+      "id": "Label_ExamCardDraw",
+      "name": "抽取技能卡"
+    },
+    {
+      "id": "Label_ExamCardDuplicate",
+      "name": "复制"
+    },
+    {
+      "id": "Label_ExamCardPlayAggressive_Exam",
+      "name": "干劲"
+    },
+    {
+      "id": "Label_ExamCardPlayAggressive_Produce",
+      "name": "干劲"
+    },
+    {
+      "id": "Label_ExamCardSearchEffectPlayCountBuff",
+      "name": "技能卡追加发动"
+    },
+    {
+      "id": "Label_ExamCardSearchEffectPlayCountBuff_Produce",
+      "name": "技能卡追加发动"
+    },
+    {
+      "id": "Label_ExamCardStaminaConsumptionChange",
+      "name": "消耗体力变化"
+    },
+    {
+      "id": "Label_ExamCardStaminaConsumptionDownSpecify",
+      "name": "消耗体力降低"
+    },
+    {
+      "id": "Label_ExamCardUpgrade",
+      "name": "课程中强化"
+    },
+    {
+      "id": "Label_ExamConcentration_Exam",
+      "name": "强气"
+    },
+    {
+      "id": "Label_ExamConcentration_Produce",
+      "name": "强气"
+    },
+    {
+      "id": "Label_ExamDebuffRecover",
+      "name": "低下状态恢复"
+    },
+    {
+      "id": "Label_ExamEffectTimer",
+      "name": "发起预约"
+    },
+    {
+      "id": "Label_ExamExtraTurn",
+      "name": "增加回合"
+    },
+    {
+      "id": "Label_ExamFullPower",
+      "name": "全力"
+    },
+    {
+      "id": "Label_ExamFullPowerPoint",
+      "name": "全力值"
+    },
+    {
+      "id": "Label_ExamFullPowerPointReduce",
+      "name": "全力值减少"
+    },
+    {
+      "id": "Label_ExamGetCardUpgrade",
+      "name": "生成强化"
+    },
+    {
+      "id": "Label_ExamGimmickEnthusiastic_Exam",
+      "name": "热意"
+    },
+    {
+      "id": "Label_ExamGimmickEnthusiastic_Produce",
+      "name": "热意"
+    },
+    {
+      "id": "Label_ExamGimmickLessonDebuff_Exam",
+      "name": "紧张"
+    },
+    {
+      "id": "Label_ExamGimmickLessonDebuff_Produce",
+      "name": "紧张"
+    },
+    {
+      "id": "Label_ExamGimmickParameterDebuff",
+      "name": "不调"
+    },
+    {
+      "id": "Label_ExamGimmickPlayCardLimit",
+      "name": "不可使用"
+    },
+    {
+      "id": "Label_ExamGimmickSleepy_Exam",
+      "name": "没精打采"
+    },
+    {
+      "id": "Label_ExamGimmickSleepy_Produce",
+      "name": "没精打采"
+    },
+    {
+      "id": "Label_ExamGimmickSlump",
+      "name": "低谷"
+    },
+    {
+      "id": "Label_ExamGimmickStartTurnCardDrawDown_Exam",
+      "name": "手牌减少"
+    },
+    {
+      "id": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
+      "name": "手牌减少"
+    },
+    {
+      "id": "Label_ExamGimmickTiredFix_Exam",
+      "name": "疲劳"
+    },
+    {
+      "id": "Label_ExamGimmickTiredFix_Produce",
+      "name": "疲劳"
+    },
+    {
+      "id": "Label_ExamHandGraveCountCardDraw",
+      "name": "交换手牌"
+    },
+    {
+      "id": "Label_ExamHandHold",
+      "name": "手牌延续"
+    },
+    {
+      "id": "Label_ExamLesson",
+      "name": "分数"
+    },
+    {
+      "id": "Label_ExamLessonBuffMultiple",
+      "name": "集中效果暂时增加"
+    },
+    {
+      "id": "Label_ExamLessonBuffReduce",
+      "name": "集中减少"
+    },
+    {
+      "id": "Label_ExamLessonBuff_Exam",
+      "name": "集中"
+    },
+    {
+      "id": "Label_ExamLessonBuff_Produce",
+      "name": "集中"
+    },
+    {
+      "id": "Label_ExamLessonChangeSpecifyLessThan",
+      "name": "分数提升值更改"
+    },
+    {
+      "id": "Label_ExamLessonChangeSpecifyMoreThan",
+      "name": "心不在焉"
+    },
+    {
+      "id": "Label_ExamLessonFix",
+      "name": "固定分数"
+    },
+    {
+      "id": "Label_ExamLessonValueMultiple",
+      "name": "数值提升量增加"
+    },
+    {
+      "id": "Label_ExamLessonValueMultipleDown",
+      "name": "分数上升量减少"
+    },
+    {
+      "id": "Label_ExamPanic",
+      "name": "随意"
+    },
+    {
+      "id": "Label_ExamParameterBuff",
+      "name": "好调"
+    },
+    {
+      "id": "Label_ExamParameterBuffMultiplePerTurn",
+      "name": "绝好调"
+    },
+    {
+      "id": "Label_ExamParameterBuffReduce",
+      "name": "好调减少"
+    },
+    {
+      "id": "Label_ExamPlayableValueAdd_Exam",
+      "name": "技能卡使用数增加"
+    },
+    {
+      "id": "Label_ExamPlayableValueAdd_Produce",
+      "name": "技能卡使用数增加"
+    },
+    {
+      "id": "Label_ExamPlayableValueHold",
+      "name": "使用次数延续"
+    },
+    {
+      "id": "Label_ExamPreservation_Exam",
+      "name": "温存"
+    },
+    {
+      "id": "Label_ExamPreservation_Produce",
+      "name": "温存"
+    },
+    {
+      "id": "Label_ExamReviewReduce",
+      "name": "好印象减少"
+    },
+    {
+      "id": "Label_ExamReview_Exam",
+      "name": "好印象"
+    },
+    {
+      "id": "Label_ExamReview_Produce",
+      "name": "好印象"
+    },
+    {
+      "id": "Label_ExamSearchPlayCardStaminaConsumptionChange",
+      "name": "消耗体力变化"
+    },
+    {
+      "id": "Label_ExamSearchPlayCardValueBuff",
+      "name": "卡片效果增加"
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAdd",
+      "name": "消耗体力增加"
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAddDown",
+      "name": "体耗翻倍效果减少"
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAddFix",
+      "name": "体力消耗增加"
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDown",
+      "name": "消耗体力减少"
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDownAdd",
+      "name": "体耗减半效果增加"
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDownFix",
+      "name": "消耗体力削减"
+    },
+    {
+      "id": "Label_ExamStaminaDamage",
+      "name": "体力减少"
+    },
+    {
+      "id": "Label_ExamStaminaRecoverAdd",
+      "name": "体力恢复效果增加"
+    },
+    {
+      "id": "Label_ExamStaminaRecoverFix",
+      "name": "体力恢复"
+    },
+    {
+      "id": "Label_ExamStaminaRecoverRestriction",
+      "name": "体力恢复无效"
+    },
+    {
+      "id": "Label_ExamStaminaReduceChange",
+      "name": "体力消耗减轻"
+    },
+    {
+      "id": "Label_ExamStaminaReduceFix",
+      "name": "消耗体力"
+    },
+    {
+      "id": "Label_ExamStaminaThresholdAddRestriction",
+      "name": "体耗增加无效"
+    },
+    {
+      "id": "Label_ExamStanceReset",
+      "name": "指针解除"
+    },
+    {
+      "id": "Label_ExamStatusEnchant",
+      "name": "持续效果"
+    },
+    {
+      "id": "Label_ExamUplifting_Exam",
+      "name": "高扬"
+    },
+    {
+      "id": "Label_ExamUplifting_Produce",
+      "name": "高扬"
+    },
+    {
+      "id": "Label_FullPowerPointAdd",
+      "name": "全力值增加"
+    },
+    {
+      "id": "Label_FullPowerPointReduce",
+      "name": "全力值减少"
+    },
+    {
+      "id": "Label_InitialAdd",
+      "name": "开始时手牌效果赋予"
+    },
+    {
+      "id": "Label_LessonAdd",
+      "name": "数值增加"
+    },
+    {
+      "id": "Label_LessonBonus",
+      "name": "数值加成"
+    },
+    {
+      "id": "Label_LessonBuffAdd",
+      "name": "集中值增加"
+    },
+    {
+      "id": "Label_LessonBuffReduce",
+      "name": "集中值减少"
+    },
+    {
+      "id": "Label_LessonCountAdd",
+      "name": "数值上升次数增加"
+    },
+    {
+      "id": "Label_LessonCountReduce",
+      "name": "分数上升次数减少"
+    },
+    {
+      "id": "Label_LessonDependBlockAdd",
+      "name": "元气分分数倍率增加"
+    },
+    {
+      "id": "Label_LessonDependExamCardPlayAggressiveAdd",
+      "name": "干劲分数倍率增加"
+    },
+    {
+      "id": "Label_LessonDependExamReviewAdd",
+      "name": "好印象分数倍率增加"
+    },
+    {
+      "id": "Label_LessonReduce",
+      "name": "分数值减少"
+    },
+    {
+      "id": "Label_LessonSupport",
+      "name": "暂时强化"
+    },
+    {
+      "id": "Label_MentalSkillCard",
+      "name": "精神技能卡"
+    },
+    {
+      "id": "Label_MoveEffectTrigger",
+      "name": "[移动效果]"
+    },
+    {
+      "id": "Label_NoDeckDuplication",
+      "name": "不可重复"
+    },
+    {
+      "id": "Label_ParameterBuffMultiplePerTurnAdd",
+      "name": "绝好调值增加"
+    },
+    {
+      "id": "Label_ParameterBuffMultiplePerTurnReduce",
+      "name": "绝好调值减少"
+    },
+    {
+      "id": "Label_ParameterBuffTurnAdd",
+      "name": "好调值增加"
+    },
+    {
+      "id": "Label_ParameterBuffTurnReduce",
+      "name": "好调值减少"
+    },
+    {
+      "id": "Label_PlayEffectTriggerChange",
+      "name": "替换效果触发条件"
+    },
+    {
+      "id": "Label_PlayMovePositionTypeChange",
+      "name": "使用后移动先变更"
+    },
+    {
+      "id": "Label_PlayTriggerChange",
+      "name": "使用条件替换"
+    },
+    {
+      "id": "Label_ProduceCardChange",
+      "name": "转换"
+    },
+    {
+      "id": "Label_ProduceCardDelete",
+      "name": "删除"
+    },
+    {
+      "id": "Label_ProduceCardDuplicate",
+      "name": "复制"
+    },
+    {
+      "id": "Label_ProduceCardExclude",
+      "name": "技能卡除去"
+    },
+    {
+      "id": "Label_ProduceCardGrowEffect",
+      "name": "[成长辅助]"
+    },
+    {
+      "id": "Label_ProduceCardMovePositionType_Lost",
+      "name": "课程中1次"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_DeckFirst",
+      "name": "牌堆的顶部"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_DeckLast",
+      "name": "牌堆的底部"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_DeckRandom",
+      "name": "牌堆的随机位置"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Grave",
+      "name": "弃牌堆"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Hand",
+      "name": "手牌"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Hold",
+      "name": "保留"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Lost",
+      "name": "除外"
+    },
+    {
+      "id": "Label_ProduceCardUpgrade",
+      "name": "强化"
+    },
+    {
+      "id": "Label_ProducePlanType0",
+      "name": "共通"
+    },
+    {
+      "id": "Label_ProducePlanType1",
+      "name": "感性"
+    },
+    {
+      "id": "Label_ProducePlanType2",
+      "name": "理性"
+    },
+    {
+      "id": "Label_ProducePlanType3",
+      "name": "非凡"
+    },
+    {
+      "id": "Label_ProduceSkillPlanType1",
+      "name": "【感性专用】"
+    },
+    {
+      "id": "Label_ProduceSkillPlanType2",
+      "name": "【理性专用】"
+    },
+    {
+      "id": "Label_ProduceSkillPlanType3",
+      "name": "【非凡专用】"
+    },
+    {
+      "id": "Label_ProduceStepType_EventSchool",
+      "name": "学园活动"
+    },
+    {
+      "id": "Label_ProduceStepType_Present",
+      "name": "礼物"
+    },
+    {
+      "id": "Label_ReviewAdd",
+      "name": "好印象值增加"
+    },
+    {
+      "id": "Label_ReviewReduce",
+      "name": "好印象值减少"
+    },
+    {
+      "id": "Label_ShopProduceCardPriceDiscountMultiple",
+      "name": "咨询的技能卡打折"
+    },
+    {
+      "id": "Label_StaminaConsumptionAddTurnAdd",
+      "name": "体耗翻倍值减少"
+    },
+    {
+      "id": "Label_StaminaConsumptionAddTurnReduce",
+      "name": "体耗翻倍值增加"
+    },
+    {
+      "id": "Label_StaminaConsumptionDownTurnAdd",
+      "name": "体耗减半值增加"
+    },
+    {
+      "id": "Label_StaminaConsumptionDownTurnReduce",
+      "name": "体耗减半值减少"
+    },
+    {
+      "id": "Label_Stance",
+      "name": "指针"
+    },
+    {
+      "id": "Label_StanceLock",
+      "name": "指针固定"
+    },
+    {
+      "id": "Label_TroubleSkillCard",
+      "name": "麻烦卡"
+    }
+  ]
+}

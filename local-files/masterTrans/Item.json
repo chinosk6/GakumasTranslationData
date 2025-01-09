@@ -1,0 +1,807 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "item-coin-box-gasha-event-001",
+      "name": "阿扎西",
+      "description": "在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-coin-box-gasha-event-002",
+      "name": "黄昏闪亮手链",
+      "description": "在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-coin-box-gasha-event-003",
+      "name": "恶作剧满满",
+      "description": "在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-coin-box-gasha-event-004",
+      "name": "加油圣诞老人",
+      "description": "在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-common-idol_card-piece-r",
+      "name": "R偶像的角色碎片",
+      "description": "R可培育偶像的才能开花使用的道具",
+      "acquisitionRouteDescription": "兑换所等等"
+    },
+    {
+      "id": "item-common-idol_card-piece-sr",
+      "name": "SR偶像的角色碎片",
+      "description": "SR可培育偶像的才能开花使用的道具",
+      "acquisitionRouteDescription": "兑换所等等"
+    },
+    {
+      "id": "item-common-idol_card-piece-ssr",
+      "name": "SSR偶像的角色碎片",
+      "description": "SSR可培育偶像的才能开花使用的道具",
+      "acquisitionRouteDescription": "兑换所等等"
+    },
+    {
+      "id": "item-common-support_card-limit-r",
+      "name": "铜的解锁券",
+      "description": "R支援卡的上限解锁使用的道具",
+      "acquisitionRouteDescription": "兑换所等等"
+    },
+    {
+      "id": "item-common-support_card-limit-sr",
+      "name": "金色解锁券",
+      "description": "用于SR支援卡解锁上限的道具",
+      "acquisitionRouteDescription": "兑换所等等"
+    },
+    {
+      "id": "item-common-support_card-limit-ssr",
+      "name": "虹色解锁券",
+      "description": "用于SSR支援卡解锁上限的道具",
+      "acquisitionRouteDescription": "兑换所等等"
+    },
+    {
+      "id": "item-commu-key-001",
+      "name": "记录的钥匙",
+      "description": "可以解锁交流的道具",
+      "acquisitionRouteDescription": "金币交换所等"
+    },
+    {
+      "id": "item-friend_coin",
+      "name": "好友硬币",
+      "description": "用于好友扭蛋的硬币",
+      "acquisitionRouteDescription": "租借、社团捐献等"
+    },
+    {
+      "id": "item-gacha-coin-newyear-001",
+      "name": "初星抽奖券 2025",
+      "description": "恭贺新年！用于抽奖扭蛋的道具",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-gashaitem-10_01",
+      "name": "はつみ印★免费10连扭蛋券",
+      "description": "最多100连免费！可用于TVCM放映纪念10连免费扭蛋的道具",
+      "acquisitionRouteDescription": "TVCM放映纪念登录加成"
+    },
+    {
+      "id": "item-gashaticket-1",
+      "name": "白金扭蛋券",
+      "description": "用于白金扭蛋的票券",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-10",
+      "name": "白金10连扭蛋券",
+      "description": "在白金扭蛋中使用的10连券",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-fix_1",
+      "name": "SSR确定扭蛋票",
+      "description": "SSR确定票在扭蛋中使用的票",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-fix_10-hoten",
+      "name": "SSR10连扭蛋券",
+      "description": "入学纪念48小时限定SSR确定10连扭蛋使用的券",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-fix_1",
+      "name": "SSR P偶像确定扭蛋票",
+      "description": "SSR P偶像确定票在扭蛋中使用的票",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-support-fix_1",
+      "name": "SSR S卡确定扭蛋票",
+      "description": "SSR S卡确定票在扭蛋中使用的票",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-Idolcardpiece-exchange-1",
+      "name": "花",
+      "description": "在交换所使用的道具",
+      "acquisitionRouteDescription": "扭蛋、偶像的碎片交换等"
+    },
+    {
+      "id": "item-limitovermaterial-1",
+      "name": "课程笔记",
+      "description": "培育偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育、课题、成就等"
+    },
+    {
+      "id": "item-limitovermaterial-2",
+      "name": "资深笔记",
+      "description": "培育偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育、工作、金币扭蛋等"
+    },
+    {
+      "id": "item-limitovermaterial-2-a-1",
+      "name": "感性笔记（声乐）",
+      "description": "方案：用于培养感性偶像特训的道具",
+      "acquisitionRouteDescription": "培育（方案：感性的可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-2-a-2",
+      "name": "感性笔记（舞蹈）",
+      "description": "方案：用于培养感性偶像特训的道具",
+      "acquisitionRouteDescription": "培育（方案：感性的可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-2-a-3",
+      "name": "感性笔记（形象）",
+      "description": "方案：用于培养感性偶像特训的道具",
+      "acquisitionRouteDescription": "培育（方案：感性的可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-2-b-1",
+      "name": "理性笔记（声乐）",
+      "description": "方案：用于培养理性偶像特训的道具",
+      "acquisitionRouteDescription": "培育（方案：理性的可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-2-b-2",
+      "name": "理性笔记（舞蹈）",
+      "description": "方案：用于培养理性偶像特训的道具",
+      "acquisitionRouteDescription": "培育（方案：理性的可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-2-b-3",
+      "name": "理性笔记（形象）",
+      "description": "方案：用于培养理性偶像特训的道具",
+      "acquisitionRouteDescription": "培育（方案：理性的可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-2-c-1",
+      "name": "非凡笔记（声乐力）",
+      "description": "非凡方案的可培育偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（非凡方案可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-2-c-2",
+      "name": "非凡笔记（舞蹈力）",
+      "description": "非凡方案的可培育偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（非凡方案可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-2-c-3",
+      "name": "非凡笔记（形象力）",
+      "description": "非凡方案的可培育偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（非凡方案可培育偶像）等"
+    },
+    {
+      "id": "item-limitovermaterial-3",
+      "name": "大师笔记",
+      "description": "培育偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育、竞赛交换所、活动等"
+    },
+    {
+      "id": "item-medal-circle-battle-event-001",
+      "name": "地方巡游奖牌",
+      "description": "在活动交换所可以与各种奖励进行兑换的物品",
+      "acquisitionRouteDescription": "地方巡游活动"
+    },
+    {
+      "id": "item-medal-event-all-001",
+      "name": "初星奖杯",
+      "description": "在初星奖杯兑换所使用的道具",
+      "acquisitionRouteDescription": "活动等"
+    },
+    {
+      "id": "item-medal-main-story-event-001",
+      "name": "初星的书签",
+      "description": "在活动交换所可以与各种奖励进行兑换的物品",
+      "acquisitionRouteDescription": "通过培育获得"
+    },
+    {
+      "id": "item-medal-main-story-event-002",
+      "name": "初星的书签",
+      "description": "在活动交换所可以与各种奖励进行兑换的物品",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-medal-main-story-event-003",
+      "name": "初星的书签",
+      "description": "通过初星交流活动收集后可进行物品交换",
+      "acquisitionRouteDescription": "通过培育获得"
+    },
+    {
+      "id": "item-medal-main-story-event-004",
+      "name": "初星的书签",
+      "description": "在活动交换所可以与各种奖励进行兑换的物品",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-medal-main-story-event-005",
+      "name": "初星的书签",
+      "description": "在活动交换所可以与各种奖励进行兑换的物品",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-medal-main-story-event-006",
+      "name": "初星的书签",
+      "description": "在活动交换所可兑换各种奖励的道具",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-medal-story-event-001",
+      "name": "亲密泡泡",
+      "description": "在活动交换所可以兑换各种奖励",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-medal-story-event-002",
+      "name": "寒风之散盖",
+      "description": "在活动交换所可以与各种奖励进行兑换的物品",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-medal-story-event-003",
+      "name": "团结一致的证明",
+      "description": "在活动交换所可以与各种奖励进行兑换的物品",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-medal-story-event-004",
+      "name": "新星的闪耀",
+      "description": "在活动交换所可以与各种奖励进行兑换的物品",
+      "acquisitionRouteDescription": "培育等"
+    },
+    {
+      "id": "item-memory_exchange-class1",
+      "name": "感性硬币",
+      "description": "用于感性扭蛋的硬币",
+      "acquisitionRouteDescription": "培育（方案：感性的可培育偶像）等"
+    },
+    {
+      "id": "item-memory_exchange-class2",
+      "name": "理性硬币",
+      "description": "用于理性扭蛋的硬币",
+      "acquisitionRouteDescription": "培育（方案：理性的可培育偶像）等"
+    },
+    {
+      "id": "item-memory_exchange-class3",
+      "name": "非凡硬币",
+      "description": "非凡扭蛋专用硬币",
+      "acquisitionRouteDescription": "培育（非凡方案可培育偶像）等"
+    },
+    {
+      "id": "item-memory-inherit",
+      "name": "回忆合成票券",
+      "description": "用于回忆合成的票券",
+      "acquisitionRouteDescription": "方案硬币扭蛋等"
+    },
+    {
+      "id": "item-money",
+      "name": "金币",
+      "description": "用于特训和金币交换所的道具",
+      "acquisitionRouteDescription": "活动资金、工作等"
+    },
+    {
+      "id": "item-piece-idol_amao-1-000",
+      "name": "[学园生活]有村麻央的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_amao-1-001",
+      "name": "[初恋]有村麻央的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_amao-2-000",
+      "name": "[开始时很帅气]有村麻央的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_amao-3-000",
+      "name": "[Fluorite]有村麻央的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_amao-3-001",
+      "name": "[キミとセミブルー]有村麻央的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "活动扭蛋等"
+    },
+    {
+      "id": "item-piece-idol_amao-3-002",
+      "name": "[Feel Jewel Dream]有村麻央的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_amao-3-007",
+      "name": "[Campus mode!!]有村麻央的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_fktn-1-000",
+      "name": "[学园生活]藤田ことね的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_fktn-1-001",
+      "name": "[初声]藤田ことね的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_fktn-2-000",
+      "name": "[可爱♡开始了]藤田ことね的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_fktn-3-000",
+      "name": "[世界上最可爱的我]藤田ことね的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_fktn-3-001",
+      "name": "[Yellow Big Bang!]藤田ことね的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_fktn-3-002",
+      "name": "[冠菊]藤田ことね的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_fktn-3-006",
+      "name": "[White Night! White Wish!]藤田ことね的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "活动扭蛋等"
+    },
+    {
+      "id": "item-piece-idol_fktn-3-007",
+      "name": "[Campus mode!!]藤田ことね的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hrnm-1-000",
+      "name": "[学园生活]姬崎莉波的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hrnm-1-001",
+      "name": "[初心]姫崎莉波的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hrnm-2-000",
+      "name": "[开始『我的风格』]姫崎莉波的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-000",
+      "name": "[clumsy trick]姬崎莉波的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-001",
+      "name": "[与你共鸣的蓝色]姫崎莉波的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-002",
+      "name": "[L.U.V]姫崎莉波的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-004",
+      "name": "[欢迎来到初星温泉]姫崎莉波的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-007",
+      "name": "[Campus mode!!]姫崎莉波的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hski-1-000",
+      "name": "[学园生活]花海咲季的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hski-1-001",
+      "name": "[初声]花海咲季的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hski-2-000",
+      "name": "[我最棒！]花海咲季的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hski-3-000",
+      "name": "[Fighting My Way]花海咲季的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hski-3-001",
+      "name": "[Boom Boom Pow]花海咲季的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hski-3-002",
+      "name": "[冠菊]花海咲季的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "活动扭蛋等"
+    },
+    {
+      "id": "item-piece-idol_hski-3-006",
+      "name": "[古今东西轻松搞定]花海咲季的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hski-3-008",
+      "name": "[Campus mode]花海咲季的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hume-1-000",
+      "name": "[校园生活]花海佑芽的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hume-2-000",
+      "name": "[偶像，开始吧！]花海佑芽的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hume-3-000",
+      "name": "[The Rolling Riceball]花海佑芽的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hume-3-005",
+      "name": "[White Night! White Wish!]花海佑芽的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_hume-3-006",
+      "name": "[Campus mode!!]花海佑芽的角色碎片",
+      "description": "用于可培育偶像的开花或解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等"
+    },
+    {
+      "id": "item-piece-idol_jsna-1-000",
+      "name": "[校园生活]十王星南的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_jsna-2-000",
+      "name": "[第一颗星]十王星南的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_jsna-3-000",
+      "name": "[小小的野望]十王星南的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_jsna-3-002",
+      "name": "[Campus mode]十王星南的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kcna-1-000",
+      "name": "[学园生活]仓本千奈的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kcna-1-001",
+      "name": "[初心]倉本千奈的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kcna-2-000",
+      "name": "[挺胸一步步]倉本千奈的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kcna-3-000",
+      "name": "[Wonder Scale]仓本千奈的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kcna-3-001",
+      "name": "[每日，发现的步伐！]倉本千奈的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kcna-3-002",
+      "name": "[假装狂想曲]仓本千奈的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "活动扭蛋等"
+    },
+    {
+      "id": "item-piece-idol_kcna-3-005",
+      "name": "[欢迎来到初星温泉]仓本千奈的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kcna-3-007",
+      "name": "[Campus mode!!]仓本千奈的角色碎片",
+      "description": "用于可培育偶像的开花或解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等"
+    },
+    {
+      "id": "item-piece-idol_kllj-1-000",
+      "name": "[学园生活]葛城莉莉娅的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kllj-1-001",
+      "name": "[初心]葛城丽莉亚的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kllj-2-000",
+      "name": "[踏出一步之后]葛城丽莉亚的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kllj-3-000",
+      "name": "[白线]葛城莉莉娅的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kllj-3-001",
+      "name": "[冠菊]葛城丽莉亚的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_kllj-3-005",
+      "name": "[White Night! White Wish!]葛城丽莉亚的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_shro-1-000",
+      "name": "[学园生活]篠泽广的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_shro-1-001",
+      "name": "[初恋]筱泽广的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_shro-2-000",
+      "name": "[最不擅长的事]筱泽广的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_shro-3-000",
+      "name": "[光景]篠泽广的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_shro-3-001",
+      "name": "[对比]筱泽广的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_shro-3-002",
+      "name": "[假装狂想曲]筱泽广的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_shro-3-007",
+      "name": "[Campus mode!!]篠泽广的角色碎片",
+      "description": "用于可培育偶像的开花或解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等"
+    },
+    {
+      "id": "item-piece-idol_ssmk-1-000",
+      "name": "[学园生活]紫云清夏的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ssmk-1-001",
+      "name": "[初恋]紫云清夏的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ssmk-2-000",
+      "name": "[梦想的重新开始]紫云清夏的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-000",
+      "name": "[Tame-Lie-One-Step]紫云清夏的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-001",
+      "name": "[与你的浅蓝]紫云清夏的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-002",
+      "name": "[隐藏的我]紫云清夏的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ttmr-1-000",
+      "name": "[学园生活]月村手毬的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ttmr-1-001",
+      "name": "[初声]月村手毬的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ttmr-2-000",
+      "name": "[一匹狼]月村手毬的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-000",
+      "name": "[Luna say maybe]月村手毬的碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-001",
+      "name": "[艾维]月村手毬的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-002",
+      "name": "[化装狂欢曲]月村手毬的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-007",
+      "name": "[Campus mode!!]月村手毬的角色碎片",
+      "description": "用于可培育偶像的才能开花和解锁的道具",
+      "acquisitionRouteDescription": "扭蛋等等"
+    },
+    {
+      "id": "item-produce_continue-1",
+      "name": "再挑战券",
+      "description": "培育时用于再挑战的票券",
+      "acquisitionRouteDescription": "AP交换所等等"
+    },
+    {
+      "id": "item-produce-reroll-memory-001",
+      "name": "回忆再生成券",
+      "description": "培育的回忆再生成时使用的券",
+      "acquisitionRouteDescription": "AP交换所等等"
+    },
+    {
+      "id": "item-produceboostreward_limitovermaterial-1",
+      "name": "获取笔记数提升",
+      "description": "在培育开始时使用可使特训道具的获得量上升200%的获得量上升道具",
+      "acquisitionRouteDescription": "AP交换所等等"
+    },
+    {
+      "id": "item-produceboostreward_support_card_enhance_point-1",
+      "name": "获取支援强化Pt提升",
+      "description": "在培育开始时使用可使支援强化Pt的获得量上升200%的获得量上升道具",
+      "acquisitionRouteDescription": "AP交换所等等"
+    },
+    {
+      "id": "item-pvp_rate_coin-1",
+      "name": "竞赛勋章",
+      "description": "在交换所使用的金币",
+      "acquisitionRouteDescription": "比赛"
+    },
+    {
+      "id": "item-selection-ticket-001",
+      "name": "半年庆精选券",
+      "description": "在票券兑换所可兑换可培育偶像和支援卡的票券",
+      "acquisitionRouteDescription": "商店等"
+    },
+    {
+      "id": "item-staminaregen-1",
+      "name": "AP饮料",
+      "description": "能恢复20 AP的饮料",
+      "acquisitionRouteDescription": "任务、制作人Lv提升奖励等"
+    },
+    {
+      "id": "item-support_card_enhance_point",
+      "name": "支援强化点",
+      "description": "用于强化支援卡的点数",
+      "acquisitionRouteDescription": "培育、工作、课题、成就等"
+    },
+    {
+      "id": "item-support_card-exchange-1",
+      "name": "支援之证",
+      "description": "在交换所使用的道具",
+      "acquisitionRouteDescription": "支援转换等"
+    }
+  ]
+}

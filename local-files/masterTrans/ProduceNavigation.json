@@ -1,0 +1,1315 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 1,
+      "description": "看起来你通过考试的实力是足够的！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 2,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 3,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 4,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 5,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 6,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 7,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 8,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 9,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 10,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 11,
+      "description": "声乐力好像不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 12,
+      "description": "舞蹈力好像不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 13,
+      "description": "形象力好像不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 14,
+      "description": "声乐力好像不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 15,
+      "description": "舞蹈力好像不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 16,
+      "description": "形象力好像不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 17,
+      "description": "声乐力好像不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 18,
+      "description": "舞蹈力好像不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 19,
+      "description": "形象力好像不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 20,
+      "description": "声乐力好像严重不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 21,
+      "description": "舞蹈力好像严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 22,
+      "description": "形象力好像严重不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 23,
+      "description": "声乐力好像严重不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 24,
+      "description": "舞蹈力好像严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 25,
+      "description": "形象力好像严重不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 26,
+      "description": "声乐力好像严重不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 27,
+      "description": "舞蹈力好像严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 28,
+      "description": "形象力好像严重不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 1,
+      "description": "就差一点了呢！\n试着调整一下卡牌的使用顺序吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 2,
+      "description": "通过培训「基础：好调」\n可以学习基本的事情哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 3,
+      "description": "通过培训「基础：集中」\n可以学习基本的事情哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 4,
+      "description": "通过培训「基础：好印象」\n可以学习基本的事情哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 5,
+      "description": "通过培训「基础：干劲」\n可以学习基本的事情哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 6,
+      "description": "亲密度提高时，得分加成\n也会提高哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 7,
+      "description": "好像变成体力不足了呢\n试着注意一下体力分配吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 8,
+      "description": "在好调状态下，在得分加成高的\n回合使用卡牌吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 9,
+      "description": "在集中度高的状态下，在得分加成高的回合使用卡片吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 10,
+      "description": "试着多累积好印象吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 11,
+      "description": "根据元气值收集分数的卡片活用吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 12,
+      "description": "声乐似乎有些微差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 13,
+      "description": "舞蹈似乎有些微差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 14,
+      "description": "形象似乎有些微差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 15,
+      "description": "声乐似乎有些微差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 16,
+      "description": "舞蹈似乎有些微差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 17,
+      "description": "形象似乎有些微差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 18,
+      "description": "声乐似乎有差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 19,
+      "description": "舞蹈似乎有差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 20,
+      "description": "形象似乎有差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 21,
+      "description": "声乐似乎有差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 22,
+      "description": "舞蹈似乎有差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 23,
+      "description": "形象似乎有差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 24,
+      "description": "声乐似乎有差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 25,
+      "description": "舞蹈似乎有差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 26,
+      "description": "形象似乎有差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 27,
+      "description": "声乐似乎有大的差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 28,
+      "description": "舞蹈似乎有大的差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 29,
+      "description": "形象似乎有大的差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 30,
+      "description": "声乐似乎有大的差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 31,
+      "description": "舞蹈似乎有大的差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 32,
+      "description": "形象似乎有大的差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 33,
+      "description": "声乐似乎有大的差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 34,
+      "description": "舞蹈似乎有大的差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 35,
+      "description": "形象似乎有大的差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 2,
+      "description": "实力是足够的，但不要松懈，挑战最后的考试吧!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 3,
+      "description": "你拥有足够的实力通过最终考试!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 4,
+      "description": "声乐有些不安，但还有可能赢哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 5,
+      "description": "舞蹈有些不安，但还有可能赢哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 6,
+      "description": "形象有些不安，但还有可能赢哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 7,
+      "description": "实力是足够的，但不要松懈，挑战考试吧!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 8,
+      "description": "实力是足够的，一定能通过考试哦!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 9,
+      "description": "声乐有些不安，但还有可能赢哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 10,
+      "description": "舞蹈有些不安，但还有可能赢哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 11,
+      "description": "形象有些不安，但还有可能赢哦"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 12,
+      "description": "有P点数呢\n和老师咨询一下，整理准备一下吧？"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 13,
+      "description": "真是太好了！\n看来已经有足够的实力了"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 14,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 15,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 16,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 17,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 18,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 19,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 20,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 21,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 22,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 23,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 24,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 25,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 26,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 27,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 28,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 29,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 30,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 31,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 32,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 33,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 34,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 35,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 36,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 37,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 38,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 39,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 40,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 41,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 42,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 43,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 44,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 45,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 46,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 47,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 48,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 49,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 50,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 51,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 52,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 53,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 54,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 55,
+      "description": "声乐力好像不够呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 56,
+      "description": "舞蹈力好像不够呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 57,
+      "description": "形象力好像不够呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 58,
+      "description": "声乐力好像不够呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 59,
+      "description": "舞蹈力好像不够呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 60,
+      "description": "形象力好像不够呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 61,
+      "description": "声乐力好像不够呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 62,
+      "description": "舞蹈力好像不够呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 63,
+      "description": "形象力好像不够呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 64,
+      "description": "声乐力似乎严重不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 65,
+      "description": "舞蹈力似乎严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 66,
+      "description": "形象力似乎严重不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 67,
+      "description": "声乐力似乎严重不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 68,
+      "description": "舞蹈力似乎严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 69,
+      "description": "形象力似乎严重不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 70,
+      "description": "声乐力似乎严重不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 71,
+      "description": "舞蹈力似乎严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 72,
+      "description": "形象力似乎严重不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 73,
+      "description": "体力好像不多了\n让偶像休息一下吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial",
+      "number": 1,
+      "description": "声乐力好像不够呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial",
+      "number": 2,
+      "description": "舞蹈力好像不够呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial",
+      "number": 3,
+      "description": "形象力好像不够呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial",
+      "number": 4,
+      "description": "体力好像不多了\n让偶像休息一下吧"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial-audition",
+      "number": 1,
+      "description": "声乐力好像不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial-audition",
+      "number": 2,
+      "description": "舞蹈力好像不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial-audition",
+      "number": 3,
+      "description": "形象力好像不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial-audition",
+      "number": 4,
+      "description": "体力好像不多了\n让偶像休息一下吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 1,
+      "description": "看起来，有足够的实力通过试镜呢！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 2,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 3,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 4,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 5,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 6,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 7,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 8,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 9,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 10,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 11,
+      "description": "声乐力好像不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 12,
+      "description": "舞蹈力好像不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 13,
+      "description": "形象力好像不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 14,
+      "description": "声乐力好像不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 15,
+      "description": "舞蹈力好像不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 16,
+      "description": "形象力好像不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 17,
+      "description": "声乐力好像不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 18,
+      "description": "舞蹈力好像不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 19,
+      "description": "形象力好像不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 20,
+      "description": "声乐力好像严重不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 21,
+      "description": "舞蹈力好像严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 22,
+      "description": "形象力好像严重不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 23,
+      "description": "声乐力好像严重不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 24,
+      "description": "舞蹈力好像严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 25,
+      "description": "形象力好像严重不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 26,
+      "description": "声乐力好像严重不足呢\n<COLOR_VOCAL>声乐力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 27,
+      "description": "舞蹈力好像严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 28,
+      "description": "形象力好像严重不足呢\n<COLOR_VISUAL>形象力</color>课程来加强吧！"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 1,
+      "description": "粉丝投票数越多\n得分加成的值就越高哦"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 2,
+      "description": "好像变成体力不足了呢\n试着注意一下体力分配吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 3,
+      "description": "声乐似乎有些微差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 4,
+      "description": "舞蹈似乎有些微差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 5,
+      "description": "形象似乎有些微差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 6,
+      "description": "声乐似乎有些微差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 7,
+      "description": "舞蹈似乎有些微差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 8,
+      "description": "形象似乎有些微差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 9,
+      "description": "声乐似乎有差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 10,
+      "description": "舞蹈似乎有差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 11,
+      "description": "形象似乎有差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 12,
+      "description": "声乐似乎有差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 13,
+      "description": "舞蹈似乎有差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 14,
+      "description": "形象似乎有差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 15,
+      "description": "声乐似乎有差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 16,
+      "description": "舞蹈似乎有差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 17,
+      "description": "形象似乎有差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 18,
+      "description": "声乐似乎有大的差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 19,
+      "description": "舞蹈似乎有大的差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 20,
+      "description": "形象似乎有大的差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 21,
+      "description": "声乐似乎有大的差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 22,
+      "description": "舞蹈似乎有大的差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 23,
+      "description": "形象似乎有大的差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 24,
+      "description": "声乐似乎有大的差距\n用<COLOR_VOCAL>声乐</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 25,
+      "description": "舞蹈似乎有大的差距\n用<COLOR_DANCE>舞蹈</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 26,
+      "description": "形象似乎有大的差距\n用<COLOR_VISUAL>形象</color>课程强化吧"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 2,
+      "description": "P点数有啊。特别指导中，\n准备试镜不吗？"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 3,
+      "description": "有P点数呢\n和老师咨询一下，整理准备一下吧？"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 4,
+      "description": "真是太好了！\n看来已经有足够的实力了"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 5,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 6,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 7,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 8,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 9,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 10,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 11,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 12,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 13,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 14,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 15,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 16,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 17,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 18,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 19,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 20,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 21,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 22,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 23,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 24,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 25,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 26,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 27,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 28,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 29,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 30,
+      "description": "实力已经足够了。为了追求好成绩，\n<COLOR_VISUAL>形象力</color>课程是个不错的选择！"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 31,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 32,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 33,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 34,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 35,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 36,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 37,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 38,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 39,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 40,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 41,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 42,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 43,
+      "description": "声乐力好像有点不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 44,
+      "description": "舞蹈力好像有点不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 45,
+      "description": "形象力好像有点不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 46,
+      "description": "声乐力好像不够呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 47,
+      "description": "舞蹈力好像不够呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 48,
+      "description": "形象力好像不够呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 49,
+      "description": "声乐力好像不够呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 50,
+      "description": "舞蹈力好像不够呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 51,
+      "description": "形象力好像不够呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 52,
+      "description": "声乐力好像不够呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 53,
+      "description": "舞蹈力好像不够呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 54,
+      "description": "形象力好像不够呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 55,
+      "description": "声乐力似乎严重不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 56,
+      "description": "舞蹈力似乎严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 57,
+      "description": "形象力似乎严重不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 58,
+      "description": "声乐力似乎严重不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 59,
+      "description": "舞蹈力似乎严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 60,
+      "description": "形象力似乎严重不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 61,
+      "description": "声乐力似乎严重不足呢\n<COLOR_VOCAL>声乐力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 62,
+      "description": "舞蹈力似乎严重不足呢\n<COLOR_DANCE>舞蹈力</color>课程是个不错的选择"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 63,
+      "description": "形象力似乎严重不足呢\n<COLOR_VISUAL>形象力</color>课程是个不错的选择"
+    }
+  ]
+}

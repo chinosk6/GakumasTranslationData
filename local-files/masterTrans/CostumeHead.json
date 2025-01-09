@@ -1,0 +1,769 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "costume_head_amao-casl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_amao-casl-0001",
+      "name": "真正的我",
+      "description": "将有村麻央的亲密度Lv提升到10"
+    },
+    {
+      "id": "costume_head_amao-cstm-0004",
+      "name": "Fluorite",
+      "description": "【Fluorite】获取有村 麻央"
+    },
+    {
+      "id": "costume_head_amao-cstm-0016",
+      "name": "Fluorite",
+      "description": "【Fluorite】有村 麻央在才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_amao-cstm-0035",
+      "name": "Feel Jewel Dream",
+      "description": "【Feel Jewel Dream】获得有村麻央"
+    },
+    {
+      "id": "costume_head_amao-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得有村麻央"
+    },
+    {
+      "id": "costume_head_amao-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】有村麻央的才能开花第4阶段获得"
+    },
+    {
+      "id": "costume_head_amao-cstm-0063",
+      "name": "冠菊",
+      "description": "【Fluorite】'24祭 获得有村 麻央"
+    },
+    {
+      "id": "costume_head_amao-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【Fluorite】获得'24万圣节 有村 麻央"
+    },
+    {
+      "id": "costume_head_amao-hair-0000",
+      "name": "真正的萤石",
+      "description": "将有村麻央的亲密度Lv提升到10"
+    },
+    {
+      "id": "costume_head_amao-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年6月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_amao-hair-0002",
+      "name": "公主皇冠",
+      "description": "完成有村麻央的偶像之路舞台20"
+    },
+    {
+      "id": "costume_head_amao-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年9月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_amao-hair-0004",
+      "name": "猫耳",
+      "description": "尊享任务通行证 2025年1月获得"
+    },
+    {
+      "id": "costume_head_atbm-schl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_fktn-casl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0001",
+      "name": "世界一可愛い私",
+      "description": "【世界第一可爱的我】获得藤田琴音"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0013",
+      "name": "世界一可愛い私",
+      "description": "【世界第一可爱的我】获得藤田琴音的才能绽放4阶段"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0027",
+      "name": "Yellow Big Bang！",
+      "description": "【Yellow Big Bang！】获取藤田 琴音"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0028",
+      "name": "Yellow Big Bang！",
+      "description": "【Yellow Big Bang！】藤田 琴音在才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0045",
+      "name": "冠菊",
+      "description": "【冠菊】藤田 ことねを入手"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0046",
+      "name": "冠菊",
+      "description": "【冠菊】藤田 ことね的才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得藤田 ことね"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】藤田 ことね的才华开花第4阶段取得"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【世界上最可爱的我】'24万圣节 藤田 ことねを入手"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0072",
+      "name": "金色的光辉",
+      "description": "藤田琴音的偶像之路通关阶段10"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "藤田琴音的偶像之路通关阶段15"
+    },
+    {
+      "id": "costume_head_fktn-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年5月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_fktn-hair-0002",
+      "name": "公主皇冠",
+      "description": "藤田琴音的偶像之路通关阶段20"
+    },
+    {
+      "id": "costume_head_fktn-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年10月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_fktn-hair-0004",
+      "name": "猫耳",
+      "description": "2024年11月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_hmsz-casl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0005",
+      "name": "clumsy trick",
+      "description": "【clumsy trick】获得姫崎莉波"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0017",
+      "name": "clumsy trick",
+      "description": "【clumsy trick】获得姫崎莉波的才能绽放4阶段"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0037",
+      "name": "L.U.V",
+      "description": "【L.U.V】获得姫崎 莉波"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0038",
+      "name": "L.U.V",
+      "description": "【L.U.V】姫崎 莉波的才华开花第4阶段取得"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0043",
+      "name": "キミとセミブルー",
+      "description": "【你与半蓝】获得姫崎莉波"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0044",
+      "name": "キミとセミブルー",
+      "description": "【与你的半蓝】姫崎 莉波的才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得姬崎莉波"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】姬崎莉波的才能开花第4阶段获得"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0063",
+      "name": "冠菊",
+      "description": "【clumsy trick】'24祭 获得姫崎 莉波"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【clumsy trick】'24万圣节 姫崎 莉波を入手"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0072",
+      "name": "金色的光辉",
+      "description": "姬崎莉波的偶像之路 舞台10通关"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "姬崎莉波的偶像之路 舞台15通关"
+    },
+    {
+      "id": "costume_head_hrnm-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年7月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_hrnm-hair-0002",
+      "name": "公主皇冠",
+      "description": "姬崎莉波的偶像之路 舞台20通关"
+    },
+    {
+      "id": "costume_head_hrnm-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年10月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_hrnm-hair-0004",
+      "name": "猫耳",
+      "description": "尊享任务通行证 2025年1月获得"
+    },
+    {
+      "id": "costume_head_hrnm-schl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_hski-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_hski-cstm-0002",
+      "name": "Fighting My Way",
+      "description": "【Fighting My Way】获取花海 咲季"
+    },
+    {
+      "id": "costume_head_hski-cstm-0014",
+      "name": "Fighting My Way",
+      "description": "【Fighting My Way】花海 咲季在才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_hski-cstm-0029",
+      "name": "Boom Boom Pow",
+      "description": "【Boom Boom Pow】获取花海 咲季"
+    },
+    {
+      "id": "costume_head_hski-cstm-0030",
+      "name": "Boom Boom Pow",
+      "description": "【Boom Boom Pow】花海 咲季在才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_hski-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得花海咲季"
+    },
+    {
+      "id": "costume_head_hski-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】花海咲季的才能开花第4阶段获得"
+    },
+    {
+      "id": "costume_head_hski-cstm-0063",
+      "name": "冠菊",
+      "description": "【冠菊】获得花海 咲季"
+    },
+    {
+      "id": "costume_head_hski-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【Fighting My Way】获得'24万圣节 花海 咲季"
+    },
+    {
+      "id": "costume_head_hski-cstm-0070",
+      "name": "古今东西轻轻松松",
+      "description": "【古今东西ちょちょいのちょい】花海 咲季获得"
+    },
+    {
+      "id": "costume_head_hski-cstm-0072",
+      "name": "金色的光辉",
+      "description": "花海咲季的偶像之路通关阶段10"
+    },
+    {
+      "id": "costume_head_hski-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "花海咲季的偶像之路通关阶段15"
+    },
+    {
+      "id": "costume_head_hski-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年5月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_hski-hair-0002",
+      "name": "公主皇冠",
+      "description": "花海咲季的偶像之路通关阶段20"
+    },
+    {
+      "id": "costume_head_hski-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年8月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_hski-hair-0004",
+      "name": "猫耳",
+      "description": "2024年11月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_hski-schl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_hume-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_hume-cstm-0010",
+      "name": "The Rolling Riceball",
+      "description": "【The Rolling Riceball】获取花海 佑芽"
+    },
+    {
+      "id": "costume_head_hume-cstm-0022",
+      "name": "The Rolling Riceball",
+      "description": "【The Rolling Riceball】花海 佑芽在才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_hume-cstm-0049",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】获得花海 佑芽"
+    },
+    {
+      "id": "costume_head_hume-cstm-0050",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】花海 佑芽的才华开花第4阶段取得"
+    },
+    {
+      "id": "costume_head_hume-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得花海佑芽"
+    },
+    {
+      "id": "costume_head_hume-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】通过花海佑芽的才能开花第4阶段获得"
+    },
+    {
+      "id": "costume_head_hume-cstm-0063",
+      "name": "冠菊",
+      "description": "【The Rolling Riceball】获得'24祭 花海 佑芽"
+    },
+    {
+      "id": "costume_head_hume-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【The Rolling Riceball】获得'24万圣节 花海 佑芽"
+    },
+    {
+      "id": "costume_head_hume-cstm-0072",
+      "name": "金色的光辉",
+      "description": "花海佑芽的偶像之路 舞台10通关"
+    },
+    {
+      "id": "costume_head_hume-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "花海佑芽的偶像之路 舞台15通关"
+    },
+    {
+      "id": "costume_head_hume-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "购买紫阳花发饰（花海佑芽）"
+    },
+    {
+      "id": "costume_head_hume-hair-0002",
+      "name": "公主皇冠",
+      "description": "花海佑芽的偶像之路 舞台20通关"
+    },
+    {
+      "id": "costume_head_hume-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年10月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_hume-hair-0004",
+      "name": "猫耳",
+      "description": "2024年12月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_hume-schl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_jsna-cstm-0012",
+      "name": "小小野望",
+      "description": "【小小的野心】十王 星南获得"
+    },
+    {
+      "id": "costume_head_jsna-cstm-0024",
+      "name": "小小野望",
+      "description": "【小小的野心】十王 星南的才能开花4阶段获得"
+    },
+    {
+      "id": "costume_head_jsna-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得十王星南"
+    },
+    {
+      "id": "costume_head_jsna-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "购买紫阳花发饰（十王星南）"
+    },
+    {
+      "id": "costume_head_jsna-hair-0002",
+      "name": "公主皇冠",
+      "description": "十王星南的偶像之路 舞台20通关"
+    },
+    {
+      "id": "costume_head_jsna-hair-0003",
+      "name": "圆框眼镜",
+      "description": "购买圆形眼镜（十王星南）"
+    },
+    {
+      "id": "costume_head_jsna-hair-0004",
+      "name": "猫耳",
+      "description": "2024年12月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_jsna-schl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_kcna-casl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0008",
+      "name": "Wonder Scale",
+      "description": "【Wonder Scale】获取仓本 千奈"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0020",
+      "name": "Wonder Scale",
+      "description": "【Wonder Scale】仓本 千奈在才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0033",
+      "name": "日々、発見的ステップ！",
+      "description": "【日常、发现性的步骤！】倉本 千奈获得"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0034",
+      "name": "日々、発見的ステップ！",
+      "description": "【日常、发现性的步骤！】倉本 千奈的才能开花4阶段获得"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得仓本千奈"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0063",
+      "name": "冠菊",
+      "description": "【Wonder Scale】'24祭 仓本 千奈を入手"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】仓本 千奈を入手"
+    },
+    {
+      "id": "costume_head_kcna-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年7月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_kcna-hair-0002",
+      "name": "公主皇冠",
+      "description": "倉本千奈的偶像之路 舞台20完成"
+    },
+    {
+      "id": "costume_head_kcna-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年10月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_kcna-hair-0004",
+      "name": "猫耳",
+      "description": "2024年12月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0007",
+      "name": "白線",
+      "description": "【白線】获得葛城莉莉娅"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0045",
+      "name": "冠菊",
+      "description": "【冠菊】获得葛城 莉莉娅"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0046",
+      "name": "冠菊",
+      "description": "【冠菊】葛城 莉莉娅的才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0049",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】获得葛城 リーリヤ"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0050",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】葛城 リーリヤ的才华开花第4阶段取得"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【白线】'24万圣节 葛城 リーリヤ获得"
+    },
+    {
+      "id": "costume_head_kllj-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年7月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_kllj-hair-0002",
+      "name": "公主皇冠",
+      "description": "葛城莉莉亚的偶像之路通关第20关"
+    },
+    {
+      "id": "costume_head_kllj-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年9月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_kllj-hair-0004",
+      "name": "猫耳",
+      "description": "尊享任务通行证 2025年1月获得"
+    },
+    {
+      "id": "costume_head_kllj-schl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_shro-casl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_shro-cstm-0006",
+      "name": "光景",
+      "description": "【光景】获得筱泽广"
+    },
+    {
+      "id": "costume_head_shro-cstm-0031",
+      "name": "コントラスト",
+      "description": "【对比】获得篠泽 広"
+    },
+    {
+      "id": "costume_head_shro-cstm-0047",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】篠泽 広を入手"
+    },
+    {
+      "id": "costume_head_shro-cstm-0048",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】篠泽 広的才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_shro-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得筱泽广"
+    },
+    {
+      "id": "costume_head_shro-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】通过筱泽广的才能开花第4阶段获得"
+    },
+    {
+      "id": "costume_head_shro-cstm-0063",
+      "name": "冠菊",
+      "description": "【光景】'24祭 篠泽 広を入手"
+    },
+    {
+      "id": "costume_head_shro-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年6月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_shro-hair-0002",
+      "name": "公主皇冠",
+      "description": "通关篠澤広的偶像之路第20关"
+    },
+    {
+      "id": "costume_head_shro-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年8月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_shro-hair-0004",
+      "name": "猫耳",
+      "description": "2024年12月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0009",
+      "name": "Tame-Lie-One-Step",
+      "description": "【Tame-Lie-One-Step】获取紫云 清夏"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0039",
+      "name": "隐藏的我",
+      "description": "【隐秘的我】紫云 清夏を入手"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0043",
+      "name": "キミとセミブルー",
+      "description": "【你与半蓝】获得紫云清夏"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0044",
+      "name": "キミとセミブルー",
+      "description": "【你与半蓝】获得紫云清夏的才能绽放4阶段"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0063",
+      "name": "冠菊",
+      "description": "【Tame-Lie-One-Step】'24祭 获得紫云 清夏"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0065",
+      "name": "假装狂躁曲",
+      "description": "【Tame-Lie-One-Step】获得'24万圣节 紫雲 清夏"
+    },
+    {
+      "id": "costume_head_ssmk-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年6月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_ssmk-hair-0002",
+      "name": "公主皇冠",
+      "description": "紫云清夏的偶像之路通关第20关"
+    },
+    {
+      "id": "costume_head_ssmk-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年8月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_ssmk-hair-0004",
+      "name": "猫耳",
+      "description": "尊享任务通行证 2025年1月获得"
+    },
+    {
+      "id": "costume_head_ssmk-schl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_ttmr-casl-0000",
+      "name": "平时的发型",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0000",
+      "name": "初（はじめ）",
+      "description": "一开始就拥有"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0003",
+      "name": "Luna say maybe",
+      "description": "【Luna say maybe】获取月村 手毬"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0025",
+      "name": "アイヴイ",
+      "description": "【Ivy】获得月村手毬"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0047",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】月村 手毬を入手"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0048",
+      "name": "假装狂躁曲",
+      "description": "【化装狂想曲】月村 手毬的才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得月村手毬"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0063",
+      "name": "冠菊",
+      "description": "【Luna say maybe】'24祭 获得月村 手毬"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0072",
+      "name": "金色的光辉",
+      "description": "月村手毬的偶像之路通关第10关"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0073",
+      "name": "铂金的光辉",
+      "description": "月村手毬的偶像之路通关第15关"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0001",
+      "name": "紫阳花发饰",
+      "description": "2024年5月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0002",
+      "name": "公主皇冠",
+      "description": "月村手毬的偶像之路通关第20关"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0003",
+      "name": "圆框眼镜",
+      "description": "2024年9月的高级任务通行证获得"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0004",
+      "name": "猫耳",
+      "description": "2024年11月的高级任务通行证获得"
+    }
+  ]
+}

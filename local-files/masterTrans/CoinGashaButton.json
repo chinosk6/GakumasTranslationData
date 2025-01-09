@@ -1,0 +1,54 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "box-gasha-event-001_box_01_button",
+      "name": "抽",
+      "description": "抽"
+    },
+    {
+      "id": "box-gasha-event-002_box_01_button",
+      "name": "抽",
+      "description": "抽"
+    },
+    {
+      "id": "box-gasha-event-003_box_01_button",
+      "name": "抽",
+      "description": "抽"
+    },
+    {
+      "id": "box-gasha-event-004_box_01_button",
+      "name": "抽",
+      "description": "抽"
+    },
+    {
+      "id": "coin_gasha_button-1-001",
+      "name": "抽取1次",
+      "description": "抽取1次"
+    },
+    {
+      "id": "coin_gasha_button-1-002",
+      "name": "抽取1次",
+      "description": "抽取1次"
+    },
+    {
+      "id": "coin_gasha_button-1-003",
+      "name": "抽取1次",
+      "description": "抽取1次"
+    },
+    {
+      "id": "coin_gasha_button-1-004",
+      "name": "抽取1次",
+      "description": "抽取1次"
+    },
+    {
+      "id": "coin_gasha_button-newyear-001",
+      "name": "抽取1次",
+      "description": "抽取1次"
+    }
+  ]
+}

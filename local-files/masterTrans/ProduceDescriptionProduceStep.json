@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProduceStepType_EventSchool",
+      "name": "学园活动"
+    },
+    {
+      "type": "ProduceStepType_Present",
+      "name": "礼物"
+    }
+  ]
+}

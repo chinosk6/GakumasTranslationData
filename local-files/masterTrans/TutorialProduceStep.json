@@ -1,0 +1,96 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "tutorialType",
+      "stepNumber",
+      "tutorialStep",
+      "stepType"
+    ]
+  },
+  "data": [
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 1,
+      "tutorialStep": 5,
+      "stepType": "ProduceStepType_LessonVisualNormal",
+      "name": "形象课"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 2,
+      "tutorialStep": 8,
+      "stepType": "ProduceStepType_LessonDanceNormal",
+      "name": "舞蹈课"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 3,
+      "tutorialStep": 10,
+      "stepType": "ProduceStepType_Refresh",
+      "name": "休息"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 4,
+      "tutorialStep": 12,
+      "stepType": "ProduceStepType_AuditionFinal",
+      "name": "最终考试"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 1,
+      "tutorialStep": 5,
+      "stepType": "ProduceStepType_LessonDanceNormal",
+      "name": "舞蹈课"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 2,
+      "tutorialStep": 8,
+      "stepType": "ProduceStepType_LessonVisualNormal",
+      "name": "形象课"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 3,
+      "tutorialStep": 10,
+      "stepType": "ProduceStepType_Refresh",
+      "name": "休息"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 4,
+      "tutorialStep": 12,
+      "stepType": "ProduceStepType_AuditionFinal",
+      "name": "最终考试"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 1,
+      "tutorialStep": 5,
+      "stepType": "ProduceStepType_LessonDanceNormal",
+      "name": "舞蹈课"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 2,
+      "tutorialStep": 8,
+      "stepType": "ProduceStepType_LessonVocalNormal",
+      "name": "声乐课程"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 3,
+      "tutorialStep": 10,
+      "stepType": "ProduceStepType_Refresh",
+      "name": "休息"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 4,
+      "tutorialStep": 12,
+      "stepType": "ProduceStepType_AuditionFinal",
+      "name": "最终考试"
+    }
+  ]
+}

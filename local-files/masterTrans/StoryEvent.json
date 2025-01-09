@@ -1,0 +1,65 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "box-gasha-event-001",
+      "title": "真夏的夏季演唱会·节"
+    },
+    {
+      "id": "box-gasha-event-002",
+      "title": "夏日傍晚的对峙"
+    },
+    {
+      "id": "box-gasha-event-003",
+      "title": "万圣节狂想曲"
+    },
+    {
+      "id": "box-gasha-event-004",
+      "title": "蛋糕结缘的朋友圣诞节"
+    },
+    {
+      "id": "main-story-event-001",
+      "title": "初星交流活动第2章偶像们的共同生活vol.1"
+    },
+    {
+      "id": "main-story-event-002",
+      "title": "初星交流活动"
+    },
+    {
+      "id": "main-story-event-003",
+      "title": "初星交流活动"
+    },
+    {
+      "id": "main-story-event-004",
+      "title": "初星交流活动"
+    },
+    {
+      "id": "main-story-event-005",
+      "title": "初星交流活动"
+    },
+    {
+      "id": "main-story-event-006",
+      "title": "初星交流活动"
+    },
+    {
+      "id": "story-event-001",
+      "title": "1年1组的偶像们"
+    },
+    {
+      "id": "story-event-002",
+      "title": "初星温泉～落叶飘零～"
+    },
+    {
+      "id": "story-event-003",
+      "title": "1年2组的偶像们"
+    },
+    {
+      "id": "story-event-004",
+      "title": "学生会的偶像们"
+    }
+  ]
+}
