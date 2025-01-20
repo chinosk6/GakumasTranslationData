@@ -51,6 +51,13 @@
     },
     {
       "characterId": "amao",
+      "type": 5,
+      "number": 1,
+      "title": "有村 麻央",
+      "message": "还可以参加竞赛。\n想让粉丝们看到我的各种模样"
+    },
+    {
+      "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
       "title": "有村 麻央",
@@ -132,6 +139,13 @@
       "number": 1,
       "title": "藤田 琴音",
       "message": "我觉得和制作人在一起的话能实现梦想！所以，请回来吧……！"
+    },
+    {
+      "characterId": "fktn",
+      "type": 5,
+      "number": 1,
+      "title": "藤田 琴音",
+      "message": "竞赛，还可以继续挑战哦～？ 超级可爱的我，\n要展示啦♡"
     },
     {
       "characterId": "fktn",
@@ -219,6 +233,13 @@
     },
     {
       "characterId": "hrnm",
+      "type": 5,
+      "number": 1,
+      "title": "姫崎 莉波",
+      "message": "看起来可以挑战竞赛。\n想让你看到努力的我"
+    },
+    {
+      "characterId": "hrnm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
       "title": "姬崎 莉波",
@@ -300,6 +321,13 @@
       "number": 1,
       "title": "花海 咲季",
       "message": "制作人，我想和你一起成为顶级偶像。快点回来"
+    },
+    {
+      "characterId": "hski",
+      "type": 5,
+      "number": 1,
+      "title": "花海 咲季",
+      "message": "还可以参加竞赛。\n制作人！\n一起去赢吧！"
     },
     {
       "characterId": "hski",
@@ -387,6 +415,13 @@
     },
     {
       "characterId": "hume",
+      "type": 5,
+      "number": 1,
+      "title": "花海 佑芽",
+      "message": "我可以参加竞赛！\n干劲十足地去吧，\n制作人先生！"
+    },
+    {
+      "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
       "title": "花海 佑芽",
@@ -471,6 +506,13 @@
     },
     {
       "characterId": "jsna",
+      "type": 5,
+      "number": 1,
+      "title": "十王 星南",
+      "message": "还能参加竞赛呢。\n调整完美。十王星南的新\n可能性，去展示出来吧！"
+    },
+    {
+      "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
       "title": "十王 星南",
@@ -515,84 +557,91 @@
       "characterId": "kcna",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "老师，你元气恢复了吗？\n我可是元气满满哦！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "老师，我完全复活了！\n我会努力成为一个出色的偶像！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "老师，\n我们去领取金币吧！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "使用金币有什么好处呢？\n赶快去领取吧！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "还有每日任务没完成哦！\n老师，你没有忘记吧？"
     },
     {
       "characterId": "kcna",
       "type": "PushType_Login",
       "number": 1,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "老师、拜托，拜托您了！　\n请回到这里～～～～！"
+    },
+    {
+      "characterId": "kcna",
+      "type": 5,
+      "number": 1,
+      "title": "仓本 千奈",
+      "message": "还可以\n参加竞赛。老师！\n一起去吧！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "老师！　迷你演唱会的工作，\n结束了。\n非常愉快的时间！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "迷你直播非常\n愉快！\n也得到了奖励！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "迷你直播结束了，\n领取奖励吧！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "直播的工作结束了！\n我觉得做得还不错，\n你觉得呢？"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "老师，直播结束了。\n偶像的工作很快乐哦～！"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "倉本 千奈",
+      "title": "仓本 千奈",
       "message": "工作结束了！　\n您看到了吗，老师！"
     },
     {
@@ -636,6 +685,13 @@
       "number": 1,
       "title": "葛城 莉莉娅",
       "message": "……前辈。我会努力的。\n所以，请回来。"
+    },
+    {
+      "characterId": "kllj",
+      "type": 5,
+      "number": 1,
+      "title": "葛城 莉莉娅",
+      "message": "还可以参加竞赛，\n好像是这样。我……\n想和前辈一起，赢……！"
     },
     {
       "characterId": "kllj",
@@ -723,6 +779,13 @@
     },
     {
       "characterId": "shro",
+      "type": 5,
+      "number": 1,
+      "title": "筱泽 广",
+      "message": "竞赛，还能挑战哦。\n要去试试看，即使粉身碎骨也不怕"
+    },
+    {
+      "characterId": "shro",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
       "title": "筱泽 广",
@@ -807,6 +870,13 @@
     },
     {
       "characterId": "ssmk",
+      "type": 5,
+      "number": 1,
+      "title": "紫云 清夏",
+      "message": "还可以参加竞赛哦？\n这已经没办法不做了呢♪"
+    },
+    {
+      "characterId": "ssmk",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
       "title": "紫云 清夏",
@@ -888,6 +958,13 @@
       "number": 1,
       "title": "月村 手毬",
       "message": "明明你说会培育\n这样的我……\n制作人，回来吧"
+    },
+    {
+      "characterId": "ttmr",
+      "type": 5,
+      "number": 1,
+      "title": "月村 手毬",
+      "message": "还可以参加竞赛哦。\n来吧，制作人。\n一起去吧"
     },
     {
       "characterId": "ttmr",

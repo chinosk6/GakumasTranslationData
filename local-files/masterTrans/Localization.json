@@ -82,6 +82,10 @@
       "description": "MID舞台适性"
     },
     {
+      "id": "common.network.error.purchase_limit.description",
+      "description": "由于达到购买上限，无法完成购买。请通过以下方式联系我们。"
+    },
+    {
       "id": "common.user_exp.description",
       "description": "制作人Lv上升所需的经验值"
     },
