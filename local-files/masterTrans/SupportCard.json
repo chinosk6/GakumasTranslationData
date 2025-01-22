@@ -2,9 +2,6 @@
   "rules": {
     "primaryKeys": [
       "id",
-      "upgradeProduceCardDescriptions.type",
-      "upgradeProduceCardDescriptions.examEffectType",
-      "upgradeProduceCardDescriptions.produceCardCategory",
       "upgradeProduceCardProduceDescriptions.produceDescriptionType",
       "upgradeProduceCardProduceDescriptions.examDescriptionType",
       "upgradeProduceCardProduceDescriptions.examEffectType",
@@ -17,7 +14,6 @@
   "data": [
     {
       "id": "s_card-1-0000",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30,11 +26,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "仔细地拉伸运动"
+      "name": "仔细地拉伸"
     },
     {
       "id": "s_card-1-0001",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47,11 +42,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "全力，然后"
+      "name": "全力，其后"
     },
     {
       "id": "s_card-1-0002",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64,11 +58,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "绕着分叉毛"
+      "name": "转动分叉"
     },
     {
       "id": "s_card-1-0003",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -81,11 +74,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "王子殿下的一次呼吸"
+      "name": "王子殿下的一口气"
     },
     {
       "id": "s_card-1-0004",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -102,7 +94,6 @@
     },
     {
       "id": "s_card-1-0005",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -119,7 +110,6 @@
     },
     {
       "id": "s_card-1-0006",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -132,11 +122,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "专注留下课程"
+      "name": "专心留下的课程"
     },
     {
       "id": "s_card-1-0007",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -153,7 +142,6 @@
     },
     {
       "id": "s_card-1-0008",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -170,7 +158,6 @@
     },
     {
       "id": "s_card-1-0009",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -183,11 +170,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "姐姐亲传菜单"
+      "name": "姐姐亲授菜单"
     },
     {
       "id": "s_card-1-0010",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -200,11 +186,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "按照我的节奏"
+      "name": "以我的节奏"
     },
     {
       "id": "s_card-1-0011",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -217,11 +202,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "完美无缺的规划"
+      "name": "完美无瑕的规划"
     },
     {
       "id": "s_card-2-0000",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -234,11 +218,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "全力以赴的爱之呼唤"
+      "name": "全力的爱情呼唤"
     },
     {
       "id": "s_card-2-0001",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -251,11 +234,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "现在故意扭过身"
+      "name": "此刻故意，背过去"
     },
     {
       "id": "s_card-2-0002",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -268,11 +250,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "悠闲地认真"
+      "name": "悠闲而稳健"
     },
     {
       "id": "s_card-2-0003",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -285,11 +266,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "无爱的记忆是困难的"
+      "name": "无爱的记忆很难"
     },
     {
       "id": "s_card-2-0004",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -302,11 +282,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "手把手"
+      "name": "手把脚带"
     },
     {
       "id": "s_card-2-0005",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -323,7 +302,6 @@
     },
     {
       "id": "s_card-2-0006",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -336,11 +314,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "魅惑的大腿四头肌"
+      "name": "令人着迷的股四头肌"
     },
     {
       "id": "s_card-2-0007",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -353,11 +330,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "软绵绵又兴奋"
+      "name": "柔软期待"
     },
     {
       "id": "s_card-2-0008",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -370,11 +346,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "高兴又害羞的梦境"
+      "name": "开心害羞梦境"
     },
     {
       "id": "s_card-2-0009",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -387,11 +362,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "品尝！传说中的SSD"
+      "name": "实食！例的SSD"
     },
     {
       "id": "s_card-2-0010",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -404,11 +378,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "我行我素，我的生活"
+      "name": "我的步调，我的生活"
     },
     {
       "id": "s_card-2-0011",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -421,11 +394,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "思量与颤抖"
+      "name": "想法与颤抖"
     },
     {
       "id": "s_card-2-0012",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -438,11 +410,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "无法放任的同学"
+      "name": "无法置之不理的同学"
     },
     {
       "id": "s_card-2-0013",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -455,11 +426,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "总有一天，一定会绽放"
+      "name": "总有一天会开花"
     },
     {
       "id": "s_card-2-0014",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -472,11 +442,10 @@
           "text": "/ 概率小"
         }
       ],
-      "name": "初次结交的朋友"
+      "name": "初次交友"
     },
     {
       "id": "s_card-2-0015",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -489,11 +458,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "耳机各半"
+      "name": "耳机一人一半"
     },
     {
       "id": "s_card-2-0016",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -506,11 +474,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "哇啦嘀哇"
+      "name": "喵呀"
     },
     {
       "id": "s_card-2-0018",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -523,11 +490,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "僵硬的伸展"
+      "name": "硬邦邦伸展"
     },
     {
       "id": "s_card-2-0019",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -544,7 +510,6 @@
     },
     {
       "id": "s_card-2-0020",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -557,11 +522,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "海，不玩不行！"
+      "name": "海，不享受不行！"
     },
     {
       "id": "s_card-2-0021",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -574,11 +538,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "第五类接触"
+      "name": "第五类接近遭遇"
     },
     {
       "id": "s_card-2-0023",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -591,11 +554,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "温柔，暖暖的"
+      "name": "温柔，温暖"
     },
     {
       "id": "s_card-2-0024",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -608,11 +570,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "紧紧地束上"
+      "name": "紧紧一束"
     },
     {
       "id": "s_card-2-0025",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -625,11 +586,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "软绵绵的面具？"
+      "name": "蓬松的面具？"
     },
     {
       "id": "s_card-2-0027",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -642,11 +602,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "用咖啡休息一下"
+      "name": "咖啡时间"
     },
     {
       "id": "s_card-2-0028",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -659,11 +618,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "了不起的芒草！"
+      "name": "真美丽的芒草！"
     },
     {
       "id": "s_card-2-0029",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -680,7 +638,6 @@
     },
     {
       "id": "s_card-2-0030",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -693,11 +650,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "有趣的饮品"
+      "name": "引人入胜的饮料"
     },
     {
       "id": "s_card-2-0031",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -714,7 +670,6 @@
     },
     {
       "id": "s_card-2-0032",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -727,11 +682,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "秋刀鱼，轻轻摇"
+      "name": "秋刀鱼，扑通扑通"
     },
     {
       "id": "s_card-2-0033",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -744,11 +698,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "成为热门吧！"
+      "name": "让我们走红吧！"
     },
     {
       "id": "s_card-2-0034",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -761,11 +714,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "抓住蜻蜓"
+      "name": "捕捉蜻蜓"
     },
     {
       "id": "s_card-2-0035",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -778,11 +730,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "迪卡普尔XL！"
+      "name": "迪卡普勒XL！"
     },
     {
       "id": "s_card-2-0036",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -795,11 +746,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "可爱ω姿势☆"
+      "name": "萌萌哒ω姿势☆"
     },
     {
       "id": "s_card-2-0037",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -815,8 +765,55 @@
       "name": "卡路里/2 快乐×2"
     },
     {
+      "id": "s_card-2-0038",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率中"
+        }
+      ],
+      "name": "目标是顶端"
+    },
+    {
+      "id": "s_card-2-0039",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率中"
+        }
+      ],
+      "name": "还可以继续伸展"
+    },
+    {
+      "id": "s_card-2-0040",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率中"
+        }
+      ],
+      "name": "基础＞应用"
+    },
+    {
       "id": "s_card-3-0000",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -829,11 +826,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "也为你制作哦！"
+      "name": "我也会为你做的！"
     },
     {
       "id": "s_card-3-0001",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -850,7 +846,6 @@
     },
     {
       "id": "s_card-3-0002",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -867,7 +862,6 @@
     },
     {
       "id": "s_card-3-0003",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -884,7 +878,6 @@
     },
     {
       "id": "s_card-3-0004",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -897,11 +890,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "咕噜咕噜…………！"
+      "name": "咕嘟嘟嘟……！"
     },
     {
       "id": "s_card-3-0005",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -918,7 +910,6 @@
     },
     {
       "id": "s_card-3-0006",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -931,11 +922,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "辛苦了，千奈酱。"
+      "name": "辛苦了，千奈。"
     },
     {
       "id": "s_card-3-0007",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -952,7 +942,6 @@
     },
     {
       "id": "s_card-3-0008",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -965,11 +954,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "享用美味的表情～！"
+      "name": "美味的表情，收下啦～！"
     },
     {
       "id": "s_card-3-0009",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -982,11 +970,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "我们，能做到的"
+      "name": "我们，只要做就能做到"
     },
     {
       "id": "s_card-3-0010",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -999,11 +986,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "可愛い和可爱组合成可爱！"
+      "name": "可爱加可爱就是可爱！"
     },
     {
       "id": "s_card-3-0011",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1016,11 +1002,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "我的眼光是不会错的"
+      "name": "我的眼光没有错"
     },
     {
       "id": "s_card-3-0012",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1033,11 +1018,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "又那么勉强自己"
+      "name": "又那么勉强了"
     },
     {
       "id": "s_card-3-0013",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1050,11 +1034,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "哦，真巧啊"
+      "name": "哎呀，好巧啊"
     },
     {
       "id": "s_card-3-0014",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1067,11 +1050,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "真的么。"
+      "name": "真的假的。"
     },
     {
       "id": "s_card-3-0015",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1084,11 +1066,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "当成工作来对待吧"
+      "name": "请以工作的态度来做"
     },
     {
       "id": "s_card-3-0016",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1101,11 +1082,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "一个人也不能少"
+      "name": "不缺任何一个人"
     },
     {
       "id": "s_card-3-0017",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1122,7 +1102,6 @@
     },
     {
       "id": "s_card-3-0018",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1135,11 +1114,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "第二届教室派对！"
+      "name": "第二次教室派对！"
     },
     {
       "id": "s_card-3-0019",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1152,11 +1130,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "你是我自豪的学生"
+      "name": "你是让人骄傲的学生"
     },
     {
       "id": "s_card-3-0020",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1169,11 +1146,10 @@
           "text": "/ 概率中"
         }
       ],
-      "name": "这是食欲之秋"
+      "name": "食欲之秋到了"
     },
     {
       "id": "s_card-3-0021",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1190,7 +1166,6 @@
     },
     {
       "id": "s_card-3-0022",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1203,11 +1178,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "放晴了呢"
+      "name": "晴天呢"
     },
     {
       "id": "s_card-3-0023",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1220,11 +1194,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "希望还不要涨！"
+      "name": "希望还不会上来！"
     },
     {
       "id": "s_card-3-0024",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1237,11 +1210,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "不是「ア」而是「エ」！"
+      "name": "不是「A」，是「E」！"
     },
     {
       "id": "s_card-3-0025",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1254,11 +1226,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "新的挑战成功了！"
+      "name": "新挑战的成功啦！"
     },
     {
       "id": "s_card-3-0026",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1271,11 +1242,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "真是的！真冷啊！"
+      "name": "真是的！好冷啊！"
     },
     {
       "id": "s_card-3-0027",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1292,7 +1262,6 @@
     },
     {
       "id": "s_card-3-0028",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1309,7 +1278,6 @@
     },
     {
       "id": "s_card-3-0029",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1322,11 +1290,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "尽情享受夏天吧！"
+      "name": "我要充分享受夏天！"
     },
     {
       "id": "s_card-3-0030",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1343,7 +1310,6 @@
     },
     {
       "id": "s_card-3-0031",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1360,7 +1326,6 @@
     },
     {
       "id": "s_card-3-0032",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1373,11 +1338,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "培育真的很辛苦啊"
+      "name": "培育真的很辛苦呢"
     },
     {
       "id": "s_card-3-0034",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1390,11 +1354,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "如果是两个人的话一下子就能完成呢"
+      "name": "两个人的话一瞬间就能完成呢"
     },
     {
       "id": "s_card-3-0035",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1411,7 +1374,6 @@
     },
     {
       "id": "s_card-3-0036",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1424,11 +1386,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "是不是很适合？"
+      "name": "不是很适合吗？"
     },
     {
       "id": "s_card-3-0037",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1445,7 +1406,6 @@
     },
     {
       "id": "s_card-3-0038",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1462,7 +1422,6 @@
     },
     {
       "id": "s_card-3-0039",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1475,11 +1434,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "一定要追上去！"
+      "name": "我一定会追上你的！"
     },
     {
       "id": "s_card-3-0040",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1496,7 +1454,6 @@
     },
     {
       "id": "s_card-3-0041",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1509,11 +1466,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "闪闪发光好漂亮～！"
+      "name": "闪闪发光真漂亮～！"
     },
     {
       "id": "s_card-3-0042",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1526,11 +1482,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "好温暖啊"
+      "name": "好暖和呢"
     },
     {
       "id": "s_card-3-0043",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1547,7 +1502,6 @@
     },
     {
       "id": "s_card-3-0044",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1560,11 +1514,10 @@
           "text": "/ 概率大"
         }
       ],
-      "name": "再一次，从头开始！"
+      "name": "再来一次，从头开始！"
     },
     {
       "id": "s_card-3-0045",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1581,7 +1534,6 @@
     },
     {
       "id": "s_card-3-0046",
-      "upgradeProduceCardDescriptions": [],
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

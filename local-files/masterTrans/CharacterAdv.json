@@ -1,0 +1,104 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "name": "有村麻央",
+      "regexp": "麻央"
+    },
+    {
+      "characterId": "atbm",
+      "name": "雨夜燕",
+      "regexp": "燕"
+    },
+    {
+      "characterId": "fktn",
+      "name": "藤田琴音",
+      "regexp": "琴音"
+    },
+    {
+      "characterId": "gkgt",
+      "name": "极月学园",
+      "regexp": "极月学园"
+    },
+    {
+      "characterId": "hmsz",
+      "name": "秦谷美铃",
+      "regexp": "美铃"
+    },
+    {
+      "characterId": "hrnm",
+      "name": "姫崎莉波",
+      "regexp": "莉波"
+    },
+    {
+      "characterId": "hski",
+      "name": "花海咲季",
+      "regexp": "咲季"
+    },
+    {
+      "characterId": "hume",
+      "name": "花海佑芽",
+      "regexp": "佑芽"
+    },
+    {
+      "characterId": "jkno",
+      "name": "十王邦夫",
+      "regexp": "邦夫"
+    },
+    {
+      "characterId": "jsna",
+      "name": "十王星南",
+      "regexp": "星南"
+    },
+    {
+      "characterId": "kcna",
+      "name": "仓本千奈",
+      "regexp": "千奈"
+    },
+    {
+      "characterId": "kllj",
+      "name": "葛城莉莉娅",
+      "regexp": "莉莉娅"
+    },
+    {
+      "characterId": "nasr",
+      "name": "根绪亜纱里",
+      "regexp": "亜纱里老师"
+    },
+    {
+      "characterId": "shro",
+      "name": "筱泽广",
+      "regexp": "广"
+    },
+    {
+      "characterId": "ssmk",
+      "name": "紫云清夏",
+      "regexp": "清夏"
+    },
+    {
+      "characterId": "trda",
+      "name": "舞蹈力训练师",
+      "regexp": "舞蹈力训练师"
+    },
+    {
+      "characterId": "trvi",
+      "name": "形象力训练师",
+      "regexp": "形象力训练师"
+    },
+    {
+      "characterId": "trvo",
+      "name": "声乐力训练师",
+      "regexp": "声乐力训练师"
+    },
+    {
+      "characterId": "ttmr",
+      "name": "月村手毬",
+      "regexp": "手毬"
+    }
+  ]
+}

@@ -2,10 +2,6 @@
   "rules": {
     "primaryKeys": [
       "id",
-      "descriptions.type",
-      "descriptions.targetId",
-      "descriptions.examEffectType",
-      "descriptions.produceCardCategory",
       "produceDescriptions.produceDescriptionType",
       "produceDescriptions.examDescriptionType",
       "produceDescriptions.examEffectType",
@@ -18,7 +14,6 @@
   "data": [
     {
       "id": "p_card_search-active_skill-deck_all",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -34,7 +29,6 @@
     },
     {
       "id": "p_card_search-active_skill-first-deck-3",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44,13 +38,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "从牌堆顶上3张主动技能卡"
+          "text": "从牌堆顶抽三张主动技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-active_skill-hand",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -76,7 +69,6 @@
     },
     {
       "id": "p_card_search-active_skill-lost",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86,7 +78,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "除外中"
+          "text": "被除外"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -102,7 +94,6 @@
     },
     {
       "id": "p_card_search-active_skill-playing",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -118,7 +109,6 @@
     },
     {
       "id": "p_card_search-deck",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -134,7 +124,6 @@
     },
     {
       "id": "p_card_search-deck_all",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -150,7 +139,6 @@
     },
     {
       "id": "p_card_search-deck_all-1-p_card-00-act-0_001",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -160,7 +148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-act-0_001",
-          "text": "魅力的基础"
+          "text": "基本的吸引力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -176,7 +164,6 @@
     },
     {
       "id": "p_card_search-deck_all-1-p_card-00-men-0_003",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -186,7 +173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-men-0_003",
-          "text": "表现的基础"
+          "text": "表现的基本"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -202,7 +189,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_block-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -228,7 +214,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -254,7 +239,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_concentration-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -280,7 +264,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -300,7 +283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "・"
+          "text": "·"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -326,7 +309,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_full_power-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -352,7 +334,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -372,7 +353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "・"
+          "text": "·"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -398,7 +379,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -424,7 +404,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -450,7 +429,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_preservation-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -476,7 +454,6 @@
     },
     {
       "id": "p_card_search-deck_all-effect_group-visible-exam_review-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -502,7 +479,6 @@
     },
     {
       "id": "p_card_search-deck_all-p_card-03-act-1_040",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -518,7 +494,6 @@
     },
     {
       "id": "p_card_search-deck_all-p_card-03-ido-3_084",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -528,13 +503,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "踏切的前方"
+          "text": "踏切的另一边"
         }
       ]
     },
     {
       "id": "p_card_search-deck_all-starter",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -544,13 +518,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "名称中含有“基本”的技能卡"
+          "text": "名字中包含“基本”的技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-deck_grave",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -566,7 +539,6 @@
     },
     {
       "id": "p_card_search-deck_grave-1-p_card-03-act-1_040_upgrade1",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -602,7 +574,6 @@
     },
     {
       "id": "p_card_search-deck_grave-idol-unique-1",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -612,13 +583,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在牌堆或弃牌堆中有1张偶像固有技能卡"
+          "text": "在牌堆或弃牌堆中的1张偶像固有技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-deck-1",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -634,7 +604,6 @@
     },
     {
       "id": "p_card_search-first-deck-1",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -644,13 +613,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆顶部的技能卡"
+          "text": "牌堆顶端的技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-first-deck-5",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -660,13 +628,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "从牌堆顶部的5张技能卡"
+          "text": "牌堆顶端的5张技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-hand",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -682,7 +649,6 @@
     },
     {
       "id": "p_card_search-hand-1",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -698,7 +664,6 @@
     },
     {
       "id": "p_card_search-hand-2",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -714,7 +679,6 @@
     },
     {
       "id": "p_card_search-hand-3",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -730,7 +694,6 @@
     },
     {
       "id": "p_card_search-hold",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -750,13 +713,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中存在的技能卡"
+          "text": "中的技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-lost",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -766,13 +728,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在除外区域中的技能卡"
+          "text": "除外中的技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-lost-idol-unique-1",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -782,13 +743,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在除外区域中有1张偶像固有技能卡"
+          "text": "除外中的1张偶像固有技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-lost-p_card-02-ido-3_104",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -798,7 +758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "除外中"
+          "text": "被除外"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -808,13 +768,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_104",
-          "text": "并且，可以飞行"
+          "text": "而且，可以飞"
         }
       ]
     },
     {
       "id": "p_card_search-mental_skill-deck_all",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -830,7 +789,6 @@
     },
     {
       "id": "p_card_search-mental_skill-hand",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -856,7 +814,6 @@
     },
     {
       "id": "p_card_search-mental_skill-playing",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -872,7 +829,6 @@
     },
     {
       "id": "p_card_search-mental_skill-target",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -888,7 +844,6 @@
     },
     {
       "id": "p_card_search-playing",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -904,7 +859,6 @@
     },
     {
       "id": "p_card_search-playing-1-min_max-6_99",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -914,13 +868,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "消耗体力为6以上的技能卡"
+          "text": "消耗体力6以上的技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-playing-1-p_card-01-act-1_001",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -936,7 +889,6 @@
     },
     {
       "id": "p_card_search-playing-1-p_card-01-act-1_002",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -952,7 +904,6 @@
     },
     {
       "id": "p_card_search-playing-1-p_card-01-act-1_022",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -968,7 +919,6 @@
     },
     {
       "id": "p_card_search-playing-1-p_card-01-act-1_023",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -978,13 +928,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "凭势头"
+          "text": "随势而动"
         }
       ]
     },
     {
       "id": "p_card_search-playing-1-p_card-01-men-3_006",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -994,13 +943,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "全民偶像"
+          "text": "国民偶像"
         }
       ]
     },
     {
       "id": "p_card_search-playing-1-p_card-02-men-1_030",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1016,7 +964,6 @@
     },
     {
       "id": "p_card_search-playing-1-p_card-02-men-1_031",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1026,13 +973,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "加油加油"
+          "text": "加油加油哦"
         }
       ]
     },
     {
       "id": "p_card_search-playing-1-p_card-02-men-1_032",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1042,13 +988,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回想起微笑"
+          "text": "回忆起笑"
         }
       ]
     },
     {
       "id": "p_card_search-playing-1-p_card-02-men-3_002",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1058,13 +1003,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "我就是明星"
+          "text": "我是明星"
         }
       ]
     },
     {
       "id": "p_card_search-playing-1-p_card-03-act-1_038",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1074,13 +1018,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "精准吸引"
+          "text": "恰到好处的吸引"
         }
       ]
     },
     {
       "id": "p_card_search-playing-1-p_card-03-act-1_040",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1096,7 +1039,6 @@
     },
     {
       "id": "p_card_search-playing-effect_group-visible-exam_block-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1122,7 +1064,6 @@
     },
     {
       "id": "p_card_search-playing-effect_group-visible-exam_card_play_aggressive-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1148,7 +1089,6 @@
     },
     {
       "id": "p_card_search-playing-effect_group-visible-exam_concentration-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1174,7 +1114,6 @@
     },
     {
       "id": "p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1200,7 +1139,6 @@
     },
     {
       "id": "p_card_search-playing-effect_group-visible-exam_preservation-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1226,7 +1164,6 @@
     },
     {
       "id": "p_card_search-playing-effect_group-visible-exam_review-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1252,7 +1189,6 @@
     },
     {
       "id": "p_card_search-playing-effect_group-visible-exam_stamina_consumption_down-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1278,7 +1214,6 @@
     },
     {
       "id": "p_card_search-playing-effect_group-visible-stamina_recover_fix-000",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1304,7 +1239,6 @@
     },
     {
       "id": "p_card_search-playing-is_self",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1320,7 +1254,6 @@
     },
     {
       "id": "p_card_search-playing-p_card-01-ido-1_058",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1330,13 +1263,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "初次奖励"
+          "text": "第一次的奖励"
         }
       ]
     },
     {
       "id": "p_card_search-playing-p_card-01-ido-3_066",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1352,7 +1284,6 @@
     },
     {
       "id": "p_card_search-playing-p_card-02-act-1_028",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1362,13 +1293,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "轻松聊天"
+          "text": "轻松的聊天"
         }
       ]
     },
     {
       "id": "p_card_search-playing-p_card-03-men-1_049",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1384,7 +1314,6 @@
     },
     {
       "id": "p_card_search-random-random_pool-p_random_pool-all-upgrade_1-1",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1394,13 +1323,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "已强化技能卡"
+          "text": "已强化的技能卡"
         }
       ]
     },
     {
       "id": "p_card_search-random-random_pool-p_random_pool-ssr-upgrade_1-1",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1410,13 +1338,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "已强化技能卡（SSR）"
+          "text": "已强化的技能卡（SSR）"
         }
       ]
     },
     {
       "id": "p_card_search-target",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1432,7 +1359,6 @@
     },
     {
       "id": "p_card_search-target_is_self",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1448,7 +1374,6 @@
     },
     {
       "id": "p_card_search-trouble-deck_all",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1464,7 +1389,6 @@
     },
     {
       "id": "p_card_search-trouble-deck-2",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1500,7 +1424,6 @@
     },
     {
       "id": "p_card_search-trouble-hand",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1516,7 +1439,6 @@
     },
     {
       "id": "p_card_search-trouble-target",
-      "descriptions": [],
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

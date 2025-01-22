@@ -11,91 +11,91 @@
       "characterId": "amao",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "那么，该进行培育的时间了哦！"
     },
     {
       "characterId": "amao",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "休息够了吗？ 我也休息了，元气满满哦"
     },
     {
       "characterId": "amao",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "制作人，领取金币吧"
     },
     {
       "characterId": "amao",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "要去领取金币吗？我陪你"
     },
     {
       "characterId": "amao",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "没有忘记每日任务吧？ 我也会努力的，一起完成吧"
     },
     {
       "characterId": "amao",
       "type": "PushType_Login",
       "number": 1,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "我希望你来培育我。所以，能回来吗？"
     },
     {
       "characterId": "amao",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "有村 麻央",
-      "message": "还可以参加竞赛。\n想让粉丝们看到我的各种模样"
+      "title": "有村麻央",
+      "message": "还可以挑战比赛呢。\n让粉丝们看看各种各样的我的姿态。"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "迷你演唱会结束了！非常开心，制作人有在看吗？"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "迷你演唱会的报酬好像可以领取了哦。能看到我的努力成果真开心呢"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "我认为进行了属于我的迷你演唱会。制作人，请领取报酬吧"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "辛苦了！ 领奖励后告诉我你的感想"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "好像能领取报酬了。我觉得在直播中传达了魅力！"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "有村 麻央",
+      "title": "有村麻央",
       "message": "直播的工作结束了。虽然是反复试错，不过我觉得挺开心的"
     },
     {
@@ -142,10 +142,10 @@
     },
     {
       "characterId": "fktn",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "藤田 琴音",
-      "message": "竞赛，还可以继续挑战哦～？ 超级可爱的我，\n要展示啦♡"
+      "title": "藤田琴音",
+      "message": "竞赛，还可以继续挑战哦～？ 超可爱的我，要展现给你看哦♡"
     },
     {
       "characterId": "fktn",
@@ -233,10 +233,10 @@
     },
     {
       "characterId": "hrnm",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "姫崎 莉波",
-      "message": "看起来可以挑战竞赛。\n想让你看到努力的我"
+      "title": "姫崎莉波",
+      "message": "好像可以挑战比赛。\n也想让你看到我努力的样子。"
     },
     {
       "characterId": "hrnm",
@@ -284,273 +284,273 @@
       "characterId": "hski",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "差不多元气恢复了吧？我当然准备万全！快点来见我哦！"
     },
     {
       "characterId": "hski",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "制作人，休息结束了吗？快点来课程，我已经等不及了！"
     },
     {
       "characterId": "hski",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "没忘金币的事吧？要好好领取哦"
     },
     {
       "characterId": "hski",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "喂，制作人？ 快去领取金币。"
     },
     {
       "characterId": "hski",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "今天的任务还没完成呢。快点完成吧"
     },
     {
       "characterId": "hski",
       "type": "PushType_Login",
       "number": 1,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "制作人，我想和你一起成为顶级偶像。快点回来"
     },
     {
       "characterId": "hski",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "花海 咲季",
-      "message": "还可以参加竞赛。\n制作人！\n一起去赢吧！"
+      "title": "花海咲季",
+      "message": "还能挑战比赛。\n制作人！\n一起去赢吧！"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "迷你演唱会的热情，不是挺不错的吗！嘿嘿，干得好！"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "迷你演唱会顺利结束了。站在舞台上，感觉自己像偶像一样，非常开心！"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "今天的演唱会表现也很好！制作人，可以夸奖我哦！"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "直播和演唱会不同，\n很有趣呢。怎么才能让大家更开心，\n马上来反省会吧！"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "直播的工作结束了。\n我认为观众非常开心，\n请放心吧"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "花海 咲季",
+      "title": "花海咲季",
       "message": "工作结束了哦。\n呵呵～，是场不错的直播！"
     },
     {
       "characterId": "hume",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "花海佑芽，元气满满！\n制作人先生，\n请进行培育吧！"
     },
     {
       "characterId": "hume",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "元气恢复了吗？ 我因姐姐特制SSD而彻底恢复元气。上课吧！"
     },
     {
       "characterId": "hume",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "看起来金币积累了不少。\n得赶紧去领取了！"
     },
     {
       "characterId": "hume",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "快到领取金币的\n时候了哦！"
     },
     {
       "characterId": "hume",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "似乎今天的任务还没有完成哦？\n一起做完吧！"
     },
     {
       "characterId": "hume",
       "type": "PushType_Login",
       "number": 1,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "为了胜过姐姐，我需要制作人的力量！ 请回来吧！"
     },
     {
       "characterId": "hume",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "花海 佑芽",
-      "message": "我可以参加竞赛！\n干劲十足地去吧，\n制作人先生！"
+      "title": "花海佑芽",
+      "message": "我可以挑战比赛！\n大胆去做吧，\n制作人先生！"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "迷你演唱会的工作结束了！\n嘿嘿～，已经迫不及待下一次工作了！"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "这次的迷你演唱会，观众们也一同\n很热闹地参与了！\n啊，真开心"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "迷你演唱会很开心！ 但是还要继续努力！ 所以，请稍后参加反省会！"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "直播工作虽然紧张但平安结束了！ 如果大家开心就好了"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "工作结束了！ 姐姐教了我一些直播秘诀，你看怎么样！？"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "花海 佑芽",
+      "title": "花海佑芽",
       "message": "直播结束了！ 制作人，你看过了吗？ 有什么反思点请告诉我！"
     },
     {
       "characterId": "jsna",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "疲劳消除了吧？ 我已经准备好了。我们开始上课吧"
     },
     {
       "characterId": "jsna",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "休息结束了。来，给我看看培育的示范吧。前辈？"
     },
     {
       "characterId": "jsna",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "该领取金币了。一起去吧"
     },
     {
       "characterId": "jsna",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "没有忘记领取金币吧？ 要好好领取哦"
     },
     {
       "characterId": "jsna",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "今天的任务好像还没完成。一起做吧"
     },
     {
       "characterId": "jsna",
       "type": "PushType_Login",
       "number": 1,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "我还有很多想从你那里学到的东西。\n请回来吧，前辈。"
     },
     {
       "characterId": "jsna",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "十王 星南",
-      "message": "还能参加竞赛呢。\n调整完美。十王星南的新\n可能性，去展示出来吧！"
+      "title": "十王星南",
+      "message": "还可以挑战比赛呢。\n调整完美无缺。让我们展示\n十王星南的新可能性！"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "迷你直播结束了。\n不辜负后辈和粉丝的表演应该做到了。"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "这是个很好的迷你直播。\n我很期待听到你的意见。"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "迷你直播刚结束。你能马上陪我回顾一下吗？"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "直播结束了。\n能和粉丝直接交流的机会很珍贵。"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "直播结束了。\n如果你也看了，\n请告诉我你的意见。"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "十王 星南",
+      "title": "十王星南",
       "message": "直播后的反思会，你能来吗？\n有很多新的挑战，想和你咨询一下。"
     },
     {
@@ -597,10 +597,10 @@
     },
     {
       "characterId": "kcna",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "仓本 千奈",
-      "message": "还可以\n参加竞赛。老师！\n一起去吧！"
+      "title": "仓本千奈",
+      "message": "看来还可以挑战比赛。老师！\n一起去吧！"
     },
     {
       "characterId": "kcna",
@@ -688,10 +688,10 @@
     },
     {
       "characterId": "kllj",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "葛城 莉莉娅",
-      "message": "还可以参加竞赛，\n好像是这样。我……\n想和前辈一起，赢……！"
+      "title": "葛城莉莉娅",
+      "message": "好像还能挑战比赛。\n我……\n想和前辈一起赢……！"
     },
     {
       "characterId": "kllj",
@@ -779,10 +779,10 @@
     },
     {
       "characterId": "shro",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "筱泽 广",
-      "message": "竞赛，还能挑战哦。\n要去试试看，即使粉身碎骨也不怕"
+      "title": "筱泽广",
+      "message": "比赛，还可以挑战。\n去碰撞，粉碎吧。"
     },
     {
       "characterId": "shro",
@@ -870,10 +870,10 @@
     },
     {
       "characterId": "ssmk",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "紫云 清夏",
-      "message": "还可以参加竞赛哦？\n这已经没办法不做了呢♪"
+      "title": "紫云清夏",
+      "message": "还可以挑战比赛哦？\n这就只能干了吧♪"
     },
     {
       "characterId": "ssmk",
@@ -921,91 +921,91 @@
       "characterId": "ttmr",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "休息时间结束了，\n制作人。\n课程，快点开始吧"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "已经给了充分的休息时间吧。\n制作人……\n从现在起，就是和我在一起的时间。"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "金币，快领取吧？"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "制作人，忘记领取\n金币了。快去吧"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "日常任务还\n没完成。我也想上课，\n快点完成吧"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_Login",
       "number": 1,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "明明你说会培育\n这样的我……\n制作人，回来吧"
     },
     {
       "characterId": "ttmr",
-      "type": 5,
+      "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "月村 手毬",
-      "message": "还可以参加竞赛哦。\n来吧，制作人。\n一起去吧"
+      "title": "月村手毬",
+      "message": "还可以挑战竞赛哦。\n看，这位制作人。\n一起去吧"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "迷你演唱会，我认为\n非常满意。……请\n告诉我您的意见，制作人"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "感受到演唱会的热烈气氛，\n果然很开心。我还想再\n做这个工作，制作人"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "迷你演唱会结束了。\n凭借我的歌，变成了最好的演唱会"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "直播结束了。……大家都好好享受了吗"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "工作结束了。直播难呢。不过因此也很有意义……吧。"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "月村 手毬",
+      "title": "月村手毬",
       "message": "制作人，看到了吗？这次的直播也很顺利。也可以期待报酬呢"
     }
   ]

@@ -1234,13 +1234,13 @@
           "text": "转换1张到エイエイオー"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-02-men-1_031",
           "text": "转换"
         },
         {
@@ -1252,6 +1252,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "然后"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1290,13 +1310,13 @@
           "text": "1张转换为星光"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-03-act-1_040",
           "text": "转换"
         },
         {
@@ -1308,6 +1328,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "来"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1346,13 +1386,13 @@
           "text": "1张转换为怀念微笑"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-02-men-1_032",
           "text": "转换"
         },
         {
@@ -1364,6 +1404,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "来"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1402,13 +1462,13 @@
           "text": "1张转换为愉快的误算"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-03-men-1_049",
           "text": "转换"
         },
         {
@@ -1420,6 +1480,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "来"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1458,13 +1538,13 @@
           "text": "1张转换为轻快步伐"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-01-act-1_002",
           "text": "转换"
         },
         {
@@ -1476,6 +1556,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "来"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1514,13 +1614,13 @@
           "text": "转换1张到ジャストアピール"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-03-act-1_038",
           "text": "转换"
         },
         {
@@ -1532,6 +1632,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "然后"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1570,13 +1690,13 @@
           "text": "1张用于粉丝服务"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-01-act-1_001",
           "text": "转换"
         },
         {
@@ -1588,6 +1708,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "来"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1626,13 +1766,13 @@
           "text": "转换1张到ゆるふわおしゃべり"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-02-act-1_028",
           "text": "转换"
         },
         {
@@ -1644,6 +1784,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "然后"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1682,13 +1842,13 @@
           "text": "一张作为准备运动"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-01-act-1_022",
           "text": "转换"
         },
         {
@@ -1700,6 +1860,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "然后"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1738,13 +1918,13 @@
           "text": "一张作为重新开始"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-02-men-1_030",
           "text": "转换"
         },
         {
@@ -1756,6 +1936,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "然后"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1794,13 +1994,13 @@
           "text": "1张用于勇往直前"
         },
         {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ProduceCardChange",
+          "targetId": "p_card-01-act-1_023",
           "text": "转换"
         },
         {
@@ -1812,6 +2012,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "来"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "强化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -26468,6 +26688,58 @@
       ]
     },
     {
+      "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-vocal_addition-02-001",
+      "level": 1,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "获得技能卡时，声乐力上升+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-vocal_addition-02-001",
+      "level": 2,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "获得技能卡时，声乐力上升+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2"
+        }
+      ]
+    },
+    {
       "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-mental_skill-deck_all-dance_addition-03-001",
       "level": 1,
       "produceDescriptions": [
@@ -32024,6 +32296,58 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "28%"
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-produce_start-no_description-max_stamina_addition-02-001",
+      "level": 1,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "最大体力上升+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-produce_start-no_description-max_stamina_addition-02-001",
+      "level": 2,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "最大体力上升+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3"
         }
       ]
     },
