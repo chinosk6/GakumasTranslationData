@@ -7,6 +7,12 @@
   },
   "data": [
     {
+      "id": "gasha_000410-ssr-idol-support-3",
+      "order": 1,
+      "name": "10次扭蛋",
+      "description": "10次扭蛋"
+    },
+    {
       "id": "gasha_button-001-01",
       "order": 2,
       "name": "1次扭蛋",
@@ -80,7 +86,7 @@
     },
     {
       "id": "gasha_button-select-pickup-01-discount",
-      "order": 1,
+      "order": 3,
       "name": "10次扭蛋",
       "description": "10次扭蛋"
     },

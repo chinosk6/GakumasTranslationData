@@ -272,6 +272,54 @@
       "name": "高得分达成奖励"
     },
     {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-finish",
+      "order": 8,
+      "name": "活动结束后"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-gasha",
+      "order": 6,
+      "name": "活动扭蛋"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-item",
+      "order": 3,
+      "name": "星之闪耀"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-mission",
+      "order": 7,
+      "name": "活动任务"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-eventmode-produce",
+      "order": 2,
+      "name": "活动模式的培育"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-highscorerush",
+      "order": 1,
+      "name": "十王邦夫的偶像强化月间·改的概要"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-ranking",
+      "order": 4,
+      "name": "高得分排名的种类"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-score-reward",
+      "order": 5,
+      "name": "高得分达成奖励"
+    },
+    {
       "helpCategoryId": "help-home",
       "id": "home-ap",
       "order": 3,
@@ -1206,6 +1254,12 @@
       "id": "tower-achivement",
       "order": 5,
       "name": "偶像之路成就"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower-ranking",
+      "order": 6,
+      "name": "偶像之路排名"
     },
     {
       "helpCategoryId": "help-tower",

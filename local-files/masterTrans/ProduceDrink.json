@@ -647,6 +647,22 @@
       "name": "初星特别青汁"
     },
     {
+      "id": "pdrink_00-3-013",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "随机使用强化后的固有技能卡（SSR），无需消耗成本"
+        }
+      ],
+      "name": "初星特殊青汁X"
+    },
+    {
       "id": "pdrink_01-1-002",
       "produceDescriptions": [
         {

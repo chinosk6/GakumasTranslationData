@@ -26,6 +26,16 @@
       "description": "抽"
     },
     {
+      "id": "box-gasha-event-005_box_01_button",
+      "name": "抽取",
+      "description": "抽取"
+    },
+    {
+      "id": "box-gasha-event-006_box_01_button",
+      "name": "抽取",
+      "description": "抽取"
+    },
+    {
       "id": "coin_gasha_button-1-001",
       "name": "抽取1次",
       "description": "抽取1次"
@@ -49,6 +59,11 @@
       "id": "coin_gasha_button-newyear-001",
       "name": "抽取1次",
       "description": "抽取1次"
+    },
+    {
+      "id": "highscorerush-event-001_box_01_button",
+      "name": "抽取",
+      "description": "抽取"
     }
   ]
 }

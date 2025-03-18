@@ -208,6 +208,14 @@
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
       "name": "好印象分数倍率增加"
+    },
+    {
+      "type": 53,
+      "name": "绝好调成本值增加"
+    },
+    {
+      "type": 54,
+      "name": "绝好调成本值减少"
     }
   ]
 }

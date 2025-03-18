@@ -137,6 +137,16 @@
       "text": "考试・舞台中强化"
     },
     {
+      "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "分数上升值增加量增加"
+    },
+    {
+      "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "得分上升值增加量增加"
+    },
+    {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
       "text": "分数"

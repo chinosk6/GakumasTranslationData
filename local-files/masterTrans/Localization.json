@@ -82,12 +82,20 @@
       "description": "MID舞台适性"
     },
     {
+      "id": "common.meishi_base.description",
+      "description": "可以设置为名片的素材。"
+    },
+    {
       "id": "common.network.error.purchase_limit.description",
       "description": "由于达到购买上限，无法完成购买。请通过以下方式联系我们。"
     },
     {
       "id": "common.user_exp.description",
       "description": "制作人Lv上升所需的经验值"
+    },
+    {
+      "id": "data.linkage.first_confirm.description",
+      "description": "通过将游戏数据与万代南梦宫ID关联，可以在不同设备和不同平台上继续使用相同的数据进行游戏。\\n要登录到万代南梦宫ID并进行数据关联吗？"
     },
     {
       "id": "exchange.confirm.consumption_shortage",
@@ -198,6 +206,14 @@
       "description": "发型"
     },
     {
+      "id": "produce_prepare.idol_select.label.event_target_only",
+      "description": "仅显示活动对象偶像。"
+    },
+    {
+      "id": "produce_prepare.top.toast.ranking_disabled",
+      "description": "活动模式下没有排名。"
+    },
+    {
       "id": "produce.card.move_position.deck",
       "description": "牌堆"
     },
@@ -224,6 +240,14 @@
     {
       "id": "produce.drink.cannot_use.noneproduceeffect",
       "description": "课程、考试、试镜以外不能使用"
+    },
+    {
+      "id": "produce.high_score_rush.gold",
+      "description": "星之光辉"
+    },
+    {
+      "id": "produce.high_score_rush.gold.description",
+      "description": "在「十王邦夫的偶像强化月间·改」中可以获得的道具。可在活动扭蛋中使用。"
     },
     {
       "id": "produce.item.card.empty",
@@ -496,6 +520,10 @@
     {
       "id": "story.story_event.section.unlockable_condition_lock_text",
       "description": "用记录的钥匙解锁"
+    },
+    {
+      "id": "tower.ranking.error.no_seasons",
+      "description": "正在准备排名。"
     },
     {
       "id": "tutorial.idol_receive.attention_1",
