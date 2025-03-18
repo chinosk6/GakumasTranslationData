@@ -274,59 +274,59 @@
       "name": "成长"
     },
     {
-      "type": 167,
+      "type": "ProduceExamEffectType_ExamOverPreservation",
       "name": "悠闲"
     },
     {
-      "type": 170,
+      "type": "ProduceExamEffectType_ExamEnthusiasticAdditive",
       "name": "热意追加"
     },
     {
-      "type": 171,
+      "type": "ProduceExamEffectType_ExamEnthusiasticMultiple",
       "name": "热意增加"
     },
     {
-      "type": 172,
+      "type": "ProduceExamEffectType_ExamFullPowerLessonMultipleAdditive",
       "name": "全力强化"
     },
     {
-      "type": 173,
+      "type": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
       "name": "强气强化"
     },
     {
-      "type": 174,
+      "type": "ProduceExamEffectType_ExamLessonBuffAdditive",
       "name": "集中增加量增加"
     },
     {
-      "type": 175,
+      "type": "ProduceExamEffectType_ExamParameterBuffAdditive",
       "name": "好调增加量增加"
     },
     {
-      "type": 176,
+      "type": "ProduceExamEffectType_ExamAggressiveAdditive",
       "name": "干劲增加量增加"
     },
     {
-      "type": 177,
+      "type": "ProduceExamEffectType_ExamReviewAdditive",
       "name": "好印象增加量增加"
     },
     {
-      "type": 178,
+      "type": "ProduceExamEffectType_ExamFullPowerPointAdditive",
       "name": "全力值增加量增加"
     },
     {
-      "type": 179,
+      "type": "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive",
       "name": "分数上升值增加量增加"
     },
     {
-      "type": 180,
+      "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
       "name": "好调减少"
     },
     {
-      "type": 181,
+      "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
       "name": "自尊心（暂定）"
     },
     {
-      "type": 182,
+      "type": "ProduceExamEffectType_ExamReviewMultiple",
       "name": "好印象强化"
     }
   ]
