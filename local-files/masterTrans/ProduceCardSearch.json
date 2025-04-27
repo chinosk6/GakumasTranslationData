@@ -73,7 +73,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "从牌堆顶抽三张主动技能卡"
+          "text": "牌堆顶部开始的3张主动技能卡"
         }
       ]
     },
@@ -113,7 +113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "被除外"
+          "text": "除外中的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -183,7 +183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-act-0_001",
-          "text": "基本的吸引力"
+          "text": "魅力的基本"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -318,7 +318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "·"
+          "text": "・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -388,7 +388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "·"
+          "text": "・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -538,7 +538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "踏切的另一边"
+          "text": "在道口的前方"
         }
       ]
     },
@@ -553,7 +553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "名字中包含“基本”的技能卡"
+          "text": "名字包含「基本」的技能卡"
         }
       ]
     },
@@ -568,7 +568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在牌堆或弃牌堆中的技能卡"
+          "text": "牌堆或弃牌中的技能卡"
         }
       ]
     },
@@ -583,7 +583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在牌堆或弃牌堆中"
+          "text": "牌堆或弃牌中的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -618,7 +618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在牌堆或弃牌堆中的1张偶像固有技能卡"
+          "text": "牌堆或弃牌中的1张偶像固有技能卡"
         }
       ]
     },
@@ -648,7 +648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆顶端的技能卡"
+          "text": "牌堆顶部的技能卡"
         }
       ]
     },
@@ -663,7 +663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆顶端的5张技能卡"
+          "text": "牌堆顶部开始的5张技能卡"
         }
       ]
     },
@@ -693,7 +693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "手牌中的1张技能卡"
+          "text": "手牌的1张技能卡"
         }
       ]
     },
@@ -708,7 +708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "手牌中的2张技能卡"
+          "text": "手牌的2张技能卡"
         }
       ]
     },
@@ -723,7 +723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "手牌中的3张技能卡"
+          "text": "手牌的3张技能卡"
         }
       ]
     },
@@ -783,6 +783,21 @@
       ]
     },
     {
+      "id": "p_card_search-lost-min_max-4_99",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "除外中的消耗体力在4以上的技能卡"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-lost-p_card-02-ido-3_104",
       "produceDescriptions": [
         {
@@ -793,7 +808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "被除外"
+          "text": "除外中的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -803,7 +818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_104",
-          "text": "而且，可以飞"
+          "text": "还能飞翔"
         }
       ]
     },
@@ -818,7 +833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         }
       ]
     },
@@ -843,7 +858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         }
       ]
     },
@@ -858,7 +873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         }
       ]
     },
@@ -873,7 +888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         }
       ]
     },
@@ -903,7 +918,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "消耗体力6以上的技能卡"
+          "text": "消耗体力在6以上的技能卡"
         }
       ]
     },
@@ -918,7 +933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_001",
-          "text": "粉丝服务"
+          "text": "粉丝应援"
         }
       ]
     },
@@ -963,7 +978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "随势而动"
+          "text": "趁势而为"
         }
       ]
     },
@@ -978,7 +993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "国民偶像"
+          "text": "国民级偶像"
         }
       ]
     },
@@ -993,7 +1008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_030",
-          "text": "重新开始"
+          "text": "再次出发"
         }
       ]
     },
@@ -1008,7 +1023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "加油加油哦"
+          "text": "加油鼓劲"
         }
       ]
     },
@@ -1023,7 +1038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆起笑"
+          "text": "想起就好笑"
         }
       ]
     },
@@ -1038,7 +1053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "我是明星"
+          "text": "我是大明星"
         }
       ]
     },
@@ -1053,7 +1068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "恰到好处的吸引"
+          "text": "魅力刚刚好"
         }
       ]
     },
@@ -1258,7 +1273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1283,7 +1298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "体力恢复"
+          "text": "体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1294,6 +1309,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "效果的技能卡"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-idol-unique",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "偶像固有技能卡"
         }
       ]
     },
@@ -1313,6 +1343,21 @@
       ]
     },
     {
+      "id": "p_card_search-playing-min_max-4_99",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "原本的消耗体力值在4以上的技能卡"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-playing-p_card-01-ido-1_058",
       "produceDescriptions": [
         {
@@ -1323,7 +1368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "第一次的奖励"
+          "text": "第一次的褒奖"
         }
       ]
     },
@@ -1353,7 +1398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "轻松的聊天"
+          "text": "轻松悠哉闲谈"
         }
       ]
     },
@@ -1368,7 +1413,22 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "开心的误算"
+          "text": "意外的惊喜"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-r-playing",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "技能卡（R）"
         }
       ]
     },
@@ -1383,7 +1443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "已强化的技能卡"
+          "text": "强化后的技能卡"
         }
       ]
     },
@@ -1398,7 +1458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "强化后固有技能卡（SSR）"
+          "text": "强化后的固有技能卡（SSR）"
         }
       ]
     },
@@ -1413,7 +1473,82 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "已强化的技能卡（SSR）"
+          "text": "强化后的技能卡（SSR）"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-sr-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "除外中的技能卡（SR）"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-sr-ssr-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "除外中的技能卡（SR,SSR）"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-sr-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "技能卡（SR）"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-ssr-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "除外中的技能卡（SSR）"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-ssr-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "技能卡（SSR）"
         }
       ]
     },
@@ -1450,6 +1585,31 @@
     {
       "id": "p_card_search-trouble-deck_all",
       "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_TroubleSkillCard",
+          "text": "干扰卡"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-deck_grave",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "牌堆和弃牌的"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
           "examDescriptionType": "ExamDescriptionType_Unknown",

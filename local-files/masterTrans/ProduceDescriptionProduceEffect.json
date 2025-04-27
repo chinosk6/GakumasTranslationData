@@ -7,31 +7,31 @@
   "data": [
     {
       "type": "ProduceEffectType_VocalAddition",
-      "name": "声乐力上升"
+      "name": "歌唱上升"
     },
     {
       "type": "ProduceEffectType_DanceAddition",
-      "name": "舞蹈力上升"
+      "name": "舞蹈上升"
     },
     {
       "type": "ProduceEffectType_VisualAddition",
-      "name": "形象力上升"
+      "name": "视觉上升"
     },
     {
       "type": "ProduceEffectType_VocalDown",
-      "name": "声乐力下降"
+      "name": "歌唱低下"
     },
     {
       "type": "ProduceEffectType_DanceDown",
-      "name": "舞蹈力下降"
+      "name": "舞蹈低下"
     },
     {
       "type": "ProduceEffectType_VisualDown",
-      "name": "形象力下降"
+      "name": "视觉低下"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "声乐课程奖励+"
+      "name": "歌唱课程奖励+"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
@@ -39,27 +39,27 @@
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "形象课程奖励+"
+      "name": "视觉课程奖励+"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "声乐课加成-"
+      "name": "歌唱课程奖励-"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "舞蹈课加成-"
+      "name": "舞蹈课程奖励-"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "形象课加成-"
+      "name": "视觉课程奖励-"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
-      "name": "体力恢复"
+      "name": "体力回复"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverMultiple",
-      "name": "体力比例恢复"
+      "name": "体力比例回复"
     },
     {
       "type": "ProduceEffectType_StaminaReduceFix",
@@ -75,11 +75,11 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueUp",
-      "name": "体力恢复量增加"
+      "name": "体力回复量增加"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueDown",
-      "name": "体力恢复量减少"
+      "name": "体力回复量减少"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueUp",
@@ -91,7 +91,7 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverDisable",
-      "name": "体力恢复无效"
+      "name": "体力回复无效"
     },
     {
       "type": "ProduceEffectType_MaxStaminaAddition",
@@ -147,15 +147,15 @@
     },
     {
       "type": "ProduceEffectType_ProduceCardChange",
-      "name": "转换"
+      "name": "变换"
     },
     {
       "type": "ProduceEffectType_ProduceCardChangeUpgrade",
-      "name": "转换强化"
+      "name": "变换并强化"
     },
     {
       "type": "ProduceEffectType_ProduceCardDelete",
-      "name": "删除"
+      "name": "消除"
     },
     {
       "type": "ProduceEffectType_ProducePointAddition",
@@ -167,111 +167,111 @@
     },
     {
       "type": "ProduceEffectType_ProduceItemGetDisable",
-      "name": "P道具获得不可"
+      "name": "P道具无法获得"
     },
     {
       "type": "ProduceEffectType_ProduceDrinkGetDisable",
-      "name": "P饮料获得不可"
+      "name": "P饮料无法获得"
     },
     {
       "type": "ProduceEffectType_ProduceReward",
-      "name": "获得奖励"
+      "name": "获得报酬"
     },
     {
       "type": "ProduceEffectType_ProduceRewardSet",
-      "name": "获得奖励"
+      "name": "获得报酬"
     },
     {
       "type": "ProduceEffectType_AuditionParameterBonusMultiple",
-      "name": "得分加成增加"
+      "name": "得分奖励增加"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilAddition",
-      "name": "SP课程发生率增加"
+      "name": "SP课程发生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "声乐力SP课程发生率增加"
+      "name": "歌唱SP课程发生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-      "name": "舞蹈SP课程发生率增加"
+      "name": "舞蹈SP课程发生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "形象力SP课程发生率增加"
+      "name": "视觉SP课程发生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
-      "name": "SP课程发生率减少"
+      "name": "SP课程发生概率减少"
     },
     {
       "type": "ProduceEffectType_ExamStatusEnchant",
-      "name": "课程时发生效果"
+      "name": "课程时产生效果"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountUp",
-      "name": "课程报酬的技能卡选择项追加"
+      "name": "课程报酬中技能卡选项增加"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountDown",
-      "name": "课程报酬的技能卡选择项减少"
+      "name": "课程报酬中技能卡选项减少"
     },
     {
       "type": "ProduceEffectType_ShopPriceDiscountMultiple",
-      "name": "咨询的全部项目打折"
+      "name": "咨询的所有项目折扣"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiple",
-      "name": "咨询的技能卡打折"
+      "name": "咨询的购买技能卡折扣"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple",
-      "name": "咨询的P饮料打折"
+      "name": "咨询的购买P饮料折扣"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceDiscountMultiple",
-      "name": "咨询的技能卡强化打折"
+      "name": "咨询的强化技能卡折扣"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceSpecify",
-      "name": "咨询的技能卡强化变更"
+      "name": "咨询的强化技能卡变更"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceDiscountMultiple",
-      "name": "咨询的技能卡删除打折"
+      "name": "咨询的削除技能卡折扣"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceSpecify",
-      "name": "咨询的技能卡强化变更"
+      "name": "咨询的强化技能卡变更"
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardMoneyUp",
-      "name": "培育完成时获得金币增加"
+      "name": "培育结束时获得的金币增加"
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardSupportCardEnhancePointUp",
-      "name": "培育完成时的支援Pt增加"
+      "name": "培育结束时获得的支援Pt增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "支援事件的体力恢复量增加"
+      "name": "支援活动的体力回复量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
-      "name": "支援事件的P点数获得量增加"
+      "name": "支援活动的P点数获得量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
-      "name": "支援事件的分数上升量增加"
+      "name": "支援活动的能力值上升量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProbabilityUp",
-      "name": "支援事件发生率增加"
+      "name": "支援活动发生率增加"
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
-      "name": "课程奖励的P点数获得量增加"
+      "name": "课程报酬的P点数获得量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardProduceCardUpgradeProbabilityUp",
@@ -299,51 +299,51 @@
     },
     {
       "type": "ProduceEffectType_ShopPriceUpMultiple",
-      "name": "咨询的所有项目增收"
+      "name": "咨询的所有项目涨价"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceUpMultiple",
-      "name": "咨询的技能卡增加"
+      "name": "咨询的购买技能卡涨价"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceUpMultiple",
-      "name": "咨询的P饮料增加"
+      "name": "咨询的购买P饮料涨价"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceUpMultiple",
-      "name": "咨询的技能卡强化增加"
+      "name": "咨询的强化技能卡涨价"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceUpMultiple",
-      "name": "咨询的技能卡删除增加"
+      "name": "咨询的削除技能卡涨价"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "课程的体力消耗增加"
+      "name": "课程所消耗的体力增加"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "课程的体力消耗减少"
+      "name": "课程所消耗的体力减少"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "外出的消耗P点数增加"
+      "name": "外出的P点数消耗增加"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
-      "name": "外出的消耗P点数减少"
+      "name": "外出的P点数消耗减少"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
-      "name": "考试前体力恢复量增加"
+      "name": "考试前体力回复量增加"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaDown",
-      "name": "考试前体力恢复量减少"
+      "name": "考试前体力回复量减少"
     },
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",
-      "name": "技能卡除去"
+      "name": "除去技能卡"
     }
   ]
 }

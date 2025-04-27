@@ -8,56 +8,56 @@
     {
       "tutorialType": "TutorialType_Work",
       "name": "工作",
-      "description": "「工作」功能解锁",
-      "routeDescription": "可以在首页的工作中确认"
+      "description": "「工作」机能解锁",
+      "routeDescription": "请前往主页的工作进行"
     },
     {
       "tutorialType": "TutorialType_PvpRate",
-      "name": "比赛",
-      "description": "「竞赛」功能解锁",
-      "routeDescription": "可以在竞赛中确认"
+      "name": "竞技场",
+      "description": "「竞技场」机能解锁",
+      "routeDescription": "请前往竞技场页面进行确认"
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
-      "name": "金币扭蛋",
-      "description": "「扭蛋」功能解锁",
-      "routeDescription": "可以在商店的硬币扭蛋中确认"
+      "name": "硬币扭蛋",
+      "description": "「硬币扭蛋」机能解锁",
+      "routeDescription": "请前往商店页面的硬币扭蛋进行确认"
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
-      "name": "活动费用",
-      "description": "“活动费”功能解锁",
-      "routeDescription": "可以在首页的活动资金中确认"
+      "name": "活动经费",
+      "description": "「活动经费」机能解锁",
+      "routeDescription": "请前往主页的活动经费进行确认"
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
-      "name": "可培育偶像特训",
-      "description": "「可培育偶像特训」功能解锁",
-      "routeDescription": "可以在偶像的P偶像培养中确认"
+      "name": "培育用偶像特训",
+      "description": "「培育用偶像特训」机能解锁",
+      "routeDescription": "请前往偶像页面的P偶像养成进行确认"
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
       "name": "支援卡强化",
-      "description": "「支援卡强化」功能解锁",
-      "routeDescription": "可以从偶像的支援卡确认"
+      "description": "「支援卡强化」机能解锁",
+      "routeDescription": "请前往偶像页面的支援卡进行确认"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
-      "name": "每日交换所",
-      "description": "「每日兑换所」功能解锁",
-      "routeDescription": "可以从商店的每日交换所中确认"
+      "name": "每日兑换所",
+      "description": "「每日兑换所」机能解锁",
+      "routeDescription": "请前往商店页面的每日兑换所进行确认"
     },
     {
       "tutorialType": "TutorialType_Tower",
       "name": "偶像之路",
-      "description": "「偶像之路」功能解锁",
-      "routeDescription": "可以从竞赛的通往偶像之路中确认"
+      "description": "「偶像之路」机能解锁",
+      "routeDescription": "请前往竞技场页面的偶像之路进行确认"
     },
     {
       "tutorialType": "TutorialType_Guild",
-      "name": "社团",
-      "description": "「社团」功能解锁",
-      "routeDescription": "可以从菜单的社团中确认"
+      "name": "社交圈",
+      "description": "「社交圈」机能解锁",
+      "routeDescription": "请前往菜单页面的社交圈进行确认"
     }
   ]
 }

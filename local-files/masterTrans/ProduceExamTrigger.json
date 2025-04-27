@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "当通过技能卡成本消耗强化状态时，"
+          "text": "使用以强化状态作为cost的技能卡时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -43,7 +43,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "若为10以上的情况，"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -58,7 +58,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "当通过技能卡成本消耗强化状态时，"
+          "text": "使用以强化状态作为cost的技能卡时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -78,7 +78,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "若为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -93,7 +93,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身移到弃牌时，"
+          "text": "自身被移动到弃牌时，"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身移到手牌时，"
+          "text": "自身被移动到手牌时，"
         }
       ]
     },
@@ -123,7 +123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡移到除外时，"
+          "text": "技能卡被移动到除外时，"
         }
       ]
     },
@@ -138,7 +138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡移到除外时，"
+          "text": "技能卡被移动到除外时，"
         }
       ]
     },
@@ -153,7 +153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_030",
-          "text": "重新开始"
+          "text": "再次出发"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -183,7 +183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -228,7 +228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为12以上的情况，"
+          "text": "在12以上的时候，"
         }
       ]
     },
@@ -263,7 +263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -278,7 +278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -308,7 +308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -343,7 +343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为8以上的情况，"
+          "text": "在8以上的时候，"
         }
       ]
     },
@@ -358,7 +358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "精准吸引"
+          "text": "魅力刚刚好"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -388,7 +388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中有1张以上技能卡的情况，"
+          "text": "内的技能卡有1张以上的时候，"
         }
       ]
     },
@@ -433,7 +433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -473,7 +473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -508,7 +508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -533,7 +533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_001",
-          "text": "观众服务"
+          "text": "粉丝应援"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -558,7 +558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "轻松的步伐"
+          "text": "轻快的步伐"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -608,7 +608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "借势发挥"
+          "text": "趁势而为"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -633,7 +633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "国民偶像"
+          "text": "国民级偶像"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -658,7 +658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆中微笑"
+          "text": "想起就好笑"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -683,7 +683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "我就是明星"
+          "text": "我是大明星"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -718,7 +718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后,"
+          "text": "效果的技能卡使用后，"
         }
       ]
     },
@@ -743,7 +743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后,"
+          "text": "效果的技能卡使用后，"
         }
       ]
     },
@@ -768,7 +768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后,"
+          "text": "效果的技能卡使用后，"
         }
       ]
     },
@@ -793,7 +793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后,"
+          "text": "效果的技能卡使用后，"
         }
       ]
     },
@@ -808,7 +808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "体力恢复"
+          "text": "体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -818,7 +818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后,"
+          "text": "效果的技能卡使用后，"
         }
       ]
     },
@@ -833,7 +833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "开心的误算"
+          "text": "意外的惊喜"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -858,7 +858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身使用后,"
+          "text": "自身使用后，"
         }
       ]
     },
@@ -883,7 +883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后,"
+          "text": "效果的技能卡使用后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -903,7 +903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在4回合以上的情况下,"
+          "text": "在4回合以上的时候，"
         }
       ]
     },
@@ -948,7 +948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "若为10以上的情况，"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -963,7 +963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -993,7 +993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在10以上的情况下,"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -1028,7 +1028,52 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play_after-review_up-6-p_card_search-playing-effect_group-visible-exam_review-000-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "好印象"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "效果的技能卡使用后，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "好印象"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -1053,7 +1098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用后,体力在50%以上的情况下,"
+          "text": "使用后，体力在50%以上的时候，"
         }
       ]
     },
@@ -1078,7 +1123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1098,7 +1143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在15以上的情况下，"
+          "text": "在15以上的时候，"
         }
       ]
     },
@@ -1123,7 +1168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1143,7 +1188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -1158,7 +1203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1178,7 +1223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -1193,7 +1238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【形象课・形象回合限定】"
+          "text": "【仅限视觉课程・视觉回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1203,7 +1248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1223,7 +1268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -1238,7 +1283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1258,7 +1303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -1303,7 +1348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "若为8以上的情况，"
+          "text": "在8以上的时候，"
         }
       ]
     },
@@ -1318,7 +1363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1338,7 +1383,52 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play-concentration_up-2-p_card_search-mental_skill-playing-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "辅助技能卡"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用时，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "强气"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2阶段的时候，"
         }
       ]
     },
@@ -1353,7 +1443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，未定义模式(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的情况下，"
+          "text": "技能卡使用时，未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的时候"
         }
       ]
     },
@@ -1368,7 +1458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1398,7 +1488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "以下情况，"
+          "text": "以下的时候，"
         }
       ]
     },
@@ -1413,7 +1503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1443,7 +1533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "以上情况，"
+          "text": "以上的时候，"
         }
       ]
     },
@@ -1458,7 +1548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1478,7 +1568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在1以上的情况下，"
+          "text": "在1以上的时候，"
         }
       ]
     },
@@ -1493,7 +1583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1513,7 +1603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -1528,7 +1618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1548,7 +1638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在1以上的情况下，"
+          "text": "在1以上的时候，"
         }
       ]
     },
@@ -1563,7 +1653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1583,7 +1673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -1598,7 +1688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1618,7 +1708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -1633,7 +1723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1653,7 +1743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -1668,7 +1758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1688,7 +1778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在0的情况下，"
+          "text": "为0的时候，"
         }
       ]
     },
@@ -1703,7 +1793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1713,7 +1803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1733,7 +1823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在0的情况下，"
+          "text": "为0的时候，"
         }
       ]
     },
@@ -1758,7 +1848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         }
       ]
     },
@@ -1773,7 +1863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1793,7 +1883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         }
       ]
     },
@@ -1808,7 +1898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【形象课・形象回合限定】"
+          "text": "【仅限视觉课程・视觉回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1828,7 +1918,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         }
       ]
     },
@@ -1843,7 +1933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【声乐课・声乐回合限定】"
+          "text": "【仅限歌唱课程・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1863,7 +1953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         }
       ]
     },
@@ -1878,7 +1968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1888,7 +1978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         }
       ]
     },
@@ -1903,7 +1993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         }
       ]
     },
@@ -1953,7 +2043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡效果使用时，"
+          "text": "效果的技能卡使用时，"
         }
       ]
     },
@@ -2018,7 +2108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2033,6 +2123,36 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play-p_card_search-playing-idol-unique-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "偶像固有技能卡使用时，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play-p_card_search-playing-min_max-4_99-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用原本的消耗体力值在4以上的技能卡时，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-01-ido-1_058-0_1",
       "produceDescriptions": [
         {
@@ -2043,7 +2163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "第一次的奖励"
+          "text": "第一次的褒奖"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2053,7 +2173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         }
       ]
     },
@@ -2078,7 +2198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         }
       ]
     },
@@ -2093,7 +2213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "轻松闲聊"
+          "text": "轻松悠哉闲谈"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2103,7 +2223,22 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play-p_card_search-r-playing-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "技能卡（R）使用时，"
         }
       ]
     },
@@ -2118,7 +2253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2138,7 +2273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -2153,7 +2288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2173,7 +2308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在4回合以上的情况下,"
+          "text": "在4回合以上的时候，"
         }
       ]
     },
@@ -2198,7 +2333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时，直前"
+          "text": "使用时，刚刚使用过"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -2218,7 +2353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在使用状态的情况下，"
+          "text": "的时候，"
         }
       ]
     },
@@ -2243,7 +2378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时，直前"
+          "text": "使用时，刚刚使用过"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -2253,7 +2388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2263,7 +2398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在使用状态的情况下，"
+          "text": "的时候，"
         }
       ]
     },
@@ -2278,7 +2413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2288,7 +2423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时，直前"
+          "text": "使用时，刚刚使用过"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -2298,7 +2433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2308,7 +2443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在使用状态的情况下，"
+          "text": "的时候，"
         }
       ]
     },
@@ -2323,7 +2458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2343,7 +2478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -2368,7 +2503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时,"
+          "text": "使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2388,7 +2523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -2403,7 +2538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2423,7 +2558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在1以上的情况下，"
+          "text": "在1以上的时候，"
         }
       ]
     },
@@ -2438,7 +2573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2458,7 +2593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在10以上的情况下,"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -2473,7 +2608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2493,7 +2628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -2508,7 +2643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2528,7 +2663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -2543,7 +2678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2563,7 +2698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -2578,7 +2713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡时，"
+          "text": "技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2588,7 +2723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2598,7 +2733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -2623,7 +2758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时，体力在30%以下的情况下，"
+          "text": "使用时，体力在30%以下的时候，"
         }
       ]
     },
@@ -2638,7 +2773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡使用时，体力在50%以下的情况下，"
+          "text": "技能卡使用时，体力在50%以下的时候，"
         }
       ]
     },
@@ -2663,7 +2798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时，体力在50%以下的情况下，"
+          "text": "使用时，体力在50%以下的时候，"
         }
       ]
     },
@@ -2678,7 +2813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡使用时，体力在50%以上的情况下，"
+          "text": "技能卡使用时，体力在50%以上的时候，"
         }
       ]
     },
@@ -2703,7 +2838,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时，体力在50%以上的情况下，"
+          "text": "使用时，体力在50%以上的时候，"
         }
       ]
     },
@@ -2718,7 +2853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "加油加油哦"
+          "text": "加油鼓劲"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2728,7 +2863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用时，体力在50%以上的情况下，"
+          "text": "使用时，体力在50%以上的时候，"
         }
       ]
     },
@@ -2743,7 +2878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡使用时，体力在80%以上的情况下，"
+          "text": "技能卡使用时，体力在80%以上的时候，"
         }
       ]
     },
@@ -2758,7 +2893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡使用时，在第5回合之后的情况下，"
+          "text": "技能卡使用时，在5回合以后的时候，"
         }
       ]
     },
@@ -2808,7 +2943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为12以上的情况，"
+          "text": "在12以上的时候，"
         }
       ]
     },
@@ -2843,7 +2978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在230以上的情况下，"
+          "text": "在230以上的时候，"
         }
       ]
     },
@@ -2878,7 +3013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在30以上的情况下，"
+          "text": "在30以上的时候，"
         }
       ]
     },
@@ -2913,7 +3048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在50以上的情况下，"
+          "text": "在50以上的时候，"
         }
       ]
     },
@@ -2948,7 +3083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -2983,7 +3118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -3018,7 +3153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -3053,7 +3188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -3088,7 +3223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -3123,7 +3258,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在第1阶段的情况下，"
+          "text": "1阶段的时候，"
         }
       ]
     },
@@ -3158,7 +3293,42 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在第2阶段的情况下，"
+          "text": "2阶段的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_end_turn-full_power_up",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回合结束时，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "全力"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "的时候，"
         }
       ]
     },
@@ -3173,7 +3343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，未定义的模式(Type: FullPowerUp, CheckType: , Value: 1)的情况下，"
+          "text": "技能卡使用时，未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的时候"
         }
       ]
     },
@@ -3208,7 +3378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -3243,7 +3413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -3278,7 +3448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -3313,7 +3483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -3328,7 +3498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【形象课・形象回合限定】"
+          "text": "【仅限视觉课程・视觉回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3373,7 +3543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在0的情况下，"
+          "text": "为0的时候，"
         }
       ]
     },
@@ -3388,7 +3558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，非"
+          "text": "回合结束时，不是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3408,7 +3578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -3423,7 +3593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，非"
+          "text": "回合结束时，不是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3443,7 +3613,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -3458,7 +3628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，非"
+          "text": "回合结束时，不是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3478,7 +3648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -3513,7 +3683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在11以下的情况下，"
+          "text": "在11以下的时候，"
         }
       ]
     },
@@ -3548,7 +3718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为4以下的情况，"
+          "text": "在4以下的时候，"
         }
       ]
     },
@@ -3583,7 +3753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为6以下的情况，"
+          "text": "在6以下的时候，"
         }
       ]
     },
@@ -3598,7 +3768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，非"
+          "text": "回合结束时，不是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3618,7 +3788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -3653,7 +3823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以下的情况，"
+          "text": "在5以下的时候，"
         }
       ]
     },
@@ -3688,7 +3858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为6以下的情况，"
+          "text": "在6以下的时候，"
         }
       ]
     },
@@ -3703,7 +3873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，非"
+          "text": "回合结束时，不是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3713,7 +3883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3723,7 +3893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -3758,7 +3928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -3793,7 +3963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为12回合以上的情况，"
+          "text": "在12回合以上的时候，"
         }
       ]
     },
@@ -3828,7 +3998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3回合以上的情况，"
+          "text": "在3回合以上的时候，"
         }
       ]
     },
@@ -3863,7 +4033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为6回合以上的情况，"
+          "text": "在6回合以上的时候，"
         }
       ]
     },
@@ -3898,7 +4068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在第1阶段的情况下，"
+          "text": "1阶段的时候，"
         }
       ]
     },
@@ -3928,7 +4098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在剩余2回合以内的回合结束时，"
+          "text": "剩余2回合内的回合结束时，"
         }
       ]
     },
@@ -3943,7 +4113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在剩余3回合以内的回合结束时，"
+          "text": "剩余3回合内的回合结束时，"
         }
       ]
     },
@@ -3978,7 +4148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在1以上的情况下，"
+          "text": "在1以上的时候，"
         }
       ]
     },
@@ -4013,7 +4183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在10以上的情况下,"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -4048,7 +4218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为20以上的情况，"
+          "text": "在20以上的时候，"
         }
       ]
     },
@@ -4083,7 +4253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -4118,7 +4288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -4153,7 +4323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为55以上的情况，"
+          "text": "在55以上的时候，"
         }
       ]
     },
@@ -4188,7 +4358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -4223,7 +4393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -4258,7 +4428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为8以上的情况，"
+          "text": "在8以上的时候，"
         }
       ]
     },
@@ -4283,7 +4453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4293,7 +4463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -4308,7 +4478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，体力为0%的情况，"
+          "text": "回合结束时，体力为0的时候，"
         }
       ]
     },
@@ -4323,7 +4493,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，体力为4%以下的情况，"
+          "text": "回合结束时，体力在4%以下的时候，"
         }
       ]
     },
@@ -4338,7 +4508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，体力为10%以上的情况，"
+          "text": "回合结束时，体力在10%以上的时候，"
         }
       ]
     },
@@ -4353,7 +4523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，体力为100%的情况，"
+          "text": "回合结束时，体力为100%的时候，"
         }
       ]
     },
@@ -4368,7 +4538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，体力为13%以上的情况，"
+          "text": "回合结束时，体力在13%以上的时候，"
         }
       ]
     },
@@ -4383,7 +4553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，体力为50%以上的情况，"
+          "text": "回合结束时，体力在50%以上的时候，"
         }
       ]
     },
@@ -4398,7 +4568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合结束时，体力为6%以上的情况，"
+          "text": "回合结束时，体力在6%以上的时候，"
         }
       ]
     },
@@ -4413,7 +4583,57 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每使用2次技能卡，"
+          "text": "技能卡每使用2次，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_count_interval-2-lesson_buff_up-3",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "集中"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在3以上，技能卡每使用2次，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_count_interval-2-lesson_buff_up-8",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "集中"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在8以上，技能卡每使用2次，"
         }
       ]
     },
@@ -4428,7 +4648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "体力在50%以下的情况下，每使用2次技能卡，"
+          "text": "体力在50%以下，技能卡每使用2次，"
         }
       ]
     },
@@ -4443,7 +4663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "体力が50%以上の場合、技能卡を2回使用するごとに、"
+          "text": "体力在50%以上，技能卡每使用2次，"
         }
       ]
     },
@@ -4458,7 +4678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡を3回使用するごとに、"
+          "text": "技能卡每使用3次，"
         }
       ]
     },
@@ -4473,7 +4693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4483,7 +4703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "を3回使用するごとに、"
+          "text": "每使用3次，"
         }
       ]
     },
@@ -4498,7 +4718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4508,7 +4728,37 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "を3回使用するごとに、"
+          "text": "每使用3次，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_count_interval-3-p_card_search-sr-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "技能卡（SR）每使用3次，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_count_interval-3-p_card_search-ssr-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "技能卡（SSR）每使用3次，"
         }
       ]
     },
@@ -4523,7 +4773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "体力が50%以上の場合、技能卡を3回使用するごとに、"
+          "text": "体力在50%以上，技能卡每使用3次，"
         }
       ]
     },
@@ -4538,7 +4788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡を4回使用するごとに、"
+          "text": "技能卡每使用4次，"
         }
       ]
     },
@@ -4553,7 +4803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4563,7 +4813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "を4回使用するごとに、"
+          "text": "每使用4次，"
         }
       ]
     },
@@ -4578,7 +4828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4588,7 +4838,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "を4回使用するごとに、"
+          "text": "每使用4次，"
         }
       ]
     },
@@ -4603,7 +4853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡を5回使用するごとに、"
+          "text": "技能卡每使用5次，"
         }
       ]
     },
@@ -4618,7 +4868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合内に"
+          "text": "回合内"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -4628,7 +4878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4638,7 +4888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "を2回使用するごとに、"
+          "text": "每使用2次，"
         }
       ]
     },
@@ -4653,7 +4903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合内に"
+          "text": "回合内"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -4663,7 +4913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4673,7 +4923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "を2回使用するごとに、"
+          "text": "每使用2次，"
         }
       ]
     },
@@ -4688,7 +4938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合内に技能卡を2回使用するごとに、"
+          "text": "回合内技能卡每使用2次，"
         }
       ]
     },
@@ -4703,7 +4953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合内に技能卡を2回使用するごとに、"
+          "text": "回合内技能卡每使用2次，"
         }
       ]
     },
@@ -4718,7 +4968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "未定義的模式(Type: ExamSearchCardPlay, PhaseValue: 0, ProduceCardSearchID: p_card_search-target_is_self, UpperCount: 0, LowerCount: 1)"
+          "text": "未定義のパターン(Type: ExamSearchCardPlay, PhaseValue: 0, ProduceCardSearchID: p_card_search-target_is_self, UpperCount: 0, LowerCount: 1)"
         }
       ]
     },
@@ -4743,7 +4993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中に体力が減少した時、"
+          "text": "中体力减少时，"
         }
       ]
     },
@@ -4758,7 +5008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【形象课・形象回合限定】"
+          "text": "【仅限视觉课程・视觉回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4768,7 +5018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡使用で体力減少時、"
+          "text": "使用技能卡导致体力减少时，"
         }
       ]
     },
@@ -4793,7 +5043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变为时，"
+          "text": "存在的时候，"
         }
       ]
     },
@@ -4818,7 +5068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "になった時、この"
+          "text": "存在的时候，这个"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4838,7 +5088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中の累計"
+          "text": "中的累计"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4858,7 +5108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -4883,7 +5133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "を変更するたび、"
+          "text": "变更的时候，"
         }
       ]
     },
@@ -4908,7 +5158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "を2回変更するたび、"
+          "text": "2次变更的时候，"
         }
       ]
     },
@@ -4933,7 +5183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变为时，"
+          "text": "存在的时候，"
         }
       ]
     },
@@ -4958,7 +5208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变为时，"
+          "text": "存在的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4978,7 +5228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变为的次数为1次以上的情况，"
+          "text": "进入次数在1次以上的时候，"
         }
       ]
     },
@@ -5003,7 +5253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变为时，"
+          "text": "存在的时候，"
         }
       ]
     },
@@ -5028,7 +5278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "开始时、"
+          "text": "开始时，"
         }
       ]
     },
@@ -5069,7 +5319,9 @@
     },
     {
       "id": "e_trigger-exam_start_exam-no_description",
-      "produceDescriptions": []
+      "produceDescriptions": [
+        ""
+      ]
     },
     {
       "id": "e_trigger-exam_start_exam-parameter_buff-1",
@@ -5092,7 +5344,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "开始时、未定义的模式(Type: ParameterBuff, CheckType: , Value: 1)的情况下、"
+          "text": "开始时，未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的时候，"
         }
       ]
     },
@@ -5117,7 +5369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "开始时、体力在80%以上的情况下、"
+          "text": "开始时，体力在80%以上的时候"
         }
       ]
     },
@@ -5132,7 +5384,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         }
       ]
     },
@@ -5147,7 +5399,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5167,7 +5419,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为14以上的情况下、"
+          "text": "在14以上的时候，"
         }
       ]
     },
@@ -5182,7 +5434,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5202,7 +5454,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在15以上的情况下，"
+          "text": "在15以上的时候，"
         }
       ]
     },
@@ -5217,7 +5469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5237,7 +5489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在30以上的情况下，"
+          "text": "在30以上的时候，"
         }
       ]
     },
@@ -5252,7 +5504,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5272,7 +5524,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在50以上的情况下，"
+          "text": "在50以上的时候，"
         }
       ]
     },
@@ -5287,7 +5539,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5307,7 +5559,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -5322,7 +5574,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5342,7 +5594,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为80以上的情况下、"
+          "text": "在80以上的时候，"
         }
       ]
     },
@@ -5357,7 +5609,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5377,7 +5629,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为12以上的情况，"
+          "text": "在12以上的时候，"
         }
       ]
     },
@@ -5392,7 +5644,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5412,7 +5664,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为13以上的情况下、"
+          "text": "在13以上的时候，"
         }
       ]
     },
@@ -5427,7 +5679,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5447,7 +5699,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为20以上的情况，"
+          "text": "在20以上的时候，"
         }
       ]
     },
@@ -5462,7 +5714,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5482,7 +5734,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -5497,7 +5749,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5517,7 +5769,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -5532,7 +5784,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5552,7 +5804,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -5567,7 +5819,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5587,7 +5839,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为8以上的情况，"
+          "text": "在8以上的时候，"
         }
       ]
     },
@@ -5602,7 +5854,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【形象课・形象回合限定】"
+          "text": "【仅限视觉课程・视觉回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5612,7 +5864,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5632,7 +5884,42 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为8以上的情况，"
+          "text": "在8以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_start_turn-card_search_count_up-7-p_card_search-trouble-deck_grave",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回合开始时，牌堆和弃牌的"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_TroubleSkillCard",
+          "text": "干扰卡"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "7张以上的时候，"
         }
       ]
     },
@@ -5647,7 +5934,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5667,7 +5954,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -5682,7 +5969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5712,7 +5999,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "以下情况，"
+          "text": "以下的时候，"
         }
       ]
     },
@@ -5727,7 +6014,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、这个"
+          "text": "回合开始时，这个"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5747,7 +6034,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中の累計"
+          "text": "中的累计"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5767,7 +6054,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在15以上的情况下，"
+          "text": "在15以上的时候，"
         }
       ]
     },
@@ -5782,7 +6069,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、这个"
+          "text": "回合开始时，这个"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5802,7 +6089,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中の累計"
+          "text": "中的累计"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5822,7 +6109,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -5837,7 +6124,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5857,7 +6144,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -5872,7 +6159,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5892,7 +6179,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -5907,7 +6194,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5927,7 +6214,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -5942,7 +6229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5952,7 +6239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5972,7 +6259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -5987,7 +6274,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5997,7 +6284,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6017,7 +6304,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在1以上的情况下，"
+          "text": "在1以上的时候，"
         }
       ]
     },
@@ -6032,7 +6319,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6052,7 +6339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在10以上的情况下,"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -6067,7 +6354,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6087,7 +6374,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为13以上的情况下、"
+          "text": "在13以上的时候，"
         }
       ]
     },
@@ -6102,7 +6389,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6122,7 +6409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为20以上的情况，"
+          "text": "在20以上的时候，"
         }
       ]
     },
@@ -6137,7 +6424,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6157,7 +6444,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为25以上的情况下、"
+          "text": "在25以上的时候，"
         }
       ]
     },
@@ -6172,7 +6459,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6192,7 +6479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -6207,7 +6494,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6227,7 +6514,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -6242,7 +6529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6252,7 +6539,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6272,7 +6559,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -6287,7 +6574,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6307,7 +6594,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为7以上的情况，"
+          "text": "在7以上的时候，"
         }
       ]
     },
@@ -6322,7 +6609,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6342,7 +6629,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为8以上的情况，"
+          "text": "在8以上的时候，"
         }
       ]
     },
@@ -6357,7 +6644,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6367,7 +6654,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         }
       ]
     },
@@ -6392,7 +6679,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         }
       ]
     },
@@ -6407,7 +6694,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【形象课・形象回合限定】"
+          "text": "【仅限视觉课程・视觉回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6417,7 +6704,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         }
       ]
     },
@@ -6432,7 +6719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【声乐课・声乐回合限定】"
+          "text": "【仅限歌唱课程・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6442,7 +6729,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         }
       ]
     },
@@ -6457,7 +6744,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6477,7 +6764,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在0的情况下，"
+          "text": "为0的时候，"
         }
       ]
     },
@@ -6492,7 +6779,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时，非"
+          "text": "回合开始时，不是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6512,7 +6799,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态的情况，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -6527,7 +6814,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6547,7 +6834,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -6562,7 +6849,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、任何一个"
+          "text": "回合开始时，任意的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -6582,7 +6869,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -6597,7 +6884,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、非"
+          "text": "回合开始时，不是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6607,7 +6894,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6617,7 +6904,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -6632,7 +6919,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6652,7 +6939,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -6667,7 +6954,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6687,7 +6974,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为10回合以上的情况下、"
+          "text": "在10回合以上的时候，"
         }
       ]
     },
@@ -6702,7 +6989,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6722,7 +7009,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为15回合以上的情况下、"
+          "text": "在15回合以上的时候，"
         }
       ]
     },
@@ -6737,7 +7024,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6757,7 +7044,52 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3回合以上的情况，"
+          "text": "在3回合以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_start_turn-parameter_buff_up-3-lesson_dance",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_StepLessonType_DanceLesson",
+          "text": "【仅限舞蹈课程・舞蹈回合】"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回合开始时，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "好调"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在3回合以上的时候，"
         }
       ]
     },
@@ -6772,7 +7104,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6792,7 +7124,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为6回合以上的情况，"
+          "text": "在6回合以上的时候，"
         }
       ]
     },
@@ -6807,7 +7139,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6827,7 +7159,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "零件次数为4次以上的情况下、"
+          "text": "存在次数在4次以上的时候，"
         }
       ]
     },
@@ -6842,7 +7174,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6862,7 +7194,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -6877,7 +7209,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6887,7 +7219,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6907,7 +7239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -6922,7 +7254,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "最终回合的回合开始时、"
+          "text": "最终回合的回合开始时，"
         }
       ]
     },
@@ -6937,7 +7269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "剩余2回合以内的回合开始时、"
+          "text": "剩余2回合内的回合开始时，"
         }
       ]
     },
@@ -6952,7 +7284,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "剩余3回合以内的回合开始时、"
+          "text": "剩余3回合内的回合开始时，"
         }
       ]
     },
@@ -6967,7 +7299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "剩余4回合以内的回合开始时、"
+          "text": "剩余4回合内的回合开始时，"
         }
       ]
     },
@@ -6982,7 +7314,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "剩余5回合以内的回合开始时、"
+          "text": "剩余5回合内的回合开始时，"
         }
       ]
     },
@@ -6997,7 +7329,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "剩余6回合以内的回合开始时、"
+          "text": "剩余6回合内的回合开始时，"
         }
       ]
     },
@@ -7012,7 +7344,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7032,7 +7364,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在1以上的情况下，"
+          "text": "在1以上的时候，"
         }
       ]
     },
@@ -7047,7 +7379,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7067,7 +7399,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在10以上的情况下,"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -7082,7 +7414,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7102,7 +7434,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在15以上的情况下，"
+          "text": "在15以上的时候，"
         }
       ]
     },
@@ -7117,7 +7449,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7137,7 +7469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -7152,7 +7484,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7162,7 +7494,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7182,7 +7514,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -7197,7 +7529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7217,7 +7549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -7232,7 +7564,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7252,7 +7584,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -7267,7 +7599,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7277,7 +7609,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7297,7 +7629,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -7312,7 +7644,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7322,7 +7654,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7332,7 +7664,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -7347,7 +7679,32 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、体力在50%以下的情况下、"
+          "text": "回合开始时，体力在50%以下的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_start_turn-stamina_less_multiple-500-lesson_dance",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_StepLessonType_DanceLesson",
+          "text": "【仅限舞蹈课程・舞蹈回合】"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回合开始时，体力在50%以下的时候，"
         }
       ]
     },
@@ -7362,7 +7719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【声乐课・声乐回合限定】"
+          "text": "【仅限歌唱课程・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7372,7 +7729,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、体力在50%以下的情况下、"
+          "text": "回合开始时，体力在50%以下的时候，"
         }
       ]
     },
@@ -7387,7 +7744,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、体力在50%以上的情况下、"
+          "text": "回合开始时，体力在50%以上的时候，"
         }
       ]
     },
@@ -7402,7 +7759,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7412,7 +7769,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、体力在50%以上的情况下、"
+          "text": "回合开始时，体力在50%以上的时候，"
         }
       ]
     },
@@ -7427,7 +7784,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、体力在80%以上的情况下、"
+          "text": "回合开始时，体力在80%以上的时候，"
         }
       ]
     },
@@ -7442,7 +7799,42 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、在第3回合以后、"
+          "text": "在第3回合以后的回合开始时，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_status_change-6-exam_review",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "一次性6以上的"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "好印象"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "增加后，"
         }
       ]
     },
@@ -7467,7 +7859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7487,7 +7879,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为12以上的情况，"
+          "text": "在12以上的时候，"
         }
       ]
     },
@@ -7512,7 +7904,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7532,7 +7924,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "次数达到2次以上的情况下、"
+          "text": "存在次数在2次以上的时候，"
         }
       ]
     },
@@ -7557,7 +7949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         }
       ]
     },
@@ -7582,7 +7974,42 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_status_change-exam_concentration",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "指针"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "强气"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "变更后，"
         }
       ]
     },
@@ -7607,7 +8034,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         }
       ]
     },
@@ -7632,7 +8059,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         }
       ]
     },
@@ -7657,7 +8084,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "分钟"
+          "text": "的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7667,7 +8094,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLesson",
-          "text": "分数"
+          "text": "打分"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7677,7 +8104,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升效果发动后、"
+          "text": "上升效果发动后，"
         }
       ]
     },
@@ -7702,7 +8129,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的效果回合数增加后、"
+          "text": "的效果回合增加后，"
         }
       ]
     },
@@ -7727,7 +8154,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         }
       ]
     },
@@ -7752,7 +8179,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7772,7 +8199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -7797,7 +8224,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的效果回合数增加后、"
+          "text": "的效果回合增加后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7817,7 +8244,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -7842,7 +8269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的效果回合数增加后、"
+          "text": "的效果回合增加后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7862,7 +8289,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为8以上的情况，"
+          "text": "在8以上的时候，"
         }
       ]
     },
@@ -7887,7 +8314,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的效果回合数增加后、"
+          "text": "的效果回合增加后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7907,7 +8334,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为10回合以上的情况下、"
+          "text": "在10回合以上的时候，"
         }
       ]
     },
@@ -7932,7 +8359,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7952,7 +8379,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3回合以上的情况，"
+          "text": "在3回合以上的时候，"
         }
       ]
     },
@@ -7977,7 +8404,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、"
+          "text": "增加后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7997,7 +8424,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在10以上的情况下,"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -8022,7 +8449,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后、体力在50%以上的情况下、"
+          "text": "增加后，体力在50%以上的时候，"
         }
       ]
     },
@@ -8037,7 +8464,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每2回合、"
+          "text": "每2回合，"
         }
       ]
     },
@@ -8052,7 +8479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每2回合、"
+          "text": "每2回合，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8072,7 +8499,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -8087,7 +8514,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每2回合、"
+          "text": "每2回合，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8107,7 +8534,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -8122,7 +8549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每2回合、体力在50%以上的情况下、"
+          "text": "每2回合，体力在50%以上的时候，"
         }
       ]
     },
@@ -8137,7 +8564,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每3回合、"
+          "text": "每3回合，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8157,7 +8584,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为3以上的情况，"
+          "text": "在3以上的时候，"
         }
       ]
     },
@@ -8172,7 +8599,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每3回合、"
+          "text": "每3回合，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8192,7 +8619,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -8207,13 +8634,30 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每3回合、体力在50%以上的情况下、"
+          "text": "每3回合，体力在50%以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_turn_skip",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "跳过回合时，"
         }
       ]
     },
     {
       "id": "e_trigger-exam_turn_timer-1",
-      "produceDescriptions": []
+      "produceDescriptions": [
+        ""
+      ]
     },
     {
       "id": "e_trigger-exam_turn_timer-1-description",
@@ -8226,7 +8670,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "第1回合开始时、"
+          "text": "第1回合开始时，"
         }
       ]
     },
@@ -8276,7 +8720,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为10回合以上的情况下、"
+          "text": "在10回合以上的时候，"
         }
       ]
     },
@@ -8326,7 +8770,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为10回合以上的情况下、"
+          "text": "在10回合以上的时候，"
         }
       ]
     },
@@ -8391,7 +8835,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -8426,7 +8870,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为6回合以上的情况，"
+          "text": "在6回合以上的时候，"
         }
       ]
     },
@@ -8476,7 +8920,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在10以上的情况下,"
+          "text": "在10以上的时候，"
         }
       ]
     },
@@ -8511,7 +8955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -8526,7 +8970,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "第7回合开始时，"
+          "text": "第6回合开始时，"
         }
       ]
     },
@@ -8541,7 +8985,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "第8回合开始时，"
+          "text": "第7回合开始时，"
         }
       ]
     },
@@ -8556,7 +9000,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "第8回合开始时，"
+          "text": "第7回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8576,7 +9020,32 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为10回合以上的情况下、"
+          "text": "在10回合以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-block_up-15",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "元气"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在15以上的时候，"
         }
       ]
     },
@@ -8601,7 +9070,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在30以上的情况下，"
+          "text": "在30以上的时候，"
         }
       ]
     },
@@ -8626,7 +9095,32 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-concentration_up-2",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "强气"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2阶段的时候，"
         }
       ]
     },
@@ -8651,7 +9145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "出现次数在1次以上的情况，"
+          "text": "进入次数在1次以上的时候，"
         }
       ]
     },
@@ -8676,7 +9170,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在1以上的情况下，"
+          "text": "在1以上的时候，"
         }
       ]
     },
@@ -8701,7 +9195,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -8726,7 +9220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在6以上的情况下,"
+          "text": "在6以上的时候，"
         }
       ]
     },
@@ -8741,7 +9235,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "任一的"
+          "text": "任意的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -8761,7 +9255,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -8786,7 +9280,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -8811,7 +9305,32 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "达到1回合以上的情况，"
+          "text": "在1回合以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-parameter_buff_up-12",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "好调"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在12回合以上的时候，"
         }
       ]
     },
@@ -8836,7 +9355,57 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在4回合以上的情况下,"
+          "text": "在4回合以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-preservation_change_count_up-1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "温存"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "进入次数在1次以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-preservation_change_count_up-2",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "温存"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "存在次数在2次以上的时候，"
         }
       ]
     },
@@ -8861,7 +9430,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
         }
       ]
     },
@@ -8886,7 +9455,32 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "若为10以上的情况，"
+          "text": "在10以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-review_up-15",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "好印象"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在15以上的时候，"
         }
       ]
     },
@@ -8911,7 +9505,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "开始时、"
+          "text": "开始时，"
         }
       ]
     },
@@ -8926,7 +9520,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         }
       ]
     },
@@ -8941,7 +9535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8961,7 +9555,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "为5以上的情况，"
+          "text": "在5以上的时候，"
         }
       ]
     },
@@ -8996,7 +9590,42 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的情况，"
+          "text": "的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-start_play-full_power_up",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回合开始时，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "全力"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "的时候，"
         }
       ]
     },
@@ -9011,7 +9640,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【舞蹈课・舞蹈回合限定】"
+          "text": "【仅限舞蹈课程・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9021,7 +9650,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         }
       ]
     },
@@ -9036,7 +9665,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【声乐课・声乐回合限定】"
+          "text": "【仅限歌唱课程・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9046,7 +9675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         }
       ]
     },
@@ -9061,7 +9690,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9081,7 +9710,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -9096,7 +9725,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "剩余2回合以内的回合开始时，"
+          "text": "剩余2回合内的回合开始时，"
         }
       ]
     },
@@ -9111,7 +9740,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -9121,7 +9750,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9131,7 +9760,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "状态情况下，"
+          "text": "状态的时候，"
         }
       ]
     },
@@ -9146,7 +9775,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时、体力在50%以下的情况下、"
+          "text": "回合开始时，体力在50%以下的时候，"
         }
       ]
     }

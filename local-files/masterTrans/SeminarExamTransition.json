@@ -11,65 +11,97 @@
       "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_01",
-      "description": "目标值稍微没达到呢。好调是可以增加分数上升量的效果。试验研修中学习巧妙使用的诀窍吧！",
-      "seminarExamGroupName": "考试培训",
+      "description": "稍微没有达到目标值呢。\n好调，有提高打分的上升量的效果。\n在考试研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "考试研修",
       "seminarExamName": "【考试研修1】好调"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_01",
-      "description": "目标值稍微没达到呢。好调是可以增加分数上升量的效果。在研修中学习巧妙使用的诀窍吧！",
-      "seminarExamGroupName": "基础培训",
+      "description": "稍微没有达到目标值呢。\n好调，有提高打分的上升量的效果。\n在研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "基础研修",
       "seminarExamName": "【基础1】好调"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_02",
-      "description": "目标值稍微没达到呢。集中是根据值分多少提升分数的效果。在试验研修中学习巧妙使用的诀窍吧！",
-      "seminarExamGroupName": "考试培训",
+      "description": "稍微没有达到目标值呢。\n集中，有将其数值转换成打分的上升值的效果。\n在考试研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "考试研修",
       "seminarExamName": "【考试研修2】集中"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_02",
-      "description": "目标值稍微没达到呢。集中是根据值分多少提升分数的效果。在研修中学习巧妙使用的诀窍吧！",
-      "seminarExamGroupName": "基础培训",
+      "description": "稍微没有达到目标值呢。\n集中，有将其数值转换成打分的上升值的效果。\n在研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "基础研修",
       "seminarExamName": "【基础2】集中"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamReview",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_03",
-      "description": "目标值稍微没达到呢。好印象是在回合结束时提升分数的效果。在试验研修中学习巧妙使用的诀窍吧！",
-      "seminarExamGroupName": "考试培训",
+      "description": "稍微没有达到目标值呢。\n好印象，有在回合结束时提高打分的效果。\n在考试研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "考试研修",
       "seminarExamName": "【考试研修3】好印象"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamReview",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_03",
-      "description": "目标值稍微没达到呢。好印象是在回合结束时提升分数的效果。在研修中学习巧妙使用的诀窍吧！",
-      "seminarExamGroupName": "基础培训",
+      "description": "稍微没有达到目标值呢。\n好印象，有在回合结束时提高打分的效果。\n在研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "基础研修",
       "seminarExamName": "【基础3】好印象"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_04",
-      "description": "目标值稍微没达到呢。干劲是根据值分多少提升元气增加值的效果。在试验研修中学习巧妙使用的诀窍吧！",
-      "seminarExamGroupName": "考试培训",
+      "description": "稍微没有达到目标值呢。\n干劲，有将其数值转换成元气的增加值的效果。\n在考试研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "考试研修",
       "seminarExamName": "【考试研修4】干劲"
     },
     {
       "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_04",
-      "description": "目标值稍微没达到呢。干劲是根据值分多少提升元气增加值的效果。在研修中学习巧妙使用的诀窍吧！",
-      "seminarExamGroupName": "基础培训",
+      "description": "稍微没有达到目标值呢。\n干劲，有将其数值转换成元气的增加值的效果。\n在研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "基础研修",
       "seminarExamName": "【基础4】干劲"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamConcentration",
+      "isLessonInt": 0,
+      "seminarExamId": "seminar_gruop-03_05",
+      "description": "稍微没有达到目标值呢。\n强气，有同时让点数上升量和消耗体力增加的效果。\n在考试研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "考试研修",
+      "seminarExamName": "【考试研修6】强气"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamConcentration",
+      "isLessonInt": 1,
+      "seminarExamId": "seminar_gruop-01_07",
+      "description": "稍微没有达到目标值呢。\n强气，有同时让点数上升量和消耗体力增加的效果。\n在研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "基础研修",
+      "seminarExamName": "【基础8】强气"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamFullPower",
+      "isLessonInt": 0,
+      "seminarExamId": "seminar_gruop-03_06",
+      "description": "稍微没有达到目标值呢。\n全力，除了提高打分上升量，\n还有增加1次技能卡使用次数的效果。\n在考试研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "考试研修",
+      "seminarExamName": "【考试研修5】全力"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamFullPower",
+      "isLessonInt": 1,
+      "seminarExamId": "seminar_gruop-01_08",
+      "description": "稍微没有达到目标值呢。\n全力，除了提高打分上升量，\n还有增加1次技能卡使用次数的效果。\n在研修中学习如何掌握诀窍吧！",
+      "seminarExamGroupName": "基础研修",
+      "seminarExamName": "【基础7】全力"
     }
   ]
 }

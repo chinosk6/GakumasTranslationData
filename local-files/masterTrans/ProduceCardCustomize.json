@@ -212,6 +212,21 @@
       "description": ""
     },
     {
+      "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
+      "customizeCount": 1,
+      "description": "持续效果+"
+    },
+    {
+      "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
+      "customizeCount": 2,
+      "description": "持续效果+"
+    },
+    {
+      "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
+      "customizeCount": 3,
+      "description": "持续效果+"
+    },
+    {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
       "customizeCount": 1,
       "description": ""
@@ -519,7 +534,7 @@
     {
       "id": "p_card_custom-040-g_effect-play_move_position_type_change-grave",
       "customizeCount": 1,
-      "description": "课程中1次\\n的限制删除"
+      "description": "课程中仅1回\n的限制解除"
     },
     {
       "id": "p_card_custom-070-g_effect-aggressive_add-3",
@@ -569,12 +584,12 @@
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_block-0004",
       "customizeCount": 1,
-      "description": "元气追加"
+      "description": "元气追加 "
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_block-0009",
       "customizeCount": 1,
-      "description": "元气追加"
+      "description": "元气追加 "
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_move-p_card_search-deck-hold-select-1_1",
@@ -614,32 +629,32 @@
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_block-0300-01",
       "customizeCount": 1,
-      "description": "元气分数追加"
+      "description": "元气数值打分追加"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_card_play_aggressive-1100-01",
       "customizeCount": 1,
-      "description": "干劲分数追加"
+      "description": "干劲数值打分追加"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_review-0600-01",
       "customizeCount": 1,
-      "description": "好印象分数追加"
+      "description": "好印象数值打分追加"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson-0006-01",
       "customizeCount": 1,
-      "description": "分数追加"
+      "description": "打分追加"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson-0012-01",
       "customizeCount": 1,
-      "description": "分数追加"
+      "description": "打分追加"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff_multiple_per_turn-02",
       "customizeCount": 1,
-      "description": ""
+      "description": "绝好调追加"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff-02",
@@ -659,7 +674,7 @@
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_stamina_consumption_down-02",
       "customizeCount": 1,
-      "description": "体耗减半追加"
+      "description": "消耗体力减少追加"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_concentration-0001-e_effect-exam_concentration-0002",
@@ -718,6 +733,21 @@
     },
     {
       "id": "p_card_custom-070-g_effect-parameter_buff_turn_add-2",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-review_up-15-e_trigger-none-review_up-10",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-block_up-30-e_trigger-none-block_up-15",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-preservation_change_count_up-2-e_trigger-none-preservation_change_count_up-1",
       "customizeCount": 1,
       "description": ""
     },

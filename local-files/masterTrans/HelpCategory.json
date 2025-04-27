@@ -11,172 +11,216 @@
       "order": 13,
       "name": "成就",
       "texts": [
-        "成就可以通过满足各种条件来获得。可以获得用于制作人Lv提升的经验值等各种奖励，所以积极收集成就吧。",
-        "当获得的星星数量达到一定数量时，可以获得大师成就。大师成就是根据获得的星星数量进行升级，并可以获得奖励。",
-        "True End成就可以在达到True End时获得。获得True End成就后，偶像的分数会提高。"
+        "成就可以通过满足各种条件来获得。通过获取制作人等级提升所需的经验值等多种奖励，请积极收集成就吧。",
+        "当获得成就时取得的星星达到指定数量后，即可获得大师成就。大师成就将根据已获得星星的数量进行等级提升，并能领取相应奖励。",
+        "True End成就在达成True End时即可获得。取得True End成就后，偶像的能力值将会提升。"
       ]
     },
     {
       "id": "help-box-gasha-event",
       "order": 20,
-      "name": "季度活动",
-      "texts": []
+      "name": "季节活动",
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-circle-battle-event",
       "order": 22,
       "name": "地方巡演活动",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-contest",
       "order": 8,
-      "name": "比赛",
+      "name": "竞技场",
       "texts": [
-        "可以与全国的制作人进行对战。\n在竞赛中，可以使用通过培育获得的\n与回忆绑定的分数、技能卡、\nP道具进行对战。",
-        "每个舞台进行一次表演对决，\n根据获得的得分来决定胜负。\n舞台胜利次数更多的制作人为胜利者。",
-        "竞赛有等级。\n排名上位后，会晋升到更高的等级。\n等级越高，奖励就越丰厚。",
-        "收集竞赛奖牌后\n可以在道具交换所\n兑换丰富的奖励。"
+        "您可以与全国的制作人展开对战。\n在竞技场中，可使用通过培育获得的\n与回忆关联的能力值、技能卡、\n以及P道具进行对战。",
+        "每个舞台都将进行演出比拼，\n通过累计得分一决胜负。\n舞台胜利次数更多的制作人\n将获得最终胜利。",
+        "竞技场设有不同段位等级。\n排名靠前即可晋升更高段位。\n段位越高可获得的奖励越丰厚。",
+        "收集竞技场奖章后\n可在道具兑换所\n兑换丰厚奖励。"
       ]
     },
     {
       "id": "help-event_mission",
       "order": 21,
-      "name": "事件任务",
-      "texts": []
+      "name": "活动任务",
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-event-mission",
       "order": 18,
       "name": "特别任务",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-gasha",
       "order": 10,
       "name": "扭蛋",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-guild",
       "order": 12,
-      "name": "社团",
+      "name": "社交圈",
       "texts": [
-        "可以与全国的制作人组建社团并进行交流。",
-        "在社团中，可以向社团成员征集特训道具，并可以领取捐赠的道具。此外，捐赠道具后可以获得好友币。"
+        "在社交圈中，您可以与全国的制作人组建社交圈并进行交流。",
+        "社交圈内可向成员募集特训道具，\n接收其他成员捐赠的道具。\n捐赠道具时还可获得好友硬币。"
       ]
     },
     {
       "id": "help-highscore",
       "order": 20,
       "name": "十王邦夫的偶像强化月",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-highscorerush",
       "order": 20,
       "name": "十王邦夫的偶像强化月・改",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-home",
       "order": 1,
       "name": "主页",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-idol",
       "order": 2,
       "name": "偶像",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-lesson",
       "order": 6,
       "name": "课程/考试",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-main-story-event",
       "order": 19,
       "name": "初星交流活动",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-memory",
       "order": 4,
       "name": "回忆",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-menu",
       "order": 15,
       "name": "菜单",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-mission",
       "order": 11,
       "name": "任务",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-panel-mission",
       "order": 17,
-      "name": "面板任务活动",
-      "texts": []
+      "name": "拼图任务活动",
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-photography-prepare-top",
       "order": 19,
-      "name": "偶像拍摄",
-      "texts": []
+      "name": "偶像摄影",
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-produce",
       "order": 5,
       "name": "培育",
       "texts": [
-        "通过考试，争取参加演唱会。\n要参加演唱会，\n需要通过中间考试和最终考试。",
-        "为了通过考试，\n偶像的分数很重要。\n为了考试，培养分数吧。",
-        "每个考试都有审查标准。\n根据审查标准来培养分数，\n更容易通过考试。"
+        "努力通过考试，争取登上演唱会舞台吧！\n要参加演唱会演出，\n需先通过中期考试与最终考试。",
+        "考试通过的关键在于偶像的能力值。\n请针对考试目标提升能力值吧！",
+        "每场考试都有特定评审标准。\n根据评审标准重点提升对应能力值，\n将大幅提高合格几率。"
       ]
     },
     {
       "id": "help-shop",
       "order": 14,
       "name": "商店",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-story",
       "order": 7,
       "name": "交流",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-story-event",
       "order": 16,
       "name": "故事活动",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-story-event-guild-mission",
       "order": 21,
       "name": "联动任务",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-support",
       "order": 3,
       "name": "支援卡",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-tower",
       "order": 9,
       "name": "偶像之路",
-      "texts": []
+      "texts": [
+        ""
+      ]
     }
   ]
 }

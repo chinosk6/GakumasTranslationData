@@ -15,31 +15,35 @@
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_down-000",
-      "name": "考试前体力恢复量减少"
+      "name": "考试前体力回复量减少"
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_up-000",
-      "name": "考试前体力恢复量增加"
+      "name": "考试前体力回复量增加"
     },
     {
       "id": "effect_group-visible-dance_addition-000",
-      "name": "舞蹈力上升"
+      "name": "舞蹈能力值上升"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_down-000",
-      "name": "外出消耗P点数减少"
+      "name": "外出所消耗的P点数减少"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_up-000",
-      "name": "外出的消耗P点数增加"
+      "name": "外出所消耗的P点数增加"
     },
     {
       "id": "effect_group-visible-event_school_stamina_down-000",
-      "name": "课程的体力消耗减少"
+      "name": "课程所消耗的体力减少"
     },
     {
       "id": "effect_group-visible-event_school_stamina_up-000",
-      "name": "课程的体力消耗增加"
+      "name": "课程所消耗的体力增加"
+    },
+    {
+      "id": "effect_group-visible-exam_add_grow_effect-000",
+      "name": "成长"
     },
     {
       "id": "effect_group-visible-exam_aggressive_reduce-000",
@@ -47,7 +51,7 @@
     },
     {
       "id": "effect_group-visible-exam_anti_debuff-000",
-      "name": "状态下降无效"
+      "name": "低下状态无效"
     },
     {
       "id": "effect_group-visible-exam_block_restriction-000",
@@ -79,11 +83,11 @@
     },
     {
       "id": "effect_group-visible-exam_effect_timer-000",
-      "name": "发起预约"
+      "name": "预约发动"
     },
     {
       "id": "effect_group-visible-exam_extra_turn-000",
-      "name": "增加回合"
+      "name": "回合追加"
     },
     {
       "id": "effect_group-visible-exam_full_power_point_reduce-000",
@@ -110,16 +114,28 @@
       "name": "集中"
     },
     {
+      "id": "effect_group-visible-exam_lesson_depend_block-000",
+      "name": ""
+    },
+    {
+      "id": "effect_group-visible-exam_lesson_depend_exam_review-000",
+      "name": ""
+    },
+    {
       "id": "effect_group-visible-exam_lesson_value_multiple_down-000",
-      "name": "分数上升量减少"
+      "name": "打分上升量减少"
     },
     {
       "id": "effect_group-visible-exam_lesson_value_multiple-000",
-      "name": "数值提升量增加"
+      "name": "打分上升量增加"
     },
     {
       "id": "effect_group-visible-exam_lesson-000",
-      "name": "分数"
+      "name": "打分"
+    },
+    {
+      "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn_reduce-000",
+      "name": "好调减少"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
@@ -135,7 +151,7 @@
     },
     {
       "id": "effect_group-visible-exam_playable_value_add-000",
-      "name": "技能卡使用数增加"
+      "name": "技能卡使用数追加"
     },
     {
       "id": "effect_group-visible-exam_preservation-000",
@@ -151,7 +167,7 @@
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add_fix-000",
-      "name": "体力消耗增加"
+      "name": "消耗体力追加"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add-000",
@@ -159,7 +175,7 @@
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down_fix-000",
-      "name": "消耗体力削减"
+      "name": "削减消耗体力"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down-000",
@@ -179,7 +195,7 @@
     },
     {
       "id": "effect_group-visible-produce_card_delete-000",
-      "name": "删除"
+      "name": "消除"
     },
     {
       "id": "effect_group-visible-produce_card_upgrade-000",
@@ -195,47 +211,47 @@
     },
     {
       "id": "effect_group-visible-shop_price_discount_multiple-000",
-      "name": "咨询的所有项目打折"
+      "name": "咨询的所有项目折扣"
     },
     {
       "id": "effect_group-visible-shop_price_up_multiple-000",
-      "name": "咨询的所有项目增收"
+      "name": "咨询的所有项目涨价"
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_discount_multiple-000",
-      "name": "咨询的技能卡删除打折"
+      "name": "咨询的消除技能卡折扣"
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_up_multiple-000",
-      "name": "咨询的技能卡删除涨价"
+      "name": "咨询的消除技能卡涨价"
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_discount_multiple-000",
-      "name": "咨询的技能卡打折"
+      "name": "咨询的购买技能卡折扣"
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_up_multiple-000",
-      "name": "咨询的技能卡涨价"
+      "name": "咨询的购买技能卡涨价"
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_discount_multiple-000",
-      "name": "咨询的技能卡强化打折"
+      "name": "咨询的强化技能卡折扣"
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_up_multiple-000",
-      "name": "咨询的技能卡强化涨价"
+      "name": "咨询的强化技能卡涨价"
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_discount_multiple-000",
-      "name": "咨询的P饮料打折"
+      "name": "咨询的购买P饮料折扣"
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_up_multiple-000",
-      "name": "咨询的P饮料涨价"
+      "name": "咨询的购买P饮料涨价"
     },
     {
       "id": "effect_group-visible-stamina_recover_fix-000",
-      "name": "体力恢复"
+      "name": "体力回复"
     },
     {
       "id": "effect_group-visible-stamina_reduce_fix-000",
@@ -247,11 +263,11 @@
     },
     {
       "id": "effect_group-visible-visual_addition-000",
-      "name": "形象力上升"
+      "name": "视觉能力值上升"
     },
     {
       "id": "effect_group-visible-vocal_addition-000",
-      "name": "声乐力上升"
+      "name": "歌唱能力值上升"
     }
   ]
 }

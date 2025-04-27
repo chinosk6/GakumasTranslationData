@@ -43,11 +43,11 @@
     },
     {
       "id": "mission-group-box-gasha-event-001",
-      "name": "盒子故事活动任务001"
+      "name": "BOX故事活动任务001"
     },
     {
       "id": "mission-group-box-gasha-event-002",
-      "name": "盒子故事活动任务002"
+      "name": "BOX故事活动任务002"
     },
     {
       "id": "mission-group-box-gasha-event-003",
@@ -55,7 +55,7 @@
     },
     {
       "id": "mission-group-box-gasha-event-004",
-      "name": "蛋糕结缘的朋友圣诞节"
+      "name": "蛋糕系起的友情圣诞节"
     },
     {
       "id": "mission-group-box-gasha-event-005",
@@ -63,11 +63,15 @@
     },
     {
       "id": "mission-group-box-gasha-event-006",
-      "name": "变装桃花节"
+      "name": "交换祈愿 女儿节"
+    },
+    {
+      "id": "mission-group-box-gasha-event-007",
+      "name": "樱花飞舞的起跑线"
     },
     {
       "id": "mission-group-circle-battle-event-001",
-      "name": "#让动画电影栩栩如生的团队"
+      "name": "#Animate气氛活跃队"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_1",
@@ -135,23 +139,23 @@
     },
     {
       "id": "mission-group-highscore-event-004_1",
-      "name": "偶像强化月间活动任务"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_2",
-      "name": "偶像强化月间活动任务"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_3",
-      "name": "偶像强化月间活动任务"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_4",
-      "name": "偶像强化月间活动任务"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_5",
-      "name": "偶像强化月间活动任务"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-001_1",
@@ -335,15 +339,15 @@
     },
     {
       "id": "mission-group-panel-mission-01",
-      "name": "第1次面板任务 表1"
+      "name": "第1次拼图任务 第1片"
     },
     {
       "id": "mission-group-panel-mission-02",
-      "name": "第1次面板任务 表2"
+      "name": "第1次拼图任务 第2片"
     },
     {
       "id": "mission-group-story-event-001",
-      "name": "1年1组的偶像们"
+      "name": "1年级1班的偶像们"
     },
     {
       "id": "mission-group-story-event-002",
@@ -358,36 +362,40 @@
       "name": "故事活动任务004"
     },
     {
+      "id": "mission-group-story-event-013",
+      "name": "故事活动任务013"
+    },
+    {
       "id": "panel_mission-event-002-group_1",
-      "name": "第2次面板任务 表1"
+      "name": "第2次拼图任务 第1片"
     },
     {
       "id": "panel_mission-event-002-group_2",
-      "name": "第2次面板任务 表2"
+      "name": "第2次拼图任务 第2片"
     },
     {
       "id": "panel_mission-event-003-group_1",
-      "name": "150万DL纪念面板任务"
+      "name": "150万下载纪念拼图任务"
     },
     {
       "id": "panel_mission-event-004-group_1",
-      "name": "第3次面板任务 表1"
+      "name": "第3次拼图任务 第1片"
     },
     {
       "id": "panel_mission-event-004-group_2",
-      "name": "第3次面板任务 表2"
+      "name": "第3次拼图任务 第2片"
     },
     {
       "id": "panel_mission-event-006-group_1",
-      "name": "第4次面板任务 表1"
+      "name": "第4次拼图任务 第1片"
     },
     {
       "id": "panel_mission-event-006-group_2",
-      "name": "第4次面板任务 表2"
+      "name": "第4次拼图任务 第2片"
     },
     {
       "id": "panel_mission-event-niv-group_1",
-      "name": "十王邦夫的挑战任务 〜通往A+之路〜"
+      "name": "十王邦夫的挑战任务 ~A+之路~"
     }
   ]
 }

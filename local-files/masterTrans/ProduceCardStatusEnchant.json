@@ -73,7 +73,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -118,7 +118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "精神技能卡"
+          "text": "辅助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -223,7 +223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -233,7 +233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10·"
+          "text": "+10・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -243,7 +243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "成本值增加"
+          "text": "花费值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273,7 +273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -338,7 +338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -348,7 +348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+15·"
+          "text": "+15・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -358,7 +358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "成本值增加"
+          "text": "花费值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -388,7 +388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -433,7 +433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -453,7 +453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -483,7 +483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中1次）"
+          "text": "中1回）"
         }
       ]
     },
@@ -528,7 +528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -548,7 +548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -578,7 +578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中1次）"
+          "text": "中1回）"
         }
       ]
     },
@@ -623,7 +623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -643,7 +643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "数值上升次数增加"
+          "text": "点数上升次数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -673,7 +673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中1次）"
+          "text": "中1回）"
         }
       ]
     },
@@ -718,7 +718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -738,7 +738,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostReduce",
-          "text": "消耗减少"
+          "text": "花费值减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -758,7 +758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -788,7 +788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -833,7 +833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -853,7 +853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostReduce",
-          "text": "消耗减少"
+          "text": "花费值减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -873,7 +873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -903,7 +903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -948,7 +948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -968,7 +968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -998,7 +998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -1043,7 +1043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1063,7 +1063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1093,7 +1093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -1138,7 +1138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1158,7 +1158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1168,7 +1168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+15·"
+          "text": "+15・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1178,7 +1178,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "成本值增加"
+          "text": "花费值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1208,7 +1208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -1253,7 +1253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1273,7 +1273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1303,7 +1303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -1348,7 +1348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1368,7 +1368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1388,7 +1388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "成本值增加"
+          "text": "花费值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1418,7 +1418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -1463,7 +1463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1483,7 +1483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1513,7 +1513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -1558,7 +1558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1578,7 +1578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1633,7 +1633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1653,7 +1653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1708,7 +1708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1728,7 +1728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1783,7 +1783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1803,7 +1803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1858,7 +1858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1878,7 +1878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1933,7 +1933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每次更改时，"
+          "text": "变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1953,7 +1953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1983,7 +1983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -2028,7 +2028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每次更改时，"
+          "text": "变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2048,7 +2048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2078,7 +2078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中2次）"
+          "text": "中2回）"
         }
       ]
     },
@@ -2123,7 +2123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每次更改时，"
+          "text": "变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2143,7 +2143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2173,7 +2173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中3次）"
+          "text": "中3回）"
         }
       ]
     },
@@ -2218,7 +2218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每次更改时，"
+          "text": "变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2238,7 +2238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2268,7 +2268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中3次）"
+          "text": "中3回）"
         }
       ]
     },
@@ -2313,7 +2313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每次更改时，"
+          "text": "变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2333,7 +2333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2363,7 +2363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中4次）"
+          "text": "中4回）"
         }
       ]
     },
@@ -2408,7 +2408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每次更改时，"
+          "text": "变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2428,7 +2428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2458,7 +2458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中4次）"
+          "text": "中4回）"
         }
       ]
     },
@@ -2503,7 +2503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每次更改时，"
+          "text": "变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2523,7 +2523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2578,7 +2578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每次更改时，"
+          "text": "变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2598,7 +2598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2653,7 +2653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每更改2次，"
+          "text": "2回变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2673,7 +2673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2703,7 +2703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中3次）"
+          "text": "中3回）"
         }
       ]
     },
@@ -2748,7 +2748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每更改2次，"
+          "text": "2回变更的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2768,7 +2768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2798,7 +2798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中3次）"
+          "text": "中3回）"
         }
       ]
     },
@@ -2843,7 +2843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2883,7 +2883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "成本值增加"
+          "text": "花费值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2913,7 +2913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中1次）"
+          "text": "中1回）"
         }
       ]
     },
@@ -2958,7 +2958,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2978,7 +2978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3008,7 +3008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中1次）"
+          "text": "中1回）"
         }
       ]
     },
@@ -3053,7 +3053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3073,7 +3073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3103,7 +3103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中1次）"
+          "text": "中1回）"
         }
       ]
     },
@@ -3148,7 +3148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3168,7 +3168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "数值上升次数增加"
+          "text": "点数上升次数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3198,7 +3198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中4次）"
+          "text": "中4回）"
         }
       ]
     },
@@ -3243,7 +3243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3263,7 +3263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3318,7 +3318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3338,7 +3338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3393,7 +3393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3413,7 +3413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3468,7 +3468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3488,7 +3488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3543,7 +3543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3563,7 +3563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3618,7 +3618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3638,7 +3638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3693,7 +3693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3713,7 +3713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3768,7 +3768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3788,7 +3788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3843,7 +3843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3863,7 +3863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3918,7 +3918,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3938,7 +3938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "数值上升次数增加"
+          "text": "点数上升次数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3993,7 +3993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4043,7 +4043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中1次）"
+          "text": "中1回）"
         }
       ]
     },
@@ -4088,7 +4088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变成时，"
+          "text": "的时候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4138,7 +4138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中1次）"
+          "text": "中1回）"
         }
       ]
     },
@@ -4203,7 +4203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4233,7 +4233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中3次）"
+          "text": "中3回）"
         }
       ]
     },
@@ -4298,7 +4298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "数值增加"
+          "text": "打分值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4328,7 +4328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中3次）"
+          "text": "中3回）"
         }
       ]
     }

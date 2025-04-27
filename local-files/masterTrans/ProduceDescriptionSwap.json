@@ -29,22 +29,22 @@
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程CLEAR的"
+      "text": "课程通关的"
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分是"
+      "text": "得分"
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程未CLEAR"
+      "text": "课程未通关"
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分是999以下"
+      "text": "得分在999以下"
     },
     {
       "id": "Swap_Convert_ConditionThreshold_Value_100",
@@ -89,42 +89,42 @@
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【舞蹈课・舞蹈回合限定】"
+      "text": "【仅限舞蹈课程・舞蹈回合】"
     },
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "如果是舞蹈回合，"
+      "text": "在舞蹈回合的话，"
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【SP课程限定】"
+      "text": "【仅限SP课程】"
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "【SP课程限定】"
+      "text": "【仅限SP课程】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【形象课・形象回合限定】"
+      "text": "【仅限视觉课程・视觉回合】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "如果是形象回合，"
+      "text": "在视觉回合的话，"
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【声乐课・声乐回合限定】"
+      "text": "【仅限歌唱课程・歌唱回合】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "如果是声乐回合，"
+      "text": "在歌唱回合的话，"
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
@@ -139,7 +139,7 @@
     {
       "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数上升值增加量增加"
+      "text": "打分上升值增加量增加"
     },
     {
       "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
@@ -149,27 +149,27 @@
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数"
+      "text": "打分"
     },
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "分数"
+      "text": "得分"
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数上升值变化"
+      "text": "打分上升值变更"
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分上升值变化"
+      "text": "得分上升值变更"
     },
     {
       "id": "Swap_Label_ExamLessonFix",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "固定分数"
+      "text": "固定打分"
     },
     {
       "id": "Swap_Label_ExamLessonFix",
@@ -179,17 +179,17 @@
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "数值提升量增加"
+      "text": "打分上升量增加"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分提升量增加"
+      "text": "得分上升量增加"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数上升量减少"
+      "text": "打分上升量减少"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
@@ -209,17 +209,17 @@
     {
       "id": "Swap_Label_ExamStaminaRecoverFix",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "体力恢复"
+      "text": "体力回复"
     },
     {
       "id": "Swap_Label_ExamStaminaRecoverFix",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "体力恢复"
+      "text": "体力回复"
     },
     {
       "id": "Swap_Label_LessonAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "数值增加"
+      "text": "打分值增加"
     },
     {
       "id": "Swap_Label_LessonAdd",
@@ -229,27 +229,27 @@
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "数值上升次数增加"
+      "text": "打分上升回数增加"
     },
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分上升次数增加"
+      "text": "得分上升回数增加"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数上升次数减少"
+      "text": "打分上升回数减少"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分上升次数减少"
+      "text": "得分上升回数减少"
     },
     {
       "id": "Swap_Label_LessonReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数值减少"
+      "text": "打分值减少"
     },
     {
       "id": "Swap_Label_LessonReduce",
@@ -259,52 +259,52 @@
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程中1次"
+      "text": "课程中仅1回"
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "考试・舞台中1次"
+      "text": "考试・舞台中仅1回"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "牌堆的上面"
+      "text": "牌堆顶部"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "牌堆的上面"
+      "text": "牌堆顶部"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "牌堆的下面"
+      "text": "牌堆底部"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "牌堆的下面"
+      "text": "牌堆底部"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "牌堆的随机位置"
+      "text": "牌堆中随机位置"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "牌堆的随机位置"
+      "text": "牌堆中随机位置"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "弃牌堆"
+      "text": "弃牌"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "弃牌堆"
+      "text": "弃牌"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Hand",
