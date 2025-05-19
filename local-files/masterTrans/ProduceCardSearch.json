@@ -1451,6 +1451,16 @@
       "id": "p_card_search-random-random_pool-p_random_pool-rush-ssr-upgrade_1-1",
       "produceDescriptions": [
         {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamCardCreateId",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamCardCreateId",
+          "text": "生成"
+        },
+        {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",

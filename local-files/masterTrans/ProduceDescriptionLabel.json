@@ -217,6 +217,13 @@
       "name": "干劲值减少"
     },
     {
+      "id": "Label_Audition",
+      "produceDescriptions": [
+        ""
+      ],
+      "name": "考试・试镜"
+    },
+    {
       "id": "Label_AuditionNpcEnhance",
       "produceDescriptions": [
         {
@@ -228,6 +235,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "之后的考试过程中对手的得分会增加"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_Audition",
+          "text": "考试・试镜"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "中对手的得分增加"
         }
       ],
       "name": "对手的得分增加"
@@ -405,6 +432,70 @@
       "name": "元气值减少"
     },
     {
+      "id": "Label_BusinessProduceCard",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "可以获得强化后的技能卡的营业"
+        }
+      ],
+      "name": "商业设施"
+    },
+    {
+      "id": "Label_BusinessProduceDrink",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "可以获得P饮料的营业"
+        }
+      ],
+      "name": "企业活动会场"
+    },
+    {
+      "id": "Label_BusinessProducePoint",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "可以获得P点数的营业"
+        }
+      ],
+      "name": "自治体活动会场"
+    },
+    {
+      "id": "Label_BusinessStamina",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "可以回复体力的营业"
+        }
+      ],
+      "name": "度假村设施"
+    },
+    {
       "id": "Label_CardDrawAdd",
       "produceDescriptions": [
         {
@@ -483,7 +574,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的cost不会被影响"
+          "text": "的花费值不会被影响"
         }
       ],
       "name": "花费值增加"
@@ -519,7 +610,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的cost不会被影响"
+          "text": "会增加\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "干劲花费值增加"
@@ -555,7 +646,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的cost不会被影响"
+          "text": "会减少\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "干劲花费值减少"
@@ -571,7 +662,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡所必需的强化状态cost会增加\n其他强化状态的cost不会被影响"
+          "text": "使用技能卡所必需的强化状态花费值会增加\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "强化状态花费值增加"
@@ -587,7 +678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡所必需的强化状态cost会减少\n其他强化状态的cost不会被影响"
+          "text": "使用技能卡所必需的强化状态花费值会减少\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "强化状态花费值减少"
@@ -623,7 +714,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的cost不会被影响"
+          "text": "会增加\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "全力值花费值增加"
@@ -659,7 +750,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的cost不会被影响"
+          "text": "会减少\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "全力值花费值减少"
@@ -695,7 +786,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的cost不会被影响"
+          "text": "会增加\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "集中花费值增加"
@@ -731,7 +822,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的cost不会被影响"
+          "text": "会减少\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "集中花费值减少"
@@ -767,7 +858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的cost不会被影响"
+          "text": "会增加\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "好调花费值增加"
@@ -803,7 +894,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的cost不会被影响"
+          "text": "会增加\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "绝好调花费值增加"
@@ -839,7 +930,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的cost不会被影响"
+          "text": "会减少\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "绝好调花费值减少"
@@ -875,7 +966,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的cost不会被影响"
+          "text": "会减少\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "好调花费值减少"
@@ -911,7 +1002,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cost增加"
+          "text": "花费值增加"
         }
       ],
       "name": "体力消耗花费值增加"
@@ -947,7 +1038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cost会减少"
+          "text": "花费值会减少"
         }
       ],
       "name": "体力消耗花费值减少"
@@ -983,7 +1074,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的cost不会被影响"
+          "text": "的花费值不会被影响"
         }
       ],
       "name": "花费值减少"
@@ -1019,7 +1110,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的cost不会被影响"
+          "text": "会增加\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "好印象花费值增加"
@@ -1055,7 +1146,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的cost不会被影响"
+          "text": "会减少\n其他强化状态的花费值不会被影响"
         }
       ],
       "name": "好印象花费值减少"

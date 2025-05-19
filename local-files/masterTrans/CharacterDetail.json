@@ -176,6 +176,84 @@
       "content": "以「能赚钱的偶像」为目标的氛围制造者。\n中等部直升的內部升学组。拥有丰富的舞蹈才能。\n学园评价与自我评价皆低，但似乎未发挥真正实力。\n因同时兼顾多份打工，总是显得疲惫。"
     },
     {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "160"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "42"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "B"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "73/54/74"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "水瓶座"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "春咲 暖"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "2月6日"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "京都府"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "料理、插花、生物钟很准确"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "睡午觉、散步"
+    },
+    {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
@@ -422,6 +500,12 @@
       "content": "与姐姐的较量"
     },
     {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "作为补录生的新生。\n元气满满、运动能力超群的前运动员。"
+    },
+    {
       "characterId": "jsna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
@@ -498,6 +582,12 @@
       "type": "CharacterDetailType_Hobby",
       "order": 13,
       "content": "训练、发掘有才能的偶像"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "初星学园的学生会长，去年的“一番星”。\n被誉为“学园第一偶像”，深受众多学生爱戴。"
     },
     {
       "characterId": "kcna",

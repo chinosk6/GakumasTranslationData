@@ -789,6 +789,12 @@
     },
     {
       "helpCategoryId": "help-produce",
+      "id": "produce-005-add",
+      "order": 47,
+      "name": "难易度：MASTER(NEXT IDOL AUDITION)"
+    },
+    {
+      "helpCategoryId": "help-produce",
       "id": "produce-business",
       "order": 40,
       "name": "营业"
@@ -868,7 +874,7 @@
     {
       "helpCategoryId": "help-produce",
       "id": "produce-guide",
-      "order": 47,
+      "order": 49,
       "name": "获取指南"
     },
     {
@@ -954,6 +960,12 @@
       "id": "produce-produce-2",
       "order": 38,
       "name": "NEXT IDOL AUDITION"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-2-master-ranking",
+      "order": 48,
+      "name": "N.I.A MASTER排行榜"
     },
     {
       "helpCategoryId": "help-produce",

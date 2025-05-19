@@ -127,6 +127,16 @@
       "text": "在歌唱回合的话，"
     },
     {
+      "id": "Swap_Label_Audition",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "考试・试镜"
+    },
+    {
+      "id": "Swap_Label_Audition",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "考试・试镜"
+    },
+    {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Lesson",
       "text": "课程中强化"

@@ -111,6 +111,11 @@
       "description": "有村麻央的偶像之路第25关通过"
     },
     {
+      "id": "amao-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【Fluorite】'25Animate 有村麻央 获得"
+    },
+    {
       "id": "amao-othr-0002",
       "name": "温泉泳装",
       "description": "购买温泉泳装（有村麻央）"
@@ -237,13 +242,18 @@
     },
     {
       "id": "fktn-cstm-0112",
-      "name": "雨后的IRIS",
-      "description": "【雨后的IRIS】藤田琴音 获得"
+      "name": "雨后的鸢尾花",
+      "description": "【雨后的鸢尾花】藤田琴音 获得"
     },
     {
       "id": "fktn-cstm-0113",
-      "name": "雨后的IRIS",
-      "description": "【雨后的IRIS】藤田琴音的才能开花第4阶段 获得"
+      "name": "雨后的鸢尾花",
+      "description": "【雨后的鸢尾花】藤田琴音的才能开花第4阶段 获得"
+    },
+    {
+      "id": "fktn-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【世界第一可爱的我】'25Animate 藤田琴音 获得"
     },
     {
       "id": "fktn-othr-0002",
@@ -266,9 +276,49 @@
       "description": "购买初星学园体操服（藤田琴音）"
     },
     {
+      "id": "hmsz-cstm-0000",
+      "name": "初始",
+      "description": "初始持有"
+    },
+    {
+      "id": "hmsz-cstm-0011",
+      "name": "月之龟",
+      "description": "【月之龟】秦谷美铃 获得"
+    },
+    {
+      "id": "hmsz-cstm-0023",
+      "name": "月之龟",
+      "description": "【月之龟】秦谷美铃的才能开花第4阶段 获得"
+    },
+    {
+      "id": "hmsz-cstm-0069",
+      "name": "儿童罩衫",
+      "description": "购买儿童罩衫（秦谷美铃）"
+    },
+    {
+      "id": "hmsz-othr-0002",
+      "name": "温泉泳装",
+      "description": "购买温泉泳装（秦谷美铃）"
+    },
+    {
       "id": "hmsz-schl-0000",
       "name": "初星学园制服",
       "description": "初始持有"
+    },
+    {
+      "id": "hmsz-trng-0000",
+      "name": "练习服",
+      "description": "初始持有"
+    },
+    {
+      "id": "hmsz-trng-0001",
+      "name": "练习服",
+      "description": "秦谷美铃的大师成就达到Rank3"
+    },
+    {
+      "id": "hmsz-trng-0002",
+      "name": "初星学园体操服",
+      "description": "购买初星学园体操服（秦谷美铃）"
     },
     {
       "id": "hrnm-cstm-0000",
@@ -369,6 +419,11 @@
       "id": "hrnm-cstm-0110",
       "name": "漆黑的光芒",
       "description": "姬崎莉波的偶像之路第25关通过"
+    },
+    {
+      "id": "hrnm-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【clumsy trick】'25Animate 姬崎莉波 获得"
     },
     {
       "id": "hrnm-othr-0000",
@@ -512,13 +567,13 @@
     },
     {
       "id": "hski-cstm-0112",
-      "name": "雨后的IRIS",
-      "description": "【雨后的IRIS】花海咲季 获得"
+      "name": "雨后的鸢尾花",
+      "description": "【雨后的鸢尾花】花海咲季 获得"
     },
     {
       "id": "hski-cstm-0113",
-      "name": "雨后的IRIS",
-      "description": "【雨后的IRIS】花海咲季的才能开花第4阶段 获得"
+      "name": "雨后的鸢尾花",
+      "description": "【雨后的鸢尾花】花海咲季的才能开花第4阶段 获得"
     },
     {
       "id": "hski-othr-0002",
@@ -614,6 +669,11 @@
       "id": "hume-cstm-0110",
       "name": "漆黑的光芒",
       "description": "花海佑芽的偶像之路第25关通过"
+    },
+    {
+      "id": "hume-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【The Rolling Riceball】'25Animate 花海佑芽 获得"
     },
     {
       "id": "hume-othr-0000",
@@ -719,6 +779,11 @@
       "id": "jsna-cstm-0110",
       "name": "漆黑的光芒",
       "description": "十王星南的偶像之路第25关通过"
+    },
+    {
+      "id": "jsna-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【小小的野心】'25Animate 十王星南 获得"
     },
     {
       "id": "jsna-othr-0002",
@@ -846,6 +911,11 @@
       "description": "仓本千奈的偶像之路第25关通过"
     },
     {
+      "id": "kcna-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【Wonder Scale】'25Animate 仓本千奈 获得"
+    },
+    {
       "id": "kcna-othr-0002",
       "name": "欢迎来到初星温泉",
       "description": "【欢迎来到初星温泉】仓本千奈 获得"
@@ -969,6 +1039,11 @@
       "id": "kllj-cstm-0110",
       "name": "漆黑的光芒",
       "description": "葛城莉莉娅的偶像之路第25关通过"
+    },
+    {
+      "id": "kllj-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【白线】'25Animate 葛城莉莉亚 获得"
     },
     {
       "id": "kllj-othr-0002",
@@ -1116,6 +1191,11 @@
       "description": "篠泽广的偶像之路第25关通过"
     },
     {
+      "id": "shro-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【光景】'25Animate 篠泽广 获得"
+    },
+    {
       "id": "shro-othr-0002",
       "name": "温泉泳装",
       "description": "购买温泉泳装（篠泽广）"
@@ -1234,6 +1314,11 @@
       "id": "ssmk-cstm-0110",
       "name": "漆黑的光芒",
       "description": "紫云清夏的偶像之路第25关通过"
+    },
+    {
+      "id": "ssmk-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【Tame-Lie-One-Step】'25Animate 紫云清夏 获得"
     },
     {
       "id": "ssmk-othr-0002",
@@ -1362,13 +1447,18 @@
     },
     {
       "id": "ttmr-cstm-0112",
-      "name": "雨后的IRIS",
-      "description": "【雨后的IRIS】月村手毬 获得"
+      "name": "雨后的鸢尾花",
+      "description": "【雨后的鸢尾花】月村手毬 获得"
     },
     {
       "id": "ttmr-cstm-0113",
-      "name": "雨后的IRIS",
-      "description": "【雨后的IRIS】月村手毬的才能开花第4阶段 获得"
+      "name": "雨后的鸢尾花",
+      "description": "【雨后的鸢尾花】月村手毬的才能开花第4阶段 获得"
+    },
+    {
+      "id": "ttmr-cstm-0119",
+      "name": "古今东西轻而易举",
+      "description": "【Luna say maybe】'25Animate 月村手毬 获得"
     },
     {
       "id": "ttmr-othr-0002",

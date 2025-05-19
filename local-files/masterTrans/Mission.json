@@ -46,6 +46,10 @@
       "name": "SSR琴音获得B评价"
     },
     {
+      "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
+      "name": "SSR美铃获得B评价"
+    },
+    {
       "id": "hidden_mission-normal-produce-clear-i_card-hrnm-3-000-b",
       "name": "SSR莉波获得B评价"
     },
@@ -146,6 +150,10 @@
       "name": "在「偶像之路」中获得星星"
     },
     {
+      "id": "hidden_mission-view-ending-a-hmsz",
+      "name": "观看美铃的A End"
+    },
+    {
       "id": "hidden_mission-view-ending-a-produce_group-002-amao",
       "name": "麻央达成A-End"
     },
@@ -188,6 +196,14 @@
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-ttmr",
       "name": "手毬达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-b-hmsz",
+      "name": "观看美铃的B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-c-hmsz",
+      "name": "观看美铃的C End"
     },
     {
       "id": "hidden_mission-view-ending-normal-a-amao",
@@ -330,6 +346,10 @@
       "name": "观看琴音的True End"
     },
     {
+      "id": "hidden_mission-view-ending-true-hmsz",
+      "name": "观看美铃的True End"
+    },
+    {
       "id": "hidden_mission-view-ending-true-hrnm",
       "name": "观看莉波的True End"
     },
@@ -412,6 +432,14 @@
     {
       "id": "hidden_mission-view-ending-true-ttmr",
       "name": "观看手毬的True End"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00420-free-10-004",
+      "name": "抽取{threshold}次最多100连无料！1st Anniversary10连无料扭蛋"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00420-ssr-idol-support-1",
+      "name": "抽取{threshold}次'24季节限定 SSR确定10连扭蛋"
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
@@ -2326,6 +2354,126 @@
       "name": "通关第5天的全部任务"
     },
     {
+      "id": "mission-main-story-event-010-mission_11",
+      "name": "去消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_12",
+      "name": "花海咲季获得{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_13",
+      "name": "在花海咲季的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_14",
+      "name": "在月村手毬的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_15",
+      "name": "在藤田琴音的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_21",
+      "name": "去消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_22",
+      "name": "月村手毬获得{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_23",
+      "name": "在花海咲季的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_24",
+      "name": "在月村手毬的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_25",
+      "name": "在藤田琴音的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_31",
+      "name": "去消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_32",
+      "name": "藤田琴音获得{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_33",
+      "name": "在花海咲季的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_34",
+      "name": "在月村手毬的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_35",
+      "name": "在藤田琴音的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_41",
+      "name": "去消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_42",
+      "name": "花海咲季或月村手毬或藤田琴音获得{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_43",
+      "name": "在花海咲季的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_44",
+      "name": "在月村手毬的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_45",
+      "name": "在藤田琴音的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_51",
+      "name": "去消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_52",
+      "name": "花海咲季或月村手毬或藤田琴音获得{threshold}名粉丝"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_53",
+      "name": "在花海咲季的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_54",
+      "name": "在月村手毬的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_55",
+      "name": "在藤田琴音的培育中获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-main-story-event-010-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
       "id": "mission-normal-absolutedearnesslevel-1",
       "name": "将任意偶像的亲密度Lv提升至{threshold}"
     },
@@ -2574,6 +2722,10 @@
       "name": "琴音达成C评价"
     },
     {
+      "id": "mission-normal-produce-clear-hmsz-c",
+      "name": "美铃达成C评价"
+    },
+    {
       "id": "mission-normal-produce-clear-hrnm-c",
       "name": "莉波达成C评价"
     },
@@ -2612,6 +2764,10 @@
     {
       "id": "mission-normal-profileupdate-1",
       "name": "设置个人资料"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_hmsz-0001",
+      "name": "美铃碎片礼包触发条件"
     },
     {
       "id": "mission-normal-view-shop_pack_hume-0001",
@@ -3000,6 +3156,30 @@
     {
       "id": "mission-story-event-004-mission_6",
       "name": "通关{threshold}次SP课程"
+    },
+    {
+      "id": "mission-story-event-006-mission_1",
+      "name": "登录{threshold}天"
+    },
+    {
+      "id": "mission-story-event-006-mission_2",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-story-event-006-mission_3",
+      "name": "共计获得{threshold}的培育评价吧"
+    },
+    {
+      "id": "mission-story-event-006-mission_4",
+      "name": "在培育的咨询中兑换{threshold}次"
+    },
+    {
+      "id": "mission-story-event-006-mission_5",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-story-event-006-mission_6",
+      "name": "去完成{threshold}次SP课程吧"
     },
     {
       "id": "mission-story-event-013-mission_1",
@@ -3439,15 +3619,39 @@
     },
     {
       "id": "achieve-i_card-fktn-3-011-01",
-      "name": "【雨后的IRIS】藤田琴音的培育中通过了最终考试"
+      "name": "【雨后的鸢尾花】藤田琴音的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-fktn-3-011-02",
-      "name": "【雨后的IRIS】藤田琴音的特训阶段提升至{threshold}级"
+      "name": "【雨后的鸢尾花】藤田琴音的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-fktn-3-011-03",
-      "name": "【雨后的IRIS】藤田琴音的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【雨后的鸢尾花】藤田琴音的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-01",
+      "name": "【慢慢地，一步一步来】秦谷美铃的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-02",
+      "name": "【慢慢地，一步一步来】秦谷美铃的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-03",
+      "name": "【慢慢地，一步一步来】秦谷美铃的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-01",
+      "name": "【月之龟】秦谷美铃的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-02",
+      "name": "【月之龟】秦谷美铃的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-03",
+      "name": "【月之龟】秦谷美铃的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
@@ -3571,15 +3775,15 @@
     },
     {
       "id": "achieve-i_card-hski-3-012-01",
-      "name": "【雨后的IRIS】花海咲季的培育中通过了最终考试"
+      "name": "【雨后的鸢尾花】花海咲季的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-hski-3-012-02",
-      "name": "【雨后的IRIS】花海咲季的特训阶段提升至{threshold}级"
+      "name": "【雨后的鸢尾花】花海咲季的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hski-3-012-03",
-      "name": "【雨后的IRIS】花海咲季的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【雨后的鸢尾花】花海咲季的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -3955,15 +4159,15 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-011-01",
-      "name": "【雨后的IRIS】月村手毬的培育中通过了最终考试"
+      "name": "【雨后的鸢尾花】月村手毬的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-02",
-      "name": "【雨后的IRIS】月村手毬的特训阶段提升至{threshold}级"
+      "name": "【雨后的鸢尾花】月村手毬的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-03",
-      "name": "【雨后的IRIS】月村手毬的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【雨后的鸢尾花】月村手毬的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-m_amao-001",
@@ -3972,6 +4176,10 @@
     {
       "id": "achieve-m_fktn-001",
       "name": "藤田琴音的成就★获得了{threshold}个"
+    },
+    {
+      "id": "achieve-m_hmsz-001",
+      "name": "秦谷美铃的成就★获得了{threshold}个"
     },
     {
       "id": "achieve-m_hrnm-001",
@@ -4218,6 +4426,10 @@
       "name": "以SS+及以上评价通过{threshold}次最终考试"
     },
     {
+      "id": "achieve-p_common-028",
+      "name": "以SSS及以上评价通过{threshold}次最终考试"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "观看有村麻央的True End"
     },
@@ -4304,6 +4516,14 @@
     {
       "id": "achieve-p_idol-amao-020",
       "name": "使用有村麻央通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-amao-021",
+      "name": "使用有村麻央通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-amao-022",
+      "name": "有村麻央的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -4610,6 +4830,90 @@
       "name": "使用藤田琴音通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-fktn-021",
+      "name": "使用藤田琴音通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-000",
+      "name": "观看秦谷美铃的True End"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-000-1",
+      "name": "观看秦谷美铃的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-001",
+      "name": "在秦谷美铃的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-002",
+      "name": "使用秦谷美铃完成{threshold}次课程"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-003",
+      "name": "使用秦谷美铃完成{threshold}次SP课程"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-004",
+      "name": "使用秦谷美铃通过最终考试并获得B及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-005",
+      "name": "使用秦谷美铃通过最终考试并获得A及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-006",
+      "name": "使用秦谷美铃通过最终考试并获得S及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-007",
+      "name": "完成秦谷美铃的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-008",
+      "name": "秦谷美铃的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-009",
+      "name": "在秦谷美铃的培育中通过最终考试{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-010",
+      "name": "秦谷美铃获得{threshold}粉丝"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-011",
+      "name": "将秦谷美铃的亲爱度提升至Lv{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-012",
+      "name": "在秦谷美铃的培育中累计获得评价{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-013",
+      "name": "在秦谷美铃的培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-014",
+      "name": "将秦谷美铃的歌唱能力培养至1000及以上并完成培育 "
+    },
+    {
+      "id": "achieve-p_idol-hmsz-015",
+      "name": "在「偶像之路」中获得{threshold}个★的完成条件"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-016",
+      "name": "在秦谷美铃的培育中通过最终考试并获得S+及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-017",
+      "name": "在秦谷美铃的难易度「Master」下获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-020",
+      "name": "在秦谷美铃的培育中通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "观看姬崎莉波的True End"
     },
@@ -4696,6 +5000,14 @@
     {
       "id": "achieve-p_idol-hrnm-020",
       "name": "使用姬崎莉波通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-021",
+      "name": "使用姬崎莉波通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-022",
+      "name": "将姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -4786,6 +5098,10 @@
       "name": "使用花海咲季通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-hski-021",
+      "name": "使用花海咲季通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "观看花海佑芽的True End"
     },
@@ -4872,6 +5188,10 @@
     {
       "id": "achieve-p_idol-hume-020",
       "name": "使用花海佑芽通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-021",
+      "name": "使用花海佑芽通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -4962,6 +5282,10 @@
       "name": "使用十王星南通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-jsna-021",
+      "name": "使用十王星南通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "观看仓本千奈的True End"
     },
@@ -5048,6 +5372,10 @@
     {
       "id": "achieve-p_idol-kcna-020",
       "name": "使用仓本千奈通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-021",
+      "name": "使用仓本千奈通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -5138,6 +5466,10 @@
       "name": "使用葛城莉莉娅通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-kllj-021",
+      "name": "使用葛城莉莉娅通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-shro-000",
       "name": "观看篠泽广的True End"
     },
@@ -5211,7 +5543,7 @@
     },
     {
       "id": "achieve-p_idol-shro-017",
-      "name": "在篠泽广的难易度「Pro」下获得最终考试第一名"
+      "name": "在篠泽广的难易度「Master」下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-shro-018",
@@ -5224,6 +5556,14 @@
     {
       "id": "achieve-p_idol-shro-020",
       "name": "在篠泽广的培育中通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-021",
+      "name": "使用篠泽广通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-022",
+      "name": "将篠泽广的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -5314,6 +5654,10 @@
       "name": "使用紫云清夏通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-ssmk-021",
+      "name": "使用紫云清夏通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "观看月村手毬的True End"
     },
@@ -5400,6 +5744,10 @@
     {
       "id": "achieve-p_idol-ttmr-020",
       "name": "使用月村手毬在最终考试中获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-021",
+      "name": "使用月村手毬通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "main_task_group-01-01#1",
@@ -5695,7 +6043,7 @@
     },
     {
       "id": "main_task_group-02-01#14",
-      "name": "在培育中挑战获得B+以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在培育中挑战获得B+以上的评价吧\n【条件】方案：理性的培育用偶像"
     },
     {
       "id": "main_task_group-02-01#15",
