@@ -1191,6 +1191,12 @@
       "texts": []
     },
     {
+      "tutorialType": "TutorialType_IdolCardSkinUnit",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
       "step": 1,
       "subStep": 1,
@@ -1413,6 +1419,21 @@
     },
     {
       "tutorialType": "TutorialType_GvgRaid",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        "「N.I.A」的难度「Master」已解锁。\n同时「N.I.A Master 排行」也会解锁。\n相较于「Pro」，虽然难度更高，但分数提升更容易，同时更容易收集粉丝投票数。\n仅在亲密度达到20的偶像可以挑战。",
+        "挑战P道具是在难度「Master」的培育开始前可选择的P道具。\n通过挑战P道具的效果，可以在试镜完成时通过试镜加成增加获得的分数量。"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
       "step": 1,
       "subStep": 1,
       "texts": []

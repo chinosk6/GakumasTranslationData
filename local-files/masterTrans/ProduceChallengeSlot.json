@@ -2,189 +2,226 @@
   "rules": {
     "primaryKeys": [
       "id",
+      "produceId",
       "number"
     ]
   },
   "data": [
     {
       "id": "challenge_slot-exam_card_play_aggressive",
+      "produceId": "produce-003",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_card_play_aggressive",
+      "produceId": "produce-003",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": "「初」：在Master的最终考试中获得第1名"
     },
     {
       "id": "challenge_slot-exam_card_play_aggressive",
+      "produceId": "produce-003",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": "「初」：在Master中获得培育评价S"
     },
     {
       "id": "challenge_slot-exam_card_play_aggressive",
+      "produceId": "produce-005",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_card_play_aggressive",
+      "produceId": "produce-005",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_card_play_aggressive",
+      "produceId": "produce-005",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
-    },
-    {
-      "id": "challenge_slot-exam_concentration",
-      "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_concentration",
-      "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
-    },
-    {
-      "id": "challenge_slot-exam_concentration",
-      "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
-    },
-    {
-      "id": "challenge_slot-exam_concentration",
+      "produceId": "produce-003",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_concentration",
+      "produceId": "produce-003",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": "「初」：在Master的最终考试中获得第1名"
     },
     {
       "id": "challenge_slot-exam_concentration",
+      "produceId": "produce-003",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": "「初」：在Master中获得培育评价S"
     },
     {
-      "id": "challenge_slot-exam_full_power",
+      "id": "challenge_slot-exam_concentration",
+      "produceId": "produce-005",
       "number": 1,
+      "unlockDescription": ""
+    },
+    {
+      "id": "challenge_slot-exam_concentration",
+      "produceId": "produce-005",
+      "number": 2,
+      "unlockDescription": ""
+    },
+    {
+      "id": "challenge_slot-exam_concentration",
+      "produceId": "produce-005",
+      "number": 3,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_full_power",
-      "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
-    },
-    {
-      "id": "challenge_slot-exam_full_power",
-      "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
-    },
-    {
-      "id": "challenge_slot-exam_full_power",
+      "produceId": "produce-003",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_full_power",
+      "produceId": "produce-003",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": "「初」：在Master的最终考试中获得第1名"
     },
     {
       "id": "challenge_slot-exam_full_power",
+      "produceId": "produce-003",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": "「初」：在Master中获得培育评价S"
+    },
+    {
+      "id": "challenge_slot-exam_full_power",
+      "produceId": "produce-005",
+      "number": 1,
+      "unlockDescription": ""
+    },
+    {
+      "id": "challenge_slot-exam_full_power",
+      "produceId": "produce-005",
+      "number": 2,
+      "unlockDescription": ""
+    },
+    {
+      "id": "challenge_slot-exam_full_power",
+      "produceId": "produce-005",
+      "number": 3,
+      "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_lesson_buff",
+      "produceId": "produce-003",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_lesson_buff",
+      "produceId": "produce-003",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": "「初」：在Master的最终考试中获得第1名"
     },
     {
       "id": "challenge_slot-exam_lesson_buff",
+      "produceId": "produce-003",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": "「初」：在Master中获得培育评价S"
     },
     {
       "id": "challenge_slot-exam_lesson_buff",
+      "produceId": "produce-005",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_lesson_buff",
+      "produceId": "produce-005",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_lesson_buff",
+      "produceId": "produce-005",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_parameter_buff",
+      "produceId": "produce-003",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_parameter_buff",
+      "produceId": "produce-003",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": "「初」：在Master的最终考试中获得第1名"
     },
     {
       "id": "challenge_slot-exam_parameter_buff",
+      "produceId": "produce-003",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": "「初」：在Master中获得培育评价S"
     },
     {
       "id": "challenge_slot-exam_parameter_buff",
+      "produceId": "produce-005",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_parameter_buff",
+      "produceId": "produce-005",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_parameter_buff",
+      "produceId": "produce-005",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_review",
+      "produceId": "produce-003",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_review",
+      "produceId": "produce-003",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": "「初」：在Master的最终考试中获得第1名"
     },
     {
       "id": "challenge_slot-exam_review",
+      "produceId": "produce-003",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": "「初」：在Master中获得培育评价S"
     },
     {
       "id": "challenge_slot-exam_review",
+      "produceId": "produce-005",
       "number": 1,
       "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_review",
+      "produceId": "produce-005",
       "number": 2,
-      "unlockDescription": "难易度「Master」的最终考试中取得第1名"
+      "unlockDescription": ""
     },
     {
       "id": "challenge_slot-exam_review",
+      "produceId": "produce-005",
       "number": 3,
-      "unlockDescription": "难易度「Master」下的培育中取得S评价"
+      "unlockDescription": ""
     }
   ]
 }

@@ -86,8 +86,20 @@
       "description": "可以设置为名片的素材。"
     },
     {
+      "id": "common.network.error.outdated_app.button",
+      "description": "移动"
+    },
+    {
+      "id": "common.network.error.outdated_app.description",
+      "description": "有新版本\\n请从{0}进行更新"
+    },
+    {
       "id": "common.network.error.purchase_limit.description",
       "description": "由于达到购买上限，无法完成购买。请通过以下方式联系我们。"
+    },
+    {
+      "id": "common.store.dmm",
+      "description": "DMM GAMES PLAYER"
     },
     {
       "id": "common.user_exp.description",
@@ -104,6 +116,10 @@
     {
       "id": "faq_confirm_sheet.description",
       "description": "要打开FAQ页面吗？\\n※将打开网页浏览器"
+    },
+    {
+      "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
+      "description": "获得目标P偶像"
     },
     {
       "id": "home.gasha.draw_jewel_confirm_sheet.description.multiple_button",
@@ -238,6 +254,10 @@
       "description": "要重新抽选可获得的技能卡候选吗？\\n<color=#u:Negative>※培育中的重新抽选次数有限</color>\\n<color=#u:Negative>※稀有度也将重新抽选</color>"
     },
     {
+      "id": "produce.deck_guide.sample_deck_header.navi",
+      "description": "最终目标是持有这样的技能卡！"
+    },
+    {
       "id": "produce.drink.cannot_use.noneproduceeffect",
       "description": "课程、考试、试镜以外不能使用"
     },
@@ -264,6 +284,10 @@
     {
       "id": "produce.lesson.no_effect.stamina_recover_restriction",
       "description": "因为无效状态，体力恢复效果未发动。"
+    },
+    {
+      "id": "produce.lesson.no_effect.stance_over_preservation",
+      "description": "由于指针是悠闲的，无法发动将指针更改为温存的效果。"
     },
     {
       "id": "produce.lesson.no_effect.stance_same",
@@ -398,6 +422,10 @@
       "description": "定期公演『初』"
     },
     {
+      "id": "profile.report.share.text",
+      "description": "#祝学マス1周年 #初星学园通知表"
+    },
+    {
       "id": "pvp.rate.reward.rate.description",
       "description": "每累计一定数量的计分点数即可获得奖励"
     },
@@ -420,6 +448,10 @@
     {
       "id": "setting.produce.exam_effect_warning.description",
       "description": "当技能卡/P饮料效果未激活时\\n显示确认信息。"
+    },
+    {
+      "id": "setting.produce.story_skip2.support_adv.description",
+      "description": "跳过到支援活动效果的发动\\n※不会影响支援活动的效果"
     },
     {
       "id": "shop.label.term_suffix",

@@ -50,86 +50,62 @@
     },
     {
       "id": "Convert_001",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "课程"
     },
     {
       "id": "Convert_002",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "课程"
     },
     {
       "id": "Convert_ConditionThreshold",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "课程CLEAR的"
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "课程未CLEAR"
     },
     {
       "id": "Convert_ConditionThreshold_Value_100",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "10%"
     },
     {
       "id": "Convert_ConditionThreshold_Value_1000",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "100%"
     },
     {
       "id": "Convert_ConditionThreshold_Value_300",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "30%"
     },
     {
       "id": "Convert_ConditionThreshold_Value_500",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "50%"
     },
     {
       "id": "Convert_StepLessonType_DanceLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "【仅限舞蹈课程・舞蹈回合】"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "【仅限SP课程】"
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "【仅限视觉课程・视觉回合】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "【仅限歌唱课程・歌唱回合】"
     },
     {
@@ -218,9 +194,7 @@
     },
     {
       "id": "Label_Audition",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "考试・试镜"
     },
     {
@@ -3371,9 +3345,7 @@
     },
     {
       "id": "Label_ExamLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "打分"
     },
     {
@@ -5780,9 +5752,7 @@
     },
     {
       "id": "Label_ExamStaminaDamage",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "体力减少"
     },
     {
@@ -5823,9 +5793,7 @@
     },
     {
       "id": "Label_ExamStaminaRecoverFix",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "体力回复"
     },
     {
@@ -7064,37 +7032,27 @@
     },
     {
       "id": "Label_ProduceCardPositionType_DeckFirst",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "牌堆顶部"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckLast",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "牌堆底部"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckRandom",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "牌堆中随机位置"
     },
     {
       "id": "Label_ProduceCardPositionType_Grave",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "弃牌"
     },
     {
       "id": "Label_ProduceCardPositionType_Hand",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "手牌"
     },
     {
@@ -7135,9 +7093,7 @@
     },
     {
       "id": "Label_ProduceCardPositionType_Lost",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "除外"
     },
     {

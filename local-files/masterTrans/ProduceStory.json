@@ -132,6 +132,61 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story_002_hmsz_after-audition-a-normal-02",
+      "title": "还要从这里开始！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-a-normal-03",
+      "title": "还要从现在开始",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-b-normal-02",
+      "title": "更更加前进！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-b-normal-03",
+      "title": "更前进",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-final-failure-01",
+      "title": "再一次一起",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-final-normal-01",
+      "title": "更高的目标！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-mid-failure-01",
+      "title": "下次一定",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_before-audition-a-normal-01",
+      "title": "精神饱满吗？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_before-audition-b-normal-01",
+      "title": "准备好了？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_ending-normal-02",
+      "title": "Normal End",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_opening-normal-02",
+      "title": "目标是攻克『N.I.A』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story_002_hrnm_after-audition-a-normal-02",
       "title": "这才刚刚开始！",
       "produceEventHintProduceConditionDescriptions": [
@@ -1158,6 +1213,238 @@
       "title": "为了更接近梦想",
       "produceEventHintProduceConditionDescriptions": [
         "观看藤田ことね的True End"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-failure-01",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试不合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-normal-01",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到4以上",
+        "最终考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-normal-02",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到4以上",
+        "最终考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-normal-03",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到4以上",
+        "最终考试以第3名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-normal-04",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-failure-01",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-normal-01",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到4以上",
+        "中间考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-normal-02",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到4以上",
+        "中间考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-normal-03",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到4以上",
+        "中间考试以第3名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-normal-04",
+      "title": "考试结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-1-normal-01",
+      "title": "在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到7以上",
+        "在培育考试前将所有分数提升到审查标准的80%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-1-normal-02",
+      "title": "在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度达到4以上",
+        "在培育的考试前将所有分数提升到审查标准的50%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-1-normal-03",
+      "title": "在意的样子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-2-normal-01",
+      "title": "在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到7以上",
+        "在培育考试前将所有分数提升到审查标准的80%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-2-normal-02",
+      "title": "在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度达到4以上",
+        "在培育的考试前将所有分数提升到审查标准的50%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-2-normal-03",
+      "title": "在意的样子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-before-audition-final-normal-01",
+      "title": "出发！ 最终考试去",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-before-audition-mid-normal-01",
+      "title": "出发！ 中间考试去",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-01",
+      "title": "【A End】一起，昏昏欲睡",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到4以上",
+        "最终考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-02",
+      "title": "【B End】即使堕落",
+      "produceEventHintProduceConditionDescriptions": [
+        "将亲密度提高到4以上",
+        "最终考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-03",
+      "title": "【C End】如愿以偿的日子",
+      "produceEventHintProduceConditionDescriptions": [
+        "合格最终考试"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-04",
+      "title": "【D End】从今往后，长久",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试中获得第4或第5"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-05",
+      "title": "【E End】请用茶",
+      "produceEventHintProduceConditionDescriptions": [
+        "在最终考试中获得第6位"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-true-01",
+      "title": "True End",
+      "produceEventHintProduceConditionDescriptions": [
+        "以第1名通过最终考试",
+        "未定义的模式(Type: LatestAuditionRank, ResourceID1: , ResourceID2: , MinMaxType: MIN_MAX, Min: 1, Max: 1)",
+        "获得成就「在高处」",
+        "获得成就「不愧是你，制作人」",
+        "获得成就「今天的阴天」"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-fb-01",
+      "title": "悠闲地",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-fb-02",
+      "title": "稳步地",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-fb-03",
+      "title": "向高处",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-01",
+      "title": "培育开始！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-02",
+      "title": "秦谷美铃，启动！",
+      "produceEventHintProduceConditionDescriptions": [
+        "开始培育"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-03",
+      "title": "秦谷美铃，启动！",
+      "produceEventHintProduceConditionDescriptions": [
+        "开始培育"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-04",
+      "title": "秦谷美铃，启动！",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度达到4以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-05",
+      "title": "秦谷美铃，启动！",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度达到4以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-true-01",
+      "title": "为了更靠近梦想",
+      "produceEventHintProduceConditionDescriptions": [
+        "秦谷美铃的True End观看"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-true-02",
+      "title": "为了更靠近梦想",
+      "produceEventHintProduceConditionDescriptions": [
+        "秦谷美铃的True End观看"
       ]
     },
     {
@@ -3567,6 +3854,171 @@
     {
       "id": "p_story-event-001_fktn_school_011",
       "title": "琴音的课程",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_001",
+      "title": "美铃的学习时间是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_002",
+      "title": "阻止家庭访问",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_003",
+      "title": "午睡场所",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_004",
+      "title": "去看展览",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_005",
+      "title": "一天的结束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_006",
+      "title": "女仆的技术",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_007",
+      "title": "偶像服装",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_008",
+      "title": "喜欢的季节",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_009",
+      "title": "蛋糕",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_010",
+      "title": "雨之歌",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_011",
+      "title": "与制作人的日常",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_012",
+      "title": "喜欢的动物",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_013",
+      "title": "打印贴纸",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_014",
+      "title": "朋友",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_015",
+      "title": "美铃的假日",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_016",
+      "title": "操心",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_017-01",
+      "title": "抽奖券",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_017-02",
+      "title": "抽奖券",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_018-01",
+      "title": "不知不觉卡拉OK",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_018-02",
+      "title": "不知不觉卡拉OK",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_019",
+      "title": "猫",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_020",
+      "title": "P的仪表",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_001",
+      "title": "和美铃学习",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_002",
+      "title": "身体不适",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_003",
+      "title": "合适的工作",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_004",
+      "title": "与美铃的交往方式",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_005",
+      "title": "一文字星座",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_006",
+      "title": "明星照片",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_007",
+      "title": "阴天的定义",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_008",
+      "title": "幕府的开始",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_009",
+      "title": "音阶",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_010",
+      "title": "榻榻米的边缘",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_011",
+      "title": "课程是什么？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -9165,6 +9617,36 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-fktn-3-011-01",
+      "title": "雨后的鸢尾花 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-fktn-3-011-02",
+      "title": "雨后的鸢尾花 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-fktn-3-011-03",
+      "title": "雨后的鸢尾花 第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-000-01",
+      "title": "月之龟 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-000-02",
+      "title": "月之龟 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-000-03",
+      "title": "月之龟 第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hrnm-3-000-01",
       "title": "clumsy trick 1话",
       "produceEventHintProduceConditionDescriptions": []
@@ -9330,6 +9812,36 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hski-3-011-01",
+      "title": "樱花摄影 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-011-02",
+      "title": "樱花摄影 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-011-03",
+      "title": "樱花照片 3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-012-01",
+      "title": "雨后的鸢尾花 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-012-02",
+      "title": "雨后的鸢尾花 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-012-03",
+      "title": "雨后的鸢尾花 第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hume-3-000-01",
       "title": "The Rolling Riceball 1话",
       "produceEventHintProduceConditionDescriptions": []
@@ -9417,6 +9929,21 @@
     {
       "id": "p_story-i_card-jsna-3-003-03",
       "title": "快乐的千层糕 3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-006-01",
+      "title": "Our Chant 1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-006-02",
+      "title": "Our Chant 2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-006-03",
+      "title": "Our Chant 3话",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -9570,6 +10097,36 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-kllj-3-008-01",
+      "title": "极光 1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-008-02",
+      "title": "极光 2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-008-03",
+      "title": "极光 3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-010-01",
+      "title": "樱花摄影 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-010-02",
+      "title": "樱花摄影 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-010-03",
+      "title": "樱花照片 3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-shro-3-000-01",
       "title": "光景 第1话",
       "produceEventHintProduceConditionDescriptions": []
@@ -9705,6 +10262,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-ssmk-3-010-01",
+      "title": "樱花摄影 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ssmk-3-010-02",
+      "title": "樱花摄影 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ssmk-3-010-03",
+      "title": "樱花照片 3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-ttmr-3-000-01",
       "title": "Luna say maybe 第1话",
       "produceEventHintProduceConditionDescriptions": []
@@ -9777,6 +10349,21 @@
     {
       "id": "p_story-i_card-ttmr-3-009-03",
       "title": "雪解融化 3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-011-01",
+      "title": "雨后的鸢尾花 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-011-02",
+      "title": "雨后的鸢尾花 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-011-03",
+      "title": "雨后的鸢尾花 第3话",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10317,6 +10904,56 @@
     {
       "id": "p_story-s_card-2-0045-02",
       "title": "其实很胆小的前辈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0047-01",
+      "title": "双重跳决胜！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0047-02",
+      "title": "姐姐的朋友",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0048-01",
+      "title": "要可爱点！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0048-02",
+      "title": "骄傲地拍下来♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0049-01",
+      "title": "未完成是美妙的",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0049-02",
+      "title": "优秀的学园No.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0050-01",
+      "title": "卡路里管理不可或缺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0050-02",
+      "title": "金额比较不可或缺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0051-01",
+      "title": "茶道的心得",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0051-02",
+      "title": "冷静的理由",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -11040,6 +11677,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-3-0049-01",
+      "title": "目标是独立！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0049-02",
+      "title": "绝对不要放手！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0049-03",
+      "title": "不协调的对话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0050-01",
       "title": "我们还远远不够",
       "produceEventHintProduceConditionDescriptions": []
@@ -11067,6 +11719,111 @@
     {
       "id": "p_story-s_card-3-0051-03",
       "title": "等到花再次开放时",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0053-01",
+      "title": "游戏真有趣",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0053-02",
+      "title": "让人上瘾的汉堡",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0053-03",
+      "title": "一生一次的瞬间",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0054-01",
+      "title": "再比一次吧",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0054-02",
+      "title": "有趣的东西就是有趣！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0054-03",
+      "title": "传说中的猛犸先生",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0055-01",
+      "title": "为了入学纪念，奶酪♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0055-02",
+      "title": "好友在梦中",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0055-03",
+      "title": "即使现在，也一直是英雄",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0056-01",
+      "title": "笨拙的青梅竹马",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0056-02",
+      "title": "自尊心高的对手",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0056-03",
+      "title": "可靠的副会长",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0057-01",
+      "title": "一流的组合支持者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0057-02",
+      "title": "那种也是朋友",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0057-03",
+      "title": "根本不组什么组合！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0058-01",
+      "title": "久违的拉面",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0058-02",
+      "title": "契机的拉面",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0058-03",
+      "title": "和好的拉面",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0067-01",
+      "title": "全心努力的时候",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0067-02",
+      "title": "如运动会般的日子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0067-03",
+      "title": "这次用偶像来较量！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -11182,6 +11939,56 @@
     {
       "id": "story-dearness-fktn-999",
       "title": "1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-001",
+      "title": "第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-002",
+      "title": "第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-003",
+      "title": "第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-004",
+      "title": "第4话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-005",
+      "title": "第5话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-006",
+      "title": "第6话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-007",
+      "title": "第7话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-008",
+      "title": "第8话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-009",
+      "title": "第9话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-010",
+      "title": "第10话",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
