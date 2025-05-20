@@ -1,0 +1,61 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "exchangeId",
+      "number",
+      "categoryType",
+      "resourceType",
+      "itemType"
+    ]
+  },
+  "data": [
+    {
+      "exchangeId": "exchange-piece-1",
+      "number": 1,
+      "categoryType": "ExchangeItemCategoryType_All",
+      "resourceType": "ResourceType_Unknown",
+      "itemType": "ItemType_Unknown",
+      "name": "全部"
+    },
+    {
+      "exchangeId": "exchange-piece-1",
+      "number": 2,
+      "categoryType": "ExchangeItemCategoryType_ItemType",
+      "resourceType": "ResourceType_Unknown",
+      "itemType": "ItemType_IdolCardPiece",
+      "name": "角色碎片"
+    },
+    {
+      "exchangeId": "exchange-piece-1",
+      "number": 3,
+      "categoryType": "ExchangeItemCategoryType_Other",
+      "resourceType": "ResourceType_Unknown",
+      "itemType": "ItemType_Unknown",
+      "name": "其他"
+    },
+    {
+      "exchangeId": "exchange-support-piece-1",
+      "number": 1,
+      "categoryType": "ExchangeItemCategoryType_All",
+      "resourceType": "ResourceType_Unknown",
+      "itemType": "ItemType_Unknown",
+      "name": "全部"
+    },
+    {
+      "exchangeId": "exchange-support-piece-1",
+      "number": 2,
+      "categoryType": "ExchangeItemCategoryType_ResourceType",
+      "resourceType": "ResourceType_SupportCard",
+      "itemType": "ItemType_Unknown",
+      "name": "支援卡"
+    },
+    {
+      "exchangeId": "exchange-support-piece-1",
+      "number": 3,
+      "categoryType": "ExchangeItemCategoryType_Other",
+      "resourceType": "ResourceType_Unknown",
+      "itemType": "ItemType_Unknown",
+      "name": "其他"
+    }
+  ]
+}

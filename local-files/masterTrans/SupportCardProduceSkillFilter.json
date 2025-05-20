@@ -1,0 +1,332 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "produceEffectTypes"
+    ]
+  },
+  "data": [
+    {
+      "id": "s_card_p_skill_filter-lessonpresentproducepointup-p_trigger-end_lesson_before_present-lesson",
+      "produceEffectTypes": [
+        "ProduceEffectType_LessonPresentProducePointUp"
+      ],
+      "title": "P点数获得量增加"
+    },
+    {
+      "id": "s_card_p_skill_filter-lessonvocalspchangeratepermiladdition-p_trigger-produce_start-no_description",
+      "produceEffectTypes": [
+        "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
+        "ProduceEffectType_LessonSpChangeRatePermilAddition",
+        "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
+        "ProduceEffectType_LessonSpChangeRatePermilAddition",
+        "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
+        "ProduceEffectType_LessonSpChangeRatePermilAddition"
+      ],
+      "title": "SP课程发生率+"
+    },
+    {
+      "id": "s_card_p_skill_filter-maxstaminaaddition-p_trigger-produce_start-no_description",
+      "produceEffectTypes": [
+        "ProduceEffectType_MaxStaminaAddition"
+      ],
+      "title": "最大体力上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-producepointadditiondisabletrigger-p_trigger-produce_start-initial",
+      "produceEffectTypes": [
+        "ProduceEffectType_ProducePointAdditionDisableTrigger"
+      ],
+      "title": "初期P点数+"
+    },
+    {
+      "id": "s_card_p_skill_filter-shopproducedrinkpricediscountmultiple-p_trigger-start_shop-no_description",
+      "produceEffectTypes": [
+        "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple"
+      ],
+      "title": "咨询的P饮料折扣"
+    },
+    {
+      "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_audition",
+      "produceEffectTypes": [
+        "ProduceEffectType_StaminaRecoverFix"
+      ],
+      "title": "考试・试镜结束时体力恢复"
+    },
+    {
+      "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_lesson-lesson_sp",
+      "produceEffectTypes": [
+        "ProduceEffectType_StaminaRecoverFix"
+      ],
+      "title": "SP课程结束时体力恢复"
+    },
+    {
+      "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-start_present",
+      "produceEffectTypes": [
+        "ProduceEffectType_StaminaRecoverFix"
+      ],
+      "title": "活动补给・慰问补给选择时体力恢复"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "咨询后P饮料交换后分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "技能卡转换时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "主动技能卡删除时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "技能卡删除时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "精神技能卡删除时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "考试・试镜结束时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "课程结束时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_normal",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "通常课程结束时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_sp",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "SP课程结束时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_activity",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "外出结束时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_school",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "授课・营业结束时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-active_skill-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "主动技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "干劲效果的技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_concentration-000",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "强气效果的技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_full_power-000",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "全力效果的技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "集中效果的技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "好调效果的技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "温存效果的技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_review-000",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "好印象效果的技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "精神技能卡获得时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-produce_start-initial",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "初期分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_present",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "活动补给・慰问补给选择时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_refresh",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "休息选择时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_shop",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "咨询选择时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-active_skill-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "主动技能卡强化时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "技能卡强化时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalAddition",
+        "ProduceEffectType_DanceAddition",
+        "ProduceEffectType_VisualAddition"
+      ],
+      "title": "精神技能卡强化时分数上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocalgrowthrateaddition-p_trigger-produce_start-no_description",
+      "produceEffectTypes": [
+        "ProduceEffectType_VocalGrowthRateAddition",
+        "ProduceEffectType_DanceGrowthRateAddition",
+        "ProduceEffectType_VisualGrowthRateAddition"
+      ],
+      "title": "参数加成+"
+    }
+  ]
+}
