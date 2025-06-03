@@ -198,7 +198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_030",
-          "text": "再次出发"
+          "text": "重新开始"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -658,7 +658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_001",
-          "text": "粉丝应援"
+          "text": "粉丝服务"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -683,7 +683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "轻快的步伐"
+          "text": "轻快步伐"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -733,7 +733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "趁势而为"
+          "text": "凭势而行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -783,7 +783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "想起就好笑"
+          "text": "回忆微笑"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -808,7 +808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "我是大明星"
+          "text": "我是明星"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -958,7 +958,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "意外的惊喜"
+          "text": "意外惊喜"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2308,6 +2308,31 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play-p_card_search-playing-effect_group-visible-exam_lesson_buff-000-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "集中"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "效果的技能卡使用时，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play-p_card_search-playing-effect_group-visible-exam_preservation-000-0_1",
       "produceDescriptions": [
         {
@@ -2423,7 +2448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "第一次的褒奖"
+          "text": "初次的褒奖"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2473,7 +2498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "轻松悠哉闲谈"
+          "text": "悠哉闲谈"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5378,6 +5403,51 @@
       ]
     },
     {
+      "id": "e_trigger-exam_stance_change_concentration-block_up-50",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "强气"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "存在的时候，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "元气"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在50以上的时候，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_stance_change_concentration-full_power_point_get_sum_up-5",
       "produceDescriptions": [
         {
@@ -5649,7 +5719,9 @@
     },
     {
       "id": "e_trigger-exam_start_exam-no_description",
-      "produceDescriptions": []
+      "produceDescriptions": [
+        ""
+      ]
     },
     {
       "id": "e_trigger-exam_start_exam-parameter_buff-1",
@@ -6289,6 +6361,51 @@
     {
       "id": "e_trigger-exam_start_turn-concentration_change_count_up-3",
       "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回合开始时，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "强气"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "存在次数在3次以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_start_turn-concentration_change_count_up-3-lesson_dance",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_StepLessonType_DanceLesson",
+          "text": "【仅限舞蹈课程・舞蹈回合】"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
@@ -9383,7 +9500,9 @@
     },
     {
       "id": "e_trigger-exam_turn_timer-1",
-      "produceDescriptions": []
+      "produceDescriptions": [
+        ""
+      ]
     },
     {
       "id": "e_trigger-exam_turn_timer-1-description",

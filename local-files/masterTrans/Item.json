@@ -48,6 +48,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-coin-box-gasha-event-015",
+      "name": "广岛巡演奖章",
+      "description": "可以在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-coin-highscorerush-event-001",
       "name": "星星的闪耀光芒",
       "description": "可以在活动扭蛋中使用的道具",
@@ -223,21 +229,21 @@
     },
     {
       "id": "item-limitovermaterial-2-c-1",
-      "name": "观者笔记（歌唱）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（歌唱）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-2",
-      "name": "观者笔记（舞蹈）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（舞蹈）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-3",
-      "name": "观者笔记（视觉）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（视觉）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-3",
@@ -313,13 +319,13 @@
     },
     {
       "id": "item-medal-main-story-event-009",
-      "name": "初星の栞",
+      "name": "初星标签",
       "description": "可以在活动兑换所交换各式报酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-main-story-event-010",
-      "name": "初星の栞",
+      "name": "初星标签",
       "description": "可以在活动兑换所交换各式报酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -373,9 +379,9 @@
     },
     {
       "id": "item-memory_exchange-class3",
-      "name": "观者硬币",
-      "description": "可以在观者扭蛋中使用的硬币",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类硬币",
+      "description": "可以在异类扭蛋中使用的硬币",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-memory-inherit",
@@ -415,7 +421,7 @@
     },
     {
       "id": "item-piece-idol_amao-3-001",
-      "name": "[你与半蓝色]有村麻央的碎片",
+      "name": "[与你共度的湛蓝夏日]有村麻央的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "活动扭蛋等方式"
     },
@@ -487,27 +493,27 @@
     },
     {
       "id": "item-piece-idol_fktn-3-011",
-      "name": "[雨上がりのアイリス]藤田ことねのピース",
+      "name": "[雨后的鸢尾花]藤田琴音的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
-      "acquisitionRouteDescription": "ガシャなど"
+      "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hmsz-1-000",
       "name": "[学园生活]秦谷美铃的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
-      "acquisitionRouteDescription": "ガシャなど"
+      "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hmsz-2-000",
       "name": "[慢慢地，一步一步来]秦谷美铃的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
-      "acquisitionRouteDescription": "ガシャなど"
+      "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hmsz-3-000",
       "name": "[月之龟]秦谷美铃的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
-      "acquisitionRouteDescription": "ガシャなど"
+      "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hrnm-1-000",
@@ -535,7 +541,7 @@
     },
     {
       "id": "item-piece-idol_hrnm-3-001",
-      "name": "[你与半蓝色]姬崎莉波的碎片",
+      "name": "[与你共度的湛蓝夏日]姬崎莉波的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -559,9 +565,15 @@
     },
     {
       "id": "item-piece-idol_hrnm-3-008",
-      "name": "[快乐千层酥]姬崎莉波的碎片",
+      "name": "[幸福千层酥]姬崎莉波的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-012",
+      "name": "[Howling over the World]姬崎莉波的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "活动扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hski-1-000",
@@ -601,7 +613,7 @@
     },
     {
       "id": "item-piece-idol_hski-3-006",
-      "name": "[古今东西轻而易举]花海咲季的碎片",
+      "name": "[何时何地简简单单]花海咲季的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -613,15 +625,15 @@
     },
     {
       "id": "item-piece-idol_hski-3-011",
-      "name": "【樱花写真】花海咲季的碎片",
+      "name": "【樱花相册】花海咲季的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hski-3-012",
-      "name": "[雨上がりのアイリス]花海咲季のピース",
+      "name": "[雨后的鸢尾花]花海咲季的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
-      "acquisitionRouteDescription": "ガシャなど"
+      "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hume-1-000",
@@ -679,7 +691,7 @@
     },
     {
       "id": "item-piece-idol_jsna-3-003",
-      "name": "[快乐千层酥]十王星南的碎片",
+      "name": "[幸福千层酥]十王星南的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -715,13 +727,13 @@
     },
     {
       "id": "item-piece-idol_kcna-3-001",
-      "name": "[每天，发现的脚步！]仓本千奈的碎片",
+      "name": "[每天、都有新发现！]仓本千奈的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_kcna-3-002",
-      "name": "[假面狂想曲]仓本千奈的碎片",
+      "name": "[变装狂想曲]仓本千奈的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "活动扭蛋等方式"
     },
@@ -740,6 +752,12 @@
     {
       "id": "item-piece-idol_kcna-3-009",
       "name": "[雪融之时]仓本千奈的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_kcna-3-012",
+      "name": "[Howling over the World]仓本千奈的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -793,7 +811,7 @@
     },
     {
       "id": "item-piece-idol_kllj-3-010",
-      "name": "[樱花写真]葛城莉莉娅的碎片",
+      "name": "[樱花相册]葛城莉莉娅的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "活动扭蛋等方式"
     },
@@ -829,7 +847,7 @@
     },
     {
       "id": "item-piece-idol_shro-3-002",
-      "name": "[假面狂想曲]篠泽广的碎片",
+      "name": "[变装狂想曲]篠泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -841,7 +859,7 @@
     },
     {
       "id": "item-piece-idol_shro-3-008",
-      "name": "[快乐千层酥]篠泽广的碎片",
+      "name": "[幸福千层酥]篠泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "活动扭蛋等方式"
     },
@@ -871,13 +889,13 @@
     },
     {
       "id": "item-piece-idol_ssmk-3-001",
-      "name": "[你与半蓝色]紫云清夏的碎片",
+      "name": "[与你共度的湛蓝夏日]紫云清夏的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_ssmk-3-002",
-      "name": "[隐匿的我]紫云清夏的碎片",
+      "name": "[隐藏的我]紫云清夏的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -889,7 +907,7 @@
     },
     {
       "id": "item-piece-idol_ssmk-3-010",
-      "name": "[樱花写真]紫云清夏的碎片",
+      "name": "[樱花相册]紫云清夏的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -919,13 +937,13 @@
     },
     {
       "id": "item-piece-idol_ttmr-3-001",
-      "name": "[常青藤]月村手毬的碎片",
+      "name": "[常春藤]月村手毬的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_ttmr-3-002",
-      "name": "[假面狂想曲]月村手毬的碎片",
+      "name": "[变装狂想曲]月村手毬的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -943,9 +961,9 @@
     },
     {
       "id": "item-piece-idol_ttmr-3-011",
-      "name": "[雨上がりのアイリス]月村手毬のピース",
+      "name": "[雨后的鸢尾花]月村手毬的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
-      "acquisitionRouteDescription": "ガシャなど"
+      "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-produce_continue-1",

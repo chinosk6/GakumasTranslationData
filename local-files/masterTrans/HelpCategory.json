@@ -19,14 +19,18 @@
     {
       "id": "help-box-gasha-event",
       "order": 20,
-      "name": "季节活动",
-      "texts": []
+      "name": "巡演活动",
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-circle-battle-event",
       "order": 22,
       "name": "地方巡演活动",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-contest",
@@ -43,19 +47,25 @@
       "id": "help-event_mission",
       "order": 21,
       "name": "活动任务",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-event-mission",
       "order": 18,
       "name": "特别任务",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-gasha",
       "order": 10,
       "name": "扭蛋",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-guild",
@@ -70,67 +80,89 @@
       "id": "help-highscore",
       "order": 20,
       "name": "十王邦夫的偶像强化月",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-highscorerush",
       "order": 20,
       "name": "十王邦夫的偶像强化月・改",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-home",
       "order": 1,
       "name": "主页",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-idol",
       "order": 2,
       "name": "偶像",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-lesson",
       "order": 6,
       "name": "课程/考试",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-main-story-event",
       "order": 19,
       "name": "初星交流活动",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-memory",
       "order": 4,
       "name": "回忆",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-menu",
       "order": 15,
       "name": "菜单",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-mission",
       "order": 11,
       "name": "任务",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-panel-mission",
       "order": 17,
       "name": "拼图任务活动",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-photography-prepare-top",
       "order": 19,
       "name": "偶像摄影",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-produce",
@@ -146,37 +178,49 @@
       "id": "help-shop",
       "order": 14,
       "name": "商店",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-story",
       "order": 7,
       "name": "交流",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-story-event",
       "order": 16,
       "name": "故事活动",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-story-event-guild-mission",
       "order": 21,
       "name": "联动任务",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-support",
       "order": 3,
       "name": "支援卡",
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "id": "help-tower",
       "order": 9,
       "name": "偶像之路",
-      "texts": []
+      "texts": [
+        ""
+      ]
     }
   ]
 }

@@ -23,8 +23,8 @@
     },
     {
       "id": "music-all-003-inst",
-      "title": "你与半蓝色 [Instrumental]",
-      "displayTitle": "你与半蓝色 [Instrumental]",
+      "title": "与你共度的湛蓝夏日 [Instrumental]",
+      "displayTitle": "与你共度的湛蓝夏日 [Instrumental]",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
       "arranger": "光増ハジメ（FirstCall）"
@@ -39,8 +39,8 @@
     },
     {
       "id": "music-all-005-inst",
-      "title": "假面狂想曲 [Instrumental]",
-      "displayTitle": "假面狂想曲 [Instrumental]",
+      "title": "变装狂想曲 [Instrumental]",
+      "displayTitle": "变装狂想曲 [Instrumental]",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -55,16 +55,16 @@
     },
     {
       "id": "music-all-007-inst",
-      "title": "快乐千层酥 [Instrumental]",
-      "displayTitle": "快乐千层酥 [Instrumental]",
+      "title": "幸福千层酥 [Instrumental]",
+      "displayTitle": "幸福千层酥 [Instrumental]",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-008-inst",
-      "title": "古今东西轻而易举 [Instrumental]",
-      "displayTitle": "古今东西轻而易举 [Instrumental]",
+      "title": "何时何地简简单单 [Instrumental]",
+      "displayTitle": "何时何地简简单单 [Instrumental]",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -79,11 +79,19 @@
     },
     {
       "id": "music-all-010-inst",
-      "title": "樱花写真 [Instrumental]",
-      "displayTitle": "樱花写真 [Instrumental]",
+      "title": "樱花相册 [Instrumental]",
+      "displayTitle": "樱花相册 [Instrumental]",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-011-inst",
+      "title": "Howling over the World [Instrumental]",
+      "displayTitle": "Howling over the World [Instrumental]",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-amao-001",
@@ -103,7 +111,7 @@
     },
     {
       "id": "music-all-amao-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -119,8 +127,8 @@
     },
     {
       "id": "music-all-amao-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -135,16 +143,16 @@
     },
     {
       "id": "music-all-amao-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-amao-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -159,11 +167,19 @@
     },
     {
       "id": "music-all-amao-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-amao-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-fktn-001",
@@ -183,7 +199,7 @@
     },
     {
       "id": "music-all-fktn-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -199,8 +215,8 @@
     },
     {
       "id": "music-all-fktn-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -215,16 +231,16 @@
     },
     {
       "id": "music-all-fktn-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-fktn-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -239,11 +255,19 @@
     },
     {
       "id": "music-all-fktn-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-fktn-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-hmsz-001",
@@ -271,7 +295,7 @@
     },
     {
       "id": "music-all-hrnm-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -287,8 +311,8 @@
     },
     {
       "id": "music-all-hrnm-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -303,16 +327,16 @@
     },
     {
       "id": "music-all-hrnm-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-hrnm-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -327,11 +351,19 @@
     },
     {
       "id": "music-all-hrnm-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-hrnm-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-hski-001",
@@ -351,7 +383,7 @@
     },
     {
       "id": "music-all-hski-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -367,8 +399,8 @@
     },
     {
       "id": "music-all-hski-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -383,16 +415,16 @@
     },
     {
       "id": "music-all-hski-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-hski-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -407,11 +439,19 @@
     },
     {
       "id": "music-all-hski-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-hski-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-hume-001",
@@ -431,7 +471,7 @@
     },
     {
       "id": "music-all-hume-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -447,8 +487,8 @@
     },
     {
       "id": "music-all-hume-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -463,11 +503,19 @@
     },
     {
       "id": "music-all-hume-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
+    },
+    {
+      "id": "music-all-hume-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-jsna-001",
@@ -487,16 +535,16 @@
     },
     {
       "id": "music-all-jsna-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-jsna-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -511,11 +559,19 @@
     },
     {
       "id": "music-all-jsna-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-jsna-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-kcna-001",
@@ -535,7 +591,7 @@
     },
     {
       "id": "music-all-kcna-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -551,8 +607,8 @@
     },
     {
       "id": "music-all-kcna-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -567,16 +623,16 @@
     },
     {
       "id": "music-all-kcna-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-kcna-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -591,11 +647,19 @@
     },
     {
       "id": "music-all-kcna-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-kcna-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-kllj-001",
@@ -615,7 +679,7 @@
     },
     {
       "id": "music-all-kllj-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -631,8 +695,8 @@
     },
     {
       "id": "music-all-kllj-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -647,16 +711,16 @@
     },
     {
       "id": "music-all-kllj-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-kllj-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -671,16 +735,16 @@
     },
     {
       "id": "music-all-kllj-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
     },
     {
       "id": "music-all-nasr-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
@@ -703,7 +767,7 @@
     },
     {
       "id": "music-all-shro-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -719,8 +783,8 @@
     },
     {
       "id": "music-all-shro-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -735,16 +799,16 @@
     },
     {
       "id": "music-all-shro-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-shro-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -759,11 +823,19 @@
     },
     {
       "id": "music-all-shro-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-shro-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-ssmk-001",
@@ -783,7 +855,7 @@
     },
     {
       "id": "music-all-ssmk-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -799,8 +871,8 @@
     },
     {
       "id": "music-all-ssmk-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -815,16 +887,16 @@
     },
     {
       "id": "music-all-ssmk-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-ssmk-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -839,11 +911,19 @@
     },
     {
       "id": "music-all-ssmk-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
+    },
+    {
+      "id": "music-all-ssmk-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
     },
     {
       "id": "music-all-ttmr-001",
@@ -863,7 +943,7 @@
     },
     {
       "id": "music-all-ttmr-003",
-      "title": "你与半蓝色",
+      "title": "与你共度的湛蓝夏日",
       "displayTitle": "",
       "lyrics": "いつきおと",
       "composer": "光増ハジメ（FirstCall）",
@@ -879,8 +959,8 @@
     },
     {
       "id": "music-all-ttmr-005",
-      "title": "假面狂想曲",
-      "displayTitle": "假面狂想曲",
+      "title": "变装狂想曲",
+      "displayTitle": "变装狂想曲",
       "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
       "composer": "FAKE TYPE.",
       "arranger": "DYES IWASAKI (FAKE TYPE.)"
@@ -895,16 +975,16 @@
     },
     {
       "id": "music-all-ttmr-007",
-      "title": "快乐千层酥",
-      "displayTitle": "快乐千层酥",
+      "title": "幸福千层酥",
+      "displayTitle": "幸福千层酥",
       "lyrics": "ナナホシ管弦楽団",
       "composer": "岩見 陸",
       "arranger": "ナナホシ管弦楽団"
     },
     {
       "id": "music-all-ttmr-008",
-      "title": "古今东西轻而易举",
-      "displayTitle": "古今东西轻而易举",
+      "title": "何时何地简简单单",
+      "displayTitle": "何时何地简简单单",
       "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
       "composer": "大澤めい（Bandai Namco Studios Inc.）",
       "arranger": "大澤めい（Bandai Namco Studios Inc.）"
@@ -919,120 +999,128 @@
     },
     {
       "id": "music-all-ttmr-010",
-      "title": "樱花写真",
-      "displayTitle": "樱花写真",
+      "title": "樱花相册",
+      "displayTitle": "樱花相册",
       "lyrics": "Safari Natsukawa",
       "composer": "春川仁志(sixth floor)",
       "arranger": "春川仁志(sixth floor)"
     },
     {
+      "id": "music-all-ttmr-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
+    },
+    {
       "id": "music-bgm-01_001",
-      "title": "教室でのひととき",
-      "displayTitle": "教室でのひととき",
+      "title": "教室里的一刻",
+      "displayTitle": "教室里的一刻",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_002",
-      "title": "プロデュース、開始！",
-      "displayTitle": "プロデュース、開始！",
+      "title": "培育开始！",
+      "displayTitle": "培育开始！",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_003",
-      "title": "最終試験に向けて",
-      "displayTitle": "最終試験に向けて",
+      "title": "迈向最终测试",
+      "displayTitle": "迈向最终测试",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_004",
-      "title": "レッスンの日々",
-      "displayTitle": "レッスンの日々",
+      "title": "训练的每一天",
+      "displayTitle": "训练的每一天",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_005",
-      "title": "追い込め～！",
-      "displayTitle": "追い込め～！",
+      "title": "加把劲～！",
+      "displayTitle": "加把劲～！",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_006",
-      "title": "おつかれさま！",
-      "displayTitle": "おつかれさま！",
+      "title": "辛苦啦！",
+      "displayTitle": "辛苦啦！",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_007",
-      "title": "努力の成果を見せる時！",
-      "displayTitle": "努力の成果を見せる時！",
+      "title": "展现努力成果的时刻！",
+      "displayTitle": "展现努力成果的时刻！",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_008",
-      "title": "TOWN（学マスMix）",
-      "displayTitle": "TOWN（学マスMix）",
+      "title": "TOWN（学园偶像大师Mix）",
+      "displayTitle": "TOWN（学园偶像大师Mix）",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_009",
-      "title": "どきどきコンテスト",
-      "displayTitle": "どきどきコンテスト",
+      "title": "令人心跳的比赛",
+      "displayTitle": "令人心跳的比赛",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_010",
-      "title": "はじまり",
-      "displayTitle": "はじまり",
+      "title": "开端",
+      "displayTitle": "开端",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_011",
-      "title": "パフォーマンス対決",
-      "displayTitle": "パフォーマンス対決",
+      "title": "表演对决",
+      "displayTitle": "表演对决",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_012",
-      "title": "生徒たちの日常",
-      "displayTitle": "生徒たちの日常",
+      "title": "学生们的日常",
+      "displayTitle": "学生们的日常",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_013",
-      "title": "波乱の幕開け",
-      "displayTitle": "波乱の幕開け",
+      "title": "风波的序幕",
+      "displayTitle": "风波的序幕",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_014",
-      "title": "秘めた想い",
-      "displayTitle": "秘めた想い",
+      "title": "深藏的心意",
+      "displayTitle": "深藏的心意",
       "lyrics": "",
       "composer": "",
       "arranger": ""
@@ -1055,104 +1143,104 @@
     },
     {
       "id": "music-bgm-01_017",
-      "title": "楽しい学園生活",
-      "displayTitle": "楽しい学園生活",
+      "title": "愉快的校园生活",
+      "displayTitle": "愉快的校园生活",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_018",
-      "title": "おでかけ♪",
-      "displayTitle": "おでかけ♪",
+      "title": "出门去♪",
+      "displayTitle": "出门去♪",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_019",
-      "title": "夕暮れ時",
-      "displayTitle": "夕暮れ時",
+      "title": "黄昏之时",
+      "displayTitle": "黄昏之时",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_020",
-      "title": "陽はまた昇る",
-      "displayTitle": "陽はまた昇る",
+      "title": "太阳照常升起",
+      "displayTitle": "太阳照常升起",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_021",
-      "title": "どたばたドタバタ",
-      "displayTitle": "どたばたドタバタ",
+      "title": "手忙脚乱团团转",
+      "displayTitle": "手忙脚乱团团转",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_022",
-      "title": "トラブルメーカーズ",
-      "displayTitle": "トラブルメーカーズ",
+      "title": "麻烦制造者们",
+      "displayTitle": "麻烦制造者们",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_023",
-      "title": "何かがはじまる予感",
-      "displayTitle": "何かがはじまる予感",
+      "title": "有什么事要开始的预感",
+      "displayTitle": "有什么事要开始的预感",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_024",
-      "title": "優雅たれ",
-      "displayTitle": "優雅たれ",
+      "title": "保持优雅",
+      "displayTitle": "保持优雅",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_025",
-      "title": "次への一歩",
-      "displayTitle": "次への一歩",
+      "title": "迈出下一步",
+      "displayTitle": "迈出下一步",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_026",
-      "title": "無敵のお姉ちゃん",
-      "displayTitle": "無敵のお姉ちゃん",
+      "title": "无敌的姐姐",
+      "displayTitle": "无敌的姐姐",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_027",
-      "title": "裏腹ストイック",
-      "displayTitle": "裏腹ストイック",
+      "title": "口是心非的克己",
+      "displayTitle": "口是心非的克己",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_028",
-      "title": "の～まね～ほ～む",
-      "displayTitle": "の～まね～ほ～む",
+      "title": "没～钱～就～没～家",
+      "displayTitle": "没～钱～就～没～家",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_029",
-      "title": "ままならなくて、いい",
-      "displayTitle": "ままならなくて、いい",
+      "title": "不尽如人意，也好",
+      "displayTitle": "不尽如人意，也好",
       "lyrics": "",
       "composer": "",
       "arranger": ""
@@ -1167,32 +1255,32 @@
     },
     {
       "id": "music-bgm-01_031",
-      "title": "無垢な思い、強き願い",
-      "displayTitle": "無垢な思い、強き願い",
+      "title": "纯洁的心意，强烈的愿望",
+      "displayTitle": "纯洁的心意，强烈的愿望",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_032",
-      "title": "你喜欢的我",
-      "displayTitle": "你喜欢的我",
+      "title": "你所喜欢的我",
+      "displayTitle": "你所喜欢的我",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_033",
-      "title": "お任せくださいませ",
-      "displayTitle": "お任せくださいませ",
+      "title": "一切包在我身上",
+      "displayTitle": "一切包在我身上",
       "lyrics": "",
       "composer": "",
       "arranger": ""
     },
     {
       "id": "music-bgm-01_034",
-      "title": "幕間にキミと",
-      "displayTitle": "幕間にキミと",
+      "title": "与你共度的幕间时光",
+      "displayTitle": "与你共度的幕间时光",
       "lyrics": "",
       "composer": "",
       "arranger": ""
@@ -1311,16 +1399,16 @@
     },
     {
       "id": "music-char-hmsz-003",
-      "title": "珍视的东西",
-      "displayTitle": "珍视的东西",
+      "title": "重要之物",
+      "displayTitle": "重要之物",
       "lyrics": "フワリ (Dream Monster)",
       "composer": "フワリ (Dream Monster)",
       "arranger": "フワリ (Dream Monster)"
     },
     {
       "id": "music-char-hmsz-003-inst",
-      "title": "珍视的东西 [Instrumental]",
-      "displayTitle": "珍视的东西 [Instrumental]",
+      "title": "重要之物 [Instrumental]",
+      "displayTitle": "重要之物 [Instrumental]",
       "lyrics": "フワリ (Dream Monster)",
       "composer": "フワリ (Dream Monster)",
       "arranger": "フワリ (Dream Monster)"
@@ -1439,16 +1527,16 @@
     },
     {
       "id": "music-char-hume-003",
-      "title": "最强最强的锻炼",
-      "displayTitle": "最强最强的锻炼",
+      "title": "活力满满最强健身操",
+      "displayTitle": "活力满满最强健身操",
       "lyrics": "坪井リヒト（Bandai Namco Studio Inc.）",
       "composer": "坪井リヒト・佐藤貴文（Bandai Namco Studio Inc.）",
       "arranger": "坪井リヒト（Bandai Namco Studio Inc.）"
     },
     {
       "id": "music-char-hume-003-inst",
-      "title": "最强最强的锻炼 [Instrumental]",
-      "displayTitle": "最强最强的锻炼 [Instrumental]",
+      "title": "活力满满最强健身操 [Instrumental]",
+      "displayTitle": "活力满满最强健身操 [Instrumental]",
       "lyrics": "坪井リヒト（Bandai Namco Studio Inc.）",
       "composer": "坪井リヒト・佐藤貴文（Bandai Namco Studio Inc.）",
       "arranger": "坪井リヒト（Bandai Namco Studio Inc.）"
@@ -1519,23 +1607,23 @@
     },
     {
       "id": "music-char-kcna-002",
-      "title": "每天，发现的脚步！",
-      "displayTitle": "每天，发现的脚步！",
+      "title": "每天、都有新发现！",
+      "displayTitle": "每天、都有新发现！",
       "lyrics": "椿山日南子(Dream Monster)",
       "composer": "椿山日南子(Dream Monster)",
       "arranger": "椿山日南子(Dream Monster)"
     },
     {
       "id": "music-char-kcna-002-inst",
-      "title": "每天，发现的脚步！ [Instrumental]",
-      "displayTitle": "每天，发现的脚步！ [Instrumental]",
+      "title": "每天、都有新发现！ [Instrumental]",
+      "displayTitle": "每天、都有新发现！ [Instrumental]",
       "lyrics": "椿山日南子(Dream Monster)",
       "composer": "椿山日南子(Dream Monster)",
       "arranger": "椿山日南子(Dream Monster)"
     },
     {
       "id": "music-char-kcna-003",
-      "title": "心中满载憧憬",
+      "title": "满怀憧憬",
       "displayTitle": "",
       "lyrics": "高木龍一(Dream Monster)",
       "composer": "高木龍一(Dream Monster)",
@@ -1543,8 +1631,8 @@
     },
     {
       "id": "music-char-kcna-003-inst",
-      "title": "心中满载憧憬 [Instrumental]",
-      "displayTitle": "心中满载憧憬 [Instrumental]",
+      "title": "满怀憧憬 [Instrumental]",
+      "displayTitle": "满怀憧憬 [Instrumental]",
       "lyrics": "高木龍一(Dream Monster)",
       "composer": "高木龍一(Dream Monster)",
       "arranger": "高木龍一(Dream Monster)"
@@ -1663,16 +1751,16 @@
     },
     {
       "id": "music-char-ssmk-002",
-      "title": "隐匿的我",
-      "displayTitle": "隐匿的我",
+      "title": "隐藏的我",
+      "displayTitle": "隐藏的我",
       "lyrics": "東 優太",
       "composer": "東 優太",
       "arranger": "東 優太"
     },
     {
       "id": "music-char-ssmk-002-inst",
-      "title": "隐匿的我 [Instrumental]",
-      "displayTitle": "隐匿的我 [Instrumental]",
+      "title": "隐藏的我 [Instrumental]",
+      "displayTitle": "隐藏的我 [Instrumental]",
       "lyrics": "東 優太",
       "composer": "東 優太",
       "arranger": "東 優太"
@@ -1711,7 +1799,7 @@
     },
     {
       "id": "music-char-ttmr-002",
-      "title": "常青藤",
+      "title": "常春藤",
       "displayTitle": "",
       "lyrics": "ツミキ",
       "composer": "ツミキ",
@@ -1719,15 +1807,15 @@
     },
     {
       "id": "music-char-ttmr-002-inst",
-      "title": "常青藤 [Instrumental]",
-      "displayTitle": "常青藤 [Instrumental]",
+      "title": "常春藤 [Instrumental]",
+      "displayTitle": "常春藤 [Instrumental]",
       "lyrics": "ツミキ",
       "composer": "ツミキ",
       "arranger": "ツミキ"
     },
     {
       "id": "music-char-ttmr-003",
-      "title": "借我所梦之言",
+      "title": "愿望、藉由话语",
       "displayTitle": "",
       "lyrics": "田中透真(Dream Monster)",
       "composer": "田中透真(Dream Monster)",
@@ -1735,8 +1823,8 @@
     },
     {
       "id": "music-char-ttmr-003-inst",
-      "title": "借我所梦之言 [Instrumental]",
-      "displayTitle": "借我所梦之言 [Instrumental]",
+      "title": "愿望、藉由话语 [Instrumental]",
+      "displayTitle": "愿望、藉由话语 [Instrumental]",
       "lyrics": "田中透真(Dream Monster)",
       "composer": "田中透真(Dream Monster)",
       "arranger": "田中透真(Dream Monster)"

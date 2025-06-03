@@ -459,7 +459,7 @@
     },
     {
       "id": "mission-box-gasha-event-001-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-box-gasha-event-002-mission_1",
@@ -479,7 +479,7 @@
     },
     {
       "id": "mission-box-gasha-event-002-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-box-gasha-event-003-mission_1",
@@ -499,7 +499,7 @@
     },
     {
       "id": "mission-box-gasha-event-003-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-box-gasha-event-004-mission_1",
@@ -519,7 +519,7 @@
     },
     {
       "id": "mission-box-gasha-event-004-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-box-gasha-event-005-mission_1",
@@ -539,7 +539,7 @@
     },
     {
       "id": "mission-box-gasha-event-005-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-box-gasha-event-006-mission_1",
@@ -559,7 +559,7 @@
     },
     {
       "id": "mission-box-gasha-event-006-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-box-gasha-event-007-mission_1",
@@ -579,7 +579,27 @@
     },
     {
       "id": "mission-box-gasha-event-007-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_1",
+      "name": "登录{threshold}天"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_2",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_3",
+      "name": "抽取{threshold}次活动BOX扭蛋"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_4",
+      "name": "获得合计{threshold}培育评价"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_5",
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-circle-battle-event-001-mission_1",
@@ -591,11 +611,11 @@
     },
     {
       "id": "mission-circle-battle-event-001-mission_3",
-      "name": "在花海 咲季的培育中通过{threshold}次最终考试"
+      "name": "在花海咲季的培育中通过{threshold}次最终考试"
     },
     {
       "id": "mission-circle-battle-event-001-mission_4",
-      "name": "在月村 手毬的培育中通过{threshold}次最终考试"
+      "name": "在月村手毬的培育中通过{threshold}次最终考试"
     },
     {
       "id": "mission-circle-battle-event-001-mission_5",
@@ -603,7 +623,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_12",
@@ -627,7 +647,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_22",
@@ -651,7 +671,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_32",
@@ -675,7 +695,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_42",
@@ -699,7 +719,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_52",
@@ -723,7 +743,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_61",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_62",
@@ -747,7 +767,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_71",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_72",
@@ -803,11 +823,11 @@
     },
     {
       "id": "mission-highscore-event-001-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-highscore-event-001-mission_11_1",
-      "name": "消费{threshold}AP（截至8/1 4:59:59）"
+      "name": "消耗{threshold}点AP（截至8/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-001-mission_12",
@@ -859,11 +879,11 @@
     },
     {
       "id": "mission-highscore-event-002-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-highscore-event-002-mission_11_1",
-      "name": "消费{threshold}AP（截至9/1 4:59:59）"
+      "name": "消耗{threshold}点AP（截至9/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-002-mission_12",
@@ -1087,7 +1107,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_32",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-highscore-event-004-mission_33",
@@ -1275,7 +1295,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_12",
@@ -1299,7 +1319,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_22",
@@ -1323,7 +1343,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_32",
@@ -1347,7 +1367,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_42",
@@ -1371,7 +1391,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_52",
@@ -1395,7 +1415,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_12",
@@ -1419,7 +1439,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_22",
@@ -1443,7 +1463,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_32",
@@ -1467,7 +1487,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_42",
@@ -1491,7 +1511,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_52",
@@ -1515,7 +1535,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_12",
@@ -1539,7 +1559,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_22",
@@ -1563,7 +1583,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_32",
@@ -1587,7 +1607,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_42",
@@ -1611,7 +1631,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_52",
@@ -1635,7 +1655,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_12",
@@ -1659,7 +1679,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_22",
@@ -1683,7 +1703,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_32",
@@ -1707,7 +1727,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_42",
@@ -1731,7 +1751,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_52",
@@ -1755,7 +1775,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_12",
@@ -1779,7 +1799,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_22",
@@ -1803,7 +1823,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_32",
@@ -1827,7 +1847,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_42",
@@ -1851,7 +1871,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_52",
@@ -1875,7 +1895,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_12",
@@ -1899,7 +1919,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_22",
@@ -1923,7 +1943,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_32",
@@ -1947,7 +1967,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_42",
@@ -1971,7 +1991,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_52",
@@ -1995,7 +2015,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_12",
@@ -2019,7 +2039,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_22",
@@ -2043,7 +2063,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_32",
@@ -2067,7 +2087,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_42",
@@ -2091,7 +2111,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_52",
@@ -2115,7 +2135,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_12",
@@ -2139,7 +2159,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_22",
@@ -2163,7 +2183,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_32",
@@ -2187,7 +2207,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_42",
@@ -2211,7 +2231,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_52",
@@ -2235,7 +2255,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_11",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_12",
@@ -2259,7 +2279,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_21",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_22",
@@ -2283,7 +2303,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_31",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_32",
@@ -2307,7 +2327,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_41",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_42",
@@ -2331,7 +2351,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_51",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_52",
@@ -2355,7 +2375,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_11",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_12",
@@ -2379,7 +2399,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_21",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_22",
@@ -2403,7 +2423,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_31",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_32",
@@ -2427,7 +2447,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_41",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_42",
@@ -2451,7 +2471,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_51",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_52",
@@ -2835,7 +2855,7 @@
     },
     {
       "id": "mission-panel-mission-1-5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-panel-mission-1-6",
@@ -2891,7 +2911,7 @@
     },
     {
       "id": "mission-release_mission-1-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-1-2",
@@ -2915,7 +2935,7 @@
     },
     {
       "id": "mission-release_mission-2-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-2-2",
@@ -2939,7 +2959,7 @@
     },
     {
       "id": "mission-release_mission-3-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-3-2",
@@ -2971,7 +2991,7 @@
     },
     {
       "id": "mission-release_mission-4-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-4-2",
@@ -2995,7 +3015,7 @@
     },
     {
       "id": "mission-release_mission-5-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-5-2",
@@ -3015,7 +3035,7 @@
     },
     {
       "id": "mission-release_mission-6-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-6-2",
@@ -3043,7 +3063,7 @@
     },
     {
       "id": "mission-release_mission-7-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-7-2",
@@ -3083,7 +3103,7 @@
     },
     {
       "id": "mission-story-event-001-mission_6",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-story-event-002-mission_1",
@@ -3107,7 +3127,7 @@
     },
     {
       "id": "mission-story-event-002-mission_6",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-story-event-003-mission_1",
@@ -3131,7 +3151,7 @@
     },
     {
       "id": "mission-story-event-003-mission_6",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-story-event-004-mission_1",
@@ -3155,7 +3175,7 @@
     },
     {
       "id": "mission-story-event-004-mission_6",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-story-event-006-mission_1",
@@ -3167,7 +3187,7 @@
     },
     {
       "id": "mission-story-event-006-mission_3",
-      "name": "共计获得{threshold}的培育评价吧"
+      "name": "获得合计{threshold}培育评价"
     },
     {
       "id": "mission-story-event-006-mission_4",
@@ -3179,7 +3199,7 @@
     },
     {
       "id": "mission-story-event-006-mission_6",
-      "name": "去完成{threshold}次SP课程吧"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-story-event-013-mission_1",
@@ -3187,11 +3207,11 @@
     },
     {
       "id": "mission-story-event-013-mission_2",
-      "name": "最终考试合格{threshold}次"
+      "name": "通过{threshold}次最终考试"
     },
     {
       "id": "mission-story-event-013-mission_3",
-      "name": "共计获得{threshold}的培育评价"
+      "name": "获得合计{threshold}培育评价"
     },
     {
       "id": "mission-story-event-013-mission_4",
@@ -3203,7 +3223,7 @@
     },
     {
       "id": "mission-story-event-013-mission_6",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-weekly-incrementgashadrawcount-1",
@@ -3323,7 +3343,7 @@
     },
     {
       "id": "panel_mission-event-003-mission_5",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "panel_mission-event-003-mission_6",
@@ -3395,7 +3415,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "panel_mission-event-004-mission_6",
@@ -3467,7 +3487,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_5",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "panel_mission-event-006-mission_6",
@@ -3523,15 +3543,15 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-01",
-      "name": "【你与半蓝色】有村麻央的培育中通过了最终考试"
+      "name": "【与你共度的湛蓝夏日】有村麻央的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-amao-3-001-02",
-      "name": "【你与半蓝色】有村麻央的特训阶段提升至{threshold}级"
+      "name": "【与你共度的湛蓝夏日】有村麻央的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-amao-3-001-03",
-      "name": "【你与半蓝色】有村麻央的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【与你共度的湛蓝夏日】有村麻央的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-amao-3-002-01",
@@ -3655,15 +3675,15 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "【你与半蓝色】姬崎莉波的培育中通过了最终考试"
+      "name": "【与你共度的湛蓝夏日】姬崎莉波的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-02",
-      "name": "【你与半蓝色】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "【与你共度的湛蓝夏日】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-03",
-      "name": "【你与半蓝色】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【与你共度的湛蓝夏日】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
@@ -3703,15 +3723,27 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-01",
-      "name": "【快乐千层酥】姬崎莉波的培育中通过了最终考试"
+      "name": "【幸福千层酥】姬崎莉波的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-02",
-      "name": "【快乐千层酥】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "【幸福千层酥】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-03",
-      "name": "【快乐千层酥】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【幸福千层酥】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-01",
+      "name": "【Howling over the World】姬崎莉波的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-02",
+      "name": "【Howling over the World】姬崎莉波的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-03",
+      "name": "【Howling over the World】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
@@ -3739,15 +3771,15 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-01",
-      "name": "【古今东西轻而易举】花海咲季的培育中通过了最终考试"
+      "name": "【何时何地简简单单】花海咲季的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-hski-3-006-02",
-      "name": "【古今东西轻而易举】花海咲季的特训阶段提升至{threshold}级"
+      "name": "【何时何地简简单单】花海咲季的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hski-3-006-03",
-      "name": "【古今东西轻而易举】花海咲季的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【何时何地简简单单】花海咲季的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-008-01",
@@ -3763,15 +3795,15 @@
     },
     {
       "id": "achieve-i_card-hski-3-011-01",
-      "name": "【樱花写真】花海咲季的培育中通过了最终考试"
+      "name": "【樱花相册】花海咲季的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-hski-3-011-02",
-      "name": "【樱花写真】花海咲季的特训阶段提升至{threshold}级"
+      "name": "【樱花相册】花海咲季的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hski-3-011-03",
-      "name": "【樱花写真】花海咲季的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【樱花相册】花海咲季的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-012-01",
@@ -3871,15 +3903,15 @@
     },
     {
       "id": "achieve-i_card-jsna-3-003-01",
-      "name": "【快乐千层酥】十王星南的培育中通过了最终考试"
+      "name": "【幸福千层酥】十王星南的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-jsna-3-003-02",
-      "name": "【快乐千层酥】十王星南的特训阶段提升至{threshold}级"
+      "name": "【幸福千层酥】十王星南的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-jsna-3-003-03",
-      "name": "【快乐千层酥】十王星南的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【幸福千层酥】十王星南的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-jsna-3-006-01",
@@ -3895,27 +3927,27 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-01",
-      "name": "【每天，发现的脚步！】仓本千奈的培育中通过了最终考试"
+      "name": "【每天、都有新发现！】仓本千奈的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "【每天，发现的脚步！】仓本千奈的特训阶段提升至{threshold}级"
+      "name": "【每天、都有新发现！】仓本千奈的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
-      "name": "【每天，发现的脚步！】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【每天、都有新发现！】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-002-01",
-      "name": "【假面狂想曲】仓本千奈的培育中通过了最终考试"
+      "name": "【变装狂想曲】仓本千奈的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-kcna-3-002-02",
-      "name": "【假面狂想曲】仓本千奈的特训阶段提升至{threshold}级"
+      "name": "【变装狂想曲】仓本千奈的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-kcna-3-002-03",
-      "name": "【假面狂想曲】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【变装狂想曲】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-005-01",
@@ -3952,6 +3984,18 @@
     {
       "id": "achieve-i_card-kcna-3-009-03",
       "name": "【雪融之时】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-01",
+      "name": "【Howling over the World】仓本千奈的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-02",
+      "name": "【Howling over the World】仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-03",
+      "name": "【Howling over the World】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",
@@ -4003,15 +4047,15 @@
     },
     {
       "id": "achieve-i_card-kllj-3-010-01",
-      "name": "【樱花写真】葛城莉莉娅的培育中通过了最终考试"
+      "name": "【樱花相册】葛城莉莉娅的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-kllj-3-010-02",
-      "name": "【樱花写真】葛城莉莉娅的特训阶段提升至{threshold}级"
+      "name": "【樱花相册】葛城莉莉娅的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-kllj-3-010-03",
-      "name": "【樱花写真】葛城莉莉娅的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【樱花相册】葛城莉莉娅的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-shro-3-001-01",
@@ -4027,15 +4071,15 @@
     },
     {
       "id": "achieve-i_card-shro-3-002-01",
-      "name": "【假面狂想曲】篠泽广的培育中通过了最终考试"
+      "name": "【变装狂想曲】篠泽广的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-shro-3-002-02",
-      "name": "【假面狂想曲】篠泽广的特训阶段提升至{threshold}级"
+      "name": "【变装狂想曲】篠泽广的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-shro-3-002-03",
-      "name": "【假面狂想曲】篠泽广的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【变装狂想曲】篠泽广的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-shro-3-007-01",
@@ -4051,39 +4095,39 @@
     },
     {
       "id": "achieve-i_card-shro-3-008-01",
-      "name": "【快乐千层酥】篠泽广的培育中通过了最终考试"
+      "name": "【幸福千层酥】篠泽广的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-shro-3-008-02",
-      "name": "【快乐千层酥】篠泽广的特训阶段提升至{threshold}级"
+      "name": "【幸福千层酥】篠泽广的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-shro-3-008-03",
-      "name": "【快乐千层酥】篠泽广的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【幸福千层酥】篠泽广的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",
-      "name": "【你与半蓝色】紫云清夏的培育中通过了最终考试"
+      "name": "【与你共度的湛蓝夏日】紫云清夏的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-02",
-      "name": "【你与半蓝色】紫云清夏的特训阶段提升至{threshold}级"
+      "name": "【与你共度的湛蓝夏日】紫云清夏的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-03",
-      "name": "【你与半蓝色】紫云清夏的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【与你共度的湛蓝夏日】紫云清夏的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-01",
-      "name": "【隐匿的我】紫云清夏的培育中通过了最终考试"
+      "name": "【隐藏的我】紫云清夏的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-02",
-      "name": "【隐匿的我】紫云清夏的特训阶段提升至{threshold}级"
+      "name": "【隐藏的我】紫云清夏的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-03",
-      "name": "【隐匿的我】紫云清夏的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【隐藏的我】紫云清夏的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-01",
@@ -4099,39 +4143,39 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-010-01",
-      "name": "【樱花写真】紫云清夏的培育中通过了最终考试"
+      "name": "【樱花相册】紫云清夏的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-02",
-      "name": "【樱花写真】紫云清夏的特训阶段提升至{threshold}级"
+      "name": "【樱花相册】紫云清夏的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-03",
-      "name": "【樱花写真】紫云清夏的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【樱花相册】紫云清夏的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
-      "name": "【常青藤】月村手毬的培育中通过了最终考试"
+      "name": "【常春藤】月村手毬的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-02",
-      "name": "【常青藤】月村手毬的特训阶段提升至{threshold}级"
+      "name": "【常春藤】月村手毬的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-03",
-      "name": "【常青藤】月村手毬的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【常春藤】月村手毬的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-01",
-      "name": "【假面狂想曲】月村手毬的培育中通过了最终考试"
+      "name": "【变装狂想曲】月村手毬的培育中通过了最终考试"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-02",
-      "name": "【假面狂想曲】月村手毬的特训阶段提升至{threshold}级"
+      "name": "【变装狂想曲】月村手毬的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-03",
-      "name": "【假面狂想曲】月村手毬的培育中获得了{threshold}次A+及以上的评价"
+      "name": "【变装狂想曲】月村手毬的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-01",
@@ -4503,7 +4547,7 @@
     },
     {
       "id": "achieve-p_idol-amao-017",
-      "name": "在有村麻央的难易度「Pro」下获得最终考试第一名"
+      "name": "在有村麻央的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-amao-018",
@@ -4815,7 +4859,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-017",
-      "name": "在藤田琴音的难易度「Pro」下获得最终考试第一名"
+      "name": "在藤田琴音的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-fktn-018",
@@ -4907,7 +4951,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-017",
-      "name": "在秦谷美铃的难易度「Master」下获得最终考试第一名"
+      "name": "在秦谷美铃的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-hmsz-020",
@@ -4987,7 +5031,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-017",
-      "name": "在姬崎莉波的难易度「Pro」下获得最终考试第一名"
+      "name": "在姬崎莉波的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-hrnm-018",
@@ -5083,7 +5127,7 @@
     },
     {
       "id": "achieve-p_idol-hski-017",
-      "name": "在花海咲季的难易度「Pro」下获得最终考试第一名"
+      "name": "在花海咲季的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-hski-018",
@@ -5175,7 +5219,7 @@
     },
     {
       "id": "achieve-p_idol-hume-017",
-      "name": "在花海佑芽的难易度「Pro」下获得最终考试第一名"
+      "name": "在花海佑芽的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-hume-018",
@@ -5267,7 +5311,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-017",
-      "name": "在十王星南的难易度「Pro」下获得最终考试第一名"
+      "name": "在十王星南的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-jsna-018",
@@ -5359,7 +5403,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-017",
-      "name": "在仓本千奈的难易度「Pro」下获得最终考试第一名"
+      "name": "在仓本千奈的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-kcna-018",
@@ -5451,7 +5495,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-017",
-      "name": "在葛城莉莉娅的难易度「Pro」下获得最终考试第一名"
+      "name": "在葛城莉莉娅的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-kllj-018",
@@ -5543,7 +5587,7 @@
     },
     {
       "id": "achieve-p_idol-shro-017",
-      "name": "在篠泽广的难易度「Master」下获得最终考试第一名"
+      "name": "在篠泽广的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-shro-018",
@@ -5639,7 +5683,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-017",
-      "name": "在紫云清夏的难易度「Pro」下获得最终考试第一名"
+      "name": "在紫云清夏的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-ssmk-018",
@@ -5731,7 +5775,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-017",
-      "name": "在月村手毬的难易度「Pro」下获得最终考试第一名"
+      "name": "在月村手毬的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-ttmr-018",
@@ -5911,7 +5955,7 @@
     },
     {
       "id": "main_task_group-01-01#41",
-      "name": "去挑战难易度Pro的培育吧"
+      "name": "去挑战{threshold}次定期公演『初』：Pro的培育吧"
     },
     {
       "id": "main_task_group-01-01#42",
@@ -6015,7 +6059,7 @@
     },
     {
       "id": "main_task_group-02-01#7",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "main_task_group-02-01#8",
@@ -6399,15 +6443,15 @@
     },
     {
       "id": "main_task_group-03-01#3",
-      "name": "让方案：观者的培育用偶像取得{threshold}次最终考试合格吧"
+      "name": "让方案：异类的培育用偶像取得{threshold}次最终考试合格吧"
     },
     {
       "id": "main_task_group-03-01#4",
-      "name": "去观者扭蛋抽卡{threshold}次吧"
+      "name": "去异类扭蛋抽卡{threshold}次吧"
     },
     {
       "id": "main_task_group-03-01#5",
-      "name": "去通关研修中的【应用5】方案：观者吧"
+      "name": "去通关研修中的【应用5】方案：异类吧"
     },
     {
       "id": "main_task_group-03-01#6",
@@ -6443,7 +6487,7 @@
     },
     {
       "id": "main_task_group-03-01#14",
-      "name": "去挑战难易度Master的培育吧"
+      "name": "去挑战{threshold}次定期公演『初』：Master的培育吧"
     },
     {
       "id": "main_task_group-03-01#15",
@@ -6459,7 +6503,7 @@
     },
     {
       "id": "main_task_group-03-01#18",
-      "name": "让方案：观者的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
     },
     {
       "id": "main_task_group-03-01#19",
@@ -6471,7 +6515,7 @@
     },
     {
       "id": "main_task_group-03-01#21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "main_task_group-03-01#22",
@@ -6503,7 +6547,7 @@
     },
     {
       "id": "main_task_group-03-01#29",
-      "name": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：观者的培育用偶像"
+      "name": "在定期公演『初』：Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#30",
@@ -6655,7 +6699,7 @@
     },
     {
       "id": "main_task_group-03-01#67",
-      "name": "在培育中让任意属性值达到1700吧"
+      "name": "在最终考试中取得第一名吧"
     },
     {
       "id": "main_task_group-03-01#68",
@@ -6711,7 +6755,7 @@
     },
     {
       "id": "main_task_group-03-01#81",
-      "name": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：观者的培育用偶像"
+      "name": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#82",

@@ -290,8 +290,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 41,
       "title": "初星课题41",
-      "description": "去挑战难易度Pro的培育吧",
-      "homeDescription": "去挑战难易度Pro的培育吧"
+      "description": "去挑战{threshold}次定期公演『初』：Pro的培育吧",
+      "homeDescription": "去挑战{threshold}次定期公演『初』：Pro的培育吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -374,8 +374,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 53,
       "title": "初星课题53",
-      "description": "在最终考试中取得第一名吧",
-      "homeDescription": "在最终考试中取得第一名吧"
+      "description": "在培育中让任意属性值达到1700吧",
+      "homeDescription": "在培育中让任意属性值达到1700吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -1144,22 +1144,22 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 3,
       "title": "P课题2-3",
-      "description": "让方案：观者的培育用偶像取得{threshold}次最终考试合格吧",
-      "homeDescription": "让方案：观者的培育用偶像取得{threshold}次最终考试合格吧"
+      "description": "让方案：异类的培育用偶像取得{threshold}次最终考试合格吧",
+      "homeDescription": "让方案：异类的培育用偶像取得{threshold}次最终考试合格吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 4,
       "title": "P课题2-4",
-      "description": "去观者扭蛋抽卡{threshold}次吧",
-      "homeDescription": "去观者扭蛋抽卡{threshold}次吧"
+      "description": "去异类扭蛋抽卡{threshold}次吧",
+      "homeDescription": "去异类扭蛋抽卡{threshold}次吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 5,
       "title": "P课题2-5",
-      "description": "去通关研修中的【应用5】方案：观者吧",
-      "homeDescription": "去通关研修中的【应用5】方案：观者吧"
+      "description": "去通关研修中的【应用5】方案：异类吧",
+      "homeDescription": "去通关研修中的【应用5】方案：异类吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1221,8 +1221,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 14,
       "title": "P课题2-14",
-      "description": "去挑战难易度Master的培育吧",
-      "homeDescription": "去挑战难易度Master的培育吧"
+      "description": "去挑战{threshold}次定期公演『初』：Master的培育吧",
+      "homeDescription": "去挑战{threshold}次定期公演『初』：Master的培育吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1249,8 +1249,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 18,
       "title": "P课题2-18",
-      "description": "让方案：观者的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧",
-      "homeDescription": "让方案：观者的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "description": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧",
+      "homeDescription": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1326,8 +1326,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 29,
       "title": "P课题2-29",
-      "description": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：观者的培育用偶像",
-      "homeDescription": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：观者的培育用偶像"
+      "description": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像",
+      "homeDescription": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1690,8 +1690,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 81,
       "title": "P课题81",
-      "description": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：观者的培育用偶像",
-      "homeDescription": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：观者的培育用偶像"
+      "description": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：异类的培育用偶像",
+      "homeDescription": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",

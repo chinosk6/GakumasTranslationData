@@ -14,7 +14,7 @@
     {
       "id": "s_card_p_skill_filter-lessonvocalspchangeratepermiladdition-p_trigger-produce_start-no_description",
       "order": 3,
-      "title": "SP课程发生率+"
+      "title": "SP课程发生概率+"
     },
     {
       "id": "s_card_p_skill_filter-maxstaminaaddition-p_trigger-produce_start-no_description",
@@ -24,7 +24,7 @@
     {
       "id": "s_card_p_skill_filter-producepointadditiondisabletrigger-p_trigger-produce_start-initial",
       "order": 35,
-      "title": "初期P点数+"
+      "title": "初始P点数+"
     },
     {
       "id": "s_card_p_skill_filter-shopproducedrinkpricediscountmultiple-p_trigger-start_shop-no_description",
@@ -34,162 +34,162 @@
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_audition",
       "order": 33,
-      "title": "考试・试镜结束时体力恢复"
+      "title": "考试・试镜结束时体力回复"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_lesson-lesson_sp",
       "order": 32,
-      "title": "SP课程结束时体力恢复"
+      "title": "SP课程结束时体力回复"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-start_present",
       "order": 34,
-      "title": "活动补给・慰问补给选择时体力恢复"
+      "title": "选择活动补给・慰问品时体力回复"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
       "order": 29,
-      "title": "咨询后P饮料交换后分数上升"
+      "title": "在咨询中兑换P饮料后能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card",
       "order": 13,
-      "title": "技能卡转换时分数上升"
+      "title": "技能卡变换时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 12,
-      "title": "主动技能卡删除时分数上升"
+      "title": "主动技能卡消除时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-deck_all",
       "order": 10,
-      "title": "技能卡删除时分数上升"
+      "title": "技能卡消除时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 11,
-      "title": "精神技能卡删除时分数上升"
+      "title": "辅助技能卡消除时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
       "order": 25,
-      "title": "考试・试镜结束时分数上升"
+      "title": "考试・试镜结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
       "order": 4,
-      "title": "课程结束时分数上升"
+      "title": "课程结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_normal",
       "order": 5,
-      "title": "通常课程结束时分数上升"
+      "title": "通常课程结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_sp",
       "order": 6,
-      "title": "SP课程结束时分数上升"
+      "title": "SP课程结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_activity",
       "order": 27,
-      "title": "外出结束时分数上升"
+      "title": "外出结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_school",
       "order": 24,
-      "title": "授课・营业结束时分数上升"
+      "title": "授课・营业结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 16,
-      "title": "主动技能卡获得时分数上升"
+      "title": "主动技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all",
       "order": 14,
-      "title": "技能卡获得时分数上升"
+      "title": "技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
       "order": 19,
-      "title": "干劲效果的技能卡获得时分数上升"
+      "title": "干劲效果的技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_concentration-000",
       "order": 21,
-      "title": "强气效果的技能卡获得时分数上升"
+      "title": "强气效果的技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_full_power-000",
       "order": 22,
-      "title": "全力效果的技能卡获得时分数上升"
+      "title": "全力效果的技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
       "order": 18,
-      "title": "集中效果的技能卡获得时分数上升"
+      "title": "集中效果的技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
       "order": 17,
-      "title": "好调效果的技能卡获得时分数上升"
+      "title": "好调效果的技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000",
       "order": 23,
-      "title": "温存效果的技能卡获得时分数上升"
+      "title": "温存效果的技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_review-000",
       "order": 20,
-      "title": "好印象效果的技能卡获得时分数上升"
+      "title": "好印象效果的技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 15,
-      "title": "精神技能卡获得时分数上升"
+      "title": "辅助技能卡获得时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-produce_start-initial",
       "order": 1,
-      "title": "初期分数上升"
+      "title": "初始能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_present",
       "order": 26,
-      "title": "活动补给・慰问补给选择时分数上升"
+      "title": "选择活动补给・慰问品时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_refresh",
       "order": 30,
-      "title": "休息选择时分数上升"
+      "title": "选择休息时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_shop",
       "order": 28,
-      "title": "咨询选择时分数上升"
+      "title": "选择咨询时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 9,
-      "title": "主动技能卡强化时分数上升"
+      "title": "主动技能卡强化时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-deck_all",
       "order": 7,
-      "title": "技能卡强化时分数上升"
+      "title": "技能卡强化时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 8,
-      "title": "精神技能卡强化时分数上升"
+      "title": "辅助技能卡技能卡强化时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocalgrowthrateaddition-p_trigger-produce_start-no_description",
       "order": 2,
-      "title": "参数加成+"
+      "title": "能力值奖励+"
     }
   ]
 }

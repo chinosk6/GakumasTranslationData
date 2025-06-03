@@ -183,7 +183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-act-0_001",
-          "text": "魅力的基本"
+          "text": "魅力的基础"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -208,7 +208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-men-0_003",
-          "text": "表现的基本"
+          "text": "表现的基础"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -538,7 +538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "在道口的前方"
+          "text": "道口的前方"
         }
       ]
     },
@@ -818,7 +818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_104",
-          "text": "还能飞翔"
+          "text": "再次飞翔"
         }
       ]
     },
@@ -933,7 +933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_001",
-          "text": "粉丝应援"
+          "text": "粉丝服务"
         }
       ]
     },
@@ -948,7 +948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "轻快的步伐"
+          "text": "轻快步伐"
         }
       ]
     },
@@ -978,7 +978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "趁势而为"
+          "text": "凭势而行"
         }
       ]
     },
@@ -1008,7 +1008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_030",
-          "text": "再次出发"
+          "text": "重新开始"
         }
       ]
     },
@@ -1038,7 +1038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "想起就好笑"
+          "text": "回忆微笑"
         }
       ]
     },
@@ -1053,7 +1053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "我是大明星"
+          "text": "我是明星"
         }
       ]
     },
@@ -1174,6 +1174,31 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
           "text": "全力"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "效果的技能卡"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_lesson_buff-000",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "集中"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1368,7 +1393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "第一次的褒奖"
+          "text": "初次的褒奖"
         }
       ]
     },
@@ -1398,7 +1423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "轻松悠哉闲谈"
+          "text": "悠哉闲谈"
         }
       ]
     },
@@ -1413,7 +1438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "意外的惊喜"
+          "text": "意外惊喜"
         }
       ]
     },
