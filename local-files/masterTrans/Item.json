@@ -60,6 +60,12 @@
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
     {
+      "id": "item-coin-highscorerush-event-002",
+      "name": "星星的闪耀光芒",
+      "description": "可以在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活动模式的培育等方式"
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "R偶像的碎片",
       "description": "可以在R偶像才能开花中使用的道具",
@@ -171,6 +177,12 @@
       "id": "item-gashaticket-ssr-support-fix_1",
       "name": "SSR S卡必得扭蛋票据",
       "description": "可以在SSR S卡必得扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-support-fix-nia-1",
+      "name": "N.I.A挑战SSR 支援卡必得扭蛋票据",
+      "description": "可以在N.I.A挑战SSR 支援卡必得扭蛋中使用的票据",
       "acquisitionRouteDescription": ""
     },
     {
@@ -816,6 +828,12 @@
       "acquisitionRouteDescription": "活动扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_kllj-3-012",
+      "name": "[Howling over the World]葛城莉莉娅的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_shro-1-000",
       "name": "[学园生活]篠泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -908,6 +926,12 @@
     {
       "id": "item-piece-idol_ssmk-3-010",
       "name": "[樱花相册]紫云清夏的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-012",
+      "name": "[Love & Joy]紫云清夏的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

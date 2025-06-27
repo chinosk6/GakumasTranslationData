@@ -194,6 +194,24 @@
       "name": "综合能力"
     },
     {
+      "helpCategoryId": "help-dearness-doost-campaign",
+      "id": "help-dearness-doost-campaign-info",
+      "order": 57,
+      "name": "亲密度强化活动"
+    },
+    {
+      "helpCategoryId": "help-dearness-map",
+      "id": "help-dearness-map-info",
+      "order": 56,
+      "name": "亲密度地图"
+    },
+    {
+      "helpCategoryId": "help-dearness-top",
+      "id": "help-dearness-top-info",
+      "order": 55,
+      "name": "亲密度TOP"
+    },
+    {
       "helpCategoryId": "help-event_mission",
       "id": "event_mission-event_mission",
       "order": 1,
@@ -305,7 +323,7 @@
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-highscorerush",
       "order": 1,
-      "name": "十王邦夫的偶像强化月・改介绍"
+      "name": "十王邦夫的偶像强化月"
     },
     {
       "helpCategoryId": "help-highscorerush",
@@ -383,7 +401,13 @@
       "helpCategoryId": "help-idol",
       "id": "idol-dearness",
       "order": 53,
-      "name": "亲爱度"
+      "name": "亲密度"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-dearness-pt",
+      "order": 54,
+      "name": "亲密度Pt"
     },
     {
       "helpCategoryId": "help-idol",
@@ -436,7 +460,7 @@
     {
       "helpCategoryId": "help-idol",
       "id": "idol-true-end-bonus",
-      "order": 54,
+      "order": 58,
       "name": "True End奖励"
     },
     {
@@ -546,6 +570,54 @@
       "id": "lesson-support",
       "order": 11,
       "name": "技能卡帮助"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-exchange",
+      "order": 5,
+      "name": "测试：help-livetour-event-exchange"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-finish",
+      "order": 9,
+      "name": "测试：help-livetour-event-finish"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-memory",
+      "order": 3,
+      "name": "测试：help-livetour-event-memory"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-mission",
+      "order": 7,
+      "name": "测试：help-livetour-event-mission"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-reward",
+      "order": 4,
+      "name": "测试：help-livetour-event-reward"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-rule",
+      "order": 1,
+      "name": "测试：help-livetour-event-rule"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-stage",
+      "order": 2,
+      "name": "测试：help-livetour-event-stage"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-story",
+      "order": 6,
+      "name": "测试：help-livetour-event-story"
     },
     {
       "helpCategoryId": "help-main-story-event",

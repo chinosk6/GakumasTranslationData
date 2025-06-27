@@ -192,8 +192,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 27,
       "title": "初星课题27",
-      "description": "让任意一位偶像的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让任意一位偶像的亲爱度Lv达到{threshold}吧"
+      "description": "让任意一位偶像的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让任意一位偶像的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -311,8 +311,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 44,
       "title": "初星课题44",
-      "description": "让任意一位偶像的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让任意一位偶像的亲爱度Lv达到{threshold}吧"
+      "description": "让任意一位偶像的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让任意一位偶像的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -416,8 +416,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 59,
       "title": "初星课题59",
-      "description": "让任意一位偶像的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让任意一位偶像的亲爱度Lv达到{threshold}吧"
+      "description": "让任意一位偶像的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让任意一位偶像的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -661,8 +661,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 34,
       "title": "P课题34",
-      "description": "在培育中通过最终考试吧\n【条件】：藤田琴音藤田琴音",
-      "homeDescription": "在培育中通过最终考试吧\n【条件】：藤田琴音藤田琴音"
+      "description": "在培育中通过最终考试吧\n【条件】：藤田琴音",
+      "homeDescription": "在培育中通过最终考试吧\n【条件】：藤田琴音"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -843,15 +843,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 60,
       "title": "P课题60",
-      "description": "让任意一位偶像的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让任意一位偶像的亲爱度Lv达到{threshold}吧"
+      "description": "让任意一位偶像的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让任意一位偶像的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 61,
       "title": "P课题51",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -899,8 +899,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 68,
       "title": "P课题68",
-      "description": "共计获得{threshold}名粉丝",
-      "homeDescription": "共计获得{threshold}名粉丝"
+      "description": "累计获得{threshold}名粉丝",
+      "homeDescription": "累计获得{threshold}名粉丝"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -920,8 +920,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 71,
       "title": "P课题71",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -990,8 +990,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 81,
       "title": "P课题81",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1025,8 +1025,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 86,
       "title": "P课题86",
-      "description": "共计获得{threshold}的培育评价吧",
-      "homeDescription": "共计获得{threshold}的培育评价吧"
+      "description": "累计获得{threshold}的培育评价吧",
+      "homeDescription": "累计获得{threshold}的培育评价吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1060,8 +1060,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 91,
       "title": "P课题91",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1123,8 +1123,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 100,
       "title": "P课题100",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1172,15 +1172,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 7,
       "title": "P课题2-7",
-      "description": "让十王星南的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让十王星南的亲爱度Lv达到{threshold}吧"
+      "description": "让十王星南的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让十王星南的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 8,
       "title": "P课题2-8",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1193,8 +1193,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 10,
       "title": "P课题2-10",
-      "description": "让十王星南的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让十王星南的亲爱度Lv达到{threshold}吧"
+      "description": "让十王星南的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让十王星南的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1207,8 +1207,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 12,
       "title": "P课题2-12",
-      "description": "让十王星南的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让十王星南的亲爱度Lv达到{threshold}吧"
+      "description": "让十王星南的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让十王星南的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1235,8 +1235,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 16,
       "title": "P课题2-16",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1277,8 +1277,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 22,
       "title": "P课题2-22",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1319,22 +1319,22 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 28,
       "title": "P课题2-28",
-      "description": "共计获得{threshold}名粉丝",
-      "homeDescription": "共计获得{threshold}名粉丝"
+      "description": "累计获得{threshold}名粉丝",
+      "homeDescription": "累计获得{threshold}名粉丝"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 29,
       "title": "P课题2-29",
-      "description": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像",
-      "homeDescription": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
+      "description": "在定期公演『初』：Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像",
+      "homeDescription": "在定期公演『初』：Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 30,
       "title": "P课题2-30",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1382,8 +1382,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 37,
       "title": "P课题2-37",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1396,78 +1396,78 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 39,
       "title": "P课题2-39",
-      "description": "让花海咲季的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让花海咲季的亲爱度Lv达到{threshold}吧"
+      "description": "让花海咲季的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让花海咲季的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 40,
       "title": "P课题2-40",
-      "description": "让月村手毬的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让月村手毬的亲爱度Lv达到{threshold}吧"
+      "description": "让月村手毬的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让月村手毬的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 41,
       "title": "P课题2-41",
-      "description": "让藤田琴音的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让藤田琴音的亲爱度Lv达到{threshold}吧"
+      "description": "让藤田琴音的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让藤田琴音的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 42,
       "title": "P课题2-42",
-      "description": "让有村麻央的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让有村麻央的亲爱度Lv达到{threshold}吧"
+      "description": "让有村麻央的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让有村麻央的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 43,
       "title": "P课题2-43",
-      "description": "让葛城莉莉娅的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让葛城莉莉娅的亲爱度Lv达到{threshold}吧"
+      "description": "让葛城莉莉娅的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让葛城莉莉娅的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 44,
       "title": "P课题2-44",
-      "description": "让仓本千奈的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让仓本千奈的亲爱度Lv达到{threshold}吧"
+      "description": "让仓本千奈的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让仓本千奈的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 45,
       "title": "P课题2-45",
-      "description": "让紫云清夏的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让紫云清夏的亲爱度Lv达到{threshold}吧"
+      "description": "让紫云清夏的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让紫云清夏的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 46,
       "title": "P课题2-46",
-      "description": "让篠泽广的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让篠泽广的亲爱度Lv达到{threshold}吧"
+      "description": "让篠泽广的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让篠泽广的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 47,
       "title": "P课题2-47",
-      "description": "让花海佑芽的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让花海佑芽的亲爱度Lv达到{threshold}吧"
+      "description": "让花海佑芽的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让花海佑芽的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 48,
       "title": "P课题2-48",
-      "description": "让姬崎莉波的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让姬崎莉波的亲爱度Lv达到{threshold}吧"
+      "description": "让姬崎莉波的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让姬崎莉波的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 49,
       "title": "P课题2-49",
-      "description": "让十王星南的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让十王星南的亲爱度Lv达到{threshold}吧"
+      "description": "让十王星南的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让十王星南的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1550,8 +1550,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 61,
       "title": "P课题51",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1571,8 +1571,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 64,
       "title": "P课题64",
-      "description": "共计获得{threshold}名粉丝",
-      "homeDescription": "共计获得{threshold}名粉丝"
+      "description": "累计获得{threshold}名粉丝",
+      "homeDescription": "累计获得{threshold}名粉丝"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1585,8 +1585,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 66,
       "title": "P课题66",
-      "description": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：感性的培育用偶像",
-      "homeDescription": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "description": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：感性的培育用偶像",
+      "homeDescription": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：感性的培育用偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1627,8 +1627,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 72,
       "title": "P课题72",
-      "description": "让任意一位偶像的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让任意一位偶像的亲爱度Lv达到{threshold}吧"
+      "description": "让任意一位偶像的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让任意一位偶像的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1669,15 +1669,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 78,
       "title": "P课题78",
-      "description": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：理性的培育用偶像",
-      "homeDescription": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：理性的培育用偶像"
+      "description": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：理性的培育用偶像",
+      "homeDescription": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：理性的培育用偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 79,
       "title": "P课题79",
-      "description": "共计获得{threshold}名粉丝",
-      "homeDescription": "共计获得{threshold}名粉丝"
+      "description": "累计获得{threshold}名粉丝",
+      "homeDescription": "累计获得{threshold}名粉丝"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1690,85 +1690,85 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 81,
       "title": "P课题81",
-      "description": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：异类的培育用偶像",
-      "homeDescription": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：异类的培育用偶像"
+      "description": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：异类的培育用偶像",
+      "homeDescription": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 82,
       "title": "P课题82",
-      "description": "让花海咲季的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让花海咲季的亲爱度Lv达到{threshold}吧"
+      "description": "让花海咲季的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让花海咲季的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 83,
       "title": "P课题83",
-      "description": "让月村手毬的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让月村手毬的亲爱度Lv达到{threshold}吧"
+      "description": "让月村手毬的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让月村手毬的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 84,
       "title": "P课题84",
-      "description": "让藤田琴音的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让藤田琴音的亲爱度Lv达到{threshold}吧"
+      "description": "让藤田琴音的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让藤田琴音的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 85,
       "title": "P课题85",
-      "description": "让有村麻央的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让有村麻央的亲爱度Lv达到{threshold}吧"
+      "description": "让有村麻央的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让有村麻央的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 86,
       "title": "P课题86",
-      "description": "让葛城莉莉娅的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让葛城莉莉娅的亲爱度Lv达到{threshold}吧"
+      "description": "让葛城莉莉娅的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让葛城莉莉娅的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 87,
       "title": "P课题87",
-      "description": "让仓本千奈的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让仓本千奈的亲爱度Lv达到{threshold}吧"
+      "description": "让仓本千奈的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让仓本千奈的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 88,
       "title": "P课题88",
-      "description": "让紫云清夏的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让紫云清夏的亲爱度Lv达到{threshold}吧"
+      "description": "让紫云清夏的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让紫云清夏的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 89,
       "title": "P课题89",
-      "description": "让篠泽广的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让篠泽广的亲爱度Lv达到{threshold}吧"
+      "description": "让篠泽广的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让篠泽广的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 90,
       "title": "P课题90",
-      "description": "让十王星南的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让十王星南的亲爱度Lv达到{threshold}吧"
+      "description": "让十王星南的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让十王星南的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 91,
       "title": "P课题91",
-      "description": "让花海佑芽的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让花海佑芽的亲爱度Lv达到{threshold}吧"
+      "description": "让花海佑芽的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让花海佑芽的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 92,
       "title": "P课题92",
-      "description": "让姬崎莉波的亲爱度Lv达到{threshold}吧",
-      "homeDescription": "让姬崎莉波的亲爱度Lv达到{threshold}吧"
+      "description": "让姬崎莉波的亲密度Lv达到{threshold}吧",
+      "homeDescription": "让姬崎莉波的亲密度Lv达到{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1781,8 +1781,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 94,
       "title": "P课题94",
-      "description": "在偶像之路上共计获得{threshold}颗以上的★吧",
-      "homeDescription": "在偶像之路上共计获得{threshold}颗以上的★吧"
+      "description": "在偶像之路上累计获得{threshold}颗以上的★吧",
+      "homeDescription": "在偶像之路上累计获得{threshold}颗以上的★吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",

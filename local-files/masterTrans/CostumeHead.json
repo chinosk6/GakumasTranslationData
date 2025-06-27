@@ -13,7 +13,7 @@
     {
       "id": "costume_head_amao-casl-0001",
       "name": "真实的我",
-      "description": "有村麻央的亲爱度Lv达到10"
+      "description": "有村麻央的亲密度Lv达到10"
     },
     {
       "id": "costume_head_amao-cstm-0004",
@@ -63,17 +63,17 @@
     {
       "id": "costume_head_amao-hair-0000",
       "name": "真实的萤石",
-      "description": "有村麻央的亲爱度Lv达到10"
+      "description": "有村麻央的亲密度Lv达到10"
     },
     {
       "id": "costume_head_amao-hair-0001",
       "name": "紫阳花发饰",
-      "description": "高级任务通行证 2024年6月 获得"
+      "description": "高级任务通行证 2024年6月 等方式获得"
     },
     {
       "id": "costume_head_amao-hair-0002",
       "name": "公主皇冠",
-      "description": "有村麻央的偶像之路第20关通过"
+      "description": "有村麻央的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_amao-hair-0003",
@@ -153,17 +153,17 @@
     {
       "id": "costume_head_fktn-cstm-0072",
       "name": "黄金光辉",
-      "description": "藤田琴音的偶像之路第10关通过"
+      "description": "藤田琴音的偶像之路 通关第10关"
     },
     {
       "id": "costume_head_fktn-cstm-0073",
       "name": "白金光辉",
-      "description": "藤田琴音的偶像之路第15关通过"
+      "description": "藤田琴音的偶像之路 通关第15关"
     },
     {
       "id": "costume_head_fktn-cstm-0110",
       "name": "漆黑的光芒",
-      "description": "藤田琴音的偶像之路第25关通过"
+      "description": "藤田琴音的偶像之路 通关第25关"
     },
     {
       "id": "costume_head_fktn-cstm-0112",
@@ -178,12 +178,12 @@
     {
       "id": "costume_head_fktn-hair-0001",
       "name": "紫阳花发饰",
-      "description": "高级任务通行证 2024年5月 获得"
+      "description": "高级任务通行证 2024年5月 等方式获得"
     },
     {
       "id": "costume_head_fktn-hair-0002",
       "name": "公主皇冠",
-      "description": "藤田琴音的偶像之路第20关通过"
+      "description": "藤田琴音的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_fktn-hair-0003",
@@ -219,6 +219,11 @@
       "id": "costume_head_hmsz-hair-0001",
       "name": "紫阳花发饰",
       "description": "购买紫阳花发饰（秦谷美铃）"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0002",
+      "name": "公主皇冠",
+      "description": "秦谷美铃的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_hmsz-hair-0003",
@@ -308,17 +313,17 @@
     {
       "id": "costume_head_hrnm-cstm-0072",
       "name": "黄金光辉",
-      "description": "姬崎莉波的偶像之路第10关通过"
+      "description": "姬崎莉波的偶像之路 通关第10关"
     },
     {
       "id": "costume_head_hrnm-cstm-0073",
       "name": "白金光辉",
-      "description": "姬崎莉波的偶像之路第15关通过"
+      "description": "姬崎莉波的偶像之路 通关第15关"
     },
     {
       "id": "costume_head_hrnm-cstm-0110",
       "name": "漆黑的光芒",
-      "description": "姬崎莉波的偶像之路第25关通过"
+      "description": "姬崎莉波的偶像之路 通关第25关"
     },
     {
       "id": "costume_head_hrnm-hair-0001",
@@ -328,7 +333,7 @@
     {
       "id": "costume_head_hrnm-hair-0002",
       "name": "公主皇冠",
-      "description": "姬崎莉波的偶像之路第20关通过"
+      "description": "姬崎莉波的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_hrnm-hair-0003",
@@ -403,12 +408,12 @@
     {
       "id": "costume_head_hski-cstm-0072",
       "name": "黄金光辉",
-      "description": "花海咲季的偶像之路第10关通过"
+      "description": "花海咲季的偶像之路 通关第10关"
     },
     {
       "id": "costume_head_hski-cstm-0073",
       "name": "白金光辉",
-      "description": "花海咲季的偶像之路第15关通过"
+      "description": "花海咲季的偶像之路 通关第15关"
     },
     {
       "id": "costume_head_hski-cstm-0079",
@@ -418,7 +423,7 @@
     {
       "id": "costume_head_hski-cstm-0110",
       "name": "漆黑的光芒",
-      "description": "花海咲季的偶像之路第25关通过"
+      "description": "花海咲季的偶像之路 通关第25关"
     },
     {
       "id": "costume_head_hski-cstm-0112",
@@ -433,12 +438,12 @@
     {
       "id": "costume_head_hski-hair-0001",
       "name": "紫阳花发饰",
-      "description": "高级任务通行证 2024年5月 获得"
+      "description": "高级任务通行证 2024年5月 等方式获得"
     },
     {
       "id": "costume_head_hski-hair-0002",
       "name": "公主皇冠",
-      "description": "花海咲季的偶像之路第20关通过"
+      "description": "花海咲季的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_hski-hair-0003",
@@ -513,17 +518,17 @@
     {
       "id": "costume_head_hume-cstm-0072",
       "name": "黄金光辉",
-      "description": "花海佑芽的偶像之路第10关通过"
+      "description": "花海佑芽的偶像之路 通关第10关"
     },
     {
       "id": "costume_head_hume-cstm-0073",
       "name": "白金光辉",
-      "description": "花海佑芽的偶像之路第15关通过"
+      "description": "花海佑芽的偶像之路 通关第15关"
     },
     {
       "id": "costume_head_hume-cstm-0110",
       "name": "漆黑的光芒",
-      "description": "花海佑芽的偶像之路第25关通过"
+      "description": "花海佑芽的偶像之路 通关第25关"
     },
     {
       "id": "costume_head_hume-hair-0001",
@@ -533,7 +538,7 @@
     {
       "id": "costume_head_hume-hair-0002",
       "name": "公主皇冠",
-      "description": "花海佑芽的偶像之路第20关通过"
+      "description": "花海佑芽的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_hume-hair-0003",
@@ -603,7 +608,7 @@
     {
       "id": "costume_head_jsna-hair-0002",
       "name": "公主皇冠",
-      "description": "十王星南的偶像之路第20关通过"
+      "description": "十王星南的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_jsna-hair-0003",
@@ -698,7 +703,7 @@
     {
       "id": "costume_head_kcna-hair-0002",
       "name": "公主皇冠",
-      "description": "仓本千奈的偶像之路第20关通过"
+      "description": "仓本千奈的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_kcna-hair-0003",
@@ -771,6 +776,16 @@
       "description": "【白線】'24万圣节 葛城莉莉娅 获得"
     },
     {
+      "id": "costume_head_kllj-cstm-0116",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】葛城莉莉娅 获得"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0117",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】葛城莉莉娅的才能开花第4阶段 获得"
+    },
+    {
       "id": "costume_head_kllj-hair-0001",
       "name": "紫阳花发饰",
       "description": "高级任务通行证 2024年7月 获得"
@@ -778,7 +793,7 @@
     {
       "id": "costume_head_kllj-hair-0002",
       "name": "公主皇冠",
-      "description": "葛城莉莉娅的偶像之路第20关通过"
+      "description": "葛城莉莉娅的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_kllj-hair-0003",
@@ -853,12 +868,12 @@
     {
       "id": "costume_head_shro-hair-0001",
       "name": "紫阳花发饰",
-      "description": "高级任务通行证 2024年6月 获得"
+      "description": "高级任务通行证 2024年6月 等方式获得"
     },
     {
       "id": "costume_head_shro-hair-0002",
       "name": "公主皇冠",
-      "description": "篠泽广的偶像之路第20关通过"
+      "description": "篠泽广的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_shro-hair-0003",
@@ -926,14 +941,24 @@
       "description": "【樱花相册】紫云清夏 获得"
     },
     {
+      "id": "costume_head_ssmk-cstm-0096",
+      "name": "爱与快乐",
+      "description": "【Love & Joy】紫云清夏 获得"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0097",
+      "name": "爱与快乐",
+      "description": "【Love & Joy】紫云清夏的才能开花第4阶段 获得"
+    },
+    {
       "id": "costume_head_ssmk-hair-0001",
       "name": "紫阳花发饰",
-      "description": "高级任务通行证 2024年6月 获得"
+      "description": "高级任务通行证 2024年6月 等方式获得"
     },
     {
       "id": "costume_head_ssmk-hair-0002",
       "name": "公主皇冠",
-      "description": "紫云清夏的偶像之路第20关通过"
+      "description": "紫云清夏的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_ssmk-hair-0003",
@@ -949,6 +974,11 @@
       "id": "costume_head_ssmk-hair-0006",
       "name": "初星☆配饰",
       "description": "高级任务通行证 2025年4月 获得"
+    },
+    {
+      "id": "costume_head_ssmk-hair-0010",
+      "name": "Love & Joy（通常妆容）",
+      "description": "【Love & Joy】紫云清夏 获得"
     },
     {
       "id": "costume_head_ssmk-schl-0000",
@@ -998,17 +1028,17 @@
     {
       "id": "costume_head_ttmr-cstm-0072",
       "name": "黄金光辉",
-      "description": "月村手毬的偶像之路第10关通过"
+      "description": "月村手毬的偶像之路 通关第10关"
     },
     {
       "id": "costume_head_ttmr-cstm-0073",
       "name": "白金光辉",
-      "description": "月村手毬的偶像之路第15关通过"
+      "description": "月村手毬的偶像之路 通关第15关"
     },
     {
       "id": "costume_head_ttmr-cstm-0110",
       "name": "漆黑的光芒",
-      "description": "月村手毬的偶像之路第25关通过"
+      "description": "月村手毬的偶像之路 通关第25关"
     },
     {
       "id": "costume_head_ttmr-cstm-0112",
@@ -1023,12 +1053,12 @@
     {
       "id": "costume_head_ttmr-hair-0001",
       "name": "紫阳花发饰",
-      "description": "高级任务通行证 2024年5月 获得"
+      "description": "高级任务通行证 2024年5月 等方式获得"
     },
     {
       "id": "costume_head_ttmr-hair-0002",
       "name": "公主皇冠",
-      "description": "月村手毬的偶像之路第20关通过"
+      "description": "月村手毬的偶像之路 通关第20关"
     },
     {
       "id": "costume_head_ttmr-hair-0003",

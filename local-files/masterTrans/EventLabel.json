@@ -40,6 +40,10 @@
     {
       "eventType": "EventType_GvgRaid",
       "name": "地方巡演"
+    },
+    {
+      "eventType": "EventType_DearnessBoost",
+      "name": "亲密度强化活动"
     }
   ]
 }

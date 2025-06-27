@@ -239,22 +239,22 @@
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "打分上升回数增加"
+      "text": "打分上升次数增加"
     },
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分上升回数增加"
+      "text": "得分上升次数增加"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "打分上升回数减少"
+      "text": "打分上升次数减少"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分上升回数减少"
+      "text": "得分上升次数减少"
     },
     {
       "id": "Swap_Label_LessonReduce",
