@@ -108,6 +108,12 @@
       "acquisitionRouteDescription": "金币兑换所等方式"
     },
     {
+      "id": "item-dearness-unlock-ssmk",
+      "name": "清夏的记录之钥",
+      "description": "解锁紫云清夏STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
       "id": "item-friend_coin",
       "name": "好友硬币",
       "description": "可以在好友扭蛋中使用的硬币",
@@ -372,6 +378,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-medal-story-event-007",
+      "name": "友情优惠券",
+      "description": "可以在活动兑换所交换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-medal-story-event-013",
       "name": "修学旅行的土特产",
       "description": "可以在活动兑换所交换各式报酬的道具",
@@ -516,6 +528,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hmsz-1-001",
+      "name": "[初阵]秦谷美铃的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hmsz-2-000",
       "name": "[慢慢地，一步一步来]秦谷美铃的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -524,6 +542,12 @@
     {
       "id": "item-piece-idol_hmsz-3-000",
       "name": "[月之龟]秦谷美铃的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-005",
+      "name": "[Campus mode!!]秦谷美铃的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -654,6 +678,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hume-1-001",
+      "name": "[初阵]花海佑芽的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hume-2-000",
       "name": "[偶像，开始！]花海佑芽的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -680,6 +710,12 @@
     {
       "id": "item-piece-idol_jsna-1-000",
       "name": "[学园生活]十王星南的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_jsna-1-001",
+      "name": "[初阵]十王星南的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -835,7 +871,7 @@
     },
     {
       "id": "item-piece-idol_shro-1-000",
-      "name": "[学园生活]篠泽广的碎片",
+      "name": "[学园生活]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -853,31 +889,31 @@
     },
     {
       "id": "item-piece-idol_shro-3-000",
-      "name": "[光景]篠泽广的碎片",
+      "name": "[光景]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-001",
-      "name": "[反差]篠泽广的碎片",
+      "name": "[反差]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-002",
-      "name": "[变装狂想曲]篠泽广的碎片",
+      "name": "[变装狂想曲]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-007",
-      "name": "[Campus mode!!]篠泽广的碎片",
+      "name": "[Campus mode!!]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-008",
-      "name": "[幸福千层酥]篠泽广的碎片",
+      "name": "[幸福千层酥]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "活动扭蛋等方式"
     },

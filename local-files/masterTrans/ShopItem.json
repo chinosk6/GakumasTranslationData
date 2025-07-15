@@ -15,7 +15,7 @@
     },
     {
       "id": "shop_costume_costume_head_amao-hair-0001",
-      "name": "紫阳花发饰(有村麻央)"
+      "name": "紫阳花发饰（有村麻央）"
     },
     {
       "id": "shop_costume_costume_head_fktn-hair-0001",
@@ -38,6 +38,10 @@
       "name": "初星☆配饰（秦谷美铃）"
     },
     {
+      "id": "shop_costume_costume_head_hrnm-hair-0001",
+      "name": "紫阳花发饰（姬崎莉波）"
+    },
+    {
       "id": "shop_costume_costume_head_hski-hair-0001",
       "name": "紫阳花发饰（花海咲季）"
     },
@@ -54,12 +58,20 @@
       "name": "圆框眼镜（十王星南）"
     },
     {
+      "id": "shop_costume_costume_head_kcna-hair-0001",
+      "name": "紫阳花发饰（仓本千奈）"
+    },
+    {
+      "id": "shop_costume_costume_head_kllj-hair-0001",
+      "name": "紫阳花发饰（葛城莉莉娅）"
+    },
+    {
       "id": "shop_costume_costume_head_shro-hair-0001",
-      "name": "紫阳花发饰(篠泽广)"
+      "name": "紫阳花发饰（筱泽广）"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0001",
-      "name": "紫阳花发饰(紫云清夏)"
+      "name": "紫阳花发饰（紫云清夏）"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -159,11 +171,11 @@
     },
     {
       "id": "shop_costume_shro-cstm-0069_revival-1",
-      "name": "儿童罩衫（篠泽广）"
+      "name": "儿童罩衫（筱泽广）"
     },
     {
       "id": "shop_costume_shro-trng-0002",
-      "name": "初星学园体操服（篠泽广）"
+      "name": "初星学园体操服（筱泽广）"
     },
     {
       "id": "shop_costume_ssmk-cstm-0069_revival-1",
@@ -255,6 +267,10 @@
     },
     {
       "id": "shop_jewel_item-0021",
+      "name": "【仅限1次优惠！】宝石6000个"
+    },
+    {
+      "id": "shop_jewel_item-0023",
       "name": "【仅限1次优惠！】宝石6000个"
     },
     {
@@ -403,7 +419,7 @@
     },
     {
       "id": "shop_pack_item-onsen-costume-shro",
-      "name": "温泉泳装（篠泽广）"
+      "name": "温泉泳装（筱泽广）"
     },
     {
       "id": "shop_pack_item-onsen-costume-ssmk",
@@ -476,6 +492,10 @@
     {
       "id": "shop_pass_item-0014",
       "name": "高级任务通行证 2025年6月"
+    },
+    {
+      "id": "shop_pass_item-0015",
+      "name": "高级任务通行证 2025年7月"
     }
   ]
 }

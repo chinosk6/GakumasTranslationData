@@ -44,6 +44,10 @@
     {
       "id": "pvp.rate.support_bonus.sheet.description",
       "description": "专用于竞技场/偶像之路的\\n得分加成。"
+    },
+    {
+      "id": "voice.idol_use_produce_card",
+      "description": "使用P偶像固有技能卡"
     }
   ]
 }

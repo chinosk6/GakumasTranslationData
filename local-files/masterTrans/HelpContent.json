@@ -814,8 +814,14 @@
     {
       "helpCategoryId": "help-mission",
       "id": "mission-event",
-      "order": 6,
+      "order": 7,
       "name": "活动任务"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-idol",
+      "order": 6,
+      "name": "偶像任务"
     },
     {
       "helpCategoryId": "help-mission",
@@ -832,7 +838,7 @@
     {
       "helpCategoryId": "help-mission",
       "id": "mission-pass",
-      "order": 7,
+      "order": 8,
       "name": "任务通行证"
     },
     {

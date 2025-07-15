@@ -1443,6 +1443,21 @@
       ]
     },
     {
+      "id": "p_card_search-playing-p_card-02-men-2_052",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-2_052",
+          "text": "日光浴"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-playing-p_card-03-men-1_049",
       "produceDescriptions": [
         {
@@ -1914,6 +1929,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "效果的技能卡"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-idol-unique",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "偶像固有技能卡"
         }
       ]
     },
