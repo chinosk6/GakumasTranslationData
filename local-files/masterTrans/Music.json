@@ -1423,8 +1423,8 @@
     },
     {
       "id": "music-char-hmsz-001-inst",
-      "title": "月之龟 [instrumental]",
-      "displayTitle": "月之龟 [instrumental]",
+      "title": "月之龟 [Instrumental]",
+      "displayTitle": "月之龟 [Instrumental]",
       "lyrics": "ミフメイ（Bandai Namco Studios Inc.）",
       "composer": "ミフメイ（Bandai Namco Studios Inc.）",
       "arranger": "ミフメイ（Bandai Namco Studios Inc.）"
@@ -1670,6 +1670,22 @@
       "arranger": "高木龍一(Dream Monster)"
     },
     {
+      "id": "music-char-kcna-005",
+      "title": "心跳不已的唱名法",
+      "displayTitle": "心跳不已的唱名法",
+      "lyrics": "Cocoro. (Dream Monster)",
+      "composer": "田熊知存 (Dream Monster)",
+      "arranger": "田熊知存 (Dream Monster)"
+    },
+    {
+      "id": "music-char-kcna-005-inst",
+      "title": "心跳不已的唱名法 [Instrumental]",
+      "displayTitle": "心跳不已的唱名法 [Instrumental]",
+      "lyrics": "Cocoro. (Dream Monster)",
+      "composer": "田熊知存 (Dream Monster)",
+      "arranger": "田熊知存 (Dream Monster)"
+    },
+    {
       "id": "music-char-kllj-001",
       "title": "白线",
       "displayTitle": "",
@@ -1718,6 +1734,22 @@
       "arranger": "アッシュ井上(Dream Monster)、田中透真 (Dream Monster)"
     },
     {
+      "id": "music-char-kllj-005",
+      "title": "Fragile Heart",
+      "displayTitle": "Fragile Heart",
+      "lyrics": "アッシュ井上 (Dream Monster)",
+      "composer": "アッシュ井上 (Dream Monster)",
+      "arranger": "アッシュ井上 (Dream Monster)"
+    },
+    {
+      "id": "music-char-kllj-005-inst",
+      "title": "Fragile Heart [Instrumental]",
+      "displayTitle": "Fragile Heart [Instrumental]",
+      "lyrics": "アッシュ井上 (Dream Monster)",
+      "composer": "アッシュ井上 (Dream Monster)",
+      "arranger": "アッシュ井上 (Dream Monster)"
+    },
+    {
       "id": "music-char-shro-001",
       "title": "光景",
       "displayTitle": "",
@@ -1764,6 +1796,22 @@
       "lyrics": "フロクロ",
       "composer": "フロクロ",
       "arranger": "フロクロ"
+    },
+    {
+      "id": "music-char-shro-004",
+      "title": "褪色",
+      "displayTitle": "褪色",
+      "lyrics": "長谷川白紙",
+      "composer": "長谷川白紙",
+      "arranger": "長谷川白紙"
+    },
+    {
+      "id": "music-char-shro-004-inst",
+      "title": "褪色 [Instrumental]",
+      "displayTitle": "褪色 [Instrumental]",
+      "lyrics": "長谷川白紙",
+      "composer": "長谷川白紙",
+      "arranger": "長谷川白紙"
     },
     {
       "id": "music-char-ssmk-001",
@@ -1824,7 +1872,7 @@
     {
       "id": "music-char-ssmk-004-inst",
       "title": "Love & Joy [Instrumental]",
-      "displayTitle": "Love & Joy",
+      "displayTitle": "Love & Joy [Instrumental]",
       "lyrics": "東 優太",
       "composer": "原 一博",
       "arranger": "原 一博"
@@ -1887,11 +1935,27 @@
     },
     {
       "id": "music-char-ttmr-005-inst",
-      "title": "Unhappy Light[Instrumental]",
-      "displayTitle": "Unhappy Light[Instrumental]",
+      "title": "Unhappy Light [Instrumental]",
+      "displayTitle": "Unhappy Light [Instrumental]",
       "lyrics": "Aira (Dream Monster)",
       "composer": "Aira (Dream Monster)",
       "arranger": "Aira (Dream Monster)"
+    },
+    {
+      "id": "music-unit-begrazia-002",
+      "title": "Star-mine",
+      "displayTitle": "Star-mine",
+      "lyrics": "じん",
+      "composer": "じん",
+      "arranger": "じん"
+    },
+    {
+      "id": "music-unit-begrazia-002 -inst",
+      "title": "Star-mine [Instrumental]",
+      "displayTitle": "Star-mine [Instrumental]",
+      "lyrics": "じん",
+      "composer": "じん",
+      "arranger": "じん"
     },
     {
       "id": "music-unit-reiris-001",

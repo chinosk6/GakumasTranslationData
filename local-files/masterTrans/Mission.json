@@ -6,6 +6,38 @@
   },
   "data": [
     {
+      "id": "dearness_event_shro-001",
+      "name": "将筱泽广的歌唱培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_shro-002",
+      "name": "在筱泽广的培育中选择{threshold}次外出"
+    },
+    {
+      "id": "dearness_event_shro-003",
+      "name": "在筱泽广的培育中选择{threshold}次咨询"
+    },
+    {
+      "id": "dearness_event_shro-004",
+      "name": "在筱泽广的培育中选择{threshold}次营业"
+    },
+    {
+      "id": "dearness_event_shro-005",
+      "name": "在筱泽广的培育中选择{threshold}次慰问品"
+    },
+    {
+      "id": "dearness_event_shro-006",
+      "name": "筱泽广通过{threshold}次歌唱课程"
+    },
+    {
+      "id": "dearness_event_shro-007",
+      "name": "在筱泽广的培育中选择{threshold}次特别指导"
+    },
+    {
+      "id": "dearness_event_shro-008",
+      "name": "筱泽广通过最终考试并获得{threshold}次SS以上评价"
+    },
+    {
       "id": "dearness_event_ssmk-001",
       "name": "将紫云清夏的舞蹈培养至1800以上并完成培育"
     },
@@ -38,24 +70,44 @@
       "name": "紫云清夏通过最终考试并获得SS以上评价{threshold}次"
     },
     {
+      "id": "dearness_normal-mission_shro-001",
+      "name": "将筱泽广的歌唱培养至2000以上并完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_shro-002",
+      "name": "在筱泽广的培育中累计使用{threshold}次技能卡"
+    },
+    {
+      "id": "dearness_normal-mission_shro-003",
+      "name": "在筱泽广的培育中强化{threshold}次技能卡"
+    },
+    {
+      "id": "dearness_normal-mission_shro-004",
+      "name": "筱泽广通过最终考试并获得{threshold}次SS以上评价"
+    },
+    {
+      "id": "dearness_normal-mission_shro-005",
+      "name": "在筱泽广的培育中自定义{threshold}次技能卡"
+    },
+    {
       "id": "dearness_normal-mission_ssmk-001",
       "name": "将紫云清夏的舞蹈培养至2000以上并完成培育"
     },
     {
       "id": "dearness_normal-mission_ssmk-002",
-      "name": "在紫云清夏的培育中累计使用技能卡{threshold}次"
+      "name": "在紫云清夏的培育中累计使用{threshold}次技能卡"
     },
     {
       "id": "dearness_normal-mission_ssmk-003",
-      "name": "在紫云清夏的培育中强化技能卡{threshold}次"
+      "name": "在紫云清夏的培育中强化{threshold}次技能卡"
     },
     {
       "id": "dearness_normal-mission_ssmk-004",
-      "name": "紫云清夏通过最终考试并获得SS以上评价{threshold}次"
+      "name": "紫云清夏通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "dearness_normal-mission_ssmk-005",
-      "name": "在紫云清夏的培育中自定义技能卡{threshold}次"
+      "name": "在紫云清夏的培育中自定义{threshold}次技能卡"
     },
     {
       "id": "hidden_mission-app-review-main-task-clear",
@@ -1079,7 +1131,7 @@
     },
     {
       "id": "mission-highscore-event-001-mission_14",
-      "name": "将筱泽广的歌唱培养到1000以上并完成培育"
+      "name": "将筱泽广的歌唱能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_14_1",
@@ -1119,7 +1171,7 @@
     },
     {
       "id": "mission-highscore-event-002-mission_12",
-      "name": "将仓本千奈的舞蹈培养到1000以上并完成培育"
+      "name": "将仓本千奈的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_12_1",
@@ -1623,6 +1675,106 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_11",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_12",
+      "name": "将筱泽广的歌唱能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_13",
+      "name": "在筱泽广的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_14",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_21",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_22",
+      "name": "将仓本千奈的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_23",
+      "name": "在筱泽广的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_24",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_31",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_32",
+      "name": "筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_33",
+      "name": "在筱泽广的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_34",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_41",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_42",
+      "name": "筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_43",
+      "name": "在筱泽广的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_44",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_51",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_52",
+      "name": "筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_53",
+      "name": "在筱泽广的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_54",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-003-mission_56",
       "name": "通关第5天的全部任务"
     },
     {
@@ -3543,7 +3695,7 @@
     },
     {
       "id": "mission-story-event-007-mission_3",
-      "name": "累计获得{threshold}的培育评价吧"
+      "name": "累计获得{threshold}培育评价"
     },
     {
       "id": "mission-story-event-007-mission_4",
@@ -3555,7 +3707,31 @@
     },
     {
       "id": "mission-story-event-007-mission_6",
-      "name": "去完成{threshold}次SP课程吧"
+      "name": "完成{threshold}次SP课程"
+    },
+    {
+      "id": "mission-story-event-008-mission_1",
+      "name": "登录{threshold}天"
+    },
+    {
+      "id": "mission-story-event-008-mission_2",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-story-event-008-mission_3",
+      "name": "累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-story-event-008-mission_4",
+      "name": "在培育的咨询中兑换{threshold}次"
+    },
+    {
+      "id": "mission-story-event-008-mission_5",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-story-event-008-mission_6",
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-story-event-013-mission_1",
@@ -4234,6 +4410,30 @@
       "name": "【Campus mode!!】秦谷美铃的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-hmsz-3-010-01",
+      "name": "【Star-mine】秦谷美铃的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-010-02",
+      "name": "【Star-mine】秦谷美铃的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-010-03",
+      "name": "【Star-mine】秦谷美铃的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-010-04",
+      "name": "【Star-mine】秦谷美铃的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-010-05",
+      "name": "【Star-mine】秦谷美铃的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-010-06",
+      "name": "【Star-mine】秦谷美铃的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-hrnm-2-000-04",
       "name": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
@@ -4666,6 +4866,30 @@
       "name": "【Campus mode!!】花海佑芽的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-hume-3-012-01",
+      "name": "【Star-mine】花海佑芽的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-hume-3-012-02",
+      "name": "【Star-mine】花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hume-3-012-03",
+      "name": "【Star-mine】花海佑芽的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hume-3-012-04",
+      "name": "【Star-mine】花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hume-3-012-05",
+      "name": "【Star-mine】花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hume-3-012-06",
+      "name": "【Star-mine】花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-jsna-2-000-01",
       "name": "【一番星】十王星南的培育中通过了最终考试"
     },
@@ -4784,6 +5008,30 @@
     {
       "id": "achieve-i_card-jsna-3-006-06",
       "name": "【Our Chant】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-011-01",
+      "name": "【Star-mine】十王星南的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-011-02",
+      "name": "【Star-mine】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-011-03",
+      "name": "【Star-mine】十王星南的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-011-04",
+      "name": "【Star-mine】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-011-05",
+      "name": "【Star-mine】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-011-06",
+      "name": "【Star-mine】十王星南的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-kcna-2-000-04",
@@ -5240,6 +5488,30 @@
     {
       "id": "achieve-i_card-shro-3-008-06",
       "name": "【幸福千层酥】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-012-01",
+      "name": "【褪色】筱泽广的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-shro-3-012-02",
+      "name": "【褪色】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-012-03",
+      "name": "【褪色】筱泽广的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-shro-3-012-04",
+      "name": "【褪色】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-012-05",
+      "name": "【褪色】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-012-06",
+      "name": "【褪色】筱泽广的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
@@ -6727,7 +6999,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-014",
-      "name": "将仓本千奈的舞蹈培养到1000以上并完成培育"
+      "name": "将仓本千奈的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-kcna-015",
@@ -6911,7 +7183,7 @@
     },
     {
       "id": "achieve-p_idol-shro-014",
-      "name": "将筱泽广的歌唱培养到1000以上并完成培育"
+      "name": "将筱泽广的歌唱能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-shro-015",
@@ -7251,7 +7523,7 @@
     },
     {
       "id": "main_task_group-01-01#30",
-      "name": "在培育中挑战获得C+以上的评价吧"
+      "name": "在培育中挑战获得C+以上的评价"
     },
     {
       "id": "main_task_group-01-01#31",
@@ -7267,7 +7539,7 @@
     },
     {
       "id": "main_task_group-01-01#34",
-      "name": "在培育中挑战获得C+以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在培育中挑战获得C+以上的评价\n【条件】方案：感性的培育用偶像"
     },
     {
       "id": "main_task_group-01-01#35",
@@ -7279,7 +7551,7 @@
     },
     {
       "id": "main_task_group-01-01#37",
-      "name": "在培育中挑战获得C+以上的评价吧\n【条件】方案：理性的培育用偶像"
+      "name": "在培育中挑战获得C+以上的评价\n【条件】方案：理性的培育用偶像"
     },
     {
       "id": "main_task_group-01-01#38",
@@ -7327,11 +7599,11 @@
     },
     {
       "id": "main_task_group-01-01#49",
-      "name": "在培育中挑战获得B以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在培育中挑战获得B以上的评价\n【条件】方案：感性的培育用偶像"
     },
     {
       "id": "main_task_group-01-01#50",
-      "name": "在培育中挑战获得B以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在培育中挑战获得B以上的评价\n【条件】方案：感性的培育用偶像"
     },
     {
       "id": "main_task_group-01-01#51",
@@ -7411,7 +7683,7 @@
     },
     {
       "id": "main_task_group-02-01#10",
-      "name": "在培育中挑战获得B+以上的评价吧"
+      "name": "在培育中挑战获得B+以上的评价"
     },
     {
       "id": "main_task_group-02-01#11",
@@ -7423,11 +7695,11 @@
     },
     {
       "id": "main_task_group-02-01#13",
-      "name": "在培育中挑战获得B+以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在培育中挑战获得B+以上的评价\n【条件】方案：感性的培育用偶像"
     },
     {
       "id": "main_task_group-02-01#14",
-      "name": "在培育中挑战获得B+以上的评价吧\n【条件】方案：理性的培育用偶像"
+      "name": "在培育中挑战获得B+以上的评价\n【条件】方案：理性的培育用偶像"
     },
     {
       "id": "main_task_group-02-01#15",
@@ -7575,7 +7847,7 @@
     },
     {
       "id": "main_task_group-02-01#51",
-      "name": "在培育中挑战获得A以上的评价吧"
+      "name": "在培育中挑战获得A以上的评价"
     },
     {
       "id": "main_task_group-02-01#52",
@@ -7587,11 +7859,11 @@
     },
     {
       "id": "main_task_group-02-01#54",
-      "name": "在培育中挑战获得A以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在培育中挑战获得A以上的评价\n【条件】方案：感性的培育用偶像"
     },
     {
       "id": "main_task_group-02-01#55",
-      "name": "在培育中挑战获得A以上的评价吧\n【条件】方案：理性的培育用偶像"
+      "name": "在培育中挑战获得A以上的评价\n【条件】方案：理性的培育用偶像"
     },
     {
       "id": "main_task_group-02-01#56",
@@ -7619,7 +7891,7 @@
     },
     {
       "id": "main_task_group-02-01#62",
-      "name": "在培育中挑战获得A以上的评价吧"
+      "name": "在培育中挑战获得A以上的评价"
     },
     {
       "id": "main_task_group-02-01#63",
@@ -7635,11 +7907,11 @@
     },
     {
       "id": "main_task_group-02-01#66",
-      "name": "在培育中挑战获得A以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在培育中挑战获得A以上的评价\n【条件】方案：感性的培育用偶像"
     },
     {
       "id": "main_task_group-02-01#67",
-      "name": "在培育中挑战获得A以上的评价吧\n【条件】方案：理性的培育用偶像"
+      "name": "在培育中挑战获得A以上的评价\n【条件】方案：理性的培育用偶像"
     },
     {
       "id": "main_task_group-02-01#68",
@@ -7679,11 +7951,11 @@
     },
     {
       "id": "main_task_group-02-01#77",
-      "name": "让筱泽广在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让筱泽广在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#78",
-      "name": "让仓本千奈在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让仓本千奈在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#79",
@@ -7699,11 +7971,11 @@
     },
     {
       "id": "main_task_group-02-01#82",
-      "name": "让葛城莉莉娅在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让葛城莉莉娅在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#83",
-      "name": "让紫云清夏在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让紫云清夏在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#84",
@@ -7723,11 +7995,11 @@
     },
     {
       "id": "main_task_group-02-01#88",
-      "name": "让有村麻央在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让有村麻央在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#89",
-      "name": "让姬崎莉波在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让姬崎莉波在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#90",
@@ -7739,11 +8011,11 @@
     },
     {
       "id": "main_task_group-02-01#92",
-      "name": "让月村手毬在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让月村手毬在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#93",
-      "name": "让藤田琴音在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让藤田琴音在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#94",
@@ -7759,11 +8031,11 @@
     },
     {
       "id": "main_task_group-02-01#97",
-      "name": "让花海咲季在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让花海咲季在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#98",
-      "name": "让花海佑芽在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让花海佑芽在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-02-01#99",
@@ -7843,7 +8115,7 @@
     },
     {
       "id": "main_task_group-03-01#18",
-      "name": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价"
     },
     {
       "id": "main_task_group-03-01#19",
@@ -7907,7 +8179,7 @@
     },
     {
       "id": "main_task_group-03-01#34",
-      "name": "在培育中挑战获得A+以上的评价吧"
+      "name": "在培育中挑战获得A+以上的评价"
     },
     {
       "id": "main_task_group-03-01#35",
@@ -7971,7 +8243,7 @@
     },
     {
       "id": "main_task_group-03-01#50",
-      "name": "在培育中挑战获得S以上的评价吧"
+      "name": "在培育中挑战获得S以上的评价"
     },
     {
       "id": "main_task_group-03-01#51",
@@ -8035,7 +8307,7 @@
     },
     {
       "id": "main_task_group-03-01#66",
-      "name": "在N.I.A中最终试镜合格并达成S以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在N.I.A中最终试镜合格并达成S以上的评价\n【条件】方案：感性的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#67",
@@ -8083,7 +8355,7 @@
     },
     {
       "id": "main_task_group-03-01#78",
-      "name": "在N.I.A中最终试镜合格并达成S以上的评价吧\n【条件】方案：理性的培育用偶像"
+      "name": "在N.I.A中最终试镜合格并达成S以上的评价\n【条件】方案：理性的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#79",
@@ -8095,7 +8367,7 @@
     },
     {
       "id": "main_task_group-03-01#81",
-      "name": "在N.I.A中最终试镜合格并达成S以上的评价吧\n【条件】方案：异类的培育用偶像"
+      "name": "在N.I.A中最终试镜合格并达成S以上的评价\n【条件】方案：异类的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#82",
@@ -8167,7 +8439,7 @@
     },
     {
       "id": "main_task_group-03-01#99",
-      "name": "在培育中挑战获得S+以上的评价吧"
+      "name": "在培育中挑战获得S+以上的评价"
     },
     {
       "id": "main_task_group-03-01#100",

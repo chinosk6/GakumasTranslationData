@@ -6,8 +6,16 @@
   },
   "data": [
     {
+      "id": "dearness_normal-mission_shro_01",
+      "name": "偶像任务广"
+    },
+    {
       "id": "dearness_normal-mission_ssmk_01",
       "name": "偶像任务清夏"
+    },
+    {
+      "id": "dearness_panel-mission_shro_01",
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_ssmk_01",
@@ -235,6 +243,26 @@
     },
     {
       "id": "mission-group-highscorerush-event-002_5",
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-003_1",
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-003_2",
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-003_3",
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-003_4",
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-003_5",
       "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
@@ -468,6 +496,10 @@
     {
       "id": "mission-group-story-event-007",
       "name": "故事活动任务007"
+    },
+    {
+      "id": "mission-group-story-event-008",
+      "name": "故事活动任务008"
     },
     {
       "id": "mission-group-story-event-013",

@@ -66,6 +66,12 @@
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
     {
+      "id": "item-coin-highscorerush-event-003",
+      "name": "星星的闪耀光芒",
+      "description": "可以在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活动模式的培育等方式"
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "R偶像的碎片",
       "description": "可以在R偶像才能开花中使用的道具",
@@ -81,7 +87,7 @@
       "id": "item-common-idol_card-piece-ssr",
       "name": "SSR偶像的碎片",
       "description": "可以在SSR偶像才能开花中使用的道具",
-      "acquisitionRouteDescription": "兑换所等方式"
+      "acquisitionRouteDescription": "偶像之路等方式"
     },
     {
       "id": "item-common-support_card-limit-r",
@@ -106,6 +112,12 @@
       "name": "记录之钥",
       "description": "可以解锁交流的道具",
       "acquisitionRouteDescription": "金币兑换所等方式"
+    },
+    {
+      "id": "item-dearness-unlock-shro",
+      "name": "广的记录之钥",
+      "description": "解锁筱泽广STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
     },
     {
       "id": "item-dearness-unlock-ssmk",
@@ -384,6 +396,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-medal-story-event-008",
+      "name": "3年级1班的纪念",
+      "description": "可以在活动兑换所交换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-medal-story-event-013",
       "name": "修学旅行的土特产",
       "description": "可以在活动兑换所交换各式报酬的道具",
@@ -552,6 +570,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hmsz-3-010",
+      "name": "[Star-mine]秦谷美铃的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hrnm-1-000",
       "name": "[学园生活]姬崎莉波的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -708,6 +732,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hume-3-012",
+      "name": "[Star-mine]花海佑芽的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_jsna-1-000",
       "name": "[学园生活]十王星南的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -746,6 +776,12 @@
     {
       "id": "item-piece-idol_jsna-3-006",
       "name": "[Our Chant]十王星南的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_jsna-3-011",
+      "name": "[Star-mine]十王星南的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -918,6 +954,12 @@
       "acquisitionRouteDescription": "活动扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_shro-3-012",
+      "name": "[褪色]筱泽广的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_ssmk-1-000",
       "name": "[学园生活]紫云清夏的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1057,13 +1099,19 @@
     },
     {
       "id": "item-selection-ticket-001",
-      "name": "半周年选择票据",
+      "name": "半周年自选票据",
       "description": "可以在票据兑换所中兑换培育用偶像以及支援卡的票据",
       "acquisitionRouteDescription": "商店等方式"
     },
     {
       "id": "item-selection-ticket-002",
       "name": "1st Anniversary自选票据",
+      "description": "可以在票据兑换所中兑换培育用偶像以及支援卡的票据",
+      "acquisitionRouteDescription": "商店等方式"
+    },
+    {
+      "id": "item-selection-ticket-003",
+      "name": "300万DL纪念自选票据",
       "description": "可以在票据兑换所中兑换培育用偶像以及支援卡的票据",
       "acquisitionRouteDescription": "商店等方式"
     },
