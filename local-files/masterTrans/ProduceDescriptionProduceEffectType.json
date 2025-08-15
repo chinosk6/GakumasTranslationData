@@ -7,7 +7,7 @@
   "data": [
     {
       "type": "ProduceEffectType_VocalAddition",
-      "name": "声乐力上升"
+      "name": "歌唱力上升"
     },
     {
       "type": "ProduceEffectType_DanceAddition",
@@ -19,7 +19,7 @@
     },
     {
       "type": "ProduceEffectType_VocalDown",
-      "name": "声乐力下降"
+      "name": "歌唱力下降"
     },
     {
       "type": "ProduceEffectType_DanceDown",
@@ -31,7 +31,7 @@
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "声乐课程奖励+"
+      "name": "歌唱课程奖励+"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
@@ -43,7 +43,7 @@
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "声乐课加成-"
+      "name": "歌唱课加成-"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
@@ -191,7 +191,7 @@
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "声乐力SP课程发生率增加"
+      "name": "歌唱力SP课程发生率增加"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",

@@ -6,8 +6,40 @@
   },
   "data": [
     {
+      "id": "dearness_event_fktn-001",
+      "name": "将藤田琴音的舞蹈能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_fktn-002",
+      "name": "在藤田琴音的培育中选择{threshold}次外出"
+    },
+    {
+      "id": "dearness_event_fktn-003",
+      "name": "在藤田琴音的培育中选择{threshold}次咨询"
+    },
+    {
+      "id": "dearness_event_fktn-004",
+      "name": "在藤田琴音的培育中选择{threshold}次营业"
+    },
+    {
+      "id": "dearness_event_fktn-005",
+      "name": "在藤田琴音的培育中选择{threshold}次慰问品"
+    },
+    {
+      "id": "dearness_event_fktn-006",
+      "name": "藤田琴音通关{threshold}次舞蹈课程"
+    },
+    {
+      "id": "dearness_event_fktn-007",
+      "name": "在藤田琴音的培育中选择{threshold}次特别指导"
+    },
+    {
+      "id": "dearness_event_fktn-008",
+      "name": "藤田琴音通过最终考试并获得{threshold}次SS以上评价"
+    },
+    {
       "id": "dearness_event_shro-001",
-      "name": "将筱泽广的歌唱培养至1800以上并完成培育"
+      "name": "将筱泽广的歌唱能力值培养至1800以上并完成培育"
     },
     {
       "id": "dearness_event_shro-002",
@@ -39,7 +71,7 @@
     },
     {
       "id": "dearness_event_ssmk-001",
-      "name": "将紫云清夏的舞蹈培养至1800以上并完成培育"
+      "name": "将紫云清夏的舞蹈能力值培养至1800以上并完成培育"
     },
     {
       "id": "dearness_event_ssmk-002",
@@ -47,15 +79,15 @@
     },
     {
       "id": "dearness_event_ssmk-003",
-      "name": "在紫云清夏的培育中选择外出{threshold}次"
+      "name": "在紫云清夏的培育中选择{threshold}次外出"
     },
     {
       "id": "dearness_event_ssmk-004",
-      "name": "在紫云清夏的培育中选择营业{threshold}次"
+      "name": "在紫云清夏的培育中选择{threshold}次营业"
     },
     {
       "id": "dearness_event_ssmk-005",
-      "name": "在紫云清夏的培育中选择慰问品{threshold}次"
+      "name": "在紫云清夏的培育中选择{threshold}次慰问品"
     },
     {
       "id": "dearness_event_ssmk-006",
@@ -63,15 +95,35 @@
     },
     {
       "id": "dearness_event_ssmk-007",
-      "name": "在紫云清夏的培育中选择特别指导{threshold}次"
+      "name": "在紫云清夏的培育中选择{threshold}次特别指导"
     },
     {
       "id": "dearness_event_ssmk-008",
-      "name": "紫云清夏通过最终考试并获得SS以上评价{threshold}次"
+      "name": "紫云清夏通过最终考试并获得{threshold}次SS以上评价"
+    },
+    {
+      "id": "dearness_normal-mission_fktn-001",
+      "name": "将藤田琴音的舞蹈能力值培养至2000以上并完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_fktn-002",
+      "name": "在藤田琴音的培育中累计使用{threshold}次技能卡"
+    },
+    {
+      "id": "dearness_normal-mission_fktn-003",
+      "name": "在藤田琴音的培育中强化{threshold}次技能卡"
+    },
+    {
+      "id": "dearness_normal-mission_fktn-004",
+      "name": "藤田琴音通过最终考试并获得{threshold}次SS以上评价"
+    },
+    {
+      "id": "dearness_normal-mission_fktn-005",
+      "name": "在藤田琴音的培育中自定义{threshold}次技能卡"
     },
     {
       "id": "dearness_normal-mission_shro-001",
-      "name": "将筱泽广的歌唱培养至2000以上并完成培育"
+      "name": "将筱泽广的歌唱能力值培养至2000以上并完成培育"
     },
     {
       "id": "dearness_normal-mission_shro-002",
@@ -91,7 +143,7 @@
     },
     {
       "id": "dearness_normal-mission_ssmk-001",
-      "name": "将紫云清夏的舞蹈培养至2000以上并完成培育"
+      "name": "将紫云清夏的舞蹈能力值培养至2000以上并完成培育"
     },
     {
       "id": "dearness_normal-mission_ssmk-002",
@@ -1115,19 +1167,19 @@
     },
     {
       "id": "mission-highscore-event-001-mission_12",
-      "name": "将月村手毬的歌唱培养到1000以上并完成培育"
+      "name": "将月村手毬的歌唱能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_12_1",
-      "name": "将月村手毬的歌唱培养到1000以上并完成培育（截至8/1 4:59:59）"
+      "name": "将月村手毬的歌唱能力值培养至1000以上并完成培育（截至8/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-001-mission_13",
-      "name": "将葛城莉莉娅的视觉培养到1000以上并完成培育"
+      "name": "将葛城莉莉娅的视觉能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_13_1",
-      "name": "将葛城莉莉娅的视觉培养到1000以上并完成培育（截至8/1 4:59:59）"
+      "name": "将葛城莉莉娅的视觉能力值培养至1000以上并完成培育（截至8/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-001-mission_14",
@@ -1135,7 +1187,7 @@
     },
     {
       "id": "mission-highscore-event-001-mission_14_1",
-      "name": "将筱泽广的歌唱培养到1000以上并完成培育（截至8/1 4:59:59）"
+      "name": "将筱泽广的歌唱能力值培养至1000以上并完成培育（截至8/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-001-mission_15",
@@ -1175,23 +1227,23 @@
     },
     {
       "id": "mission-highscore-event-002-mission_12_1",
-      "name": "将仓本千奈的舞蹈培养到1000以上并完成培育（截至9/1 4:59:59）"
+      "name": "将仓本千奈的舞蹈能力值培养至1000以上并完成培育（截至9/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-002-mission_13",
-      "name": "将花海咲季的视觉培养到1000以上并完成培育"
+      "name": "将花海咲季的视觉能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_13_1",
-      "name": "将花海咲季的视觉培养到1000以上并完成培育（截至9/1 4:59:59）"
+      "name": "将花海咲季的视觉能力值培养至1000以上并完成培育（截至9/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-002-mission_14",
-      "name": "将花海佑芽的舞蹈培养到1000以上并完成培育"
+      "name": "将花海佑芽的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_14_1",
-      "name": "将花海佑芽的舞蹈培养到1000以上并完成培育（截至9/1 4:59:59）"
+      "name": "将花海佑芽的舞蹈能力值培养至1000以上并完成培育（截至9/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-002-mission_15",
@@ -1223,7 +1275,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_12",
-      "name": "将姬崎莉波的视觉培养到1000以上并完成培育"
+      "name": "将姬崎莉波的视觉能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_13",
@@ -1247,7 +1299,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_22",
-      "name": "将藤田琴音的舞蹈培养到1000以上并完成培育"
+      "name": "将藤田琴音的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_23",
@@ -1271,7 +1323,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_32",
-      "name": "将紫云清夏的舞蹈培养到1000以上并完成培育"
+      "name": "将紫云清夏的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_33",
@@ -1343,7 +1395,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_12",
-      "name": "将有村麻央的歌唱培养到1000以上并完成培育"
+      "name": "将有村麻央的歌唱能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-004-mission_13",
@@ -1367,7 +1419,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_22",
-      "name": "将十王星南的视觉培养到1000以上并完成培育"
+      "name": "将十王星南的视觉能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-004-mission_23",
@@ -1463,7 +1515,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_12",
-      "name": "将花海咲季的视觉培养到1,000以上并完成培育"
+      "name": "将花海咲季的视觉能力值培养至1,000以上并完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_13",
@@ -1487,7 +1539,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_22",
-      "name": "将月村手毬的歌唱培养到1,000以上并完成培育"
+      "name": "将月村手毬的歌唱能力值培养至1,000以上并完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_23",
@@ -1511,7 +1563,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_32",
-      "name": "将藤田琴音的舞蹈培养到1,000以上并完成培育"
+      "name": "将藤田琴音的舞蹈能力值培养至1,000以上并完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_33",
@@ -1583,7 +1635,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_12",
-      "name": "将紫云清夏的舞蹈培养至1000以上并完成培育"
+      "name": "将紫云清夏的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscorerush-event-002-mission_13",
@@ -1603,7 +1655,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_22",
-      "name": "将藤田琴音的舞蹈培养至1000以上并完成培育"
+      "name": "将藤田琴音的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscorerush-event-002-mission_23",
@@ -1623,7 +1675,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_32",
-      "name": "在紫云清夏或藤田琴音的培育中通过最终考试{threshold}次"
+      "name": "在紫云清夏或藤田琴音的培育中通过{threshold}次最终考试"
     },
     {
       "id": "mission-highscorerush-event-002-mission_33",
@@ -1643,7 +1695,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_42",
-      "name": "在紫云清夏或藤田琴音的培育中通过最终考试{threshold}次"
+      "name": "在紫云清夏或藤田琴音的培育中通过{threshold}次最终考试"
     },
     {
       "id": "mission-highscorerush-event-002-mission_43",
@@ -1663,7 +1715,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_52",
-      "name": "在紫云清夏或藤田琴音的培育中通过最终考试{threshold}次"
+      "name": "在紫云清夏或藤田琴音的培育中通过{threshold}次最终考试"
     },
     {
       "id": "mission-highscorerush-event-002-mission_53",
@@ -1723,7 +1775,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_32",
-      "name": "筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
+      "name": "在筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
     },
     {
       "id": "mission-highscorerush-event-003-mission_33",
@@ -1743,7 +1795,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_42",
-      "name": "筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
+      "name": "在筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
     },
     {
       "id": "mission-highscorerush-event-003-mission_43",
@@ -1763,7 +1815,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_52",
-      "name": "筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
+      "name": "在筱泽广或仓本千奈的培育中通过{threshold}次最终考试"
     },
     {
       "id": "mission-highscorerush-event-003-mission_53",
@@ -1775,6 +1827,106 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_11",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_12",
+      "name": "将藤田琴音的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_13",
+      "name": "在藤田琴音的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_14",
+      "name": "在花海佑芽的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_21",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_22",
+      "name": "将花海佑芽的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_23",
+      "name": "在藤田琴音的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_24",
+      "name": "在花海佑芽的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_31",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_32",
+      "name": "在藤田琴音或花海佑芽的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_33",
+      "name": "在藤田琴音的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_34",
+      "name": "在花海佑芽的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_41",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_42",
+      "name": "在藤田琴音或花海佑芽的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_43",
+      "name": "在藤田琴音的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_44",
+      "name": "在花海佑芽的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_51",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_52",
+      "name": "在藤田琴音或花海佑芽的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_53",
+      "name": "在藤田琴音的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_54",
+      "name": "在花海佑芽的培育中累计获得{threshold}培育评价"
+    },
+    {
+      "id": "mission-highscorerush-event-004-mission_56",
       "name": "通关第5天的全部任务"
     },
     {
@@ -4338,6 +4490,30 @@
       "name": "【雨后的鸢尾花】藤田琴音的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-fktn-3-013-01",
+      "name": "【自我肯定感爆棚↑↑超爱琴音之歌】藤田琴音的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-013-02",
+      "name": "【自我肯定感爆棚↑↑超爱琴音之歌】藤田琴音的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-013-03",
+      "name": "【自我肯定感爆棚↑↑超爱琴音之歌】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-013-04",
+      "name": "【自我肯定感爆棚↑↑超爱琴音之歌】藤田琴音的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-013-05",
+      "name": "【自我肯定感爆棚↑↑超爱琴音之歌】藤田琴音的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-013-06",
+      "name": "【自我肯定感爆棚↑↑超爱琴音之歌】藤田琴音的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-hmsz-2-000-01",
       "name": "【慢慢地，一步一步来】秦谷美铃的培育中通过了最终考试"
     },
@@ -6083,15 +6259,15 @@
     },
     {
       "id": "achieve-p_idol-amao-004",
-      "name": "使用有村麻央通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用有村麻央通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-amao-005",
-      "name": "使用有村麻央通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用有村麻央通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-amao-006",
-      "name": "使用有村麻央通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用有村麻央通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-amao-007",
@@ -6103,7 +6279,7 @@
     },
     {
       "id": "achieve-p_idol-amao-009",
-      "name": "在有村麻央的培育中通过最终考试{threshold}次"
+      "name": "在有村麻央的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-amao-010",
@@ -6139,7 +6315,7 @@
     },
     {
       "id": "achieve-p_idol-amao-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-amao-019",
@@ -6147,7 +6323,7 @@
     },
     {
       "id": "achieve-p_idol-amao-020",
-      "name": "使用有村麻央通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用有村麻央通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-amao-021",
@@ -6395,15 +6571,15 @@
     },
     {
       "id": "achieve-p_idol-fktn-004",
-      "name": "使用藤田琴音通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用藤田琴音通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-fktn-005",
-      "name": "使用藤田琴音通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用藤田琴音通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-fktn-006",
-      "name": "使用藤田琴音通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用藤田琴音通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-fktn-007",
@@ -6415,7 +6591,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-009",
-      "name": "在藤田琴音的培育中通过最终考试{threshold}次"
+      "name": "在藤田琴音的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-fktn-010",
@@ -6435,7 +6611,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-014",
-      "name": "将藤田琴音的舞蹈培养到1000以上并完成培育"
+      "name": "将藤田琴音的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-fktn-015",
@@ -6451,7 +6627,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-fktn-019",
@@ -6459,7 +6635,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-020",
-      "name": "使用藤田琴音通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用藤田琴音通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-fktn-021",
@@ -6491,15 +6667,15 @@
     },
     {
       "id": "achieve-p_idol-hmsz-004",
-      "name": "使用秦谷美铃通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用秦谷美铃通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-hmsz-005",
-      "name": "使用秦谷美铃通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用秦谷美铃通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-hmsz-006",
-      "name": "使用秦谷美铃通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用秦谷美铃通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-hmsz-007",
@@ -6511,7 +6687,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-009",
-      "name": "在秦谷美铃的培育中通过最终考试{threshold}次"
+      "name": "在秦谷美铃的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-hmsz-010",
@@ -6547,7 +6723,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-hmsz-019",
@@ -6555,7 +6731,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-020",
-      "name": "在秦谷美铃的培育中通过最终考试并获得SS以上评价{threshold}次"
+      "name": "在秦谷美铃的培育中通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-hmsz-021",
@@ -6583,15 +6759,15 @@
     },
     {
       "id": "achieve-p_idol-hrnm-004",
-      "name": "使用姬崎莉波通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用姬崎莉波通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-005",
-      "name": "使用姬崎莉波通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用姬崎莉波通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-006",
-      "name": "使用姬崎莉波通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用姬崎莉波通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-007",
@@ -6603,7 +6779,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-009",
-      "name": "在姬崎莉波的培育中通过最终考试{threshold}次"
+      "name": "在姬崎莉波的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-hrnm-010",
@@ -6623,7 +6799,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-014",
-      "name": "将姬崎莉波的视觉培养到1000以上并完成培育"
+      "name": "将姬崎莉波的视觉能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-hrnm-015",
@@ -6639,7 +6815,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-hrnm-019",
@@ -6647,7 +6823,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-020",
-      "name": "使用姬崎莉波通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用姬崎莉波通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-021",
@@ -6679,15 +6855,15 @@
     },
     {
       "id": "achieve-p_idol-hski-004",
-      "name": "使用花海咲季通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用花海咲季通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-hski-005",
-      "name": "使用花海咲季通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用花海咲季通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-hski-006",
-      "name": "使用花海咲季通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用花海咲季通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-hski-007",
@@ -6699,7 +6875,7 @@
     },
     {
       "id": "achieve-p_idol-hski-009",
-      "name": "在花海咲季的培育中通过最终考试{threshold}次"
+      "name": "在花海咲季的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-hski-010",
@@ -6735,7 +6911,7 @@
     },
     {
       "id": "achieve-p_idol-hski-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-hski-019",
@@ -6743,7 +6919,7 @@
     },
     {
       "id": "achieve-p_idol-hski-020",
-      "name": "使用花海咲季通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用花海咲季通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-hski-021",
@@ -6775,15 +6951,15 @@
     },
     {
       "id": "achieve-p_idol-hume-004",
-      "name": "使用花海佑芽通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用花海佑芽通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-hume-005",
-      "name": "使用花海佑芽通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用花海佑芽通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-hume-006",
-      "name": "使用花海佑芽通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用花海佑芽通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-hume-007",
@@ -6795,7 +6971,7 @@
     },
     {
       "id": "achieve-p_idol-hume-009",
-      "name": "在花海佑芽的培育中通过最终考试{threshold}次"
+      "name": "在花海佑芽的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-hume-010",
@@ -6815,7 +6991,7 @@
     },
     {
       "id": "achieve-p_idol-hume-014",
-      "name": "将花海佑芽的舞蹈培养到1000以上并完成培育"
+      "name": "将花海佑芽的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-hume-015",
@@ -6831,7 +7007,7 @@
     },
     {
       "id": "achieve-p_idol-hume-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-hume-019",
@@ -6839,7 +7015,7 @@
     },
     {
       "id": "achieve-p_idol-hume-020",
-      "name": "使用花海佑芽通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用花海佑芽通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-hume-021",
@@ -6867,15 +7043,15 @@
     },
     {
       "id": "achieve-p_idol-jsna-004",
-      "name": "使用十王星南通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用十王星南通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-jsna-005",
-      "name": "使用十王星南通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用十王星南通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-jsna-006",
-      "name": "使用十王星南通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用十王星南通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-jsna-007",
@@ -6887,7 +7063,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-009",
-      "name": "在十王星南的培育中通过最终考试{threshold}次"
+      "name": "在十王星南的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-jsna-010",
@@ -6907,7 +7083,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-014",
-      "name": "将十王星南的视觉培养至900以上并完成培育"
+      "name": "将十王星南的视觉能力值培养至900以上并完成培育"
     },
     {
       "id": "achieve-p_idol-jsna-015",
@@ -6923,7 +7099,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-jsna-019",
@@ -6931,7 +7107,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-020",
-      "name": "使用十王星南通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用十王星南通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-jsna-021",
@@ -6959,15 +7135,15 @@
     },
     {
       "id": "achieve-p_idol-kcna-004",
-      "name": "使用仓本千奈通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用仓本千奈通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-kcna-005",
-      "name": "使用仓本千奈通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用仓本千奈通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-kcna-006",
-      "name": "使用仓本千奈通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用仓本千奈通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-kcna-007",
@@ -6979,7 +7155,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-009",
-      "name": "在仓本千奈的培育中通过最终考试{threshold}次"
+      "name": "在仓本千奈的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-kcna-010",
@@ -7015,7 +7191,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-kcna-019",
@@ -7023,7 +7199,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-020",
-      "name": "使用仓本千奈通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用仓本千奈通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-kcna-021",
@@ -7051,15 +7227,15 @@
     },
     {
       "id": "achieve-p_idol-kllj-004",
-      "name": "使用葛城莉莉娅通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用葛城莉莉娅通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-kllj-005",
-      "name": "使用葛城莉莉娅通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用葛城莉莉娅通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-kllj-006",
-      "name": "使用葛城莉莉娅通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用葛城莉莉娅通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-kllj-007",
@@ -7071,7 +7247,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-009",
-      "name": "在葛城莉莉娅的培育中通过最终考试{threshold}次"
+      "name": "在葛城莉莉娅的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-kllj-010",
@@ -7091,7 +7267,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-014",
-      "name": "将葛城莉莉娅的视觉培养到1000以上并完成培育"
+      "name": "将葛城莉莉娅的视觉能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-kllj-015",
@@ -7107,7 +7283,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-kllj-019",
@@ -7115,7 +7291,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-020",
-      "name": "使用葛城莉莉娅通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用葛城莉莉娅通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-kllj-021",
@@ -7143,15 +7319,15 @@
     },
     {
       "id": "achieve-p_idol-shro-004",
-      "name": "使用筱泽广通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用筱泽广通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-shro-005",
-      "name": "使用筱泽广通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用筱泽广通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-shro-006",
-      "name": "使用筱泽广通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用筱泽广通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-shro-007",
@@ -7163,7 +7339,7 @@
     },
     {
       "id": "achieve-p_idol-shro-009",
-      "name": "在筱泽广的培育中通过最终考试{threshold}次"
+      "name": "在筱泽广的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-shro-010",
@@ -7199,7 +7375,7 @@
     },
     {
       "id": "achieve-p_idol-shro-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-shro-019",
@@ -7207,7 +7383,7 @@
     },
     {
       "id": "achieve-p_idol-shro-020",
-      "name": "在筱泽广的培育中通过最终考试并获得SS以上评价{threshold}次"
+      "name": "在筱泽广的培育中通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-shro-021",
@@ -7239,15 +7415,15 @@
     },
     {
       "id": "achieve-p_idol-ssmk-004",
-      "name": "使用紫云清夏通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用紫云清夏通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-ssmk-005",
-      "name": "使用紫云清夏通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用紫云清夏通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-ssmk-006",
-      "name": "使用紫云清夏通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用紫云清夏通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-ssmk-007",
@@ -7259,7 +7435,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-009",
-      "name": "在紫云清夏的培育中通过最终考试{threshold}次"
+      "name": "在紫云清夏的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-ssmk-010",
@@ -7279,7 +7455,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-014",
-      "name": "将紫云清夏的舞蹈培养到1000以上并完成培育"
+      "name": "将紫云清夏的舞蹈能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-ssmk-015",
@@ -7295,7 +7471,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-ssmk-019",
@@ -7303,7 +7479,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-020",
-      "name": "使用紫云清夏通过最终考试并获得SS以上评价{threshold}次"
+      "name": "使用紫云清夏通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-ssmk-021",
@@ -7331,15 +7507,15 @@
     },
     {
       "id": "achieve-p_idol-ttmr-004",
-      "name": "使用月村手毬通过最终考试并获得B以上评价{threshold}次"
+      "name": "使用月村手毬通过最终考试并获得{threshold}次B以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-005",
-      "name": "使用月村手毬通过最终考试并获得A以上评价{threshold}次"
+      "name": "使用月村手毬通过最终考试并获得{threshold}次A以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-006",
-      "name": "使用月村手毬通过最终考试并获得S以上评价{threshold}次"
+      "name": "使用月村手毬通过最终考试并获得{threshold}次S以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-007",
@@ -7351,7 +7527,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-009",
-      "name": "在月村手毬的培育中通过最终考试{threshold}次"
+      "name": "在月村手毬的培育中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-ttmr-010",
@@ -7371,7 +7547,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-014",
-      "name": "将月村手毬的歌唱培养到1000以上并完成培育"
+      "name": "将月村手毬的歌唱能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-ttmr-015",
@@ -7387,7 +7563,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-018",
-      "name": "在培育中选择特别指导{threshold}次"
+      "name": "在培育中选择{threshold}次特别指导"
     },
     {
       "id": "achieve-p_idol-ttmr-019",
