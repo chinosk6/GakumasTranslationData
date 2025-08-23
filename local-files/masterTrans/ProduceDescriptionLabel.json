@@ -6282,7 +6282,7 @@
           "text": "「十王邦夫的偶像强化月～星光璀璨～」中可以获得的道具。可以在活动扭蛋中使用。"
         }
       ],
-      "name": "星星的闪耀光芒"
+      "name": "星之闪耀"
     },
     {
       "id": "Label_InitialAdd",
@@ -7103,14 +7103,14 @@
       "produceDescriptions": [
         ""
       ],
-      "name": "牌堆顶部"
+      "name": "牌堆的最顶部"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckLast",
       "produceDescriptions": [
         ""
       ],
-      "name": "牌堆底部"
+      "name": "牌堆的最底部"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckRandom",

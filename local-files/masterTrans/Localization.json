@@ -38,12 +38,24 @@
       "description": "编成可以针对每个培育进行设置。在不同培育中进行设置时，不会适用于其他培育。"
     },
     {
+      "id": "produce_prepare.top.event_icon.high_score_rush.description",
+      "description": "在培育的报酬中可以获得星之闪耀"
+    },
+    {
+      "id": "produce_prepare.top.event_icon.high_score_rush.title",
+      "description": "十王邦夫的偶像强化月"
+    },
+    {
       "id": "produce.high_score_rush.gold.description",
       "description": "「十王邦夫的偶像强化月～星光璀璨～」中可以获得的道具。可以在活动扭蛋中使用。"
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
       "description": "由于指针处于悠闲状态，因此不会触发将指针变更为温存的效果。"
+    },
+    {
+      "id": "produce.server_force_reset.confirm.description",
+      "description": "正在游玩中的培育数据已被清除。"
     },
     {
       "id": "profile.report.share.text",

@@ -534,7 +534,7 @@
     {
       "id": "p_card_custom-040-g_effect-play_move_position_type_change-grave",
       "customizeCount": 1,
-      "description": "课程中仅1回\n的限制解除"
+      "description": "课程中仅1回\\n的限制解除"
     },
     {
       "id": "p_card_custom-070-g_effect-aggressive_add-3",
@@ -747,6 +747,11 @@
       "description": ""
     },
     {
+      "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-parameter_buff_up-8-e_trigger-none-parameter_buff_up-4",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
       "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-preservation_change_count_up-2-e_trigger-none-preservation_change_count_up-1",
       "customizeCount": 1,
       "description": ""
@@ -859,7 +864,107 @@
     {
       "id": "p_card_custom-p_card-02-ido-3_018-2",
       "customizeCount": 1,
-      "description": "课程中仅1回\n的限制解除"
+      "description": "课程中仅1回\\n的限制解除"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
+      "customizeCount": 2,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
+      "customizeCount": 3,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
+      "customizeCount": 2,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
+      "customizeCount": 3,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-1_074-c-01",
+      "customizeCount": 1,
+      "description": "元气追加 "
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_061-a-01",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_061-b-01",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_061-b-01",
+      "customizeCount": 2,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-act-2_061-c-01",
+      "customizeCount": 1,
+      "description": "好调追加"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-3_034-a-01",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-01-men-3_034-b-01",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-men-1_050-a-01",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-men-1_050-b-01",
+      "customizeCount": 1,
+      "description": "课程中仅1回\\n的限制解除"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-men-1_050-c-01",
+      "customizeCount": 1,
+      "description": "成长追加"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-men-1_050-c-01",
+      "customizeCount": 2,
+      "description": "成长+"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-men-1_050-c-01",
+      "customizeCount": 3,
+      "description": "成长+"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-men-2_078-a-01",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-men-2_078-b-01",
+      "customizeCount": 1,
+      "description": "温存+"
     }
   ]
 }

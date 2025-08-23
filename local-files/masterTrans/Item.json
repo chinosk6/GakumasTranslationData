@@ -55,25 +55,25 @@
     },
     {
       "id": "item-coin-highscorerush-event-001",
-      "name": "星星的闪耀光芒",
+      "name": "星之闪耀",
       "description": "可以在活动扭蛋中使用的道具",
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
     {
       "id": "item-coin-highscorerush-event-002",
-      "name": "星星的闪耀光芒",
+      "name": "星之闪耀",
       "description": "可以在活动扭蛋中使用的道具",
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
     {
       "id": "item-coin-highscorerush-event-003",
-      "name": "星星的闪耀光芒",
+      "name": "星之闪耀",
       "description": "可以在活动扭蛋中使用的道具",
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
     {
       "id": "item-coin-highscorerush-event-004",
-      "name": "星星的闪耀光芒",
+      "name": "星之闪耀",
       "description": "可以在活动扭蛋中使用的道具",
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
@@ -118,6 +118,12 @@
       "name": "记录之钥",
       "description": "可以解锁交流的道具",
       "acquisitionRouteDescription": "金币兑换所等方式"
+    },
+    {
+      "id": "item-dearness-unlock-fktn",
+      "name": "琴音的记录之钥",
+      "description": "解锁藤田琴音STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
     },
     {
       "id": "item-dearness-unlock-shro",

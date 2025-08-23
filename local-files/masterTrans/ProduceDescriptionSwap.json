@@ -279,22 +279,22 @@
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "牌堆顶部"
+      "text": "牌堆的最顶部"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "牌堆顶部"
+      "text": "牌堆的最顶部"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "牌堆底部"
+      "text": "牌堆的最底部"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "牌堆底部"
+      "text": "牌堆的最底部"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
