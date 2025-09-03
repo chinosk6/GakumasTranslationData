@@ -1053,6 +1053,22 @@
       "name": "凉爽的时刻"
     },
     {
+      "id": "s_card-2-0059",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率中等"
+        }
+      ],
+      "name": "徒弟的修行"
+    },
+    {
       "id": "s_card-3-0000",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -2187,6 +2203,22 @@
         }
       ],
       "name": "让我们嗨起来！"
+    },
+    {
+      "id": "s_card-3-0072",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率高"
+        }
+      ],
+      "name": "哦呀，好险呀"
     }
   ]
 }

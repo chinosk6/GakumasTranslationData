@@ -141,7 +141,7 @@
       "id": "item-friend_coin",
       "name": "好友硬币",
       "description": "可以在好友扭蛋中使用的硬币",
-      "acquisitionRouteDescription": "出租、社交圈捐赠等方式"
+      "acquisitionRouteDescription": "出租、社团捐赠等方式"
     },
     {
       "id": "item-gacha-coin-anniversary-001",
@@ -420,6 +420,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-medal-tour-event-001",
+      "name": "大阪巡演奖章",
+      "description": "可以在活动兑换所交换各式报酬的道具",
+      "acquisitionRouteDescription": "巡演活动"
+    },
+    {
       "id": "item-memory_exchange-class1",
       "name": "感性硬币",
       "description": "可以在感性扭蛋中使用的硬币",
@@ -494,6 +500,12 @@
     {
       "id": "item-piece-idol_amao-3-009",
       "name": "[雪融之时]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_amao-3-013",
+      "name": "[奇迹正是现在(ﾟ∀ﾟ)！]有村麻央的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1032,6 +1044,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_ssmk-3-014",
+      "name": "[奇迹正是现在(ﾟ∀ﾟ)！]紫云清夏的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "活动兑换所等方式"
+    },
+    {
       "id": "item-piece-idol_ttmr-1-000",
       "name": "[学园生活]月村手毬的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1084,6 +1102,12 @@
       "name": "[雨后的鸢尾花]月村手毬的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-play-ticket_tour-event-001",
+      "name": "演唱会挑战券（大阪）",
+      "description": "可以在巡演活动中挑战舞台的道具",
+      "acquisitionRouteDescription": "巡演活动"
     },
     {
       "id": "item-produce_continue-1",

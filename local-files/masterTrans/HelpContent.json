@@ -107,7 +107,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-ranking",
       "order": 8,
-      "name": "社交圈排行榜"
+      "name": "社团排行榜"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
@@ -239,25 +239,25 @@
       "helpCategoryId": "help-guild",
       "id": "guild-create",
       "order": 2,
-      "name": "创建社交圈"
+      "name": "创建社团"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-Guild",
       "order": 1,
-      "name": "社交圈"
+      "name": "社团"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-join",
       "order": 3,
-      "name": "加入社交圈"
+      "name": "加入社团"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-leave",
       "order": 6,
-      "name": "从社交圈退出/开除"
+      "name": "从社团退出/开除"
     },
     {
       "helpCategoryId": "help-guild",
@@ -573,51 +573,51 @@
     },
     {
       "helpCategoryId": "help-livetour-event",
-      "id": "help-livetour-event-exchange",
-      "order": 5,
-      "name": "测试：help-livetour-event-exchange"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
-      "id": "help-livetour-event-finish",
-      "order": 9,
-      "name": "测试：help-livetour-event-finish"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
-      "id": "help-livetour-event-memory",
-      "order": 3,
-      "name": "测试：help-livetour-event-memory"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
-      "id": "help-livetour-event-mission",
+      "id": "tour-exchange",
       "order": 7,
-      "name": "测试：help-livetour-event-mission"
+      "name": "活动兑换所道具"
     },
     {
       "helpCategoryId": "help-livetour-event",
-      "id": "help-livetour-event-reward",
+      "id": "tour-finish",
+      "order": 9,
+      "name": "活动结束后"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-idol",
       "order": 4,
-      "name": "测试：help-livetour-event-reward"
+      "name": "活动报酬加成的培育用偶像"
     },
     {
       "helpCategoryId": "help-livetour-event",
-      "id": "help-livetour-event-rule",
-      "order": 1,
-      "name": "测试：help-livetour-event-rule"
+      "id": "tour-play-ticket",
+      "order": 3,
+      "name": "Live挑战券"
     },
     {
       "helpCategoryId": "help-livetour-event",
-      "id": "help-livetour-event-stage",
-      "order": 2,
-      "name": "测试：help-livetour-event-stage"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
-      "id": "help-livetour-event-story",
+      "id": "tour-reward",
       "order": 6,
-      "name": "测试：help-livetour-event-story"
+      "name": "活动报酬"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-stage",
+      "order": 2,
+      "name": "活动舞台"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-story",
+      "order": 5,
+      "name": "活动交流"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-tour",
+      "order": 1,
+      "name": "巡演活动"
     },
     {
       "helpCategoryId": "help-main-story-event",
