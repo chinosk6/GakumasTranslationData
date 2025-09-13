@@ -653,7 +653,7 @@
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-point",
       "order": 5,
-      "name": "累积活动Pt报酬"
+      "name": "累计活动Pt报酬"
     },
     {
       "helpCategoryId": "help-main-story-event",
@@ -1154,6 +1154,24 @@
       "name": "True End：N.I.A"
     },
     {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-produce",
+      "order": 2,
+      "name": "活动专用的培育"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-reroll",
+      "order": 3,
+      "name": "回忆碎片的再抽选"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-research-event",
+      "order": 1,
+      "name": "亚纱里老师的培育研讨会"
+    },
+    {
       "helpCategoryId": "help-shop",
       "id": "shop-coingasha",
       "order": 5,
@@ -1259,7 +1277,7 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-point",
       "order": 3,
-      "name": "累积活动Pt报酬"
+      "name": "累计活动Pt报酬"
     },
     {
       "helpCategoryId": "help-story-event",

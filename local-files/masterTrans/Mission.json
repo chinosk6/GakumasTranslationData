@@ -610,6 +610,10 @@
       "name": "抽取{threshold}次'24季节限定 SSR确定10连扭蛋"
     },
     {
+      "id": "hidden_mission-view-gasha-00540-free-10-005",
+      "name": "抽取{threshold}次来自亚纱里老师的礼物！最多100连无料！10连无料扭蛋"
+    },
+    {
       "id": "mission-box-gasha-event-001-mission_1",
       "name": "登录{threshold}天吧"
     },
@@ -3718,6 +3722,38 @@
       "name": "通关第7天的全部任务吧"
     },
     {
+      "id": "mission-research-event-001-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-001-mission_10",
+      "name": "在持有技能卡「天真烂漫」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-001-mission_11",
+      "name": "在持有技能卡「觉醒」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-001-mission_12",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-research-event-001-mission_2",
+      "name": "让方案：异类的培育用偶像取得{threshold}次最终考试合格吧"
+    },
+    {
+      "id": "mission-research-event-001-mission_3",
+      "name": "在培育的咨询中兑换{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-001-mission_8",
+      "name": "在持有技能卡「成就」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-001-mission_9",
+      "name": "在持有技能卡「国民级偶像」的状态下完成培育吧"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "登录{threshold}天吧"
     },
@@ -5742,6 +5778,30 @@
       "name": "【褪色】筱泽广的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-shro-3-014-01",
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】筱泽广的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-shro-3-014-02",
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-014-03",
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】筱泽广的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-shro-3-014-04",
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-014-05",
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-014-06",
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-ssmk-2-000-04",
       "name": "【为了梦想的再出发】紫云清夏的特训阶段提升至{threshold}级"
     },
@@ -7656,6 +7716,18 @@
     {
       "id": "achieve-p_idol-ttmr-022",
       "name": "将月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achievement_char_kcna-024",
+      "name": "将仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achievement_char_kllj-024",
+      "name": "葛城莉莉娅的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achievement_char_ssmk-024",
+      "name": "将紫云清夏的特训阶段提升至{threshold}级"
     },
     {
       "id": "main_task_group-01-01#1",
