@@ -9,7 +9,7 @@
       "tutorialType": "TutorialType_Work",
       "name": "工作",
       "description": "「工作」功能解锁",
-      "routeDescription": "请前往主页的工作进行"
+      "routeDescription": "请前往主页的工作进行确认"
     },
     {
       "tutorialType": "TutorialType_PvpRate",
@@ -63,7 +63,13 @@
       "tutorialType": "TutorialType_DearnessTop",
       "name": "亲密度TOP",
       "description": "「亲密度TOP」功能解锁",
-      "routeDescription": "可以从主页的亲密度中确认 "
+      "routeDescription": "请前往主页的亲密度进行确认"
+    },
+    {
+      "tutorialType": "TutorialType_ProducerRanking",
+      "name": "制作人排行榜",
+      "description": "「制作人排行榜」功能解锁",
+      "routeDescription": "请前往竞技场页面的P排行榜进行确认"
     }
   ]
 }

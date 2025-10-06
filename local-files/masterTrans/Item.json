@@ -54,6 +54,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-coin-box-gasha-event-019",
+      "name": "名古屋巡演奖章",
+      "description": "可以在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-coin-highscorerush-event-001",
       "name": "星之闪耀",
       "description": "可以在活动扭蛋中使用的道具",
@@ -129,6 +135,12 @@
       "id": "item-dearness-unlock-fktn",
       "name": "琴音的记录之钥",
       "description": "解锁藤田琴音STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
+      "id": "item-dearness-unlock-hrnm",
+      "name": "莉波的记录之钥",
+      "description": "解锁姬崎莉波STEP3亲密度交流的道具",
       "acquisitionRouteDescription": "兑换所等方式"
     },
     {
@@ -576,6 +588,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_fktn-3-016",
+      "name": "[全力以赴！]藤田琴音的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hmsz-1-000",
       "name": "[学园生活]秦谷美铃的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -736,6 +754,12 @@
       "name": "[雨后的鸢尾花]花海咲季的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hski-3-015",
+      "name": "[全力以赴！]花海咲季的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "活动扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hume-1-000",
@@ -1129,7 +1153,7 @@
     },
     {
       "id": "item-produce_continue-1",
-      "name": "再挑战票据",
+      "name": "再次挑战票据",
       "description": "可以在培育的再次挑战时使用的票据",
       "acquisitionRouteDescription": "AP兑换所等方式"
     },

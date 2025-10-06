@@ -1154,6 +1154,18 @@
       "name": "True End：N.I.A"
     },
     {
+      "helpCategoryId": "help-producer-ranking",
+      "id": "producer-ranking",
+      "order": 1,
+      "name": "制作人排行榜"
+    },
+    {
+      "helpCategoryId": "help-producer-ranking",
+      "id": "producer-ranking-season",
+      "order": 2,
+      "name": "赛季"
+    },
+    {
       "helpCategoryId": "help-research-event",
       "id": "research-event-event-produce",
       "order": 2,
