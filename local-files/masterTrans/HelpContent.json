@@ -503,7 +503,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-gimmick",
       "order": 13,
-      "name": "应援与麻烦"
+      "name": "应援与干扰"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -569,7 +569,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-support",
       "order": 11,
-      "name": "技能卡帮助"
+      "name": "技能卡支援"
     },
     {
       "helpCategoryId": "help-livetour-event",
@@ -1139,7 +1139,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-support-event",
       "order": 23,
-      "name": "支援卡活动"
+      "name": "支援卡事件"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1319,7 +1319,7 @@
       "helpCategoryId": "help-support",
       "id": "support-lesson-support",
       "order": 2,
-      "name": "技能卡帮助"
+      "name": "技能卡支援"
     },
     {
       "helpCategoryId": "help-support",
@@ -1367,7 +1367,7 @@
       "helpCategoryId": "help-support",
       "id": "support-support-event",
       "order": 3,
-      "name": "支援卡活动"
+      "name": "支援事件"
     },
     {
       "helpCategoryId": "help-tower",
