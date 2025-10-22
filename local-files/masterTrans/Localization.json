@@ -14,6 +14,10 @@
       "description": "能力值加成"
     },
     {
+      "id": "card.detail.enhance.invalid.point.exp.short",
+      "description": "训练Pt不足。"
+    },
+    {
       "id": "dearness.dearness_level_detail_sheet.title",
       "description": "亲密度Lv详情"
     },
@@ -68,6 +72,14 @@
     {
       "id": "research_event.target_idol_sheet.description",
       "description": "只有活动模式的P偶像才可以挑战活动模式的培育"
+    },
+    {
+      "id": "setting.produce.legend_card_get_confirm",
+      "description": "准备中"
+    },
+    {
+      "id": "setting.produce.legend_card_get_confirm.description",
+      "description": "计划在今后的更新中添加。"
     },
     {
       "id": "voice.idol_use_produce_card",

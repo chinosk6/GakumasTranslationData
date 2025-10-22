@@ -70,6 +70,38 @@
       "name": "让姬崎莉波通过最终考试并获得{threshold}次SS以上评价吧"
     },
     {
+      "id": "dearness_event_kcna-001",
+      "name": "将仓本千奈的舞蹈能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_kcna-002",
+      "name": "在仓本千奈的培育中选择{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_kcna-003",
+      "name": "在仓本千奈的培育中选择{threshold}次咨询吧"
+    },
+    {
+      "id": "dearness_event_kcna-004",
+      "name": "在仓本千奈的培育中选择{threshold}次营业吧"
+    },
+    {
+      "id": "dearness_event_kcna-005",
+      "name": "在仓本千奈的培育中选择{threshold}次慰问品吧"
+    },
+    {
+      "id": "dearness_event_kcna-006",
+      "name": "仓本千奈通关{threshold}次舞蹈课程吧"
+    },
+    {
+      "id": "dearness_event_kcna-007",
+      "name": "在仓本千奈的培育中选择{threshold}次特别指导吧"
+    },
+    {
+      "id": "dearness_event_kcna-008",
+      "name": "让仓本千奈通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
       "id": "dearness_event_shro-001",
       "name": "将筱泽广的歌唱能力值培养至1800以上并完成培育"
     },
@@ -172,6 +204,26 @@
     {
       "id": "dearness_normal-mission_hrnm-005",
       "name": "在姬崎莉波的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_kcna-001",
+      "name": "将仓本千奈的舞蹈能力值培养至2000以上并完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_kcna-002",
+      "name": "在仓本千奈的培育中累计使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_kcna-003",
+      "name": "在仓本千奈的培育中强化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_kcna-004",
+      "name": "让仓本千奈通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
+      "id": "dearness_normal-mission_kcna-005",
+      "name": "在仓本千奈的培育中自定义{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_shro-001",
@@ -2106,6 +2158,106 @@
       "name": "通关第5天的全部任务"
     },
     {
+      "id": "mission-highscorerush-event-006-mission_11",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_12",
+      "name": "将仓本千奈的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_13",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_14",
+      "name": "在紫云清夏的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_21",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_22",
+      "name": "将紫云清夏的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_23",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_24",
+      "name": "在紫云清夏的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_31",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_32",
+      "name": "在仓本千奈或紫云清夏的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_33",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_34",
+      "name": "在紫云清夏的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_41",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_42",
+      "name": "在仓本千奈或紫云清夏的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_43",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_44",
+      "name": "在紫云清夏的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_51",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_52",
+      "name": "在仓本千奈或紫云清夏的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_53",
+      "name": "在仓本千奈的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_54",
+      "name": "在紫云清夏的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-006-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
       "id": "mission-main-story-event-001-mission_11",
       "name": "消耗{threshold}点AP吧"
     },
@@ -3926,6 +4078,38 @@
       "name": "在持有技能卡「国民级偶像」的状态下完成培育吧"
     },
     {
+      "id": "mission-research-event-002-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_10",
+      "name": "在持有技能卡「成为偶像」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_11",
+      "name": "在持有技能卡「觉悟」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_12",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_2",
+      "name": "让方案：理性的培育用偶像取得{threshold}次最终考试合格吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_3",
+      "name": "在培育的咨询中兑换{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_8",
+      "name": "在持有技能卡「全身全灵」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_9",
+      "name": "在持有技能卡「心・技・体」的状态下完成培育吧"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "登录{threshold}天吧"
     },
@@ -5710,6 +5894,30 @@
       "name": "【Howling over the World】仓本千奈的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-kcna-3-014-01",
+      "name": "【与天空的约定】仓本千奈的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-014-02",
+      "name": "【与天空的约定】仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-014-03",
+      "name": "【与天空的约定】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-014-04",
+      "name": "【与天空的约定】仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-014-05",
+      "name": "【与天空的约定】仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-014-06",
+      "name": "【与天空的约定】仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-kllj-2-000-04",
       "name": "【迈出第一步的前方】葛城莉莉娅的特训阶段提升至{threshold}级"
     },
@@ -6356,6 +6564,30 @@
     {
       "id": "achieve-i_card-ttmr-3-011-06",
       "name": "【雨后的鸢尾花】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-01",
+      "name": "【全力以赴！】月村手毬的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-02",
+      "name": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-03",
+      "name": "【全力以赴！】月村手毬的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-04",
+      "name": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-05",
+      "name": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-06",
+      "name": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-m_amao-001",
