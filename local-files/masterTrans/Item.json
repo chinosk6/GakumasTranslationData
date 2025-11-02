@@ -96,6 +96,12 @@
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
     {
+      "id": "item-coin-highscorerush-event-007",
+      "name": "星之闪耀",
+      "description": "可以在十王邦夫的偶像强化月～星光璀璨～（有村麻央/花海佑芽）的活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活动模式的培育等方式"
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "R偶像的碎片",
       "description": "可以在R偶像才能开花中使用的道具",
@@ -147,6 +153,12 @@
       "id": "item-dearness-unlock-hrnm",
       "name": "莉波的记录之钥",
       "description": "解锁姬崎莉波STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
+      "id": "item-dearness-unlock-kcna",
+      "name": "千奈的记录之钥",
+      "description": "解锁仓本千奈STEP3亲密度交流的道具",
       "acquisitionRouteDescription": "兑换所等方式"
     },
     {
@@ -530,6 +542,12 @@
     {
       "id": "item-piece-idol_amao-3-013",
       "name": "[奇迹正是现在(ﾟ∀ﾟ)！]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_amao-3-015",
+      "name": "[看着我]有村麻央的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
