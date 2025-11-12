@@ -319,11 +319,11 @@
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "课程所消耗的体力增加"
+      "name": "课程消耗的体力增加"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "课程所消耗的体力减少"
+      "name": "课程消耗的体力减少"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",

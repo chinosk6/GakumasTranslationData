@@ -144,6 +144,12 @@
       "acquisitionRouteDescription": "金币兑换所等方式"
     },
     {
+      "id": "item-dearness-unlock-amao",
+      "name": "麻央的记录之钥",
+      "description": "解锁有村麻央STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
       "id": "item-dearness-unlock-fktn",
       "name": "琴音的记录之钥",
       "description": "解锁藤田琴音STEP3亲密度交流的道具",
@@ -446,6 +452,12 @@
     {
       "id": "item-medal-story-event-008",
       "name": "3年级1班的纪念",
+      "description": "可以在活动兑换所交换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-medal-story-event-009",
+      "name": "野餐的回忆",
       "description": "可以在活动兑换所交换各式报酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -937,7 +949,7 @@
     },
     {
       "id": "item-piece-idol_kcna-3-014",
-      "name": "[与天空的约定]仓本千奈的碎片",
+      "name": "[向天空约定]仓本千奈的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1244,6 +1256,12 @@
     {
       "id": "item-selection-ticket-003",
       "name": "300万DL纪念自选票据",
+      "description": "可以在票据兑换所中兑换培育用偶像以及支援卡的票据",
+      "acquisitionRouteDescription": "商店等方式"
+    },
+    {
+      "id": "item-selection-ticket-004",
+      "name": "1.5th Anniversary自选票据",
       "description": "可以在票据兑换所中兑换培育用偶像以及支援卡的票据",
       "acquisitionRouteDescription": "商店等方式"
     },

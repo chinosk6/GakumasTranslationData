@@ -7544,9 +7544,7 @@
     },
     {
       "id": "e_trigger-exam_start_exam-no_description",
-      "produceDescriptions": [
-        ""
-      ]
+      "produceDescriptions": []
     },
     {
       "id": "e_trigger-exam_start_exam-parameter_buff-1",
@@ -12080,9 +12078,7 @@
     },
     {
       "id": "e_trigger-exam_turn_timer-1",
-      "produceDescriptions": [
-        ""
-      ]
+      "produceDescriptions": []
     },
     {
       "id": "e_trigger-exam_turn_timer-1-description",
@@ -13171,6 +13167,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "在6以上的时候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-stamina_up_multiple-500",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "体力在50%以上的时候，"
         }
       ]
     },

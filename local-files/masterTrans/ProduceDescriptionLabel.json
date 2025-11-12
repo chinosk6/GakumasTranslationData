@@ -1210,7 +1210,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "受到强化状态或低下状态的影响，增加对象的效果"
+          "text": "不受强化状态或低下状态的影响，增加对象的效果"
         }
       ],
       "name": "倍"
@@ -1448,7 +1448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "受到强化状态或低下状态的影响"
+          "text": "不受强化状态或低下状态的影响，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5743,7 +5743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡所消耗的体力将"
+          "text": "技能卡消耗的体力将"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
