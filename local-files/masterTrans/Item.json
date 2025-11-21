@@ -234,6 +234,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-fix_5",
+      "name": "1.5th Anniversary纪念SSR必得票据",
+      "description": "可以在1.5th Anniversary纪念SSR必得票据扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-idol-fix_1",
       "name": "SSR P偶像必得扭蛋票据",
       "description": "可以在SSR P偶像必得扭蛋中使用的票据",
@@ -560,6 +566,24 @@
     {
       "id": "item-piece-idol_amao-3-015",
       "name": "[看着我]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-1-000",
+      "name": "[学园生活]雨夜燕的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-2-000",
+      "name": "[贯彻初志]雨夜燕的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-3-000",
+      "name": "[用理论武装]雨夜燕的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

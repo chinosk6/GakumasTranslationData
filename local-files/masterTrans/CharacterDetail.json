@@ -92,6 +92,84 @@
       "content": "以帅气偶像为目标的小巧三年级生。被后辈们仰慕为「小小的王子殿下」。\n自幼憧憬歌剧明星，曾作为童星活跃，\n但最近因理想形象与身体成长产生的落差而烦恼。"
     },
     {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "三年级生"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "169"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "51"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "80/55/82"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "金牛座"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "天音 由香里"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "17"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "5月20日"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "东京都"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "秘书综合技能、数学、书道"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "书道、历史（日本史）、读书"
+    },
+    {
       "characterId": "fktn",
       "type": "CharacterDetailType_Grade",
       "order": 1,

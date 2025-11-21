@@ -354,6 +354,10 @@
       "name": "SSR麻央获得B评价"
     },
     {
+      "id": "hidden_mission-normal-produce-clear-i_card-atbm-3-000-b",
+      "name": "SSR燕获得B评价"
+    },
+    {
       "id": "hidden_mission-normal-produce-clear-i_card-fktn-3-000-b",
       "name": "SSR琴音获得B评价"
     },
@@ -530,6 +534,10 @@
       "name": "观看麻央的A End"
     },
     {
+      "id": "hidden_mission-view-ending-normal-a-atbm",
+      "name": "观看燕的A End"
+    },
+    {
       "id": "hidden_mission-view-ending-normal-a-fktn",
       "name": "观看琴音的A End"
     },
@@ -572,6 +580,10 @@
     {
       "id": "hidden_mission-view-ending-normal-b-amao",
       "name": "观看麻央的B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-atbm",
+      "name": "观看燕的B End"
     },
     {
       "id": "hidden_mission-view-ending-normal-b-fktn",
@@ -618,6 +630,10 @@
       "name": "观看麻央的C End"
     },
     {
+      "id": "hidden_mission-view-ending-normal-c-atbm",
+      "name": "观看燕的C End"
+    },
+    {
       "id": "hidden_mission-view-ending-normal-c-fktn",
       "name": "观看琴音的C End"
     },
@@ -660,6 +676,10 @@
     {
       "id": "hidden_mission-view-ending-true-amao",
       "name": "观看麻央的True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-atbm",
+      "name": "观看燕的True End"
     },
     {
       "id": "hidden_mission-view-ending-true-fktn",
@@ -1323,7 +1343,7 @@
     },
     {
       "id": "mission-daily-incrementpvpratewincount-1",
-      "name": "挑战{threshold}次竞技场吧"
+      "name": "去挑战{threshold}次联合竞技吧"
     },
     {
       "id": "mission-daily-incrementreceivemoney-1",
@@ -3639,31 +3659,31 @@
     },
     {
       "id": "mission-normal-absolutepvprategrade-2",
-      "name": "在竞技场中到达等级2吧"
+      "name": "在联合竞技中达到Grade 2吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-3",
-      "name": "在竞技场中到达等级3吧"
+      "name": "在联合竞技中达到Grade 3吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-4",
-      "name": "在竞技场中到达等级4吧"
+      "name": "在联合竞技中达到Grade 4吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-5",
-      "name": "在竞技场中到达等级5吧"
+      "name": "在联合竞技中达到Grade 5吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-6",
-      "name": "在竞技场中到达等级6吧"
+      "name": "在联合竞技中达到Grade 6吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-7",
-      "name": "在竞技场中到达等级7吧"
+      "name": "在联合竞技中达到Grade 7吧"
     },
     {
       "id": "mission-normal-absolutepvprateunitoverallpower-1",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "mission-normal-absolutesupportcardcount-1",
@@ -3747,11 +3767,11 @@
     },
     {
       "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "mission-normal-incrementpvpratewincount-1",
-      "name": "在竞技场中获得{threshold}次胜利吧"
+      "name": "在联合竞技中获得{threshold}次胜利吧"
     },
     {
       "id": "mission-normal-incrementreceivemoney-1",
@@ -3854,6 +3874,10 @@
       "name": "麻央达成C评价"
     },
     {
+      "id": "mission-normal-produce-clear-atbm-c",
+      "name": "燕达成C评价"
+    },
+    {
       "id": "mission-normal-produce-clear-fktn-c",
       "name": "琴音达成C评价"
     },
@@ -3900,6 +3924,10 @@
     {
       "id": "mission-normal-profileupdate-1",
       "name": "设置个人资料吧"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_atbm-0001",
+      "name": "燕碎片礼包触发条件"
     },
     {
       "id": "mission-normal-view-shop_pack_hmsz-0001",
@@ -4083,7 +4111,7 @@
     },
     {
       "id": "mission-release_mission-3-3",
-      "name": "挑战{threshold}次竞技场吧"
+      "name": "在联合竞技中使用{threshold}次技能卡吧"
     },
     {
       "id": "mission-release_mission-3-4",
@@ -4506,6 +4534,10 @@
       "name": "完成{threshold}次SP课程吧"
     },
     {
+      "id": "mission-weekly-competitionplaycount-1",
+      "name": "去挑战{threshold}次联合竞技吧"
+    },
+    {
       "id": "mission-weekly-incrementgashadrawcount-1",
       "name": "抽取{threshold}次硬币扭蛋"
     },
@@ -4799,7 +4831,7 @@
     },
     {
       "id": "panel_mission-event-niv-mission_4",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "panel_mission-event-niv-mission_5",
@@ -4988,6 +5020,54 @@
     {
       "id": "achieve-i_card-amao-3-015-06",
       "name": "【看着我】有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-01",
+      "name": "【贯彻初志】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-02",
+      "name": "【贯彻初志】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-03",
+      "name": "【贯彻初志】雨夜燕的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-04",
+      "name": "【贯彻初志】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-05",
+      "name": "【贯彻初志】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-06",
+      "name": "【贯彻初志】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-01",
+      "name": "【用理论武装】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-02",
+      "name": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-03",
+      "name": "【用理论武装】雨夜燕的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-04",
+      "name": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-05",
+      "name": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-06",
+      "name": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
@@ -6791,51 +6871,55 @@
     },
     {
       "id": "achieve-m_amao-001",
-      "name": "有村麻央的成就★获得了{threshold}个"
+      "name": "获得{threshold}个有村麻央的成就之★"
+    },
+    {
+      "id": "achieve-m_atbm-001",
+      "name": "获得{threshold}个雨夜燕的成就之★"
     },
     {
       "id": "achieve-m_fktn-001",
-      "name": "藤田琴音的成就★获得了{threshold}个"
+      "name": "获得{threshold}个藤田琴音的成就之★"
     },
     {
       "id": "achieve-m_hmsz-001",
-      "name": "秦谷美铃的成就★获得了{threshold}个"
+      "name": "获得{threshold}个秦谷美铃的成就之★"
     },
     {
       "id": "achieve-m_hrnm-001",
-      "name": "姬崎莉波的成就★获得了{threshold}个"
+      "name": "获得{threshold}个姬崎莉波的成就之★"
     },
     {
       "id": "achieve-m_hski-001",
-      "name": "花海咲季的成就★获得了{threshold}个"
+      "name": "获得{threshold}个花海咲季的成就之★"
     },
     {
       "id": "achieve-m_hume-001",
-      "name": "花海佑芽的成就★获得了{threshold}个"
+      "name": "获得{threshold}个花海佑芽的成就之★"
     },
     {
       "id": "achieve-m_jsna-001",
-      "name": "十王星南的成就★获得了{threshold}个"
+      "name": "获得{threshold}个十王星南的成就之★"
     },
     {
       "id": "achieve-m_kcna-001",
-      "name": "仓本千奈的成就★获得了{threshold}个"
+      "name": "获得{threshold}个仓本千奈的成就之★"
     },
     {
       "id": "achieve-m_kllj-001",
-      "name": "葛城莉莉娅的成就★获得了{threshold}个"
+      "name": "获得{threshold}个葛城莉莉娅的成就之★"
     },
     {
       "id": "achieve-m_shro-001",
-      "name": "筱泽广的成就★获得了{threshold}个"
+      "name": "获得{threshold}个筱泽广的成就之★"
     },
     {
       "id": "achieve-m_ssmk-001",
-      "name": "紫云清夏的成就★获得了{threshold}个"
+      "name": "获得{threshold}个紫云清夏的成就之★"
     },
     {
       "id": "achieve-m_ttmr-001",
-      "name": "月村手毬的成就★获得了{threshold}个"
+      "name": "获得{threshold}个月村手毬的成就之★"
     },
     {
       "id": "achieve-o_001",
@@ -6891,51 +6975,51 @@
     },
     {
       "id": "achieve-o_016",
-      "name": "在竞技场中达到1级"
+      "name": "在竞技场中达到Grade 1"
     },
     {
       "id": "achieve-o_017",
-      "name": "在竞技场中达到2级"
+      "name": "在竞技场中达到Grade 2"
     },
     {
       "id": "achieve-o_018",
-      "name": "在竞技场中达到3级"
+      "name": "在竞技场中达到Grade 3"
     },
     {
       "id": "achieve-o_019",
-      "name": "在竞技场中达到4级"
+      "name": "在竞技场中达到Grade 4"
     },
     {
       "id": "achieve-o_020",
-      "name": "在竞技场中达到5级"
+      "name": "在竞技场中达到Grade 5"
     },
     {
       "id": "achieve-o_021",
-      "name": "在竞技场中达到6级"
+      "name": "在竞技场中达到Grade 6"
     },
     {
       "id": "achieve-o_022",
-      "name": "在竞技场中达到7级"
+      "name": "在竞技场中达到Grade 7"
     },
     {
       "id": "achieve-o_023",
-      "name": "在竞技场中获得{threshold}分以上"
+      "name": "在竞技场中获得10,000以上的分数"
     },
     {
       "id": "achieve-o_024",
-      "name": "在竞技场中获得{threshold}分以上"
+      "name": "在竞技场中获得30,000以上的分数"
     },
     {
       "id": "achieve-o_025",
-      "name": "在竞技场中获得{threshold}分以上"
+      "name": "在竞技场中获得60,000以上的分数"
     },
     {
       "id": "achieve-o_026",
-      "name": "在竞技场7级中获得第1名"
+      "name": "在竞技场Grade 7中获得第1名"
     },
     {
       "id": "achieve-o_027",
-      "name": "在竞技场7级中进入前100名"
+      "name": "在竞技场Grade 7中进入前100名"
     },
     {
       "id": "achieve-p_common-001",
@@ -7144,6 +7228,86 @@
     {
       "id": "achieve-p_idol-amao-022",
       "name": "有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000",
+      "name": "观看雨夜燕的True End"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000-1",
+      "name": "观看雨夜燕的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-atbm-001",
+      "name": "在雨夜燕的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-002",
+      "name": "使用雨夜燕完成{threshold}次课程"
+    },
+    {
+      "id": "achieve-p_idol-atbm-003",
+      "name": "使用雨夜燕完成{threshold}次SP课程"
+    },
+    {
+      "id": "achieve-p_idol-atbm-004",
+      "name": "使用雨夜燕通过最终考试并获得{threshold}次B以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-005",
+      "name": "使用雨夜燕通过最终考试并获得{threshold}次A以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-006",
+      "name": "使用雨夜燕通过最终考试并获得{threshold}次S以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-007",
+      "name": "完成雨夜燕的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-008",
+      "name": "雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-atbm-009",
+      "name": "在雨夜燕的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "achieve-p_idol-atbm-010",
+      "name": "雨夜燕获得{threshold}粉丝"
+    },
+    {
+      "id": "achieve-p_idol-atbm-011",
+      "name": "将雨夜燕的亲密度提升至Lv{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-012",
+      "name": "在雨夜燕的培育中使用P饮料{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-013",
+      "name": "在雨夜燕的培育中累计获得{threshold}点元气"
+    },
+    {
+      "id": "achieve-p_idol-atbm-014",
+      "name": "将雨夜燕的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-atbm-015",
+      "name": "在「偶像之路」中获得{threshold}个★的完成条件"
+    },
+    {
+      "id": "achieve-p_idol-atbm-016",
+      "name": "使用雨夜燕通过最终考试并获得S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-017",
+      "name": "在雨夜燕的定期公演『初』难易度：Master下获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-atbm-020",
+      "name": "使用雨夜燕通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -7599,7 +7763,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-011",
-      "name": "将姬崎莉波的亲密度提升至{threshold}级"
+      "name": "将姬崎莉波的亲密度提升至Lv{threshold}"
     },
     {
       "id": "achieve-p_idol-hrnm-012",
@@ -7883,7 +8047,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-011",
-      "name": "将十王星南的亲密度提升至{threshold}级"
+      "name": "将十王星南的亲密度提升至Lv{threshold}"
     },
     {
       "id": "achieve-p_idol-jsna-012",
@@ -7975,7 +8139,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-011",
-      "name": "将仓本千奈的亲密度提升至{threshold}级"
+      "name": "将仓本千奈的亲密度提升至Lv{threshold}"
     },
     {
       "id": "achieve-p_idol-kcna-012",
@@ -8347,7 +8511,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-011",
-      "name": "将月村手毬的亲密度提升至{threshold}级"
+      "name": "将月村手毬的亲密度提升至Lv{threshold}"
     },
     {
       "id": "achieve-p_idol-ttmr-012",
@@ -8507,7 +8671,7 @@
     },
     {
       "id": "main_task_group-01-01#26",
-      "name": "去编成竞技场队伍吧"
+      "name": "去联合竞技编成队伍吧"
     },
     {
       "id": "main_task_group-01-01#27",
@@ -8595,7 +8759,7 @@
     },
     {
       "id": "main_task_group-01-01#48",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-01-01#49",
@@ -8647,7 +8811,7 @@
     },
     {
       "id": "main_task_group-02-01#1",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#2",
@@ -8659,7 +8823,7 @@
     },
     {
       "id": "main_task_group-02-01#4",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-02-01#5",
@@ -8727,11 +8891,11 @@
     },
     {
       "id": "main_task_group-02-01#21",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-02-01#22",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#23",
@@ -8751,7 +8915,7 @@
     },
     {
       "id": "main_task_group-02-01#27",
-      "name": "去挑战竞技场吧"
+      "name": "在联合竞技中使用{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-02-01#28",
@@ -8767,7 +8931,7 @@
     },
     {
       "id": "main_task_group-02-01#31",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-02-01#32",
@@ -8795,7 +8959,7 @@
     },
     {
       "id": "main_task_group-02-01#38",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#39",
@@ -8811,7 +8975,7 @@
     },
     {
       "id": "main_task_group-02-01#42",
-      "name": "去挑战竞技场吧"
+      "name": "在联合竞技中使用{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-02-01#43",
@@ -8839,7 +9003,7 @@
     },
     {
       "id": "main_task_group-02-01#49",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-02-01#50",
@@ -8867,11 +9031,11 @@
     },
     {
       "id": "main_task_group-02-01#56",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#57",
-      "name": "去挑战竞技场吧"
+      "name": "在联合竞技中使用{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-02-01#58",
@@ -8895,7 +9059,7 @@
     },
     {
       "id": "main_task_group-02-01#63",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-02-01#64",
@@ -8931,7 +9095,7 @@
     },
     {
       "id": "main_task_group-02-01#72",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#73",
@@ -8947,7 +9111,7 @@
     },
     {
       "id": "main_task_group-02-01#76",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-02-01#77",
@@ -8963,7 +9127,7 @@
     },
     {
       "id": "main_task_group-02-01#80",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#81",
@@ -8991,7 +9155,7 @@
     },
     {
       "id": "main_task_group-02-01#87",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-02-01#88",
@@ -9103,7 +9267,7 @@
     },
     {
       "id": "main_task_group-03-01#15",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-03-01#16",
@@ -9123,7 +9287,7 @@
     },
     {
       "id": "main_task_group-03-01#20",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#21",
@@ -9143,7 +9307,7 @@
     },
     {
       "id": "main_task_group-03-01#25",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-03-01#26",
@@ -9167,7 +9331,7 @@
     },
     {
       "id": "main_task_group-03-01#31",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#32",
@@ -9187,7 +9351,7 @@
     },
     {
       "id": "main_task_group-03-01#36",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-03-01#37",
@@ -9259,15 +9423,15 @@
     },
     {
       "id": "main_task_group-03-01#54",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#55",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-03-01#56",
-      "name": "去挑战竞技场吧"
+      "name": "在联合竞技中使用{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-03-01#57",
@@ -9291,11 +9455,11 @@
     },
     {
       "id": "main_task_group-03-01#62",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#63",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-03-01#64",
@@ -9343,11 +9507,11 @@
     },
     {
       "id": "main_task_group-03-01#75",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#76",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-03-01#77",
@@ -9427,11 +9591,11 @@
     },
     {
       "id": "main_task_group-03-01#96",
-      "name": "将竞技场的组合综合实力提升至{threshold}以上吧"
+      "name": "让联合竞技的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#97",
-      "name": "在竞技场中获得{threshold}以上的分数吧"
+      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
     },
     {
       "id": "main_task_group-03-01#98",

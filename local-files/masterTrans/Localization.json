@@ -18,6 +18,14 @@
       "description": "训练Pt不足。"
     },
     {
+      "id": "competition.rehearsal_battle_confirm.label.description",
+      "description": "※不会消耗挑战次数 / 不会获得评价Pt"
+    },
+    {
+      "id": "competition.unit.score",
+      "description": "Pt"
+    },
+    {
       "id": "dearness.dearness_level_detail_sheet.title",
       "description": "亲密度Lv详情"
     },
@@ -28,6 +36,10 @@
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
       "description": "获得作为目标的P偶像后"
+    },
+    {
+      "id": "home.pvp.contest.out_of_term_toast",
+      "description": "不在举办期间"
     },
     {
       "id": "idol_dearness.step3_condition",
@@ -80,6 +92,10 @@
     {
       "id": "setting.produce.legend_card_get_confirm.description",
       "description": "计划在今后的更新中添加。"
+    },
+    {
+      "id": "shop.web_store.confirm.description",
+      "description": "是否打开网页浏览器？\\n出生日期可以在【菜单 > 其他 > 输入出生日期】中进行设置。"
     },
     {
       "id": "voice.idol_use_produce_card",

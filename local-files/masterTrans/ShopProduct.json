@@ -1,0 +1,65 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "coin_0001",
+      "recoverName": "宝石80个"
+    },
+    {
+      "id": "coin_0002",
+      "recoverName": "宝石360个"
+    },
+    {
+      "id": "coin_0003",
+      "recoverName": "宝石600个"
+    },
+    {
+      "id": "coin_0004",
+      "recoverName": "宝石1,200个"
+    },
+    {
+      "id": "coin_0005",
+      "recoverName": "宝石2,500个"
+    },
+    {
+      "id": "coin_0006",
+      "recoverName": "宝石4,000个"
+    },
+    {
+      "id": "coin_0007",
+      "recoverName": "宝石8,200个"
+    },
+    {
+      "id": "coin_0008",
+      "recoverName": "宝石12,300个"
+    },
+    {
+      "id": "coin_0009",
+      "recoverName": "宝石450个"
+    },
+    {
+      "id": "coin_0010",
+      "recoverName": "宝石6,000个"
+    },
+    {
+      "id": "coin_0011",
+      "recoverName": "宝石12,300个"
+    },
+    {
+      "id": "coin_0012",
+      "recoverName": "宝石6,000个"
+    },
+    {
+      "id": "pass_0001",
+      "recoverName": "高级任务通行证"
+    },
+    {
+      "id": "pass_0002",
+      "recoverName": "高级任务通行证"
+    }
+  ]
+}

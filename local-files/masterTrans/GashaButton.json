@@ -191,6 +191,12 @@
       "order": 1,
       "name": "用SSR必得票据抽取",
       "description": "SSR支援卡必得单抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button-5",
+      "order": 1,
+      "name": "用1.5th Anniversary纪念SSR必得票据抽取",
+      "description": "SSR必得单抽"
     }
   ]
 }

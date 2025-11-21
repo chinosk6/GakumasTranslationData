@@ -1,0 +1,73 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "CardPlayAggressive_group_20",
+      "description": "推荐围绕『增加干劲』的技能卡进行构筑"
+    },
+    {
+      "id": "CardPlayAggressive_group_35",
+      "description": "推荐围绕『增加干劲』的技能卡进行构筑"
+    },
+    {
+      "id": "CardPlayAggressive_Review_group_20",
+      "description": "推荐以『增加干劲』的技能卡为中心，同时搭配『增加好印象』的技能卡进行构筑"
+    },
+    {
+      "id": "CardPlayAggressive_Review_group_35",
+      "description": "推荐以『增加干劲』的技能卡为中心，同时搭配『增加好印象』的技能卡进行构筑"
+    },
+    {
+      "id": "Concentration_group_20",
+      "description": "推荐围绕『变更为强气』和『变更为温存』的技能卡进行平衡构筑"
+    },
+    {
+      "id": "Concentration_group_35",
+      "description": "推荐围绕『变更为强气』和『变更为温存』的技能卡进行平衡构筑"
+    },
+    {
+      "id": "FullPower_group_20",
+      "description": "推荐以『增加全力值』的技能卡为中心，同时搭配『变更为温存』的技能卡进行构筑"
+    },
+    {
+      "id": "FullPower_group_35",
+      "description": "推荐以『增加全力值』的技能卡为中心，同时搭配『变更为温存』的技能卡进行构筑"
+    },
+    {
+      "id": "LessonBuff_group_20",
+      "description": "推荐围绕『增加集中』和『增加好调』的技能卡进行平衡构筑"
+    },
+    {
+      "id": "LessonBuff_group_35",
+      "description": "推荐围绕『增加集中』和『增加好调』的技能卡进行平衡构筑"
+    },
+    {
+      "id": "ParameterBuff_group_20",
+      "description": "推荐围绕『增加好调』和『增加集中』的技能卡进行平衡构筑"
+    },
+    {
+      "id": "ParameterBuff_group_35",
+      "description": "推荐围绕『增加好调』和『增加集中』的技能卡进行平衡构筑"
+    },
+    {
+      "id": "Review_CardPlayAggressive_group_20",
+      "description": "推荐以『增加好印象』的技能卡为中心，同时搭配『增加干劲』的技能卡进行构筑"
+    },
+    {
+      "id": "Review_CardPlayAggressive_group_35",
+      "description": "推荐以『增加好印象』的技能卡为中心，同时搭配『增加干劲』的技能卡进行构筑"
+    },
+    {
+      "id": "Review_group_20",
+      "description": "推荐围绕『增加好印象』的技能卡进行构筑"
+    },
+    {
+      "id": "Review_group_35",
+      "description": "推荐围绕『增加好印象』的技能卡进行构筑"
+    }
+  ]
+}

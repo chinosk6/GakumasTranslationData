@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "produce_season-00",
+      "name": "赛季0"
+    },
+    {
+      "id": "produce_season-01",
+      "name": "赛季1"
+    }
+  ]
+}

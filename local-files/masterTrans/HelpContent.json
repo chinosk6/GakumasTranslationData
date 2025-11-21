@@ -134,6 +134,72 @@
       "name": "活动交流"
     },
     {
+      "helpCategoryId": "help-competition",
+      "id": "competition-competition",
+      "order": 1,
+      "name": "联合竞技"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-competition-ranking",
+      "order": 10,
+      "name": "联合竞技排行榜"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-grade",
+      "order": 8,
+      "name": "Grade"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-preparation-period",
+      "order": 7,
+      "name": "举办准备期间"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-rate-pt",
+      "order": 9,
+      "name": "个人组合"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-rehearsal",
+      "order": 11,
+      "name": "彩排"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-rule",
+      "order": 2,
+      "name": "联合竞技的规则"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-season",
+      "order": 6,
+      "name": "赛季"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-squad",
+      "order": 3,
+      "name": "编成"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-stage",
+      "order": 4,
+      "name": "舞台"
+    },
+    {
+      "helpCategoryId": "help-competition",
+      "id": "competition-total",
+      "order": 5,
+      "name": "综合实力"
+    },
+    {
       "helpCategoryId": "help-contest",
       "id": "contest-contest",
       "order": 1,
@@ -149,19 +215,19 @@
       "helpCategoryId": "help-contest",
       "id": "contest-grade",
       "order": 8,
-      "name": "段位"
+      "name": "Grade"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-preparation-period",
       "order": 7,
-      "name": "举行准备期间"
+      "name": "举办准备期间"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-rate-pt",
       "order": 9,
-      "name": "等级Pt"
+      "name": "评价Pt"
     },
     {
       "helpCategoryId": "help-contest",
@@ -191,7 +257,7 @@
       "helpCategoryId": "help-contest",
       "id": "contest-total",
       "order": 5,
-      "name": "综合能力"
+      "name": "综合实力"
     },
     {
       "helpCategoryId": "help-dearness-doost-campaign",
@@ -1038,12 +1104,6 @@
       "id": "produce-produce-2",
       "order": 38,
       "name": "NEXT IDOL AUDITION"
-    },
-    {
-      "helpCategoryId": "help-produce",
-      "id": "produce-produce-2-master-ranking",
-      "order": 48,
-      "name": "N.I.A MASTER排行榜"
     },
     {
       "helpCategoryId": "help-produce",

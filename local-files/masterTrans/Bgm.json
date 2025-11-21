@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "page"
+    ]
+  },
+  "data": [
+    {
+      "page": "StoryEventTop",
+      "name": "主页"
+    },
+    {
+      "page": "TowerTop",
+      "name": "偶像之路TOP"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "mission-group-comeback_daily_release_mission_001_daily",
+      "name": "回归任务"
+    },
+    {
+      "id": "mission-group-daily_mission_NIA_clear_daily",
+      "name": "「N.I.A」培育挑战任务"
+    },
+    {
+      "id": "mission-group-highscore-event-003_daily",
+      "name": "活动任务"
+    },
+    {
+      "id": "mission-group-highscore-event-004_daily",
+      "name": "活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-001_daily",
+      "name": "十王邦夫的偶像强化月・改"
+    },
+    {
+      "id": "mission-group-highscorerush-event-002_daily",
+      "name": "活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-003_daily",
+      "name": "活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-004_daily",
+      "name": "活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-005_daily",
+      "name": "活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_daily",
+      "name": "活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-007_daily",
+      "name": "活动任务"
+    },
+    {
+      "id": "mission-group-main-story-event-001_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-002_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-003_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-004_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-005_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-006_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-007_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-008_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-009_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-group-main-story-event-010_daily",
+      "name": "初星交流活动"
+    },
+    {
+      "id": "mission-release_memorial_group",
+      "name": "入学纪念任务"
+    }
+  ]
+}

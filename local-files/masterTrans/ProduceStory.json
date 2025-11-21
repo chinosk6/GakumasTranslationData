@@ -69,6 +69,61 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story_002_atbm_after-audition-a-normal-02",
+      "title": "现在才刚要开始！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-a-normal-03",
+      "title": "现在才刚要开始",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-b-normal-02",
+      "title": "更进一步！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-b-normal-03",
+      "title": "更进一步",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-final-failure-01",
+      "title": "再次一起",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-final-normal-01",
+      "title": "向更高峰！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-mid-failure-01",
+      "title": "下次一定会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_before-audition-a-normal-01",
+      "title": "干劲十足吗？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_before-audition-b-normal-01",
+      "title": "准备万全了吗？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_ending-normal-02",
+      "title": "Normal End",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_opening-normal-02",
+      "title": "目标是称霸『N.I.A』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story_002_fktn_after-audition-a-normal-02",
       "title": "现在才刚要开始！",
       "produceEventHintProduceConditionDescriptions": [
@@ -990,6 +1045,237 @@
       "title": "为了更接近梦想",
       "produceEventHintProduceConditionDescriptions": [
         "观看有村麻央的True End"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-failure-01",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试不合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-normal-01",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-normal-02",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-normal-03",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第3名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-normal-04",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-failure-01",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-normal-01",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "期中考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-normal-02",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "期中考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-normal-03",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "期中考试以第3名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-normal-04",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-after-step-1-normal-01",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度7以上",
+        "在培育考试前将所有能力值达到审查标准的80%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-step-1-normal-02",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "在培育考试前将所有能力值达到审查标准的50%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-step-1-normal-03",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-after-step-2-normal-01",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度7以上",
+        "在培育考试前将所有能力值达到审查标准的80%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-step-2-normal-02",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "在培育考试前将所有能力值达到审查标准的50%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-step-2-normal-03",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-before-audition-final-normal-01",
+      "title": "出发！ 迎接最终考试",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-before-audition-mid-normal-01",
+      "title": "出发！ 参加期中考试",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-01",
+      "title": "【A End】这是很自然的追求",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-02",
+      "title": "【B End】过重的期待",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-03",
+      "title": "【C End】将命运托付的觉悟",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-04",
+      "title": "【D End】不可以逃避",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试中获得第4名或第5名"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-05",
+      "title": "【E End】赌上生命的承诺",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试中获得第6名"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-true-01",
+      "title": "True End",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试以第1名合格",
+        "获得成就「一切都是顶级」",
+        "获得成就「你要支持我到底」",
+        "获得成就「学园No.2的实力」"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-fb-01",
+      "title": "钻研向上",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-fb-02",
+      "title": "坚如磐石",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-fb-03",
+      "title": "临战态势",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-01",
+      "title": "培育开始！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-02",
+      "title": "雨夜燕启动！",
+      "produceEventHintProduceConditionDescriptions": [
+        "开始培育"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-03",
+      "title": "雨夜燕启动！",
+      "produceEventHintProduceConditionDescriptions": [
+        "开始培育"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-04",
+      "title": "雨夜燕启动！",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-05",
+      "title": "雨夜燕启动！",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-true-01",
+      "title": "为了更接近梦想",
+      "produceEventHintProduceConditionDescriptions": [
+        "观看雨夜燕的True End"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-true-02",
+      "title": "为了更接近梦想",
+      "produceEventHintProduceConditionDescriptions": [
+        "观看雨夜燕的True End"
       ]
     },
     {
@@ -3696,6 +3982,171 @@
     {
       "id": "p_story-event-001_amao_school_011",
       "title": "麻央的训练",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_001",
+      "title": "燕秘书",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_002",
+      "title": "今天的题目是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_003",
+      "title": "忍者是何者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_004",
+      "title": "甜味的诱惑",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_005",
+      "title": "推荐的店铺是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_006",
+      "title": "君子不立『昆虫』之下",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_007",
+      "title": "要点什么荞麦面呢？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_008",
+      "title": "要看什么电影呢？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_009",
+      "title": "我的伙伴其名为……！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_010",
+      "title": "睡眠不足的理由是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_011",
+      "title": "突击，女仆咖啡厅！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_012",
+      "title": "换了衣服的雨夜同学",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_013",
+      "title": "喜欢来河岸边吗？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_014",
+      "title": "修行书道之人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_015",
+      "title": "被揭露的粉丝之魂",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_016",
+      "title": "雨夜燕的日常",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_017-01",
+      "title": "Fighting Game！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_017-02",
+      "title": "Fighting Game！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_018-01",
+      "title": "挑战，百番赏！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_018-02",
+      "title": "挑战，百番赏！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_019",
+      "title": "注意仪容！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_020",
+      "title": "饭团是什么口味？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_001",
+      "title": "燕与学习",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_002",
+      "title": "燕是哪类偶像？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_003",
+      "title": "不错的信赖关系？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_004",
+      "title": "紧握缰绳",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_005",
+      "title": "三座『白』城",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_006",
+      "title": "价值的变迁",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_007",
+      "title": "毛笔字大师的名字是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_008",
+      "title": "非正非负的数字",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_009",
+      "title": "精明秘书，雨夜燕",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_010",
+      "title": "宿命之战！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_011",
+      "title": "训练是什么？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -9939,6 +10390,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-atbm-3-000-01",
+      "title": "用理论武装 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-000-02",
+      "title": "用理论武装 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-000-03",
+      "title": "用理论武装 第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-fktn-3-000-01",
       "title": "世界第一可爱的我 第1话",
       "produceEventHintProduceConditionDescriptions": []
@@ -11139,6 +11605,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-1-0012-01",
+      "title": "备受期待的一年级生",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-1-0012-02",
+      "title": "考试结果，发表！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-2-0000-01",
       "title": "亲爱的拥抱……？",
       "produceEventHintProduceConditionDescriptions": []
@@ -11736,6 +12212,16 @@
     {
       "id": "p_story-s_card-2-0065-02",
       "title": "王子大人意外的一面",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0066-01",
+      "title": "金光闪闪的龙",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0066-02",
+      "title": "先作为偶像全力以赴",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12909,6 +13395,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-3-0079-01",
+      "title": "令人头疼却又能干的后辈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0079-02",
+      "title": "午睡与偶尔的训练",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0079-03",
+      "title": "副会长的请求",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0080-01",
       "title": "抓娃娃达人——清夏",
       "produceEventHintProduceConditionDescriptions": []
@@ -12991,6 +13492,56 @@
     {
       "id": "story-dearness-amao-010-1",
       "title": "第10.5话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-001",
+      "title": "第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-002",
+      "title": "第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-003",
+      "title": "第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-004",
+      "title": "第4话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-005",
+      "title": "第5话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-006",
+      "title": "第6话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-007",
+      "title": "第7话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-008",
+      "title": "第8话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-009",
+      "title": "第9话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-010",
+      "title": "第10话",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
