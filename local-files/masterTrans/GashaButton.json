@@ -13,6 +13,12 @@
       "description": "10连扭蛋"
     },
     {
+      "id": "gasha_button_animate-ssr-00630",
+      "order": 1,
+      "name": "有偿10连扭蛋",
+      "description": "有偿10连扭蛋"
+    },
+    {
       "id": "gasha_button_merge-ssr-00530",
       "order": 1,
       "name": "有偿10连扭蛋",
@@ -71,6 +77,12 @@
       "order": 3,
       "name": "10连票据扭蛋",
       "description": "10连票据扭蛋"
+    },
+    {
+      "id": "gasha_button-640-fes",
+      "order": 1,
+      "name": "5次扭蛋",
+      "description": "5次扭蛋"
     },
     {
       "id": "gasha_button-free-10-01",
@@ -178,6 +190,12 @@
       "id": "gasha_ticket_ssr_button_idol_2",
       "order": 1,
       "name": "用The 1st Period 公演纪念 SSR P偶像确定票据抽取",
+      "description": "SSR必得单抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button_seasons-2511-001",
+      "order": 1,
+      "name": "用1.5th Anniversary纪念季节限定SSR必得票据抽取",
       "description": "SSR必得单抽"
     },
     {

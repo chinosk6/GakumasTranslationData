@@ -318,6 +318,70 @@
       "name": "在紫云清夏的培育中自定义{threshold}次技能卡吧"
     },
     {
+      "id": "hidden_mission-achieve-o_014_001",
+      "name": "在联合竞技中取得第一名吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_014_002",
+      "name": "在竞技场中取得第一名吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_016_001",
+      "name": "在联合竞技中达到Grade 1吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_016_002",
+      "name": "在竞技场中达到Grade 1吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_017_001",
+      "name": "在联合竞技中达到Grade 2吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_017_002",
+      "name": "在竞技场中达到Grade 2吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_018_001",
+      "name": "在联合竞技中达到Grade 3吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_018_002",
+      "name": "在竞技场中达到Grade 3吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_019_001",
+      "name": "在联合竞技中达到Grade 4吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_019_002",
+      "name": "在竞技场中达到Grade 4吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_020_001",
+      "name": "在联合竞技中达到Grade 5吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_020_002",
+      "name": "在竞技场中达到Grade 5吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_021_001",
+      "name": "在联合竞技中达到Grade 6吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_021_002",
+      "name": "在竞技场中达到Grade 6吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_022_001",
+      "name": "在联合竞技中达到Grade 7吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_022_002",
+      "name": "在竞技场中达到Grade 7吧"
+    },
+    {
       "id": "hidden_mission-app-review-main-task-clear",
       "name": "课题14未通关"
     },
@@ -779,15 +843,19 @@
     },
     {
       "id": "hidden_mission-view-gasha-00420-free-10-004",
-      "name": "抽取{threshold}次最多100连无料！1st Anniversary10连无料扭蛋"
+      "name": "去抽取{threshold}次最多100连无料！1st Anniversary10连无料扭蛋吧"
     },
     {
       "id": "hidden_mission-view-gasha-00420-ssr-idol-support-1",
-      "name": "抽取{threshold}次'24季节限定 SSR确定10连扭蛋"
+      "name": "去抽取{threshold}次'24季节限定 SSR确定10连扭蛋吧"
     },
     {
       "id": "hidden_mission-view-gasha-00540-free-10-005",
-      "name": "抽取{threshold}次来自亚纱里老师的礼物！最多100连无料！10连无料扭蛋"
+      "name": "去抽取{threshold}次来自亚纱里老师的礼物！最多100连无料！10连无料扭蛋吧"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00640-pickup-002",
+      "name": "去抽取{threshold}次1.5th纪念 季节限定&Re;IRIS登场！SSR15%扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
@@ -799,7 +867,7 @@
     },
     {
       "id": "mission-box-gasha-event-001-mission_3",
-      "name": "抽取{threshold}次活动扭蛋"
+      "name": "去抽取{threshold}次活动扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-001-mission_4",
@@ -819,7 +887,7 @@
     },
     {
       "id": "mission-box-gasha-event-002-mission_3",
-      "name": "抽取{threshold}次活动扭蛋"
+      "name": "去抽取{threshold}次活动扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-002-mission_4",
@@ -839,7 +907,7 @@
     },
     {
       "id": "mission-box-gasha-event-003-mission_3",
-      "name": "抽取{threshold}次活动扭蛋"
+      "name": "去抽取{threshold}次活动扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-003-mission_4",
@@ -859,7 +927,7 @@
     },
     {
       "id": "mission-box-gasha-event-004-mission_3",
-      "name": "抽取{threshold}次活动BOX扭蛋吧"
+      "name": "去抽取{threshold}次活动BOX扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-004-mission_4",
@@ -879,7 +947,7 @@
     },
     {
       "id": "mission-box-gasha-event-005-mission_3",
-      "name": "抽取{threshold}次活动BOX扭蛋吧"
+      "name": "去抽取{threshold}次活动BOX扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-005-mission_4",
@@ -899,7 +967,7 @@
     },
     {
       "id": "mission-box-gasha-event-006-mission_3",
-      "name": "抽取{threshold}次活动BOX扭蛋吧"
+      "name": "去抽取{threshold}次活动BOX扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-006-mission_4",
@@ -919,7 +987,7 @@
     },
     {
       "id": "mission-box-gasha-event-007-mission_3",
-      "name": "抽取{threshold}次活动BOX扭蛋吧"
+      "name": "去抽取{threshold}次活动BOX扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-007-mission_4",
@@ -939,7 +1007,7 @@
     },
     {
       "id": "mission-box-gasha-event-015-mission_3",
-      "name": "抽取{threshold}次活动BOX扭蛋吧"
+      "name": "去抽取{threshold}次活动BOX扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-015-mission_4",
@@ -959,7 +1027,7 @@
     },
     {
       "id": "mission-box-gasha-event-019-mission_3",
-      "name": "抽取{threshold}次活动BOX扭蛋吧"
+      "name": "去抽取{threshold}次活动BOX扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-019-mission_4",
@@ -1007,7 +1075,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_15",
-      "name": "抽取{threshold}次硬币扭蛋"
+      "name": "去抽取{threshold}次硬币扭蛋吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_16",
@@ -1031,7 +1099,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_25",
-      "name": "抽取{threshold}次硬币扭蛋"
+      "name": "去抽取{threshold}次硬币扭蛋吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_26",
@@ -1331,7 +1399,7 @@
     },
     {
       "id": "mission-daily-incrementgashadrawcount-1",
-      "name": "抽取{threshold}次硬币扭蛋"
+      "name": "去抽取{threshold}次硬币扭蛋吧"
     },
     {
       "id": "mission-daily-incrementmoneyexchangecount-1",
@@ -1343,7 +1411,7 @@
     },
     {
       "id": "mission-daily-incrementpvpratewincount-1",
-      "name": "去挑战{threshold}次联合竞技吧"
+      "name": "去挑战{threshold}次竞技场吧"
     },
     {
       "id": "mission-daily-incrementreceivemoney-1",
@@ -3659,31 +3727,31 @@
     },
     {
       "id": "mission-normal-absolutepvprategrade-2",
-      "name": "在联合竞技中达到Grade 2吧"
+      "name": "在竞技场中达到Grade 2吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-3",
-      "name": "在联合竞技中达到Grade 3吧"
+      "name": "在竞技场中达到Grade 3吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-4",
-      "name": "在联合竞技中达到Grade 4吧"
+      "name": "在竞技场中达到Grade 4吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-5",
-      "name": "在联合竞技中达到Grade 5吧"
+      "name": "在竞技场中达到Grade 5吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-6",
-      "name": "在联合竞技中达到Grade 6吧"
+      "name": "在竞技场中达到Grade 6吧"
     },
     {
       "id": "mission-normal-absolutepvprategrade-7",
-      "name": "在联合竞技中达到Grade 7吧"
+      "name": "在竞技场中达到Grade 7吧"
     },
     {
       "id": "mission-normal-absolutepvprateunitoverallpower-1",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "mission-normal-absolutesupportcardcount-1",
@@ -3699,7 +3767,7 @@
     },
     {
       "id": "mission-normal-incrementgashadrawcount-1",
-      "name": "抽取{threshold}次硬币扭蛋"
+      "name": "去抽取{threshold}次硬币扭蛋吧"
     },
     {
       "id": "mission-normal-incrementguilddonationcount-1",
@@ -3767,11 +3835,11 @@
     },
     {
       "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "mission-normal-incrementpvpratewincount-1",
-      "name": "在联合竞技中获得{threshold}次胜利吧"
+      "name": "在竞技场中获得{threshold}次胜利吧"
     },
     {
       "id": "mission-normal-incrementreceivemoney-1",
@@ -4111,7 +4179,7 @@
     },
     {
       "id": "mission-release_mission-3-3",
-      "name": "在联合竞技中使用{threshold}次技能卡吧"
+      "name": "去挑战{threshold}次竞技场吧"
     },
     {
       "id": "mission-release_mission-3-4",
@@ -4482,6 +4550,30 @@
       "name": "完成{threshold}次SP课程吧"
     },
     {
+      "id": "mission-story-event-010-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-story-event-010-mission_2",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-story-event-010-mission_3",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-story-event-010-mission_4",
+      "name": "在培育的咨询中兑换{threshold}次吧"
+    },
+    {
+      "id": "mission-story-event-010-mission_5",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-story-event-010-mission_6",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
       "id": "mission-story-event-013-mission_1",
       "name": "登录{threshold}天吧"
     },
@@ -4539,7 +4631,7 @@
     },
     {
       "id": "mission-weekly-incrementgashadrawcount-1",
-      "name": "抽取{threshold}次硬币扭蛋"
+      "name": "去抽取{threshold}次硬币扭蛋吧"
     },
     {
       "id": "mission-weekly-incrementlogincount-1",
@@ -4555,7 +4647,7 @@
     },
     {
       "id": "mission-weekly-incrementpvpratewincount-1",
-      "name": "挑战{threshold}次竞技场吧"
+      "name": "去挑战{threshold}次竞技场吧"
     },
     {
       "id": "mission-weekly-incrementsupportcardenhancecount-1",
@@ -4831,7 +4923,7 @@
     },
     {
       "id": "panel_mission-event-niv-mission_4",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "panel_mission-event-niv-mission_5",
@@ -5836,6 +5928,30 @@
     {
       "id": "achieve-i_card-hume-3-006-06",
       "name": "【Campus mode!!】花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-01",
+      "name": "【GUSUPI】花海佑芽的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-02",
+      "name": "【GUSUPI】花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-03",
+      "name": "【GUSUPI】花海佑芽的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-04",
+      "name": "【GUSUPI】花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-05",
+      "name": "【GUSUPI】花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-06",
+      "name": "【GUSUPI】花海佑芽的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hume-3-012-01",
@@ -8635,7 +8751,7 @@
     },
     {
       "id": "main_task_group-01-01#17",
-      "name": "去感性扭蛋抽取1次吧"
+      "name": "去抽取1次感性扭蛋吧"
     },
     {
       "id": "main_task_group-01-01#18",
@@ -8655,7 +8771,7 @@
     },
     {
       "id": "main_task_group-01-01#22",
-      "name": "去理性扭蛋抽取1次吧"
+      "name": "去抽取1次理性扭蛋吧"
     },
     {
       "id": "main_task_group-01-01#23",
@@ -8671,7 +8787,7 @@
     },
     {
       "id": "main_task_group-01-01#26",
-      "name": "去联合竞技编成队伍吧"
+      "name": "去竞技场编成队伍吧"
     },
     {
       "id": "main_task_group-01-01#27",
@@ -8759,7 +8875,7 @@
     },
     {
       "id": "main_task_group-01-01#48",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-01-01#49",
@@ -8811,7 +8927,7 @@
     },
     {
       "id": "main_task_group-02-01#1",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#2",
@@ -8823,7 +8939,7 @@
     },
     {
       "id": "main_task_group-02-01#4",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-02-01#5",
@@ -8891,11 +9007,11 @@
     },
     {
       "id": "main_task_group-02-01#21",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-02-01#22",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#23",
@@ -8931,7 +9047,7 @@
     },
     {
       "id": "main_task_group-02-01#31",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-02-01#32",
@@ -8959,7 +9075,7 @@
     },
     {
       "id": "main_task_group-02-01#38",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#39",
@@ -9003,7 +9119,7 @@
     },
     {
       "id": "main_task_group-02-01#49",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-02-01#50",
@@ -9031,7 +9147,7 @@
     },
     {
       "id": "main_task_group-02-01#56",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#57",
@@ -9059,7 +9175,7 @@
     },
     {
       "id": "main_task_group-02-01#63",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-02-01#64",
@@ -9095,7 +9211,7 @@
     },
     {
       "id": "main_task_group-02-01#72",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#73",
@@ -9111,7 +9227,7 @@
     },
     {
       "id": "main_task_group-02-01#76",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-02-01#77",
@@ -9127,7 +9243,7 @@
     },
     {
       "id": "main_task_group-02-01#80",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-02-01#81",
@@ -9155,7 +9271,7 @@
     },
     {
       "id": "main_task_group-02-01#87",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-02-01#88",
@@ -9223,7 +9339,7 @@
     },
     {
       "id": "main_task_group-03-01#4",
-      "name": "去异类扭蛋抽取{threshold}次吧"
+      "name": "去抽取{threshold}次异类扭蛋吧"
     },
     {
       "id": "main_task_group-03-01#5",
@@ -9267,7 +9383,7 @@
     },
     {
       "id": "main_task_group-03-01#15",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-03-01#16",
@@ -9287,7 +9403,7 @@
     },
     {
       "id": "main_task_group-03-01#20",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#21",
@@ -9307,7 +9423,7 @@
     },
     {
       "id": "main_task_group-03-01#25",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-03-01#26",
@@ -9331,7 +9447,7 @@
     },
     {
       "id": "main_task_group-03-01#31",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#32",
@@ -9351,7 +9467,7 @@
     },
     {
       "id": "main_task_group-03-01#36",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-03-01#37",
@@ -9423,11 +9539,11 @@
     },
     {
       "id": "main_task_group-03-01#54",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#55",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-03-01#56",
@@ -9455,11 +9571,11 @@
     },
     {
       "id": "main_task_group-03-01#62",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#63",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-03-01#64",
@@ -9507,11 +9623,11 @@
     },
     {
       "id": "main_task_group-03-01#75",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#76",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-03-01#77",
@@ -9591,11 +9707,11 @@
     },
     {
       "id": "main_task_group-03-01#96",
-      "name": "让联合竞技的组合综合实力超过{threshold}吧"
+      "name": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#97",
-      "name": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "name": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "id": "main_task_group-03-01#98",

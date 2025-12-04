@@ -122,8 +122,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 17,
       "title": "初星课题17",
-      "description": "去感性扭蛋抽取1次吧",
-      "homeDescription": "去感性扭蛋抽取1次吧"
+      "description": "去抽取1次感性扭蛋吧",
+      "homeDescription": "去抽取1次感性扭蛋吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -157,8 +157,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 22,
       "title": "初星课题22",
-      "description": "去理性扭蛋抽取1次吧",
-      "homeDescription": "去理性扭蛋抽取1次吧"
+      "description": "去抽取1次理性扭蛋吧",
+      "homeDescription": "去抽取1次理性扭蛋吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -185,8 +185,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 26,
       "title": "初星课题26",
-      "description": "去联合竞技编成队伍吧",
-      "homeDescription": "去联合竞技编成队伍吧"
+      "description": "去竞技场编成队伍吧",
+      "homeDescription": "去竞技场编成队伍吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -339,8 +339,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 48,
       "title": "初星课题48",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -430,8 +430,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 1,
       "title": "P课题1",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -451,8 +451,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 4,
       "title": "P课题4",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -570,15 +570,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 21,
       "title": "P课题21",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 22,
       "title": "P课题22",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -612,8 +612,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 27,
       "title": "P课题27",
-      "description": "在联合竞技中使用{threshold}次技能卡吧",
-      "homeDescription": "在联合竞技中使用{threshold}次技能卡吧"
+      "description": "去挑战竞技场吧",
+      "homeDescription": "去挑战竞技场吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -640,8 +640,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 31,
       "title": "P课题31",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -689,8 +689,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 38,
       "title": "P课题38",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -717,8 +717,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 42,
       "title": "P课题42",
-      "description": "在联合竞技中使用{threshold}次技能卡吧",
-      "homeDescription": "在联合竞技中使用{threshold}次技能卡吧"
+      "description": "去挑战竞技场吧",
+      "homeDescription": "去挑战竞技场吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -766,8 +766,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 49,
       "title": "P课题49",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -815,15 +815,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 56,
       "title": "P课题56",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 57,
       "title": "P课题57",
-      "description": "在联合竞技中使用{threshold}次技能卡吧",
-      "homeDescription": "在联合竞技中使用{threshold}次技能卡吧"
+      "description": "去挑战竞技场吧",
+      "homeDescription": "去挑战竞技场吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -864,8 +864,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 63,
       "title": "P课题63",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -927,8 +927,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 72,
       "title": "P课题72",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -955,8 +955,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 76,
       "title": "P课题76",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -983,8 +983,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 80,
       "title": "P课题80",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1032,8 +1032,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 87,
       "title": "P课题87",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1151,8 +1151,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 4,
       "title": "P课题2-4",
-      "description": "去异类扭蛋抽取{threshold}次吧",
-      "homeDescription": "去异类扭蛋抽取{threshold}次吧"
+      "description": "去抽取{threshold}次异类扭蛋吧",
+      "homeDescription": "去抽取{threshold}次异类扭蛋吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1228,8 +1228,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 15,
       "title": "P课题2-15",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1263,8 +1263,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 20,
       "title": "P课题2-20",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1298,8 +1298,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 25,
       "title": "P课题2-25",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1340,8 +1340,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 31,
       "title": "P课题2-31",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1375,8 +1375,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 36,
       "title": "P课题2-36",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1501,22 +1501,22 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 54,
       "title": "P课题54",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 55,
       "title": "P课题55",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 56,
       "title": "P课题56",
-      "description": "在联合竞技中使用{threshold}次技能卡吧",
-      "homeDescription": "在联合竞技中使用{threshold}次技能卡吧"
+      "description": "去挑战竞技场吧",
+      "homeDescription": "去挑战竞技场吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1557,15 +1557,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 62,
       "title": "P课题62",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 63,
       "title": "P课题63",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1648,15 +1648,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 75,
       "title": "P课题75",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 76,
       "title": "P课题76",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1795,15 +1795,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 96,
       "title": "P课题96",
-      "description": "让联合竞技的组合综合实力超过{threshold}吧",
-      "homeDescription": "让联合竞技的组合综合实力超过{threshold}吧"
+      "description": "让竞技场的组合综合实力超过{threshold}吧",
+      "homeDescription": "让竞技场的组合综合实力超过{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 97,
       "title": "P课题97",
-      "description": "在联合竞技上获得{threshold}以上的舞台累计高分吧",
-      "homeDescription": "在联合竞技上获得{threshold}以上的舞台累计高分吧"
+      "description": "在竞技场上获得{threshold}以上的得分吧",
+      "homeDescription": "在竞技场上获得{threshold}以上的得分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",

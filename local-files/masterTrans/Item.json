@@ -186,8 +186,14 @@
       "acquisitionRouteDescription": "出租、社团捐赠等方式"
     },
     {
+      "id": "item-gacha-coin-18m-aniv-001",
+      "name": "1.5th 小初美硬币",
+      "description": "可以在1.5th Anniversary硬币扭蛋中使用的硬币",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-gacha-coin-anniversary-001",
-      "name": "初星酱硬币",
+      "name": "小初美硬币",
       "description": "可以在1st Anniversary硬币扭蛋中使用的硬币",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -196,6 +202,12 @@
       "name": "初星福引券 2025",
       "description": "可以在谨贺新年！福引扭蛋中使用的道具",
       "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-gasha-ticket-ssr-fix-seasons-2511-001",
+      "name": "1.5th Anniversary纪念季节限定SSR必得扭蛋票据",
+      "description": "可以在1.5th Anniversary纪念季节限定SSR必得扭蛋票据扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaitem-10_01",
@@ -464,6 +476,12 @@
     {
       "id": "item-medal-story-event-009",
       "name": "野餐的回忆",
+      "description": "可以在活动兑换所交换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-medal-story-event-010",
+      "name": "星光下的风景",
       "description": "可以在活动兑换所交换各式报酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -854,6 +872,12 @@
     {
       "id": "item-piece-idol_hume-3-006",
       "name": "[Campus mode!!]花海佑芽的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hume-3-009",
+      "name": "[GUSUPI]花海佑芽的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

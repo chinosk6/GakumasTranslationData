@@ -267,6 +267,16 @@
       "title": "初星学园体操服"
     },
     {
+      "id": "voice_group-atbm-casl-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-casl-0002_01",
+      "title": "钟意的便服"
+    },
+    {
+      "id": "voice_group-atbm-casl-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-casl-0002_02",
+      "title": "钟意的便服"
+    },
+    {
       "id": "voice_group-atbm-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0000_01",
       "title": "初始"
@@ -2295,6 +2305,46 @@
       "id": "voice_group-cidol-hmsz-3-005-produce_schedule",
       "voiceAssetId": "sud_vo_system_cidol-hmsz-3-005_produce_schedule-04",
       "title": "培育④"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_01",
+      "title": "换装①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_02",
+      "title": "换装②"
     },
     {
       "id": "voice_group-cidol-hmsz-3-010_home",
@@ -4384,6 +4434,66 @@
     {
       "id": "voice_group-cidol-hume-3-006-produce_schedule",
       "voiceAssetId": "sud_vo_system_cidol-hume-3-006_produce_schedule-04",
+      "title": "培育④"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_hume-cstm-0057_01",
+      "title": "换装①"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_hume-cstm-0057_02",
+      "title": "换装②"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-01",
+      "title": "培育①"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-02",
+      "title": "培育②"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-03",
+      "title": "培育③"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-04",
       "title": "培育④"
     },
     {
@@ -9557,6 +9667,16 @@
       "title": "Star-mine"
     },
     {
+      "id": "voice_group-hmsz-cstm-0119-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_01",
+      "title": "何时何地简简单单"
+    },
+    {
+      "id": "voice_group-hmsz-cstm-0119-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_02",
+      "title": "何时何地简简单单"
+    },
+    {
       "id": "voice_group-hmsz-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0122_01",
       "title": "奇迹正是现在(ﾟ∀ﾟ)！"
@@ -10197,6 +10317,16 @@
       "title": "Campus mode!!"
     },
     {
+      "id": "voice_group-hume-cstm-0057-cmmn",
+      "voiceAssetId": "sud_vo_system_hume-cstm-0057_01",
+      "title": "GUSUPI"
+    },
+    {
+      "id": "voice_group-hume-cstm-0057-cmmn",
+      "voiceAssetId": "sud_vo_system_hume-cstm-0057_02",
+      "title": "GUSUPI"
+    },
+    {
       "id": "voice_group-hume-cstm-0063-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0063_01",
       "title": "冠菊"
@@ -10355,6 +10485,16 @@
       "id": "voice_group-hume-trng-0002-cmmn",
       "voiceAssetId": "sud_vo_system_hume-trng-0002_02",
       "title": "初星学园体操服"
+    },
+    {
+      "id": "voice_group-jsna-casl-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_jsna-casl-0002_01",
+      "title": "钟意的便服"
+    },
+    {
+      "id": "voice_group-jsna-casl-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_jsna-casl-0002_02",
+      "title": "钟意的便服"
     },
     {
       "id": "voice_group-jsna-cstm-0000-cmmn",
