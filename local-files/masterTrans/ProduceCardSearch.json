@@ -603,6 +603,21 @@
       ]
     },
     {
+      "id": "p_card_search-deck_all-p_card-03-ido-3_163",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-ido-3_163",
+          "text": "满溢的情感"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-deck_all-starter",
       "produceDescriptions": [
         {
@@ -1098,7 +1113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProducePlanType3",
-          "text": "异类"
+          "text": "非凡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

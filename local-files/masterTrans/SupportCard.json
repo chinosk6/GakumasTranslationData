@@ -877,6 +877,22 @@
       "name": "真诚的心意"
     },
     {
+      "id": "s_card-2-0043",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率中等"
+        }
+      ],
+      "name": "佑芽雪橇赛，冲锋！"
+    },
+    {
       "id": "s_card-2-0044",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -2507,6 +2523,22 @@
         }
       ],
       "name": "圣诞快乐、姐姐♪"
+    },
+    {
+      "id": "s_card-3-0082",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率高"
+        }
+      ],
+      "name": "为什么会在这里！？"
     },
     {
       "id": "s_card-3-0086",

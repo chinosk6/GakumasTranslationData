@@ -30,6 +30,10 @@
       "description": "亲密度Lv详情"
     },
     {
+      "id": "exchange.complete.confirm",
+      "description": "已完成兑换"
+    },
+    {
       "id": "high_score_event.top.adv.title_label",
       "description": "偶像强化月间\\n〜星光璀璨〜"
     },
@@ -60,6 +64,10 @@
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.title",
       "description": "十王邦夫的偶像强化月"
+    },
+    {
+      "id": "produce.card.move_position.deckall",
+      "description": "其他的编成栏"
     },
     {
       "id": "produce.high_score_rush.gold.description",
@@ -96,6 +104,10 @@
     {
       "id": "shop.web_store.confirm.description",
       "description": "是否打开网页浏览器？\\n出生日期可以在【菜单 > 其他 > 输入出生日期】中进行设置。"
+    },
+    {
+      "id": "story.story_event.section.normal_condition_lock_text",
+      "description": "通过获得活动Pt，并观看前一段交流解锁"
     },
     {
       "id": "voice.idol_use_produce_card",

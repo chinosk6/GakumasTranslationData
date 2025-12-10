@@ -102,6 +102,12 @@
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
     {
+      "id": "item-coin-highscorerush-event-008",
+      "name": "星之闪耀",
+      "description": "可以在十王邦夫的偶像强化月～星光璀璨～（葛城莉莉娅/十王星南）的活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活动模式的培育等方式"
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "R偶像的碎片",
       "description": "可以在R偶像才能开花中使用的道具",
@@ -331,21 +337,21 @@
     },
     {
       "id": "item-limitovermaterial-2-c-1",
-      "name": "异类笔记（歌唱）",
-      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
+      "name": "非凡笔记（歌唱）",
+      "description": "可以在方案：非凡的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：非凡的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-2",
-      "name": "异类笔记（舞蹈）",
-      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
+      "name": "非凡笔记（舞蹈）",
+      "description": "可以在方案：非凡的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：非凡的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-3",
-      "name": "异类笔记（视觉）",
-      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
+      "name": "非凡笔记（视觉）",
+      "description": "可以在方案：非凡的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：非凡的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-3",
@@ -511,9 +517,9 @@
     },
     {
       "id": "item-memory_exchange-class3",
-      "name": "异类硬币",
-      "description": "可以在异类扭蛋中使用的硬币",
-      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
+      "name": "非凡硬币",
+      "description": "可以在非凡扭蛋中使用的硬币",
+      "acquisitionRouteDescription": "培育（方案：非凡的培育用偶像）等方式"
     },
     {
       "id": "item-memory-inherit",
@@ -1058,6 +1064,12 @@
     {
       "id": "item-piece-idol_kllj-3-012",
       "name": "[Howling over the World]葛城莉莉娅的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_kllj-3-015",
+      "name": "[Atmosphere]葛城莉莉娅的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

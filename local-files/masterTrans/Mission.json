@@ -134,6 +134,38 @@
       "name": "让仓本千奈通过最终考试并获得{threshold}次SS以上评价吧"
     },
     {
+      "id": "dearness_event_kllj-001",
+      "name": "将葛城莉莉娅的视觉能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_kllj-002",
+      "name": "在葛城莉莉娅的培育中选择{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_kllj-003",
+      "name": "在葛城莉莉娅的培育中选择{threshold}次咨询吧"
+    },
+    {
+      "id": "dearness_event_kllj-004",
+      "name": "在葛城莉莉娅的培育中选择{threshold}次营业吧"
+    },
+    {
+      "id": "dearness_event_kllj-005",
+      "name": "在葛城莉莉娅的培育中选择{threshold}次慰问品吧"
+    },
+    {
+      "id": "dearness_event_kllj-006",
+      "name": "葛城莉莉娅通关{threshold}次视觉课程吧"
+    },
+    {
+      "id": "dearness_event_kllj-007",
+      "name": "在葛城莉莉娅的培育中选择{threshold}次特别指导吧"
+    },
+    {
+      "id": "dearness_event_kllj-008",
+      "name": "让葛城莉莉娅通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
       "id": "dearness_event_shro-001",
       "name": "将筱泽广的歌唱能力值培养至1800以上并完成培育"
     },
@@ -276,6 +308,26 @@
     {
       "id": "dearness_normal-mission_kcna-005",
       "name": "在仓本千奈的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_kllj-001",
+      "name": "将姬崎莉波的视觉能力值培养至2000以上并完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_kllj-002",
+      "name": "在葛城莉莉娅的培育中累计使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_kllj-003",
+      "name": "在葛城莉莉娅的培育中强化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_kllj-004",
+      "name": "让葛城莉莉娅通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
+      "id": "dearness_normal-mission_kllj-005",
+      "name": "在葛城莉莉娅的培育中自定义{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_shro-001",
@@ -2498,6 +2550,106 @@
       "name": "通关第5天的全部任务"
     },
     {
+      "id": "mission-highscorerush-event-008-mission_11",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_12",
+      "name": "将葛城莉莉娅的视觉能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_13",
+      "name": "在葛城莉莉娅的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_14",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_21",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_22",
+      "name": "将十王星南的视觉能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_23",
+      "name": "在葛城莉莉娅的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_24",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_31",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_32",
+      "name": "在葛城莉莉娅或十王星南的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_33",
+      "name": "在葛城莉莉娅的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_34",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_41",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_42",
+      "name": "在葛城莉莉娅或十王星南的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_43",
+      "name": "在葛城莉莉娅的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_44",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_51",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_52",
+      "name": "在葛城莉莉娅或十王星南的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_53",
+      "name": "在葛城莉莉娅的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_54",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-008-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
       "id": "mission-main-story-event-001-mission_11",
       "name": "消耗{threshold}点AP吧"
     },
@@ -4311,7 +4463,7 @@
     },
     {
       "id": "mission-research-event-001-mission_2",
-      "name": "让方案：异类的培育用偶像取得{threshold}次最终考试合格吧"
+      "name": "让方案：非凡的培育用偶像取得{threshold}次最终考试合格吧"
     },
     {
       "id": "mission-research-event-001-mission_3",
@@ -4979,7 +5131,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-03",
-      "name": "【与你共度的湛蓝夏日】有村麻央的培育中获得了{threshold}次A+以上的评价"
+      "name": "【与你共度的湛蓝夏日】有村麻央的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-amao-3-001-04",
@@ -5003,7 +5155,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-002-03",
-      "name": "【Feel Jewel Dream】有村麻央的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Feel Jewel Dream】有村麻央的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-amao-3-002-04",
@@ -5027,7 +5179,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-007-03",
-      "name": "【Campus mode!!】有村麻央的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】有村麻央的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-amao-3-007-04",
@@ -5051,7 +5203,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-009-03",
-      "name": "【雪融之时】有村麻央的培育中获得了{threshold}次A+以上的评价"
+      "name": "【雪融之时】有村麻央的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-amao-3-009-04",
@@ -5075,7 +5227,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-013-03",
-      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】有村麻央的培育中获得了{threshold}次A+以上的评价"
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】有村麻央的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-amao-3-013-04",
@@ -5099,7 +5251,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-015-03",
-      "name": "【看着我】有村麻央的培育中获得了{threshold}次A+以上的评价"
+      "name": "【看着我】有村麻央的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-amao-3-015-04",
@@ -5123,7 +5275,7 @@
     },
     {
       "id": "achieve-i_card-atbm-2-000-03",
-      "name": "【贯彻初志】雨夜燕的培育中获得了{threshold}次A+以上的评价"
+      "name": "【贯彻初志】雨夜燕的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-atbm-2-000-04",
@@ -5147,7 +5299,7 @@
     },
     {
       "id": "achieve-i_card-atbm-3-000-03",
-      "name": "【用理论武装】雨夜燕的培育中获得了{threshold}次A+以上的评价"
+      "name": "【用理论武装】雨夜燕的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-atbm-3-000-04",
@@ -5195,7 +5347,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
-      "name": "【Yellow Big Bang！】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Yellow Big Bang！】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-fktn-3-001-04",
@@ -5219,7 +5371,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-002-03",
-      "name": "【冠菊】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【冠菊】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-fktn-3-002-04",
@@ -5243,7 +5395,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-006-03",
-      "name": "【White Night！ White Wish！】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【White Night！ White Wish！】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-fktn-3-006-04",
@@ -5267,7 +5419,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-007-03",
-      "name": "【Campus mode!!】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-fktn-3-007-04",
@@ -5291,7 +5443,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-011-03",
-      "name": "【雨后的鸢尾花】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【雨后的鸢尾花】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-fktn-3-011-04",
@@ -5315,7 +5467,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-013-03",
-      "name": "【自我肯定感爆棚↑↑超爱琴音之歌】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【自我肯定感爆棚↑↑超爱琴音之歌】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-fktn-3-013-04",
@@ -5339,7 +5491,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-016-03",
-      "name": "【全力以赴！】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【全力以赴！】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-fktn-3-016-04",
@@ -5363,7 +5515,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-2-000-03",
-      "name": "【慢慢地，一步一步来】秦谷美铃的培育中获得了{threshold}次A+以上的评价"
+      "name": "【慢慢地，一步一步来】秦谷美铃的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-04",
@@ -5387,7 +5539,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-000-03",
-      "name": "【月之龟】秦谷美铃的培育中获得了{threshold}次A+以上的评价"
+      "name": "【月之龟】秦谷美铃的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-04",
@@ -5411,7 +5563,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-005-03",
-      "name": "【Campus mode!!】秦谷美铃的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】秦谷美铃的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hmsz-3-005-04",
@@ -5435,7 +5587,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-010-03",
-      "name": "【Star-mine】秦谷美铃的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Star-mine】秦谷美铃的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hmsz-3-010-04",
@@ -5483,7 +5635,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-03",
-      "name": "【与你共度的湛蓝夏日】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【与你共度的湛蓝夏日】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-04",
@@ -5507,7 +5659,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-002-03",
-      "name": "【L.U.V】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【L.U.V】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-04",
@@ -5531,7 +5683,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-03",
-      "name": "【欢迎来到初星温泉】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【欢迎来到初星温泉】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-04",
@@ -5555,7 +5707,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-007-03",
-      "name": "【Campus mode!!】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-04",
@@ -5579,7 +5731,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-03",
-      "name": "【幸福千层酥】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【幸福千层酥】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-04",
@@ -5603,7 +5755,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-012-03",
-      "name": "【Howling over the World】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Howling over the World】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-04",
@@ -5627,7 +5779,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-013-03",
-      "name": "【36℃ U･B･U】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【36℃ U･B･U】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hrnm-3-013-04",
@@ -5675,7 +5827,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-03",
-      "name": "【Boom Boom Pow】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Boom Boom Pow】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-001-04",
@@ -5699,7 +5851,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-002-03",
-      "name": "【冠菊】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【冠菊】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-002-04",
@@ -5723,7 +5875,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-03",
-      "name": "【何时何地简简单单】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【何时何地简简单单】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-006-04",
@@ -5747,7 +5899,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-008-03",
-      "name": "【Campus mode!!】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-008-04",
@@ -5771,7 +5923,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-011-03",
-      "name": "【樱花相册】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【樱花相册】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-011-04",
@@ -5795,7 +5947,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-012-03",
-      "name": "【雨后的鸢尾花】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【雨后的鸢尾花】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-012-04",
@@ -5819,7 +5971,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-015-03",
-      "name": "【全力以赴！】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【全力以赴！】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hski-3-015-04",
@@ -5843,7 +5995,7 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-03",
-      "name": "【偶像，开始！】花海佑芽的培育中获得了{threshold}次A+以上的评价"
+      "name": "【偶像，开始！】花海佑芽的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hume-2-000-04",
@@ -5867,7 +6019,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-000-03",
-      "name": "【The Rolling Riceball】花海佑芽的培育中获得了{threshold}次A+以上的评价"
+      "name": "【The Rolling Riceball】花海佑芽的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hume-3-000-04",
@@ -5891,7 +6043,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-005-03",
-      "name": "【White Night！ White Wish！】花海佑芽的培育中获得了{threshold}次A+以上的评价"
+      "name": "【White Night！ White Wish！】花海佑芽的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hume-3-005-04",
@@ -5915,7 +6067,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-006-03",
-      "name": "【Campus mode!!】花海佑芽的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】花海佑芽的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hume-3-006-04",
@@ -5939,7 +6091,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-009-03",
-      "name": "【GUSUPI】花海佑芽的培育中获得了{threshold}次A+以上的评价"
+      "name": "【GUSUPI】花海佑芽的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hume-3-009-04",
@@ -5963,7 +6115,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-012-03",
-      "name": "【Star-mine】花海佑芽的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Star-mine】花海佑芽的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-hume-3-012-04",
@@ -5987,7 +6139,7 @@
     },
     {
       "id": "achieve-i_card-jsna-2-000-03",
-      "name": "【一番星】十王星南的培育中获得了{threshold}次A+以上的评价"
+      "name": "【一番星】十王星南的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-jsna-2-000-04",
@@ -6011,7 +6163,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-000-03",
-      "name": "【小小的野心】十王星南的培育中获得了{threshold}次A+以上的评价"
+      "name": "【小小的野心】十王星南的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-jsna-3-000-04",
@@ -6035,7 +6187,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-002-03",
-      "name": "【Campus mode!!】十王星南的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】十王星南的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-jsna-3-002-04",
@@ -6059,7 +6211,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-003-03",
-      "name": "【幸福千层酥】十王星南的培育中获得了{threshold}次A+以上的评价"
+      "name": "【幸福千层酥】十王星南的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-jsna-3-003-04",
@@ -6083,7 +6235,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-006-03",
-      "name": "【Our Chant】十王星南的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Our Chant】十王星南的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-jsna-3-006-04",
@@ -6107,7 +6259,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-011-03",
-      "name": "【Star-mine】十王星南的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Star-mine】十王星南的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-jsna-3-011-04",
@@ -6155,7 +6307,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
-      "name": "【每天、都有新发现！】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【每天、都有新发现！】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-001-04",
@@ -6179,7 +6331,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-002-03",
-      "name": "【变装狂想曲】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【变装狂想曲】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-002-04",
@@ -6203,7 +6355,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-03",
-      "name": "【欢迎来到初星温泉】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【欢迎来到初星温泉】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-005-04",
@@ -6227,7 +6379,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-007-03",
-      "name": "【Campus mode!!】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-007-04",
@@ -6251,7 +6403,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-009-03",
-      "name": "【雪融之时】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【雪融之时】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-009-04",
@@ -6275,7 +6427,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-012-03",
-      "name": "【Howling over the World】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Howling over the World】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-012-04",
@@ -6299,7 +6451,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-014-03",
-      "name": "【向天空约定】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【向天空约定】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kcna-3-014-04",
@@ -6347,7 +6499,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-001-03",
-      "name": "【冠菊】葛城莉莉娅的培育中获得了{threshold}次A+以上的评价"
+      "name": "【冠菊】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-001-04",
@@ -6371,7 +6523,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-005-03",
-      "name": "【White Night！ White Wish！】葛城莉莉娅的培育中获得了{threshold}次A+以上的评价"
+      "name": "【White Night！ White Wish！】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-005-04",
@@ -6395,7 +6547,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-006-03",
-      "name": "【Campus mode!!】葛城莉莉娅的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-006-04",
@@ -6419,7 +6571,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-008-03",
-      "name": "【极光】葛城莉莉娅的培育中获得了{threshold}次A+以上的评价"
+      "name": "【极光】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-008-04",
@@ -6443,7 +6595,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-010-03",
-      "name": "【樱花相册】葛城莉莉娅的培育中获得了{threshold}次A+以上的评价"
+      "name": "【樱花相册】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-010-04",
@@ -6467,7 +6619,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-012-03",
-      "name": "【Howling over the World】葛城莉莉娅的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Howling over the World】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-012-04",
@@ -6480,6 +6632,30 @@
     {
       "id": "achieve-i_card-kllj-3-012-06",
       "name": "【Howling over the World】葛城莉莉娅的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-01",
+      "name": "【Atmosphere】葛城莉莉娅的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-02",
+      "name": "【Atmosphere】葛城莉莉娅的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-03",
+      "name": "【Atmosphere】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-04",
+      "name": "【Atmosphere】葛城莉莉娅的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-05",
+      "name": "【Atmosphere】葛城莉莉娅的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-06",
+      "name": "【Atmosphere】葛城莉莉娅的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-shro-2-000-04",
@@ -6515,7 +6691,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-001-03",
-      "name": "【反差】筱泽广的培育中获得了{threshold}次A+以上的评价"
+      "name": "【反差】筱泽广的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-shro-3-001-04",
@@ -6539,7 +6715,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-002-03",
-      "name": "【变装狂想曲】筱泽广的培育中获得了{threshold}次A+以上的评价"
+      "name": "【变装狂想曲】筱泽广的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-shro-3-002-04",
@@ -6563,7 +6739,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-007-03",
-      "name": "【Campus mode!!】筱泽广的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】筱泽广的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-shro-3-007-04",
@@ -6587,7 +6763,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-008-03",
-      "name": "【幸福千层酥】筱泽广的培育中获得了{threshold}次A+以上的评价"
+      "name": "【幸福千层酥】筱泽广的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-shro-3-008-04",
@@ -6611,7 +6787,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-012-03",
-      "name": "【褪色】筱泽广的培育中获得了{threshold}次A+以上的评价"
+      "name": "【褪色】筱泽广的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-shro-3-012-04",
@@ -6635,7 +6811,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-014-03",
-      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】筱泽广的培育中获得了{threshold}次A+以上的评价"
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】筱泽广的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-shro-3-014-04",
@@ -6683,7 +6859,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-03",
-      "name": "【与你共度的湛蓝夏日】紫云清夏的培育中获得了{threshold}次A+以上的评价"
+      "name": "【与你共度的湛蓝夏日】紫云清夏的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-04",
@@ -6707,7 +6883,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-002-03",
-      "name": "【隐藏的我】紫云清夏的培育中获得了{threshold}次A+以上的评价"
+      "name": "【隐藏的我】紫云清夏的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-04",
@@ -6731,7 +6907,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-007-03",
-      "name": "【Campus mode!!】紫云清夏的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】紫云清夏的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-04",
@@ -6755,7 +6931,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-010-03",
-      "name": "【樱花相册】紫云清夏的培育中获得了{threshold}次A+以上的评价"
+      "name": "【樱花相册】紫云清夏的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-04",
@@ -6779,7 +6955,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-012-03",
-      "name": "【Love & Joy】紫云清夏的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Love & Joy】紫云清夏的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-012-04",
@@ -6803,7 +6979,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-014-03",
-      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】紫云清夏的培育中获得了{threshold}次A+以上的评价"
+      "name": "【奇迹正是现在(ﾟ∀ﾟ)！】紫云清夏的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-04",
@@ -6851,7 +7027,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-001-03",
-      "name": "【常春藤】月村手毬的培育中获得了{threshold}次A+以上的评价"
+      "name": "【常春藤】月村手毬的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-04",
@@ -6875,7 +7051,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-002-03",
-      "name": "【变装狂想曲】月村手毬的培育中获得了{threshold}次A+以上的评价"
+      "name": "【变装狂想曲】月村手毬的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-04",
@@ -6899,7 +7075,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-007-03",
-      "name": "【Campus mode!!】月村手毬的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Campus mode!!】月村手毬的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-04",
@@ -6923,7 +7099,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-009-03",
-      "name": "【雪融之时】月村手毬的培育中获得了{threshold}次A+以上的评价"
+      "name": "【雪融之时】月村手毬的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-04",
@@ -6947,7 +7123,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-011-03",
-      "name": "【雨后的鸢尾花】月村手毬的培育中获得了{threshold}次A+以上的评价"
+      "name": "【雨后的鸢尾花】月村手毬的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-04",
@@ -6971,7 +7147,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-015-03",
-      "name": "【全力以赴！】月村手毬的培育中获得了{threshold}次A+以上的评价"
+      "name": "【全力以赴！】月村手毬的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-04",
@@ -7435,7 +7611,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-002-3",
-      "name": "【始于帅气】有村麻央的培育中获得了{threshold}次A+以上的评价"
+      "name": "【始于帅气】有村麻央的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-amao-003-1",
@@ -7447,7 +7623,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-003-3",
-      "name": "【Fluorite】有村麻央的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Fluorite】有村麻央的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-1",
@@ -7459,7 +7635,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-002-3",
-      "name": "【可爱♡开始啦】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【可爱♡开始啦】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-1",
@@ -7471,7 +7647,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-003-3",
-      "name": "【世界第一可爱的我】藤田琴音的培育中获得了{threshold}次A+以上的评价"
+      "name": "【世界第一可爱的我】藤田琴音的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
@@ -7483,7 +7659,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-3",
-      "name": "【『我的风格』的开始】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【『我的风格』的开始】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-1",
@@ -7495,7 +7671,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-3",
-      "name": "【clumsy trick】姬崎莉波的培育中获得了{threshold}次A+以上的评价"
+      "name": "【clumsy trick】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-hski-002-1",
@@ -7507,7 +7683,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-002-3",
-      "name": "【我是第一名！】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【我是第一名！】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-hski-003-1",
@@ -7519,7 +7695,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-003-3",
-      "name": "【Fighting My Way】花海咲季的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Fighting My Way】花海咲季的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-1",
@@ -7531,7 +7707,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-002-3",
-      "name": "【挺起胸膛一步步前进】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【挺起胸膛一步步前进】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-1",
@@ -7543,7 +7719,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-003-3",
-      "name": "【Wonder Scale】仓本千奈的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Wonder Scale】仓本千奈的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-kllj-002-1",
@@ -7555,7 +7731,7 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-002-3",
-      "name": "【迈出第一步的前方】葛城莉莉娅的培育中获得了{threshold}次A+以上的评价"
+      "name": "【迈出第一步的前方】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-1",
@@ -7567,7 +7743,7 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-003-3",
-      "name": "【白线】葛城莉莉娅的培育中获得了{threshold}次A+以上的评价"
+      "name": "【白线】葛城莉莉娅的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-shro-002-1",
@@ -7579,7 +7755,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-002-3",
-      "name": "【最不适合的事】筱泽广的培育中获得了{threshold}次A+以上的评价"
+      "name": "【最不适合的事】筱泽广的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-shro-003-1",
@@ -7591,7 +7767,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-003-3",
-      "name": "【光景】筱泽广的培育中获得了{threshold}次A+以上的评价"
+      "name": "【光景】筱泽广的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-1",
@@ -7603,7 +7779,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-3",
-      "name": "【为了梦想的再出发】紫云清夏的培育中获得了{threshold}次A+以上的评价"
+      "name": "【为了梦想的再出发】紫云清夏的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-1",
@@ -7615,7 +7791,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-3",
-      "name": "【Tame-Lie-One-Step】紫云清夏的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Tame-Lie-One-Step】紫云清夏的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-1",
@@ -7627,7 +7803,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-3",
-      "name": "【一匹狼】月村手毬的培育中获得了{threshold}次A+以上的评价"
+      "name": "【一匹狼】月村手毬的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-1",
@@ -7639,7 +7815,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-3",
-      "name": "【Luna say maybe】月村手毬的培育中获得了{threshold}次A+以上的评价"
+      "name": "【Luna say maybe】月村手毬的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-fktn-000",
@@ -9335,15 +9511,15 @@
     },
     {
       "id": "main_task_group-03-01#3",
-      "name": "让方案：异类的培育用偶像取得{threshold}次最终考试合格吧"
+      "name": "让方案：非凡的培育用偶像取得{threshold}次最终考试合格吧"
     },
     {
       "id": "main_task_group-03-01#4",
-      "name": "去抽取{threshold}次异类扭蛋吧"
+      "name": "去抽取{threshold}次非凡扭蛋吧"
     },
     {
       "id": "main_task_group-03-01#5",
-      "name": "去通关研修中的【应用5】方案：异类吧"
+      "name": "去通关研修中的【应用5】方案：非凡吧"
     },
     {
       "id": "main_task_group-03-01#6",
@@ -9395,7 +9571,7 @@
     },
     {
       "id": "main_task_group-03-01#18",
-      "name": "让方案：异类的培育用偶像通过最终考试并获得{threshold}次A以上的评价吧"
+      "name": "让方案：非凡的培育用偶像通过最终考试并获得{threshold}次A以上的评价吧"
     },
     {
       "id": "main_task_group-03-01#19",
@@ -9439,7 +9615,7 @@
     },
     {
       "id": "main_task_group-03-01#29",
-      "name": "在定期公演『初』：Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
+      "name": "在定期公演『初』：Master中取得{threshold}次最终考试合格吧\n【条件】方案：非凡的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#30",
@@ -9647,7 +9823,7 @@
     },
     {
       "id": "main_task_group-03-01#81",
-      "name": "在N.I.A中最终试镜合格并达成S以上的评价吧\n【条件】方案：异类的培育用偶像"
+      "name": "在N.I.A中最终试镜合格并达成S以上的评价吧\n【条件】方案：非凡的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#82",
@@ -9819,7 +9995,7 @@
     },
     {
       "id": "main_task_group-04-01#24",
-      "name": "在「N.I.A」：Master中取得最终试镜合格吧\n【条件】方案：异类的培育用偶像"
+      "name": "在「N.I.A」：Master中取得最终试镜合格吧\n【条件】方案：非凡的培育用偶像"
     },
     {
       "id": "main_task_group-04-01#25",
