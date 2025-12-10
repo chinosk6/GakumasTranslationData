@@ -1,9 +1,15 @@
 name: Update Submodules and Release
 
 on:
-  schedule:
+  schedule: 
     - cron: '0 0 * * *'  # 每天凌晨00:00运行
-  workflow_dispatch:
+  workflow_dispatch: 
+    inputs:
+      force_update:
+        description: 'Force Update'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   check-and-release:
@@ -12,7 +18,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
+        with: 
           fetch-depth: 0
           submodules: 'recursive'
           
@@ -20,7 +26,7 @@ jobs:
         run: |
           git submodule update --progress --init --force --remote
           UPDATED=$(git status --porcelain)
-          if [ -n "$UPDATED" ]; then
+          if [ -n "$UPDATED" ] || [ "${{ github.event.inputs.force_update }}" = "true" ]; then
             echo "updated=true" >> $GITHUB_ENV
           else
             echo "updated=false" >> $GITHUB_ENV
