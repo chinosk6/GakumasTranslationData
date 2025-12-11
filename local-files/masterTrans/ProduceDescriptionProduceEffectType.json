@@ -7,51 +7,51 @@
   "data": [
     {
       "type": "ProduceEffectType_VocalAddition",
-      "name": "歌唱力上升"
+      "name": "歌唱能力值上升"
     },
     {
       "type": "ProduceEffectType_DanceAddition",
-      "name": "舞蹈力上升"
+      "name": "舞蹈能力值上升"
     },
     {
       "type": "ProduceEffectType_VisualAddition",
-      "name": "形象力上升"
+      "name": "视觉能力值上升"
     },
     {
       "type": "ProduceEffectType_VocalDown",
-      "name": "歌唱力下降"
+      "name": "歌唱能力值下降"
     },
     {
       "type": "ProduceEffectType_DanceDown",
-      "name": "舞蹈力下降"
+      "name": "舞蹈能力值下降"
     },
     {
       "type": "ProduceEffectType_VisualDown",
-      "name": "形象力下降"
+      "name": "视觉能力值下降"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "歌唱课程奖励+"
+      "name": "歌唱课程加成+"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "舞蹈课程奖励+"
+      "name": "舞蹈课程加成+"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "形象课程奖励+"
+      "name": "视觉课程加成+"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "歌唱课加成-"
+      "name": "歌唱课程加成-"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "舞蹈课加成-"
+      "name": "舞蹈课程加成-"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "形象课加成-"
+      "name": "视觉课程加成-"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
@@ -191,7 +191,7 @@
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "歌唱力SP课程发生率增加"
+      "name": "歌唱能力值SP课程发生率增加"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
@@ -199,7 +199,7 @@
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "形象力SP课程发生率增加"
+      "name": "视觉能力值SP课程发生率增加"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
@@ -255,19 +255,19 @@
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "支援活动的体力恢复量增加"
+      "name": "支援事件的体力恢复量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
-      "name": "支援活动的P点数获得量增加"
+      "name": "支援事件的P点数获得量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
-      "name": "支援活动的分数上升量增加"
+      "name": "支援事件的分数上升量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProbabilityUp",
-      "name": "支援活动发生率增加"
+      "name": "支援事件发生率增加"
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
