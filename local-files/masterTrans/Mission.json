@@ -227,7 +227,7 @@
     },
     {
       "id": "dearness_event_ssmk-008",
-      "name": "紫云清夏通过最终考试并获得{threshold}次SS以上评价吧"
+      "name": "让紫云清夏通过最终考试并获得{threshold}次SS以上评价吧"
     },
     {
       "id": "dearness_normal-mission_amao-001",
@@ -378,6 +378,14 @@
       "name": "在竞技场中取得第一名吧"
     },
     {
+      "id": "hidden_mission-achieve-o_015_001",
+      "name": "在联合竞技中进入100名以内吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_015_002",
+      "name": "在竞技场中进入100名以内吧"
+    },
+    {
       "id": "hidden_mission-achieve-o_016_001",
       "name": "在联合竞技中达到Grade 1吧"
     },
@@ -432,6 +440,22 @@
     {
       "id": "hidden_mission-achieve-o_022_002",
       "name": "在竞技场中达到Grade 7吧"
+    },
+    {
+      "id": "hidden_mission-achieve-o_026_001",
+      "name": "hidden_mission-achieve-o_026_001"
+    },
+    {
+      "id": "hidden_mission-achieve-o_026_002",
+      "name": "hidden_mission-achieve-o_026_002"
+    },
+    {
+      "id": "hidden_mission-achieve-o_027_001",
+      "name": "hidden_mission-achieve-o_027_001"
+    },
+    {
+      "id": "hidden_mission-achieve-o_027_002",
+      "name": "hidden_mission-achieve-o_027_002"
     },
     {
       "id": "hidden_mission-app-review-main-task-clear",
@@ -4510,6 +4534,38 @@
       "name": "在持有技能卡「心・技・体」的状态下完成培育吧"
     },
     {
+      "id": "mission-research-event-003-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-003-mission_10",
+      "name": "在持有技能卡「星屑轰动」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-003-mission_11",
+      "name": "在持有技能卡「笔记本角落的决心」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-003-mission_12",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-research-event-003-mission_2",
+      "name": "让方案：感性的培育用偶像取得{threshold}次最终考试合格吧"
+    },
+    {
+      "id": "mission-research-event-003-mission_3",
+      "name": "在培育的咨询中兑换{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-003-mission_8",
+      "name": "在持有技能卡「我是明星」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-003-mission_9",
+      "name": "在持有技能卡「虹色梦想家」的状态下完成培育吧"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "登录{threshold}天吧"
     },
@@ -7463,7 +7519,7 @@
     },
     {
       "id": "achieve-p_idol-amao-008",
-      "name": "有村麻央的特训阶段提升至{threshold}级"
+      "name": "将有村麻央的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-amao-009",
@@ -7519,7 +7575,7 @@
     },
     {
       "id": "achieve-p_idol-amao-022",
-      "name": "有村麻央的特训阶段提升至{threshold}级"
+      "name": "将有村麻央的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-atbm-000",
@@ -7559,7 +7615,7 @@
     },
     {
       "id": "achieve-p_idol-atbm-008",
-      "name": "雨夜燕的特训阶段提升至{threshold}级"
+      "name": "将雨夜燕的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-atbm-009",
@@ -7951,7 +8007,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-008",
-      "name": "秦谷美铃的特训阶段提升至{threshold}级"
+      "name": "将秦谷美铃的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-hmsz-009",
@@ -8511,7 +8567,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-008",
-      "name": "葛城莉莉娅的特训阶段提升至{threshold}级"
+      "name": "将葛城莉莉娅的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-kllj-009",
@@ -8850,12 +8906,16 @@
       "name": "将月村手毬的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achievement_char_hume-024",
+      "name": "将花海佑芽的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achievement_char_kcna-024",
       "name": "将仓本千奈的特训阶段提升至{threshold}级"
     },
     {
       "id": "achievement_char_kllj-024",
-      "name": "葛城莉莉娅的特训阶段提升至{threshold}级"
+      "name": "将葛城莉莉娅的特训阶段提升至{threshold}级"
     },
     {
       "id": "achievement_char_ssmk-024",
