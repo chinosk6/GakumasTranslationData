@@ -55,11 +55,11 @@
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
-      "name": "体力花费值减少"
+      "name": "体力消耗花费值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
-      "name": "体力花费值增加"
+      "name": "体力消耗花费值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",

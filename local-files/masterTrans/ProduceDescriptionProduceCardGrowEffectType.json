@@ -7,23 +7,23 @@
   "data": [
     {
       "type": "ProduceCardGrowEffectType_LessonAdd",
-      "name": "数值增加",
-      "produceCardCustomizeTemplate": "分数+"
+      "name": "打分增加",
+      "produceCardCustomizeTemplate": "打分+"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonReduce",
-      "name": "分数值减少",
-      "produceCardCustomizeTemplate": "分数-"
+      "name": "打分值减少",
+      "produceCardCustomizeTemplate": "打分-"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountAdd",
-      "name": "数值上升次数增加",
-      "produceCardCustomizeTemplate": "分数上升次数+"
+      "name": "打分上升次数增加",
+      "produceCardCustomizeTemplate": "打分上升次数+"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountReduce",
-      "name": "分数上升次数减少",
-      "produceCardCustomizeTemplate": "分数上升次数-"
+      "name": "打分上升次数减少",
+      "produceCardCustomizeTemplate": "打分上升次数-"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockAdd",

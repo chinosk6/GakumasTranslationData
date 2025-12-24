@@ -61,7 +61,7 @@
     {
       "id": "Convert_ConditionThreshold",
       "produceDescriptions": [],
-      "name": "课程CLEAR的"
+      "name": "课程CLEAR在"
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
@@ -3322,10 +3322,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "交换手牌"
+          "text": "更换手牌"
         }
       ],
-      "name": "交换手牌"
+      "name": "更换手牌"
     },
     {
       "id": "Label_ExamHandHold",
@@ -6992,7 +6992,7 @@
           "text": "对除去以后的技能卡，培育结束为止都不会再登场"
         }
       ],
-      "name": "技能卡除去"
+      "name": "除去技能卡"
     },
     {
       "id": "Label_ProduceCardGrowEffect",
@@ -7568,7 +7568,7 @@
           "text": "会折扣"
         }
       ],
-      "name": "咨询的购买技能卡会折扣"
+      "name": "咨询的购买技能卡折扣"
     },
     {
       "id": "Label_StaminaConsumptionAddTurnAdd",

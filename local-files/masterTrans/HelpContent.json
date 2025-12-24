@@ -785,7 +785,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-data-linkage",
       "order": 17,
-      "name": "数据连携"
+      "name": "数据关联"
     },
     {
       "helpCategoryId": "help-menu",
@@ -809,7 +809,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-item",
       "order": 5,
-      "name": "持有的物品"
+      "name": "物品"
     },
     {
       "helpCategoryId": "help-menu",
@@ -851,13 +851,13 @@
       "helpCategoryId": "help-menu",
       "id": "menu-profile",
       "order": 1,
-      "name": "个人信息"
+      "name": "简介"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-roster",
       "order": 11,
-      "name": "名片簿"
+      "name": "名册"
     },
     {
       "helpCategoryId": "help-menu",
@@ -869,7 +869,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-title",
       "order": 15,
-      "name": "标题画面"
+      "name": "标题"
     },
     {
       "helpCategoryId": "help-mission",
@@ -1355,7 +1355,7 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story",
       "order": 1,
-      "name": "故事交流"
+      "name": "故事活动"
     },
     {
       "helpCategoryId": "help-story-event",

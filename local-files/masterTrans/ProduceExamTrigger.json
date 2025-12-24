@@ -653,7 +653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "内的技能卡在7张以上的时候，"
+          "text": "内的技能卡在1张以上的时候，"
         }
       ]
     },
@@ -698,7 +698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "内的技能卡在7张以上的时候，"
+          "text": "内的技能卡在1张以上的时候，"
         }
       ]
     },
@@ -2883,7 +2883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_ConditionThreshold",
-          "text": "课程CLEAR的"
+          "text": "课程CLEAR在"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -2928,7 +2928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_ConditionThreshold",
-          "text": "课程CLEAR的"
+          "text": "课程CLEAR在"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6548,7 +6548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在3以上，每使用2次技能卡，"
+          "text": "在3以上的时候，每使用2次技能卡，"
         }
       ]
     },
@@ -6573,7 +6573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在8以上，每使用2次技能卡，"
+          "text": "在8以上的时候，每使用2次技能卡，"
         }
       ]
     },
@@ -7668,7 +7668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "进入次数在1次以上的时候，"
+          "text": "存在次数在1次以上的时候，"
         }
       ]
     },
@@ -8667,7 +8667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_ConditionThreshold",
-          "text": "课程CLEAR的"
+          "text": "课程CLEAR在"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12941,7 +12941,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "第6回合开始时，"
+          "text": "第7回合开始时，"
         }
       ]
     },
@@ -12956,7 +12956,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "第7回合开始时，"
+          "text": "第8回合开始时，"
         }
       ]
     },
@@ -12971,7 +12971,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "第7回合开始时，"
+          "text": "第8回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13181,7 +13181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "进入次数在1次以上的时候，"
+          "text": "存在次数在1次以上的时候，"
         }
       ]
     },
@@ -13601,7 +13601,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "进入次数在1次以上的时候，"
+          "text": "存在次数在1次以上的时候，"
         }
       ]
     },

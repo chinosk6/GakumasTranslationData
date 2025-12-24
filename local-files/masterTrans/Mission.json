@@ -311,7 +311,7 @@
     },
     {
       "id": "dearness_normal-mission_kllj-001",
-      "name": "将姬崎莉波的视觉能力值培养至2000以上并完成培育"
+      "name": "将葛城莉莉娅的视觉能力值培养至2000以上并完成培育"
     },
     {
       "id": "dearness_normal-mission_kllj-002",
@@ -3879,7 +3879,7 @@
     },
     {
       "id": "mission-normal-absolutefancount-1",
-      "name": "将累计粉丝数提升至{threshold}人吧"
+      "name": "累计获得{threshold}名粉丝吧"
     },
     {
       "id": "mission-normal-absoluteidolcardcount-1",
@@ -4031,7 +4031,7 @@
     },
     {
       "id": "mission-normal-incrementworktimecount-1",
-      "name": "进行累计{threshold}小时的工作吧"
+      "name": "累计工作{threshold}小时吧"
     },
     {
       "id": "mission-normal-linkBandaiNamco-1",
@@ -4311,7 +4311,7 @@
     },
     {
       "id": "mission-release_mission-1-4",
-      "name": "通关1个研修吧"
+      "name": "去通关1个研修吧"
     },
     {
       "id": "mission-release_mission-1-5",
@@ -4863,7 +4863,7 @@
     },
     {
       "id": "mission-weekly-incrementworktimecount-1",
-      "name": "进行累计{threshold}小时的工作吧"
+      "name": "累计工作{threshold}小时吧"
     },
     {
       "id": "panel_mission-event-002-mission_1",
@@ -5119,15 +5119,15 @@
     },
     {
       "id": "panel_mission-event-niv-mission_1",
-      "name": "以B+以上分数通过{threshold}次最终考试吧"
+      "name": "以B+以上得分通过{threshold}次最终考试吧"
     },
     {
       "id": "panel_mission-event-niv-mission_2",
-      "name": "以A以上分数通过{threshold}次最终考试吧"
+      "name": "以A以上得分通过{threshold}次最终考试吧"
     },
     {
       "id": "panel_mission-event-niv-mission_3",
-      "name": "以A+以上分数通过{threshold}次最终考试吧"
+      "name": "以A+以上得分通过{threshold}次最终考试吧"
     },
     {
       "id": "panel_mission-event-niv-mission_4",
@@ -5659,15 +5659,15 @@
     },
     {
       "id": "achieve-i_card-hrnm-2-000-04",
-      "name": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "【『自我』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-05",
-      "name": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "【『自我』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-06",
-      "name": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "【『自我』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hrnm-3-000-04",
@@ -7351,15 +7351,15 @@
     },
     {
       "id": "achieve-o_023",
-      "name": "在竞技场中获得10,000以上的分数"
+      "name": "在竞技场中获得10,000以上的得分"
     },
     {
       "id": "achieve-o_024",
-      "name": "在竞技场中获得30,000以上的分数"
+      "name": "在竞技场中获得30,000以上的得分"
     },
     {
       "id": "achieve-o_025",
-      "name": "在竞技场中获得60,000以上的分数"
+      "name": "在竞技场中获得60,000以上的得分"
     },
     {
       "id": "achieve-o_026",
@@ -7443,23 +7443,23 @@
     },
     {
       "id": "achieve-p_common-019",
-      "name": "以B以上评价通过{threshold}次最终考试"
+      "name": "以B以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-020",
-      "name": "以A以上评价通过{threshold}次最终考试"
+      "name": "以A以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-021",
-      "name": "以A+以上评价通过{threshold}次最终考试"
+      "name": "以A+以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-022",
-      "name": "以S以上评价通过{threshold}次最终考试"
+      "name": "以S以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-023",
-      "name": "以S+以上评价通过{threshold}次最终考试"
+      "name": "以S+以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-024",
@@ -7471,15 +7471,15 @@
     },
     {
       "id": "achieve-p_common-026",
-      "name": "以SS以上评价通过{threshold}次最终考试"
+      "name": "以SS以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-027",
-      "name": "以SS+以上评价通过{threshold}次最终考试"
+      "name": "以SS+以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-028",
-      "name": "以SSS以上评价通过{threshold}次最终考试"
+      "name": "以SSS以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-amao-000",
@@ -7527,7 +7527,7 @@
     },
     {
       "id": "achieve-p_idol-amao-010",
-      "name": "获得有村麻央获得{threshold}粉丝"
+      "name": "有村麻央获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-amao-011",
@@ -7543,7 +7543,7 @@
     },
     {
       "id": "achieve-p_idol-amao-014",
-      "name": "将有村麻央的视觉值培养至1000以上并完成培育"
+      "name": "将有村麻央的视觉能力值培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-amao-015",
@@ -7707,15 +7707,15 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
-      "name": "【『我的风格』的开始】姬崎莉波的培育中通过最终考试"
+      "name": "【『自我』的开始】姬崎莉波的培育中通过最终考试"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-2",
-      "name": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "【『自我』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-3",
-      "name": "【『我的风格』的开始】姬崎莉波的培育中获得{threshold}次A+以上的评价"
+      "name": "【『自我』的开始】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-1",
@@ -7919,7 +7919,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-010",
-      "name": "获得藤田琴音获得{threshold}粉丝"
+      "name": "藤田琴音获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-fktn-011",
@@ -8031,7 +8031,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-014",
-      "name": "将秦谷美铃的歌唱能力培养至1000以上并完成培育 "
+      "name": "将秦谷美铃的歌唱能力值培养至1000以上并完成培育 "
     },
     {
       "id": "achieve-p_idol-hmsz-015",
@@ -8203,7 +8203,7 @@
     },
     {
       "id": "achieve-p_idol-hski-010",
-      "name": "获得花海咲季获得{threshold}粉丝"
+      "name": "花海咲季获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-hski-011",
@@ -8219,7 +8219,7 @@
     },
     {
       "id": "achieve-p_idol-hski-014",
-      "name": "将花海咲季的视觉属性培养至900以上并完成培育"
+      "name": "将花海咲季的视觉能力值培养至900以上并完成培育"
     },
     {
       "id": "achieve-p_idol-hski-015",
@@ -8299,7 +8299,7 @@
     },
     {
       "id": "achieve-p_idol-hume-010",
-      "name": "获得花海佑芽获得{threshold}粉丝"
+      "name": "花海佑芽获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-hume-011",
@@ -8391,7 +8391,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-010",
-      "name": "获得十王星南获得{threshold}粉丝"
+      "name": "十王星南获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-jsna-011",
@@ -8483,7 +8483,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-010",
-      "name": "获得仓本千奈获得{threshold}粉丝"
+      "name": "仓本千奈获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-kcna-011",
@@ -8575,7 +8575,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-010",
-      "name": "获得葛城莉莉娅获得{threshold}粉丝"
+      "name": "葛城莉莉娅获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-kllj-011",
@@ -8667,7 +8667,7 @@
     },
     {
       "id": "achieve-p_idol-shro-010",
-      "name": "获得筱泽广获得{threshold}粉丝"
+      "name": "筱泽广获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-shro-011",
@@ -8763,7 +8763,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-010",
-      "name": "获得紫云清夏获得{threshold}粉丝"
+      "name": "紫云清夏获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-ssmk-011",
@@ -8855,7 +8855,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-010",
-      "name": "获得月村手毬获得{threshold}粉丝"
+      "name": "月村手毬获得{threshold}粉丝"
     },
     {
       "id": "achieve-p_idol-ttmr-011",
@@ -8943,7 +8943,7 @@
     },
     {
       "id": "main_task_group-01-01#6",
-      "name": "通关1个研修吧"
+      "name": "去通关1个研修吧"
     },
     {
       "id": "main_task_group-01-01#7",
@@ -9119,7 +9119,7 @@
     },
     {
       "id": "main_task_group-01-01#50",
-      "name": "在培育中挑战获得B以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在培育中挑战获得B以上的评价吧\n【条件】方案：理性的培育用偶像"
     },
     {
       "id": "main_task_group-01-01#51",
@@ -9207,7 +9207,7 @@
     },
     {
       "id": "main_task_group-02-01#12",
-      "name": "进行累计{threshold}小时的工作吧"
+      "name": "累计工作{threshold}小时吧"
     },
     {
       "id": "main_task_group-02-01#13",
@@ -9267,7 +9267,7 @@
     },
     {
       "id": "main_task_group-02-01#27",
-      "name": "在联合竞技中使用{threshold}次技能卡吧"
+      "name": "去挑战竞技场吧"
     },
     {
       "id": "main_task_group-02-01#28",
@@ -9327,7 +9327,7 @@
     },
     {
       "id": "main_task_group-02-01#42",
-      "name": "在联合竞技中使用{threshold}次技能卡吧"
+      "name": "去挑战竞技场吧"
     },
     {
       "id": "main_task_group-02-01#43",
@@ -9363,11 +9363,11 @@
     },
     {
       "id": "main_task_group-02-01#51",
-      "name": "在培育中挑战获得A以上的评价"
+      "name": "在培育中挑战获得A以上的评价吧"
     },
     {
       "id": "main_task_group-02-01#52",
-      "name": "进行累计{threshold}小时的工作吧"
+      "name": "累计工作{threshold}小时吧"
     },
     {
       "id": "main_task_group-02-01#53",
@@ -9387,7 +9387,7 @@
     },
     {
       "id": "main_task_group-02-01#57",
-      "name": "在联合竞技中使用{threshold}次技能卡吧"
+      "name": "去挑战竞技场吧"
     },
     {
       "id": "main_task_group-02-01#58",
@@ -9407,7 +9407,7 @@
     },
     {
       "id": "main_task_group-02-01#62",
-      "name": "在培育中挑战获得A以上的评价"
+      "name": "在培育中挑战获得A以上的评价吧"
     },
     {
       "id": "main_task_group-02-01#63",
@@ -9431,7 +9431,7 @@
     },
     {
       "id": "main_task_group-02-01#68",
-      "name": "将累计粉丝数提升至{threshold}人吧"
+      "name": "累计获得{threshold}名粉丝吧"
     },
     {
       "id": "main_task_group-02-01#69",
@@ -9671,7 +9671,7 @@
     },
     {
       "id": "main_task_group-03-01#28",
-      "name": "将累计粉丝数提升至{threshold}人吧"
+      "name": "累计获得{threshold}名粉丝吧"
     },
     {
       "id": "main_task_group-03-01#29",
@@ -9687,7 +9687,7 @@
     },
     {
       "id": "main_task_group-03-01#32",
-      "name": "进行累计{threshold}小时的工作吧"
+      "name": "累计工作{threshold}小时吧"
     },
     {
       "id": "main_task_group-03-01#33",
@@ -9695,7 +9695,7 @@
     },
     {
       "id": "main_task_group-03-01#34",
-      "name": "在培育中挑战获得A+以上的评价"
+      "name": "在培育中挑战获得A+以上的评价吧"
     },
     {
       "id": "main_task_group-03-01#35",
@@ -9759,7 +9759,7 @@
     },
     {
       "id": "main_task_group-03-01#50",
-      "name": "在培育中挑战获得S以上的评价"
+      "name": "在培育中挑战获得S以上的评价吧"
     },
     {
       "id": "main_task_group-03-01#51",
@@ -9783,7 +9783,7 @@
     },
     {
       "id": "main_task_group-03-01#56",
-      "name": "在联合竞技中使用{threshold}次技能卡吧"
+      "name": "去挑战竞技场吧"
     },
     {
       "id": "main_task_group-03-01#57",
@@ -9815,15 +9815,15 @@
     },
     {
       "id": "main_task_group-03-01#64",
-      "name": "将累计粉丝数提升至{threshold}人吧"
+      "name": "累计获得{threshold}名粉丝吧"
     },
     {
       "id": "main_task_group-03-01#65",
-      "name": "进行累计{threshold}小时的工作吧"
+      "name": "累计工作{threshold}小时吧"
     },
     {
       "id": "main_task_group-03-01#66",
-      "name": "在N.I.A中最终试镜合格并达成S以上的评价吧\n【条件】方案：感性的培育用偶像"
+      "name": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：感性的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#67",
@@ -9851,7 +9851,7 @@
     },
     {
       "id": "main_task_group-03-01#73",
-      "name": "进行累计{threshold}小时的工作吧"
+      "name": "累计工作{threshold}小时吧"
     },
     {
       "id": "main_task_group-03-01#74",
@@ -9871,11 +9871,11 @@
     },
     {
       "id": "main_task_group-03-01#78",
-      "name": "在N.I.A中最终试镜合格并达成S以上的评价吧\n【条件】方案：理性的培育用偶像"
+      "name": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：理性的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#79",
-      "name": "将累计粉丝数提升至{threshold}人吧"
+      "name": "累计获得{threshold}名粉丝吧"
     },
     {
       "id": "main_task_group-03-01#80",
@@ -9883,7 +9883,7 @@
     },
     {
       "id": "main_task_group-03-01#81",
-      "name": "在N.I.A中最终试镜合格并达成S以上的评价吧\n【条件】方案：非凡的培育用偶像"
+      "name": "在N.I.A的最终试镜中合格并达成S以上的评价吧\n【条件】方案：非凡的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#82",

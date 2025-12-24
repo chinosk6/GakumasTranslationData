@@ -239,7 +239,7 @@
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceDiscountMultiple",
-      "name": "咨询的削除技能卡折扣"
+      "name": "咨询的删除技能卡折扣"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceSpecify",
@@ -315,7 +315,7 @@
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceUpMultiple",
-      "name": "咨询的削除技能卡涨价"
+      "name": "咨询的删除技能卡涨价"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
@@ -327,11 +327,11 @@
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "外出的P点数消耗增加"
+      "name": "外出消耗的P点数增加"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
-      "name": "外出的P点数消耗减少"
+      "name": "外出消耗的P点数减少"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",

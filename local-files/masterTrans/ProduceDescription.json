@@ -17,7 +17,7 @@
     },
     {
       "id": "Convert_ConditionThreshold",
-      "name": "课程CLEAR的",
+      "name": "课程CLEAR在",
       "swapName": "得分为"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "id": "Label_ExamHandGraveCountCardDraw",
-      "name": "交换手牌",
+      "name": "更换手牌",
       "swapName": ""
     },
     {
@@ -367,8 +367,8 @@
     },
     {
       "id": "Label_ExamLesson",
-      "name": "分数",
-      "swapName": "分数"
+      "name": "得分",
+      "swapName": "得分"
     },
     {
       "id": "Label_ExamLessonBuffMultiple",
@@ -392,7 +392,7 @@
     },
     {
       "id": "Label_ExamLessonChangeSpecifyLessThan",
-      "name": "分数上升值变动",
+      "name": "得分上升值变动",
       "swapName": "得分上升值变动"
     },
     {
@@ -402,17 +402,17 @@
     },
     {
       "id": "Label_ExamLessonFix",
-      "name": "固定分数",
+      "name": "固定得分",
       "swapName": "固定得分"
     },
     {
       "id": "Label_ExamLessonValueMultiple",
-      "name": "数值提升量增加",
+      "name": "打分值提升量增加",
       "swapName": "得分提升量增加"
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
-      "name": "分数上升量减少",
+      "name": "得分上升量减少",
       "swapName": "得分上升量减少"
     },
     {
@@ -587,8 +587,8 @@
     },
     {
       "id": "Label_LessonAdd",
-      "name": "数值增加",
-      "swapName": "得分值增加"
+      "name": "打分值增加",
+      "swapName": "打分值增加"
     },
     {
       "id": "Label_LessonBuffAdd",
@@ -602,18 +602,18 @@
     },
     {
       "id": "Label_LessonCountAdd",
-      "name": "数值上升次数增加",
+      "name": "得分上升次数增加",
       "swapName": "得分上升次数增加"
     },
     {
       "id": "Label_LessonCountReduce",
-      "name": "分数上升次数减少",
+      "name": "得分上升次数减少",
       "swapName": "得分上升次数减少"
     },
     {
       "id": "Label_LessonReduce",
-      "name": "分数值减少",
-      "swapName": "得分值减少"
+      "name": "打分值减少",
+      "swapName": "打分值减少"
     },
     {
       "id": "Label_LessonSupport",

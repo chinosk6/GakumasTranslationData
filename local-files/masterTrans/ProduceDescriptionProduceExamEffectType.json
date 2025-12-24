@@ -7,8 +7,8 @@
   "data": [
     {
       "type": "ProduceExamEffectType_ExamLesson",
-      "name": "分数",
-      "swapName": "分数"
+      "name": "打分",
+      "swapName": "打分"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuff",
@@ -92,8 +92,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonFix",
-      "name": "固定分数",
-      "swapName": "固定得分"
+      "name": "固定打分",
+      "swapName": "固定打分"
     },
     {
       "type": "ProduceExamEffectType_ExamCardDuplicate",
@@ -112,8 +112,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultiple",
-      "name": "数值提升量增加",
-      "swapName": "得分提升量增加"
+      "name": "打分提升量增加",
+      "swapName": "打分提升量增加"
     },
     {
       "type": "ProduceExamEffectType_ExamCardPlayAggressive",
@@ -202,8 +202,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
-      "name": "分数上升值变更",
-      "swapName": "得分上升值变更"
+      "name": "打分上升值变更",
+      "swapName": "打分上升值变更"
     },
     {
       "type": "ProduceExamEffectType_ExamHandHold",
@@ -242,8 +242,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
-      "name": "交换手牌",
-      "swapName": "交换手牌"
+      "name": "更换手牌",
+      "swapName": "更换手牌"
     },
     {
       "type": "ProduceExamEffectType_ExamEffectTimer",
@@ -332,8 +332,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
-      "name": "分数上升量减少",
-      "swapName": "得分上升量减少"
+      "name": "打分上升量减少",
+      "swapName": "打分上升量减少"
     },
     {
       "type": "ProduceExamEffectType_ExamAddGrowEffect",

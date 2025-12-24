@@ -637,18 +637,18 @@
     },
     {
       "id": "achieve-i_card-hrnm-2-000-04",
-      "name": "『我的风格』的开始 +",
-      "description": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "『自我』的开始 +",
+      "description": "【『自我』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-05",
-      "name": "『我的风格』的开始 ++",
-      "description": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "『自我』的开始 ++",
+      "description": "【『自我』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-06",
-      "name": "『我的风格』的开始 +++",
-      "description": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "『自我』的开始 +++",
+      "description": "【『自我』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hrnm-3-000-04",
@@ -1992,7 +1992,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-001-02",
-      "name": "对比",
+      "name": "反差",
       "description": "【反差】筱泽广的特训阶段提升至{threshold}级"
     },
     {
@@ -2232,7 +2232,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-002-02",
-      "name": "过去的我",
+      "name": "隐藏的我",
       "description": "【隐藏的我】紫云清夏的特训阶段提升至{threshold}级"
     },
     {
@@ -2753,17 +2753,17 @@
     {
       "id": "achieve-o_023",
       "name": "备受期待的新人",
-      "description": "在竞技场中获得10,000以上的分数"
+      "description": "在竞技场中获得10,000以上的得分"
     },
     {
       "id": "achieve-o_024",
       "name": "黑马",
-      "description": "在竞技场中获得30,000以上的分数"
+      "description": "在竞技场中获得30,000以上的得分"
     },
     {
       "id": "achieve-o_025",
       "name": "热门候选",
-      "description": "在竞技场中获得60,000以上的分数"
+      "description": "在竞技场中获得60,000以上的得分"
     },
     {
       "id": "achieve-o_026",
@@ -2817,7 +2817,7 @@
     },
     {
       "id": "achieve-p_common-009",
-      "name": "声乐大师",
+      "name": "歌唱大师",
       "description": "在培育中选择Vo课程{threshold}次"
     },
     {
@@ -2837,7 +2837,7 @@
     },
     {
       "id": "achieve-p_common-013",
-      "name": "校园生活",
+      "name": "学园生活",
       "description": "在培育中选择授课/外出{threshold}次"
     },
     {
@@ -2868,27 +2868,27 @@
     {
       "id": "achieve-p_common-019",
       "name": "中级制作人",
-      "description": "以B以上评价通过{threshold}次最终考试"
+      "description": "以B以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-020",
       "name": "高级制作人",
-      "description": "以A以上评价通过{threshold}次最终考试"
+      "description": "以A以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-021",
       "name": "资深制作人",
-      "description": "以A+以上评价通过{threshold}次最终考试"
+      "description": "以A+以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-022",
       "name": "精明制作人",
-      "description": "以S以上评价通过{threshold}次最终考试"
+      "description": "以S以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-023",
       "name": "精英制作人",
-      "description": "以S+以上评价通过{threshold}次最终考试"
+      "description": "以S+以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-024",
@@ -2903,17 +2903,17 @@
     {
       "id": "achieve-p_common-026",
       "name": "大师级制作人",
-      "description": "以SS以上评价通过{threshold}次最终考试"
+      "description": "以SS以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-027",
       "name": "培养才华的人",
-      "description": "以SS+以上评价通过{threshold}次最终考试"
+      "description": "以SS+以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_common-028",
       "name": "星空守护者",
-      "description": "以SSS以上评价通过{threshold}次最终考试"
+      "description": "以SSS以上得分通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-amao-000",
@@ -3182,7 +3182,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-003-1",
-      "name": "不能东张西望♪",
+      "name": "不许东张西望♪",
       "description": "【世界第一可爱的我】藤田琴音的培育中通过最终考试"
     },
     {
@@ -3198,17 +3198,17 @@
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
       "name": "贴近的感受",
-      "description": "【『我的风格』的开始】姬崎莉波的培育中通过最终考试"
+      "description": "【『自我』的开始】姬崎莉波的培育中通过最终考试"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-2",
-      "name": "『我的风格』的开始",
-      "description": "【『我的风格』的开始】姬崎莉波的特训阶段提升至{threshold}级"
+      "name": "『自我』的开始",
+      "description": "【『自我』的开始】姬崎莉波的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-3",
       "name": "我是你的姐姐",
-      "description": "【『我的风格』的开始】姬崎莉波的培育中获得{threshold}次A+以上的评价"
+      "description": "【『自我』的开始】姬崎莉波的培育中获得{threshold}次A+以上的评价"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-1",
