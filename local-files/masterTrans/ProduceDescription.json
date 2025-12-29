@@ -107,8 +107,8 @@
     },
     {
       "id": "Label_CardStatusEnchantChange",
-      "name": "成长效果替换",
-      "swapName": "成长效果替换"
+      "name": "成长效果置换",
+      "swapName": "成长效果置换"
     },
     {
       "id": "Label_CostAdd",
@@ -147,8 +147,8 @@
     },
     {
       "id": "Label_EffectChange",
-      "name": "效果替换",
-      "swapName": "效果替换"
+      "name": "效果置换",
+      "swapName": "效果置换"
     },
     {
       "id": "Label_EffectDelete",
@@ -657,8 +657,8 @@
     },
     {
       "id": "Label_PlayEffectTriggerChange",
-      "name": "替换效果触发条件",
-      "swapName": "替换效果触发条件"
+      "name": "置换效果发动条件",
+      "swapName": "置换效果发动条件"
     },
     {
       "id": "Label_PlayMovePositionTypeChange",
@@ -667,8 +667,8 @@
     },
     {
       "id": "Label_PlayTriggerChange",
-      "name": "使用条件替换",
-      "swapName": "使用条件替换"
+      "name": "置换使用条件",
+      "swapName": "置换使用条件"
     },
     {
       "id": "Label_ProduceCardChange",

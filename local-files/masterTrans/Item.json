@@ -6,6 +6,12 @@
   },
   "data": [
     {
+      "id": "item_gacha-coin-continuous-001",
+      "name": "TVCM放映纪念随心抽硬币",
+      "description": "可以在TVCM放映纪念随心抽中使用的硬币",
+      "acquisitionRouteDescription": "TVCM放映纪念登录奖励、TVCM放映纪念任务"
+    },
+    {
       "id": "item-coin-box-gasha-event-001",
       "name": "海豹仔",
       "description": "可以在活动扭蛋中使用的道具",
@@ -216,6 +222,18 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-gacha-coin-newyear-002",
+      "name": "初星福引券 2026",
+      "description": "可以在谨贺新年！福引扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-gasha_200limit-exchange",
+      "name": "Story of Re;IRIS放映纪念兑换券",
+      "description": "收集20张后，可以在道具兑换所中兑换培养用偶像或支援卡的票据",
+      "acquisitionRouteDescription": "Story of Re;IRIS放映纪念SSR1.5倍自选PICK UP扭蛋"
+    },
+    {
       "id": "item-gasha-ticket-ssr-fix-seasons-2511-001",
       "name": "1.5th Anniversary纪念季节限定SSR必得扭蛋票据",
       "description": "可以在1.5th Anniversary纪念季节限定SSR必得扭蛋票据扭蛋中使用的票据",
@@ -277,14 +295,20 @@
     },
     {
       "id": "item-gashaticket-ssr-idol-fix_2",
-      "name": "The 1st Period 公演纪念 SSR P偶像确定票据",
-      "description": "可以在The 1st Period 公演纪念 SSR P偶像确定票据扭蛋中使用的票据",
+      "name": "The 1st Period 公演纪念 SSR P偶像必得票据",
+      "description": "可以在The 1st Period 公演纪念 SSR P偶像必得票据扭蛋中使用的票据",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-idol-fix_3",
       "name": "MOIW2025纪念 SSR P偶像必得扭蛋票据",
       "description": "可以在MOIW2025纪念 SSR P偶像必得扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-season-fix_4",
+      "name": "季节限定 SSR P偶像必得扭蛋票据",
+      "description": "可以在季节限定 SSR P偶像必得扭蛋中使用的票据",
       "acquisitionRouteDescription": ""
     },
     {
@@ -297,6 +321,12 @@
       "id": "item-gashaticket-ssr-support-fix-nia-1",
       "name": "N.I.A挑战SSR 支援卡必得扭蛋票据",
       "description": "可以在N.I.A挑战SSR 支援卡必得扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-support-season-fix_1",
+      "name": "季节限定 SSR 支援卡必得扭蛋票据",
+      "description": "可以在季节限定 SSR 支援卡必得扭蛋中使用的票据",
       "acquisitionRouteDescription": ""
     },
     {
@@ -626,6 +656,12 @@
     {
       "id": "item-piece-idol_atbm-3-000",
       "name": "[用理论武装]雨夜燕的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-3-012",
+      "name": "[Campus mode!!]雨夜燕的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

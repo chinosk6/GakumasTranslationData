@@ -71,7 +71,9 @@
     {
       "id": "p_story_002_atbm_after-audition-a-normal-02",
       "title": "现在才刚要开始！",
-      "produceEventHintProduceConditionDescriptions": []
+      "produceEventHintProduceConditionDescriptions": [
+        "在1次试镜中选择「MeloBang!」并合格"
+      ]
     },
     {
       "id": "p_story_002_atbm_after-audition-a-normal-03",
@@ -81,7 +83,9 @@
     {
       "id": "p_story_002_atbm_after-audition-b-normal-02",
       "title": "更进一步！",
-      "produceEventHintProduceConditionDescriptions": []
+      "produceEventHintProduceConditionDescriptions": [
+        "在2次试镜中选择「GALAXY音乐」并合格"
+      ]
     },
     {
       "id": "p_story_002_atbm_after-audition-b-normal-03",
@@ -101,7 +105,9 @@
     {
       "id": "p_story_002_atbm_after-audition-mid-failure-01",
       "title": "下次一定会",
-      "produceEventHintProduceConditionDescriptions": []
+      "produceEventHintProduceConditionDescriptions": [
+        "1次/2次试镜不合格"
+      ]
     },
     {
       "id": "p_story_002_atbm_before-audition-a-normal-01",
@@ -116,7 +122,9 @@
     {
       "id": "p_story_002_atbm_ending-normal-02",
       "title": "Normal End",
-      "produceEventHintProduceConditionDescriptions": []
+      "produceEventHintProduceConditionDescriptions": [
+        "最终试镜合格"
+      ]
     },
     {
       "id": "p_story_002_atbm_opening-normal-02",
@@ -2206,7 +2214,7 @@
       "id": "p_story-001-hume-after-audition-final-failure-01",
       "title": "考试的结果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "挑战最终考试"
+        "最终考试不合格"
       ]
     },
     {
@@ -6325,6 +6333,366 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-event-002_atbm_business-1-1",
+      "title": "街头宣传活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-1-1",
+      "title": "街头宣传活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-1-2",
+      "title": "街头宣传活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-2",
+      "title": "咖啡馆活动PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-2-1",
+      "title": "咖啡馆活动PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-2-2",
+      "title": "咖啡馆活动PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-3",
+      "title": "采访者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-3-1",
+      "title": "采访者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-3-2",
+      "title": "采访者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-4",
+      "title": "英雄秀的主持人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-4-1",
+      "title": "英雄秀的主持人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-4-2",
+      "title": "英雄秀的主持人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-5",
+      "title": "试饮促销",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-5-1",
+      "title": "试饮促销",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-5-2",
+      "title": "试饮促销",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-6",
+      "title": "密室逃脱PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-6-1",
+      "title": "密室逃脱PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-1-6-2",
+      "title": "密室逃脱PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-1",
+      "title": "清扫志愿者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-1-1",
+      "title": "清扫志愿者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-1-2",
+      "title": "清扫志愿者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-2",
+      "title": "商店街活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-2-1",
+      "title": "商店街活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-2-2",
+      "title": "商店街活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-3",
+      "title": "天川观光大使",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-3-1",
+      "title": "天川观光大使",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-3-2",
+      "title": "天川观光大使",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-4",
+      "title": "广播的公开录制",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-4-1",
+      "title": "广播的公开录制",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-4-2",
+      "title": "广播的公开录制",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-5",
+      "title": "小朋友的体操教室",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-5-1",
+      "title": "小朋友的体操教室",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-5-2",
+      "title": "小朋友的体操教室",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-6",
+      "title": "天川礼仪小姐",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-6-1",
+      "title": "天川礼仪小姐",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-2-6-2",
+      "title": "天川礼仪小姐",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-1",
+      "title": "森林浴场拍摄",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-1-1",
+      "title": "森林浴场拍摄",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-1-2",
+      "title": "森林浴场拍摄",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-2",
+      "title": "SPA度假村PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-2-1",
+      "title": "SPA度假村PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-2-2",
+      "title": "SPA度假村PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-3",
+      "title": "录制水族馆导览",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-3-1",
+      "title": "录制水族馆导览",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-3-2",
+      "title": "录制水族馆导览",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-4",
+      "title": "瑜伽体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-4-1",
+      "title": "瑜伽体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-4-2",
+      "title": "瑜伽体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-5",
+      "title": "温泉PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-5-1",
+      "title": "温泉PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-5-2",
+      "title": "温泉PR",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-6",
+      "title": "露营场体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-6-1",
+      "title": "露营场体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-3-6-2",
+      "title": "露营场体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-1",
+      "title": "迷你Live",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-1-1",
+      "title": "迷你Live",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-1-2",
+      "title": "迷你Live",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-2",
+      "title": "脱口秀活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-2-1",
+      "title": "脱口秀活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-2-2",
+      "title": "脱口秀活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-3",
+      "title": "握手会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-3-1",
+      "title": "握手会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-3-2",
+      "title": "握手会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-4",
+      "title": "电影上映活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-4-1",
+      "title": "电影上映活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-4-2",
+      "title": "电影上映活动",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-5",
+      "title": "游戏体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-5-1",
+      "title": "游戏体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-5-2",
+      "title": "游戏体验",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-6",
+      "title": "签名会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-6-1",
+      "title": "签名会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-002_atbm_business-4-6-2",
+      "title": "签名会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-event-002_fktn_business-1-1",
       "title": "街头宣传活动",
       "produceEventHintProduceConditionDescriptions": []
@@ -10405,6 +10773,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-atbm-3-012-01",
+      "title": "Campus mode!! 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-012-02",
+      "title": "Campus mode!! 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-012-03",
+      "title": "Campus mode!! 第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-fktn-3-000-01",
       "title": "世界第一可爱的我 第1话",
       "produceEventHintProduceConditionDescriptions": []
@@ -13502,6 +13885,21 @@
     {
       "id": "p_story-s_card-3-0082-03",
       "title": "突然就心血来潮了！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0085-01",
+      "title": "理想的前后辈关系",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0085-02",
+      "title": "座右铭是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0085-03",
+      "title": "无论对手是谁",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

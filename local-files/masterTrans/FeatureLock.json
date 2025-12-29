@@ -70,6 +70,12 @@
       "name": "制作人排行榜",
       "description": "「制作人排行榜」功能解锁",
       "routeDescription": "请前往竞技场页面的P排行榜进行确认"
+    },
+    {
+      "tutorialType": "TutorialType_ProduceCardConvert",
+      "name": "技能卡替换",
+      "description": "「技能卡替换」功能解锁",
+      "routeDescription": "可以在培育中进行确认"
     }
   ]
 }

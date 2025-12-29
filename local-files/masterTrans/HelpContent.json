@@ -933,6 +933,12 @@
     },
     {
       "helpCategoryId": "help-produce",
+      "id": "produce-004-add",
+      "order": 50,
+      "name": "难易度：Legend(定期公演『初』)"
+    },
+    {
+      "helpCategoryId": "help-produce",
       "id": "produce-005-add",
       "order": 47,
       "name": "难易度：MASTER(NEXT IDOL AUDITION)"
@@ -1214,10 +1220,28 @@
       "name": "True End：N.I.A"
     },
     {
+      "helpCategoryId": "help-produce",
+      "id": "ProduceCardConvert",
+      "order": 51,
+      "name": "技能卡替换"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "producer-ranking-badge",
+      "order": 53,
+      "name": "徽章"
+    },
+    {
       "helpCategoryId": "help-producer-ranking",
       "id": "producer-ranking",
       "order": 1,
       "name": "制作人排行榜"
+    },
+    {
+      "helpCategoryId": "help-producer-ranking",
+      "id": "producer-ranking-badge",
+      "order": 3,
+      "name": "徽章"
     },
     {
       "helpCategoryId": "help-producer-ranking",

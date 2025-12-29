@@ -50,6 +50,10 @@
       "name": "圆框眼镜（有村麻央）"
     },
     {
+      "id": "shop_costume_costume_head_amao-hair-0004",
+      "name": "猫耳（有村麻央）"
+    },
+    {
       "id": "shop_costume_costume_head_atbm-hair-0001",
       "name": "紫阳花发饰（雨夜燕）"
     },
@@ -110,6 +114,10 @@
       "name": "圆框眼镜（姬崎莉波）"
     },
     {
+      "id": "shop_costume_costume_head_hrnm-hair-0004",
+      "name": "猫耳（姬崎莉波）"
+    },
+    {
       "id": "shop_costume_costume_head_hski-hair-0001",
       "name": "紫阳花发饰（花海咲季）"
     },
@@ -166,6 +174,10 @@
       "name": "圆框眼镜（葛城莉莉娅）"
     },
     {
+      "id": "shop_costume_costume_head_kllj-hair-0004",
+      "name": "猫耳（葛城莉莉娅）"
+    },
+    {
       "id": "shop_costume_costume_head_shro-hair-0001",
       "name": "紫阳花发饰（筱泽广）"
     },
@@ -184,6 +196,10 @@
     {
       "id": "shop_costume_costume_head_ssmk-hair-0003",
       "name": "圆框眼镜（紫云清夏）"
+    },
+    {
+      "id": "shop_costume_costume_head_ssmk-hair-0004",
+      "name": "猫耳（紫云清夏）"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -646,6 +662,14 @@
       "name": "MOIW2025纪念礼包"
     },
     {
+      "id": "shop_pack_item-0063",
+      "name": "TVCM放映纪念 养成优惠礼包A"
+    },
+    {
+      "id": "shop_pack_item-0064",
+      "name": "TVCM放映纪念 养成优惠礼包B"
+    },
+    {
       "id": "shop_pack_item-100dl",
       "name": "【100万下载纪念】育成礼包（6/28截止）"
     },
@@ -710,8 +734,16 @@
       "name": "福袋礼包2025银"
     },
     {
+      "id": "shop_pack_item-newyear_2500_02",
+      "name": "福袋礼包2026银"
+    },
+    {
       "id": "shop_pack_item-newyear_5000_01",
       "name": "福袋礼包2025金"
+    },
+    {
+      "id": "shop_pack_item-newyear_5000_02",
+      "name": "福袋礼包2026金"
     },
     {
       "id": "shop_pack_item-onsen-costume-amao",
@@ -832,6 +864,10 @@
     {
       "id": "shop_pass_item-0020",
       "name": "高级任务通行证 2025年12月"
+    },
+    {
+      "id": "shop_pass_item-0021",
+      "name": "高级任务通行证 2026年1月"
     }
   ]
 }

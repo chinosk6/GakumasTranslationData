@@ -59,7 +59,7 @@
     },
     {
       "id": "dearness_event_fktn-006",
-      "name": "藤田琴音通关{threshold}次舞蹈课程吧"
+      "name": "藤田琴音通过{threshold}次舞蹈课程吧"
     },
     {
       "id": "dearness_event_fktn-007",
@@ -91,7 +91,7 @@
     },
     {
       "id": "dearness_event_hrnm-006",
-      "name": "姬崎莉波通关{threshold}次视觉课程吧"
+      "name": "姬崎莉波通过{threshold}次视觉课程吧"
     },
     {
       "id": "dearness_event_hrnm-007",
@@ -123,7 +123,7 @@
     },
     {
       "id": "dearness_event_kcna-006",
-      "name": "仓本千奈通关{threshold}次舞蹈课程吧"
+      "name": "仓本千奈通过{threshold}次舞蹈课程吧"
     },
     {
       "id": "dearness_event_kcna-007",
@@ -155,7 +155,7 @@
     },
     {
       "id": "dearness_event_kllj-006",
-      "name": "葛城莉莉娅通关{threshold}次视觉课程吧"
+      "name": "葛城莉莉娅通过{threshold}次视觉课程吧"
     },
     {
       "id": "dearness_event_kllj-007",
@@ -219,7 +219,7 @@
     },
     {
       "id": "dearness_event_ssmk-006",
-      "name": "紫云清夏通关{threshold}次舞蹈课程吧"
+      "name": "紫云清夏通过{threshold}次舞蹈课程吧"
     },
     {
       "id": "dearness_event_ssmk-007",
@@ -566,6 +566,10 @@
       "name": "在「偶像之路」中获得星星"
     },
     {
+      "id": "hidden_mission-tower_atbm-clear_star_40",
+      "name": "在「偶像之路」中获得星星"
+    },
+    {
       "id": "hidden_mission-tower_fktn-clear_star_40",
       "name": "在「偶像之路」中获得星星"
     },
@@ -616,6 +620,10 @@
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-amao",
       "name": "麻央达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-atbm",
+      "name": "燕达成A-End"
     },
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-fktn",
@@ -862,6 +870,10 @@
       "name": "麻央达成TrueEnd"
     },
     {
+      "id": "hidden_mission-view-ending-true-produce_group-002-atbm",
+      "name": "燕达成TrueEnd"
+    },
+    {
       "id": "hidden_mission-view-ending-true-produce_group-002-fktn",
       "name": "琴音达成TrueEnd"
     },
@@ -923,7 +935,7 @@
     },
     {
       "id": "hidden_mission-view-gasha-00420-ssr-idol-support-1",
-      "name": "去抽取{threshold}次'24季节限定 SSR确定10连扭蛋吧"
+      "name": "去抽取{threshold}次'24季节限定 SSR必得10连扭蛋吧"
     },
     {
       "id": "hidden_mission-view-gasha-00540-free-10-005",
@@ -932,6 +944,10 @@
     {
       "id": "hidden_mission-view-gasha-00640-pickup-002",
       "name": "去抽取{threshold}次1.5th纪念 季节限定&Re;IRIS登场！SSR15%扭蛋吧"
+    },
+    {
+      "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
+      "name": "去抽取{threshold}次Story of Re;IRIS放映纪念SSR1.5倍自选PICK UP扭蛋吧"
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
@@ -1304,6 +1320,18 @@
     {
       "id": "mission-comeback_daily_release_mission_001-mission_77",
       "name": "通关第7天的全部任务"
+    },
+    {
+      "id": "mission-continuous-gasha-mission_001-mission_1",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-continuous-gasha-mission_001-mission_2",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-continuous-gasha-mission_001-mission_3",
+      "name": "通过{threshold}次最终考试吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_11",
@@ -3991,7 +4019,7 @@
     },
     {
       "id": "mission-normal-incrementmissionclear-1",
-      "name": "通关{threshold}个课题吧"
+      "name": "通过{threshold}个课题吧"
     },
     {
       "id": "mission-normal-incrementmoneyexchangecount-1",
@@ -4231,15 +4259,15 @@
     },
     {
       "id": "mission-panel-mission-1-2",
-      "name": "通关{threshold}次歌唱课程吧"
+      "name": "通过{threshold}次歌唱课程吧"
     },
     {
       "id": "mission-panel-mission-1-3",
-      "name": "通关{threshold}次舞蹈课程吧"
+      "name": "通过{threshold}次舞蹈课程吧"
     },
     {
       "id": "mission-panel-mission-1-4",
-      "name": "通关{threshold}次视觉课程吧"
+      "name": "通过{threshold}次视觉课程吧"
     },
     {
       "id": "mission-panel-mission-1-5",
@@ -4815,7 +4843,7 @@
     },
     {
       "id": "mission-tour-event-001-mission_3",
-      "name": "在巡演活动中挑战并通关{threshold}次吧"
+      "name": "在巡演活动中挑战并通过{threshold}次吧"
     },
     {
       "id": "mission-tour-event-001-mission_4",
@@ -4907,19 +4935,19 @@
     },
     {
       "id": "panel_mission-event-002-mission_2",
-      "name": "通关{threshold}次SP歌唱课程吧"
+      "name": "通过{threshold}次SP歌唱课程吧"
     },
     {
       "id": "panel_mission-event-002-mission_3",
-      "name": "通关{threshold}次SP舞蹈课程吧"
+      "name": "通过{threshold}次SP舞蹈课程吧"
     },
     {
       "id": "panel_mission-event-002-mission_4",
-      "name": "通关{threshold}次SP视觉课程吧"
+      "name": "通过{threshold}次SP视觉课程吧"
     },
     {
       "id": "panel_mission-event-002-mission_5",
-      "name": "通关{threshold}次课程吧"
+      "name": "通过{threshold}次课程吧"
     },
     {
       "id": "panel_mission-event-002-mission_6",
@@ -4943,15 +4971,15 @@
     },
     {
       "id": "panel_mission-event-003-mission_2",
-      "name": "通关{threshold}次歌唱课程吧"
+      "name": "通过{threshold}次歌唱课程吧"
     },
     {
       "id": "panel_mission-event-003-mission_3",
-      "name": "通关{threshold}次舞蹈课程吧"
+      "name": "通过{threshold}次舞蹈课程吧"
     },
     {
       "id": "panel_mission-event-003-mission_4",
-      "name": "通关{threshold}次视觉课程吧"
+      "name": "通过{threshold}次视觉课程吧"
     },
     {
       "id": "panel_mission-event-003-mission_5",
@@ -5015,15 +5043,15 @@
     },
     {
       "id": "panel_mission-event-004-mission_2",
-      "name": "通关{threshold}次歌唱课程吧"
+      "name": "通过{threshold}次歌唱课程吧"
     },
     {
       "id": "panel_mission-event-004-mission_3",
-      "name": "通关{threshold}次舞蹈课程吧"
+      "name": "通过{threshold}次舞蹈课程吧"
     },
     {
       "id": "panel_mission-event-004-mission_4",
-      "name": "通关{threshold}次视觉课程吧"
+      "name": "通过{threshold}次视觉课程吧"
     },
     {
       "id": "panel_mission-event-004-mission_5",
@@ -5087,15 +5115,15 @@
     },
     {
       "id": "panel_mission-event-006-mission_2",
-      "name": "通关{threshold}次歌唱课程吧"
+      "name": "通过{threshold}次歌唱课程吧"
     },
     {
       "id": "panel_mission-event-006-mission_3",
-      "name": "通关{threshold}次舞蹈课程吧"
+      "name": "通过{threshold}次舞蹈课程吧"
     },
     {
       "id": "panel_mission-event-006-mission_4",
-      "name": "通关{threshold}次视觉课程吧"
+      "name": "通过{threshold}次视觉课程吧"
     },
     {
       "id": "panel_mission-event-006-mission_5",
@@ -5116,6 +5144,150 @@
     {
       "id": "panel_mission-event-006-mission_9",
       "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "panel_mission-event-007-mission_1",
+      "name": "在N.I.A中选择{threshold}次歌唱课程吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_11",
+      "name": "以A+以上得分通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_12",
+      "name": "以S以上得分通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_13",
+      "name": "以S+以上得分通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_14",
+      "name": "累计获得{threshold}P饮料吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_15",
+      "name": "累计获得{threshold}P点数吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_16",
+      "name": "在培育中消费累计{threshold}体力吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_17",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_18",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_19",
+      "name": "去观看{threshold}人的True End : N.I.A吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_2",
+      "name": "在N.I.A中选择{threshold}次舞蹈课程吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_3",
+      "name": "在N.I.A中选择{threshold}次视觉课程吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_4",
+      "name": "在N.I.A中选择{threshold}次SP课程吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_5",
+      "name": "自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_6",
+      "name": "在N.I.A中获得{threshold}粉丝投票数吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_7",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_8",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-007-mission_9",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_1",
+      "name": "通过{threshold}次歌唱课程吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_11",
+      "name": "以S+以上得分通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_12",
+      "name": "以SS以上得分通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_13",
+      "name": "在N.I.A中选择{threshold}次营业吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_14",
+      "name": "在N.I.A中选择{threshold}次慰问品吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_15",
+      "name": "在培育中选择{threshold}次特别指导吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_16",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_17",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_18",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_19",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_2",
+      "name": "通过{threshold}次舞蹈课程吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_3",
+      "name": "通过{threshold}次视觉课程吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_4",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_5",
+      "name": "在培育中选择{threshold}次外出吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_6",
+      "name": "在培育中选择{threshold}次咨询吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_7",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_8",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-008-mission_9",
+      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
     },
     {
       "id": "panel_mission-event-niv-mission_1",
@@ -5368,6 +5540,30 @@
     {
       "id": "achieve-i_card-atbm-3-000-06",
       "name": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-01",
+      "name": "【Campus mode!!】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-02",
+      "name": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-03",
+      "name": "【Campus mode!!】雨夜燕的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-04",
+      "name": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-05",
+      "name": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-06",
+      "name": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
@@ -7482,6 +7678,10 @@
       "name": "以SSS以上得分通过{threshold}次最终考试"
     },
     {
+      "id": "achieve-p_common-029",
+      "name": "以SSS+以上得分通过{threshold}次最终考试吧"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "观看有村麻央的True End"
     },
@@ -7551,7 +7751,7 @@
     },
     {
       "id": "achieve-p_idol-amao-016",
-      "name": "使用有村麻央通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用有村麻央通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-amao-017",
@@ -7571,11 +7771,19 @@
     },
     {
       "id": "achieve-p_idol-amao-021",
-      "name": "使用有村麻央通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用有村麻央通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-amao-022",
       "name": "将有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-amao-023",
+      "name": "使用有村麻央通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-amao-024",
+      "name": "使用有村麻央通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-atbm-000",
@@ -7647,15 +7855,35 @@
     },
     {
       "id": "achieve-p_idol-atbm-016",
-      "name": "使用雨夜燕通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用雨夜燕通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-atbm-017",
       "name": "在雨夜燕的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
+      "id": "achieve-p_idol-atbm-018",
+      "name": "在培育中选择{threshold}次特别指导"
+    },
+    {
+      "id": "achieve-p_idol-atbm-019",
+      "name": "在培育中获得{threshold}粉丝投票数"
+    },
+    {
       "id": "achieve-p_idol-atbm-020",
       "name": "使用雨夜燕通过最终考试并获得{threshold}次SS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-021",
+      "name": "使用雨夜燕通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-023",
+      "name": "使用雨夜燕通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-024",
+      "name": "使用雨夜燕通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -7943,7 +8171,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-016",
-      "name": "使用藤田琴音通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用藤田琴音通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-fktn-017",
@@ -7963,11 +8191,19 @@
     },
     {
       "id": "achieve-p_idol-fktn-021",
-      "name": "使用藤田琴音通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用藤田琴音通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-fktn-022",
       "name": "将藤田琴音的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-fktn-023",
+      "name": "使用藤田琴音通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-fktn-024",
+      "name": "使用藤田琴音通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-hmsz-000",
@@ -8039,7 +8275,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-016",
-      "name": "在秦谷美铃的培育中通过最终考试并获得S+以上评价{threshold}次"
+      "name": "在秦谷美铃的培育中通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-hmsz-017",
@@ -8059,7 +8295,15 @@
     },
     {
       "id": "achieve-p_idol-hmsz-021",
-      "name": "使用秦谷美铃通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用秦谷美铃通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-023",
+      "name": "使用秦谷美铃通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-024",
+      "name": "使用秦谷美铃通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -8131,7 +8375,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-016",
-      "name": "使用姬崎莉波通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用姬崎莉波通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-017",
@@ -8151,11 +8395,19 @@
     },
     {
       "id": "achieve-p_idol-hrnm-021",
-      "name": "使用姬崎莉波通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用姬崎莉波通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-022",
       "name": "将姬崎莉波的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-023",
+      "name": "使用姬崎莉波通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-024",
+      "name": "使用姬崎莉波通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -8227,7 +8479,7 @@
     },
     {
       "id": "achieve-p_idol-hski-016",
-      "name": "使用花海咲季通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用花海咲季通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-hski-017",
@@ -8247,11 +8499,19 @@
     },
     {
       "id": "achieve-p_idol-hski-021",
-      "name": "使用花海咲季通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用花海咲季通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-hski-022",
       "name": "将花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-hski-023",
+      "name": "使用花海咲季通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hski-024",
+      "name": "使用花海咲季通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-hume-000",
@@ -8323,7 +8583,7 @@
     },
     {
       "id": "achieve-p_idol-hume-016",
-      "name": "使用花海佑芽通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用花海佑芽通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-hume-017",
@@ -8343,7 +8603,15 @@
     },
     {
       "id": "achieve-p_idol-hume-021",
-      "name": "使用花海佑芽通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用花海佑芽通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hume-023",
+      "name": "使用花海佑芽通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hume-024",
+      "name": "使用花海佑芽通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -8415,7 +8683,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-016",
-      "name": "使用十王星南通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用十王星南通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-jsna-017",
@@ -8435,7 +8703,15 @@
     },
     {
       "id": "achieve-p_idol-jsna-021",
-      "name": "使用十王星南通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用十王星南通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-jsna-023",
+      "name": "使用十王星南通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-jsna-024",
+      "name": "使用十王星南通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-kcna-000",
@@ -8507,7 +8783,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-016",
-      "name": "使用仓本千奈通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用仓本千奈通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-kcna-017",
@@ -8527,7 +8803,15 @@
     },
     {
       "id": "achieve-p_idol-kcna-021",
-      "name": "使用仓本千奈通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用仓本千奈通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kcna-023",
+      "name": "使用仓本千奈通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kcna-024",
+      "name": "使用仓本千奈通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -8599,7 +8883,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-016",
-      "name": "使用葛城莉莉娅通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用葛城莉莉娅通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-kllj-017",
@@ -8619,7 +8903,15 @@
     },
     {
       "id": "achieve-p_idol-kllj-021",
-      "name": "使用葛城莉莉娅通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用葛城莉莉娅通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kllj-023",
+      "name": "使用葛城莉莉娅通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kllj-024",
+      "name": "使用葛城莉莉娅通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -8691,7 +8983,7 @@
     },
     {
       "id": "achieve-p_idol-shro-016",
-      "name": "在筱泽广的培育中通过最终考试并获得S+以上评价{threshold}次"
+      "name": "在筱泽广的培育中通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-shro-017",
@@ -8711,11 +9003,19 @@
     },
     {
       "id": "achieve-p_idol-shro-021",
-      "name": "使用筱泽广通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用筱泽广通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-shro-022",
       "name": "将筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-shro-023",
+      "name": "使用筱泽广通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-shro-024",
+      "name": "使用筱泽广通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -8787,7 +9087,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-016",
-      "name": "使用紫云清夏通过最终考试并获得S+以上评价{threshold}次"
+      "name": "使用紫云清夏通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-ssmk-017",
@@ -8807,7 +9107,15 @@
     },
     {
       "id": "achieve-p_idol-ssmk-021",
-      "name": "使用紫云清夏通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用紫云清夏通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-023",
+      "name": "使用紫云清夏通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-024",
+      "name": "使用紫云清夏通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -8879,7 +9187,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-016",
-      "name": "使用月村手毬在最终考试中获得S+以上评价{threshold}次"
+      "name": "使用月村手毬通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-017",
@@ -8895,15 +9203,23 @@
     },
     {
       "id": "achieve-p_idol-ttmr-020",
-      "name": "使用月村手毬在最终考试中获得SS以上评价{threshold}次"
+      "name": "使用月村手毬通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-021",
-      "name": "使用月村手毬通过最终考试并获得SS+以上评价{threshold}次"
+      "name": "使用月村手毬通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-022",
       "name": "将月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-023",
+      "name": "使用月村手毬通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-024",
+      "name": "使用月村手毬通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achievement_char_hume-024",
@@ -9787,7 +10103,7 @@
     },
     {
       "id": "main_task_group-03-01#57",
-      "name": "在N.I.A中自定义{threshold}次技能卡吧"
+      "name": "自定义{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-03-01#58",
@@ -9835,7 +10151,7 @@
     },
     {
       "id": "main_task_group-03-01#69",
-      "name": "在N.I.A中自定义{threshold}次技能卡吧"
+      "name": "自定义{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-03-01#70",
@@ -9931,7 +10247,7 @@
     },
     {
       "id": "main_task_group-03-01#93",
-      "name": "在N.I.A中自定义{threshold}次技能卡吧"
+      "name": "自定义{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-03-01#94",
@@ -10059,7 +10375,7 @@
     },
     {
       "id": "main_task_group-04-01#25",
-      "name": "在N.I.A中自定义{threshold}次技能卡吧"
+      "name": "自定义{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-04-01#26",
@@ -10139,7 +10455,7 @@
     },
     {
       "id": "main_task_group-04-01#45",
-      "name": "在N.I.A中自定义{threshold}次技能卡吧"
+      "name": "自定义{threshold}次技能卡吧"
     },
     {
       "id": "main_task_group-04-01#46",

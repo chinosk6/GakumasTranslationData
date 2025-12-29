@@ -143,11 +143,11 @@
     },
     {
       "type": "ProduceCardGrowEffectType_PlayTriggerChange",
-      "name": "使用可能条件置换"
+      "name": "置换使用条件"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
-      "name": "效果发动条件置换"
+      "name": "置换效果发动条件"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",

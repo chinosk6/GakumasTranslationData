@@ -167,22 +167,22 @@
     },
     {
       "type": "ProduceCardGrowEffectType_EffectChange",
-      "name": "效果替换",
+      "name": "效果置换",
       "produceCardCustomizeTemplate": "效果更改"
     },
     {
       "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
-      "name": "成长效果替换",
+      "name": "成长效果置换",
       "produceCardCustomizeTemplate": "成长更改"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayTriggerChange",
-      "name": "使用条件替换",
+      "name": "置换使用条件",
       "produceCardCustomizeTemplate": "条件变更"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
-      "name": "替换效果触发条件",
+      "name": "置换效果发动条件",
       "produceCardCustomizeTemplate": "条件变更"
     },
     {

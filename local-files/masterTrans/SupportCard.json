@@ -2541,6 +2541,22 @@
       "name": "为什么会在这里！？"
     },
     {
+      "id": "s_card-3-0085",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率高"
+        }
+      ],
+      "name": "这是直面自身的时间"
+    },
+    {
       "id": "s_card-3-0086",
       "upgradeProduceCardProduceDescriptions": [
         {

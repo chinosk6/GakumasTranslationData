@@ -18,6 +18,10 @@
       "description": "训练Pt不足。"
     },
     {
+      "id": "card.produce_card_customize.detail_sheet.nia_condition",
+      "description": "※可以通过特别指导进行自定义"
+    },
+    {
       "id": "competition.rehearsal_battle_confirm.label.description",
       "description": "※不会消耗挑战次数 / 不会获得评价Pt"
     },
@@ -38,8 +42,24 @@
       "description": "偶像强化月间\\n〜星光璀璨〜"
     },
     {
+      "id": "home.gasha.continuous_share.share_text",
+      "description": "＼ TVCM放映纪念随心抽举办中 ／\n\n只要还能「续抽」，就可以免费无限抽卡！\n扭蛋必定可以获得一张以上SSR！\n\n#学マス #引き放題って好き"
+    },
+    {
+      "id": "home.gasha.continuous_share.title",
+      "description": "TVCM放映纪念随心抽结果"
+    },
+    {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
       "description": "获得作为目标的P偶像后"
+    },
+    {
+      "id": "home.gasha.draw_button.item",
+      "description": "道具"
+    },
+    {
+      "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
+      "description": "持有数不足"
     },
     {
       "id": "home.pvp.contest.out_of_term_toast",
@@ -71,7 +91,7 @@
     },
     {
       "id": "produce.card.rarity.legend",
-      "description": "追加预定"
+      "description": "Legend"
     },
     {
       "id": "produce.high_score_rush.gold.description",
@@ -91,7 +111,7 @@
     },
     {
       "id": "profile.badge_select.thumb_empty.empty.toast",
-      "description": "以后可在制作人排行榜中获取"
+      "description": "可在制作人排行榜中获取"
     },
     {
       "id": "profile.report.share.text",

@@ -276,6 +276,36 @@
       "description": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-atbm-3-012-01",
+      "name": "暗黑英雄的诞生",
+      "description": "【Campus mode!!】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-02",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-03",
+      "name": "改变大家的世界！",
+      "description": "【Campus mode!!】雨夜燕的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-04",
+      "name": "Campus mode!! +",
+      "description": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-05",
+      "name": "Campus mode!! ++",
+      "description": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-06",
+      "name": "Campus mode!! +++",
+      "description": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-fktn-2-000-04",
       "name": "可爱♡开始啦 +",
       "description": "【可爱♡开始啦】藤田琴音的特训阶段提升至{threshold}级"
@@ -2916,6 +2946,11 @@
       "description": "以SSS以上得分通过{threshold}次最终考试"
     },
     {
+      "id": "achieve-p_common-029",
+      "name": "照亮前路之人",
+      "description": "以SSS+以上得分通过{threshold}次最终考试"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "真正的我",
       "description": "观看有村麻央的True End"
@@ -3003,7 +3038,7 @@
     {
       "id": "achieve-p_idol-amao-016",
       "name": "我一定会做到的！",
-      "description": "使用有村麻央通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用有村麻央通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-amao-017",
@@ -3028,12 +3063,22 @@
     {
       "id": "achieve-p_idol-amao-021",
       "name": "请让我喜欢上",
-      "description": "使用有村麻央通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用有村麻央通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-amao-022",
       "name": "理想与现实",
       "description": "将有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-amao-023",
+      "name": "可爱又帅气的王子",
+      "description": "使用有村麻央通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-amao-024",
+      "name": "为同梦而翔",
+      "description": "使用有村麻央通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-atbm-000",
@@ -3123,7 +3168,7 @@
     {
       "id": "achieve-p_idol-atbm-016",
       "name": "至高的喜悦",
-      "description": "使用雨夜燕通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用雨夜燕通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-atbm-017",
@@ -3131,9 +3176,34 @@
       "description": "在雨夜燕的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
+      "id": "achieve-p_idol-atbm-018",
+      "name": "挑战书",
+      "description": "在培育中选择{threshold}次特别指导"
+    },
+    {
+      "id": "achieve-p_idol-atbm-019",
+      "name": "需要被拯救的人们",
+      "description": "在培育中获得{threshold}粉丝投票数"
+    },
+    {
       "id": "achieve-p_idol-atbm-020",
       "name": "应当前进的道路",
       "description": "使用雨夜燕通过最终考试并获得{threshold}次SS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-021",
+      "name": "去把它拿下吧！",
+      "description": "使用雨夜燕通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-023",
+      "name": "启明星的对手",
+      "description": "使用雨夜燕通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-024",
+      "name": "点燃心中的火焰",
+      "description": "使用雨夜燕通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -3493,7 +3563,7 @@
     {
       "id": "achieve-p_idol-fktn-016",
       "name": "一起大赚一笔吧～♡",
-      "description": "使用藤田琴音通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用藤田琴音通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-fktn-017",
@@ -3518,12 +3588,22 @@
     {
       "id": "achieve-p_idol-fktn-021",
       "name": "我一定会超越星光的！",
-      "description": "使用藤田琴音通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用藤田琴音通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-fktn-022",
       "name": "隐藏的才能",
       "description": "将藤田琴音的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-fktn-023",
+      "name": "黄金世代的带头者",
+      "description": "使用藤田琴音通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-fktn-024",
+      "name": "把能做的事全都做上！",
+      "description": "使用藤田琴音通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-hmsz-000",
@@ -3613,7 +3693,7 @@
     {
       "id": "achieve-p_idol-hmsz-016",
       "name": "我在此等候",
-      "description": "在秦谷美铃的培育中通过最终考试并获得S+以上评价{threshold}次"
+      "description": "在秦谷美铃的培育中通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-hmsz-017",
@@ -3638,7 +3718,17 @@
     {
       "id": "achieve-p_idol-hmsz-021",
       "name": "我一定会把它，夺回来的",
-      "description": "使用秦谷美铃通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用秦谷美铃通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-023",
+      "name": "致命魅力的偶像",
+      "description": "使用秦谷美铃通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-024",
+      "name": "为了履行约定",
+      "description": "使用秦谷美铃通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -3728,7 +3818,7 @@
     {
       "id": "achieve-p_idol-hrnm-016",
       "name": "重要的、说不出口的愿望",
-      "description": "使用姬崎莉波通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用姬崎莉波通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-017",
@@ -3753,12 +3843,22 @@
     {
       "id": "achieve-p_idol-hrnm-021",
       "name": "就在你身旁，证明给你看",
-      "description": "使用姬崎莉波通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用姬崎莉波通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-hrnm-022",
       "name": "想要回应你的心情",
       "description": "将姬崎莉波的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-023",
+      "name": "大家的温柔大姐姐",
+      "description": "使用姬崎莉波通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-024",
+      "name": "回望初心",
+      "description": "使用姬崎莉波通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -3848,7 +3948,7 @@
     {
       "id": "achieve-p_idol-hski-016",
       "name": "我一次都不会输",
-      "description": "使用花海咲季通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用花海咲季通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-hski-017",
@@ -3873,12 +3973,22 @@
     {
       "id": "achieve-p_idol-hski-021",
       "name": "绝对不会让你逃掉的！",
-      "description": "使用花海咲季通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用花海咲季通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-hski-022",
       "name": "极限还未到",
       "description": "将花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-hski-023",
+      "name": "不服输的优等生",
+      "description": "使用花海咲季通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hski-024",
+      "name": "我要证明我是正确的",
+      "description": "使用花海咲季通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-hume-000",
@@ -3968,7 +4078,7 @@
     {
       "id": "achieve-p_idol-hume-016",
       "name": "目标是常胜不败！",
-      "description": "使用花海佑芽通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用花海佑芽通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-hume-017",
@@ -3993,7 +4103,17 @@
     {
       "id": "achieve-p_idol-hume-021",
       "name": "我想认真成为偶像",
-      "description": "使用花海佑芽通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用花海佑芽通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hume-023",
+      "name": "初星学园的怪物",
+      "description": "使用花海佑芽通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hume-024",
+      "name": "成为姐姐的目标",
+      "description": "使用花海佑芽通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -4083,7 +4203,7 @@
     {
       "id": "achieve-p_idol-jsna-016",
       "name": "共同迈向巅峰",
-      "description": "使用十王星南通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用十王星南通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-jsna-017",
@@ -4108,7 +4228,17 @@
     {
       "id": "achieve-p_idol-jsna-021",
       "name": "与你共同前进",
-      "description": "使用十王星南通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用十王星南通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-jsna-023",
+      "name": "启明星般的顶级偶像",
+      "description": "使用十王星南通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-jsna-024",
+      "name": "属于我们的两个梦想",
+      "description": "使用十王星南通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-kcna-000",
@@ -4198,7 +4328,7 @@
     {
       "id": "achieve-p_idol-kcna-016",
       "name": "向着梦想的舞台迈进吧",
-      "description": "使用仓本千奈通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用仓本千奈通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-kcna-017",
@@ -4223,7 +4353,17 @@
     {
       "id": "achieve-p_idol-kcna-021",
       "name": "我一定会华丽地战斗下去！",
-      "description": "使用仓本千奈通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用仓本千奈通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kcna-023",
+      "name": "出色的一流偶像",
+      "description": "使用仓本千奈通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kcna-024",
+      "name": "我自荐参选哇！",
+      "description": "使用仓本千奈通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -4313,7 +4453,7 @@
     {
       "id": "achieve-p_idol-kllj-016",
       "name": "再高一点！",
-      "description": "使用葛城莉莉娅通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用葛城莉莉娅通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-kllj-017",
@@ -4338,7 +4478,17 @@
     {
       "id": "achieve-p_idol-kllj-021",
       "name": "笑到最后，直到那天",
-      "description": "使用葛城莉莉娅通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用葛城莉莉娅通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kllj-023",
+      "name": "让人想要应援的偶像",
+      "description": "使用葛城莉莉娅通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kllj-024",
+      "name": "激动人心的情境",
+      "description": "使用葛城莉莉娅通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -4428,7 +4578,7 @@
     {
       "id": "achieve-p_idol-shro-016",
       "name": "不如意的日子，永无尽头",
-      "description": "在筱泽广的培育中通过最终考试并获得S+以上评价{threshold}次"
+      "description": "在筱泽广的培育中通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-shro-017",
@@ -4453,12 +4603,22 @@
     {
       "id": "achieve-p_idol-shro-021",
       "name": "保持兴趣，追逐梦想",
-      "description": "使用筱泽广通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用筱泽广通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-shro-022",
       "name": "下一个任务是什么？",
       "description": "将筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-shro-023",
+      "name": "气氛顶级偶像",
+      "description": "使用筱泽广通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-shro-024",
+      "name": "无数次的奇迹",
+      "description": "使用筱泽广通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -4548,7 +4708,7 @@
     {
       "id": "achieve-p_idol-ssmk-016",
       "name": "一起变强吧！",
-      "description": "使用紫云清夏通过最终考试并获得S+以上评价{threshold}次"
+      "description": "使用紫云清夏通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-ssmk-017",
@@ -4573,7 +4733,17 @@
     {
       "id": "achieve-p_idol-ssmk-021",
       "name": "轻盈展翅，自在翱翔",
-      "description": "使用紫云清夏通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用紫云清夏通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-023",
+      "name": "天赋异禀的人",
+      "description": "使用紫云清夏通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-024",
+      "name": "成为想成为的自己",
+      "description": "使用紫云清夏通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -4663,7 +4833,7 @@
     {
       "id": "achieve-p_idol-ttmr-016",
       "name": "超越任何天才",
-      "description": "使用月村手毬在最终考试中获得S+以上评价{threshold}次"
+      "description": "使用月村手毬通过最终考试并获得{threshold}次S+以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-017",
@@ -4683,17 +4853,27 @@
     {
       "id": "achieve-p_idol-ttmr-020",
       "name": "终于，站在同样的高度上",
-      "description": "使用月村手毬在最终考试中获得SS以上评价{threshold}次"
+      "description": "使用月村手毬通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-021",
       "name": "我一定会证明给你看",
-      "description": "使用月村手毬通过最终考试并获得SS+以上评价{threshold}次"
+      "description": "使用月村手毬通过最终考试并获得{threshold}次SS+以上评价"
     },
     {
       "id": "achieve-p_idol-ttmr-022",
       "name": "无论多高",
       "description": "将月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-023",
+      "name": "不安定的实力派",
+      "description": "使用月村手毬通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-024",
+      "name": "我要紧追不放！",
+      "description": "使用月村手毬通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
       "id": "achievement_char_hume-024",
