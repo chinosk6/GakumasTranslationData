@@ -187,8 +187,8 @@
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
-      "name": "使用后移动先变更",
-      "produceCardCustomizeTemplate": "移动先变更"
+      "name": "使用后移动终点变更",
+      "produceCardCustomizeTemplate": "移动终点变更"
     },
     {
       "type": "ProduceCardGrowEffectType_InitialAdd",

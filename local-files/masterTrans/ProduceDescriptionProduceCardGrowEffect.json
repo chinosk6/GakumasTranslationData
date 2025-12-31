@@ -1,221 +1,328 @@
 {
   "rules": {
     "primaryKeys": [
-      "type"
+      "type",
+      "produceDescriptionLabelId"
     ]
   },
   "data": [
     {
       "type": "ProduceCardGrowEffectType_LessonAdd",
-      "name": "打分值增加"
+      "produceDescriptionLabelId": "Label_LessonAdd",
+      "name": "打分值增加",
+      "produceCardCustomizeDescription": "打分+"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonReduce",
-      "name": "打分值减少"
+      "produceDescriptionLabelId": "Label_LessonReduce",
+      "name": "打分值减少",
+      "produceCardCustomizeDescription": "打分-"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountAdd",
-      "name": "打分上升次数增加"
+      "produceDescriptionLabelId": "Label_LessonCountAdd",
+      "name": "打分上升次数增加",
+      "produceCardCustomizeDescription": "打分上升次数+"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountReduce",
-      "name": "打分上升次数减少"
+      "produceDescriptionLabelId": "Label_LessonCountReduce",
+      "name": "打分上升次数减少",
+      "produceCardCustomizeDescription": "打分上升次数-"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockAdd",
-      "name": "元气值增加"
+      "produceDescriptionLabelId": "Label_BlockAdd",
+      "name": "元气值增加",
+      "produceCardCustomizeDescription": "元气+"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockReduce",
-      "name": "元气值减少"
+      "produceDescriptionLabelId": "Label_BlockReduce",
+      "name": "元气值减少",
+      "produceCardCustomizeDescription": "元气-"
     },
     {
       "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
-      "name": "全力值增加"
+      "produceDescriptionLabelId": "Label_FullPowerPointAdd",
+      "name": "全力值增加",
+      "produceCardCustomizeDescription": "全力值+"
     },
     {
       "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
-      "name": "全力值减少"
+      "produceDescriptionLabelId": "Label_FullPowerPointReduce",
+      "name": "全力值减少",
+      "produceCardCustomizeDescription": "全力值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffReduce",
-      "name": "强化状态花费值减少"
+      "produceDescriptionLabelId": "Label_CostBuffReduce",
+      "name": "强化状态花费值减少",
+      "produceCardCustomizeDescription": "强化状态花费值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffAdd",
-      "name": "强化状态花费值增加"
+      "produceDescriptionLabelId": "Label_CostBuffAdd",
+      "name": "强化状态花费值增加",
+      "produceCardCustomizeDescription": "强化状态花费值+"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReduce",
-      "name": "花费值减少"
+      "produceDescriptionLabelId": "Label_CostReduce",
+      "name": "花费值减少",
+      "produceCardCustomizeDescription": "花费值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAdd",
-      "name": "花费值增加"
+      "produceDescriptionLabelId": "Label_CostAdd",
+      "name": "花费值增加",
+      "produceCardCustomizeDescription": "花费值+"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
-      "name": "体力消耗花费值减少"
+      "produceDescriptionLabelId": "Label_CostPenetrateReduce",
+      "name": "体力消耗花费值减少",
+      "produceCardCustomizeDescription": "体力消耗花费值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
-      "name": "体力消耗花费值增加"
+      "produceDescriptionLabelId": "Label_CostPenetrateAdd",
+      "name": "体力消耗花费值增加",
+      "produceCardCustomizeDescription": "体力消耗花费值+"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
-      "name": "好调值增加"
+      "produceDescriptionLabelId": "Label_ParameterBuffTurnAdd",
+      "name": "好调值增加",
+      "produceCardCustomizeDescription": "好调+"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
-      "name": "好调值减少"
+      "produceDescriptionLabelId": "Label_ParameterBuffTurnReduce",
+      "name": "好调值减少",
+      "produceCardCustomizeDescription": "好调-"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffAdd",
-      "name": "集中值增加"
+      "produceDescriptionLabelId": "Label_LessonBuffAdd",
+      "name": "集中值增加",
+      "produceCardCustomizeDescription": "集中+"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffReduce",
-      "name": "集中值减少"
+      "produceDescriptionLabelId": "Label_LessonBuffReduce",
+      "name": "集中值减少",
+      "produceCardCustomizeDescription": "集中-"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewAdd",
-      "name": "好印象值增加"
+      "produceDescriptionLabelId": "Label_ReviewAdd",
+      "name": "好印象值增加",
+      "produceCardCustomizeDescription": "好印象+"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewReduce",
-      "name": "好印象值减少"
+      "produceDescriptionLabelId": "Label_ReviewReduce",
+      "name": "好印象值减少",
+      "produceCardCustomizeDescription": "好印象-"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveAdd",
-      "name": "干劲值增加"
+      "produceDescriptionLabelId": "Label_AggressiveAdd",
+      "name": "干劲值增加",
+      "produceCardCustomizeDescription": "干劲+"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveReduce",
-      "name": "干劲值减少"
+      "produceDescriptionLabelId": "Label_AggressiveReduce",
+      "name": "干劲值减少",
+      "produceCardCustomizeDescription": "干劲-"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawAdd",
-      "name": "抽卡张数增加"
+      "produceDescriptionLabelId": "Label_CardDrawAdd",
+      "name": "抽卡张数增加",
+      "produceCardCustomizeDescription": "抽卡数+"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawReduce",
-      "name": "抽卡张数减少"
+      "produceDescriptionLabelId": "Label_CardDrawReduce",
+      "name": "抽卡张数减少",
+      "produceCardCustomizeDescription": "抽卡数-"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
-      "name": "绝好调值增加"
+      "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnAdd",
+      "name": "绝好调值增加",
+      "produceCardCustomizeDescription": "绝好调+"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
-      "name": "绝好调值减少"
+      "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnReduce",
+      "name": "绝好调值减少",
+      "produceCardCustomizeDescription": "绝好调-"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
-      "name": "消耗体力减少值增加"
+      "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnAdd",
+      "name": "消耗体力减少值增加",
+      "produceCardCustomizeDescription": "消耗体力减少+"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
-      "name": "消耗体力减少值减少"
+      "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnReduce",
+      "name": "消耗体力减少值减少",
+      "produceCardCustomizeDescription": "消耗体力减少-"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
-      "name": "消耗体力增加值减少"
+      "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnAdd",
+      "name": "消耗体力增加值减少",
+      "produceCardCustomizeDescription": "消耗体力增加+"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
-      "name": "消耗体力增加值增加"
+      "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnReduce",
+      "name": "消耗体力增加值增加",
+      "produceCardCustomizeDescription": "消耗体力增加-"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectAdd",
-      "name": "效果追加"
+      "produceDescriptionLabelId": "Label_EffectAdd",
+      "name": "效果追加",
+      "produceCardCustomizeDescription": "效果追加"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectDelete",
-      "name": "效果删除"
+      "produceDescriptionLabelId": "Label_EffectDelete",
+      "name": "效果删除",
+      "produceCardCustomizeDescription": "效果删除"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectChange",
-      "name": "效果置换"
+      "produceDescriptionLabelId": "Label_EffectChange",
+      "name": "效果置换",
+      "produceCardCustomizeDescription": "效果变更"
     },
     {
       "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
-      "name": "成长效果置换"
+      "produceDescriptionLabelId": "Label_CardStatusEnchantChange",
+      "name": "成长效果置换",
+      "produceCardCustomizeDescription": "成长"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayTriggerChange",
-      "name": "置换使用条件"
+      "produceDescriptionLabelId": "Label_PlayTriggerChange",
+      "name": "置换使用条件",
+      "produceCardCustomizeDescription": "条件变更"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
-      "name": "置换效果发动条件"
+      "produceDescriptionLabelId": "Label_PlayEffectTriggerChange",
+      "name": "置换效果发动条件",
+      "produceCardCustomizeDescription": "条件变更"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
-      "name": "使用后变更移动到的地方"
+      "produceDescriptionLabelId": "Label_PlayMovePositionTypeChange",
+      "name": "使用后变更移动到的地方",
+      "produceCardCustomizeDescription": "移动终点变更"
     },
     {
       "type": "ProduceCardGrowEffectType_InitialAdd",
-      "name": "开始时手牌效果赋予"
+      "produceDescriptionLabelId": "Label_InitialAdd",
+      "name": "开始时手牌效果赋予",
+      "produceCardCustomizeDescription": "开始时加入手牌"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
-      "name": "集中花费值减少"
+      "produceDescriptionLabelId": "Label_CostLessonBuffReduce",
+      "name": "集中花费值减少",
+      "produceCardCustomizeDescription": "集中花费值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
-      "name": "集中花费值增加"
+      "produceDescriptionLabelId": "Label_CostLessonBuffAdd",
+      "name": "集中花费值增加",
+      "produceCardCustomizeDescription": "集中花费值+"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewReduce",
-      "name": "好印象花费值减少"
+      "produceDescriptionLabelId": "Label_CostReviewReduce",
+      "name": "好印象花费值减少",
+      "produceCardCustomizeDescription": "好印象花费值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewAdd",
-      "name": "好印象花费值增加"
+      "produceDescriptionLabelId": "Label_CostReviewAdd",
+      "name": "好印象花费值增加",
+      "produceCardCustomizeDescription": "好印象花费值+"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
-      "name": "干劲花费值减少"
+      "produceDescriptionLabelId": "Label_CostAggressiveReduce",
+      "name": "干劲花费值减少",
+      "produceCardCustomizeDescription": "干劲花费值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
-      "name": "干劲花费值增加"
+      "produceDescriptionLabelId": "Label_CostAggressiveAdd",
+      "name": "干劲花费值增加",
+      "produceCardCustomizeDescription": "干劲花费值+"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
-      "name": "好调花费值减少"
+      "produceDescriptionLabelId": "Label_CostParameterBuffReduce",
+      "name": "好调花费值减少",
+      "produceCardCustomizeDescription": "好调花费值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
-      "name": "好调花费值增加"
+      "produceDescriptionLabelId": "Label_CostParameterBuffAdd",
+      "name": "好调花费值增加",
+      "produceCardCustomizeDescription": "好调花费值+"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
-      "name": "全力值花费值减少"
+      "produceDescriptionLabelId": "Label_CostFullPowerPointReduce",
+      "name": "全力值花费值减少",
+      "produceCardCustomizeDescription": "全力值花费值-"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
-      "name": "全力值花费值增加"
+      "produceDescriptionLabelId": "Label_CostFullPowerPointAdd",
+      "name": "全力值花费值增加",
+      "produceCardCustomizeDescription": "全力值花费值+"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
-      "name": "元气的打分倍率增加"
+      "produceDescriptionLabelId": "Label_LessonDependBlockAdd",
+      "name": "元气数值的打分倍率增加",
+      "produceCardCustomizeDescription": "元气打分+"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
-      "name": "干劲的打分倍率增加"
+      "produceDescriptionLabelId": "Label_LessonDependExamCardPlayAggressiveAdd",
+      "name": "干劲数值的打分倍率增加",
+      "produceCardCustomizeDescription": "干劲打分+"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
-      "name": "好印象的打分倍率增加"
+      "produceDescriptionLabelId": "Label_LessonDependExamReviewAdd",
+      "name": "好印象数值的打分倍率增加",
+      "produceCardCustomizeDescription": "好印象打分+"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
-      "name": "绝好调花费值增加"
+      "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnAdd",
+      "name": "绝好调花费值增加",
+      "produceCardCustomizeDescription": "绝好调消耗值+"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
-      "name": "绝好调花费值减少"
+      "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnReduce",
+      "name": "绝好调花费值减少",
+      "produceCardCustomizeDescription": "绝好调消耗值-"
     }
   ]
 }

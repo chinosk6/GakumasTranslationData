@@ -6647,10 +6647,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "元气的打分倍率增加"
+          "text": "元气数值的打分倍率增加"
         }
       ],
-      "name": "元气的打分倍率增加"
+      "name": "元气数值的打分倍率增加"
     },
     {
       "id": "Label_LessonDependExamCardPlayAggressiveAdd",
@@ -6663,10 +6663,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "干劲的打分倍率增加"
+          "text": "干劲数值的打分倍率增加"
         }
       ],
-      "name": "干劲的打分倍率增加"
+      "name": "干劲数值的打分倍率增加"
     },
     {
       "id": "Label_LessonDependExamReviewAdd",
@@ -6679,10 +6679,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "好印象的打分倍率增加"
+          "text": "好印象数值的打分倍率增加"
         }
       ],
-      "name": "好印象的打分倍率增加"
+      "name": "好印象数值的打分倍率增加"
     },
     {
       "id": "Label_LessonReduce",
