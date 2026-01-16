@@ -230,6 +230,38 @@
       "name": "让紫云清夏通过最终考试并获得{threshold}次SS以上评价吧"
     },
     {
+      "id": "dearness_event_ttmr-001",
+      "name": "将月村手毬的歌唱能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_ttmr-002",
+      "name": "在月村手毬的培育中选择{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_ttmr-003",
+      "name": "在月村手毬的培育中选择{threshold}次咨询吧"
+    },
+    {
+      "id": "dearness_event_ttmr-004",
+      "name": "在月村手毬的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_ttmr-005",
+      "name": "在月村手毬的培育中选择{threshold}次活动补给・慰问品吧"
+    },
+    {
+      "id": "dearness_event_ttmr-006",
+      "name": "月村手毬通过{threshold}次歌唱课程吧"
+    },
+    {
+      "id": "dearness_event_ttmr-007",
+      "name": "在月村手毬的培育中选择{threshold}次特别指导吧"
+    },
+    {
+      "id": "dearness_event_ttmr-008",
+      "name": "让月村手毬通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
       "id": "dearness_normal-mission_amao-001",
       "name": "将有村麻央的歌唱能力值培养至2000以上并完成培育"
     },
@@ -368,6 +400,26 @@
     {
       "id": "dearness_normal-mission_ssmk-005",
       "name": "在紫云清夏的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_ttmr-001",
+      "name": "将月村手毬的歌唱能力值培养至2000以上并完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_ttmr-002",
+      "name": "在月村手毬的培育中累计使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_ttmr-003",
+      "name": "在月村手毬的培育中强化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_ttmr-004",
+      "name": "让月村手毬通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
+      "id": "dearness_normal-mission_ttmr-005",
+      "name": "在月村手毬的培育中自定义{threshold}次技能卡吧"
     },
     {
       "id": "hidden_mission-achieve-o_014_001",
@@ -2699,6 +2751,106 @@
     },
     {
       "id": "mission-highscorerush-event-008-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_11",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_12",
+      "name": "将月村手毬的歌唱能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_13",
+      "name": "在月村手毬的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_14",
+      "name": "在花海咲季的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_21",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_22",
+      "name": "将花海咲季的视觉能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_23",
+      "name": "在月村手毬的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_24",
+      "name": "在花海咲季的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_31",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_32",
+      "name": "在月村手毬或花海咲季的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_33",
+      "name": "在月村手毬的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_34",
+      "name": "在花海咲季的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_41",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_42",
+      "name": "在月村手毬或花海咲季的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_43",
+      "name": "在月村手毬的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_44",
+      "name": "在花海咲季的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_51",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_52",
+      "name": "在月村手毬或花海咲季的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_53",
+      "name": "在月村手毬的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_54",
+      "name": "在花海咲季的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-009-mission_56",
       "name": "通关第5天的全部任务"
     },
     {
@@ -7460,6 +7612,30 @@
     {
       "id": "achieve-i_card-ttmr-3-015-06",
       "name": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-016-01",
+      "name": "【究竟从何时起】月村手毬的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-016-02",
+      "name": "【究竟从何时起】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-016-03",
+      "name": "【究竟从何时起】月村手毬的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-016-04",
+      "name": "【究竟从何时起】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-016-05",
+      "name": "【究竟从何时起】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-016-06",
+      "name": "【究竟从何时起】月村手毬的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-m_amao-001",
