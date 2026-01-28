@@ -204,6 +204,12 @@
       "acquisitionRouteDescription": "兑换所等方式"
     },
     {
+      "id": "item-dearness-unlock-ttmr",
+      "name": "手毬的记录之钥",
+      "description": "解锁月村手毬STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
       "id": "item-friend_coin",
       "name": "好友硬币",
       "description": "可以在好友扭蛋中使用的硬币",
@@ -548,6 +554,12 @@
     {
       "id": "item-medal-story-event-011",
       "name": "宿舍全员一起",
+      "description": "可以在活动兑换所交换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-medal-story-event-012",
+      "name": "生日礼物",
       "description": "可以在活动兑换所交换各式报酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -1080,6 +1092,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_kcna-3-016",
+      "name": "[未知万千 广阔无限]仓本千奈的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_kllj-1-000",
       "name": "[学园生活]葛城莉莉娅的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1202,6 +1220,12 @@
     {
       "id": "item-piece-idol_shro-3-014",
       "name": "[奇迹正是现在(ﾟ∀ﾟ)！]筱泽广的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_shro-3-016",
+      "name": "[未知万千 广阔无限]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
