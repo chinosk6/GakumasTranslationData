@@ -7184,7 +7184,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "仅能保存2张技能卡，超过2张的按存入时间顺序送至弃牌"
+          "text": "最多保存2张技能卡，超过2张的按存入时间顺序送至弃牌"
         }
       ],
       "name": "保留"
