@@ -181,6 +181,12 @@
       "description": "有偿10连扭蛋"
     },
     {
+      "id": "gasha_marge_button-ssr-00750",
+      "order": 1,
+      "name": "有偿10连扭蛋",
+      "description": "有偿10连扭蛋"
+    },
+    {
       "id": "gasha_ticket_christmas-001",
       "order": 3,
       "name": "用圣诞登录奖励扭蛋票据抽取",
@@ -245,6 +251,12 @@
       "order": 1,
       "name": "用MOIW2025纪念 SSR P偶像必得扭蛋票据抽取",
       "description": "SSR偶像必得单抽"
+    },
+    {
+      "id": "gasha_ticket_valentine-001",
+      "order": 3,
+      "name": "用情人节登录奖励扭蛋票据抽取",
+      "description": "10连扭蛋"
     },
     {
       "id": "gasha-ticket-ssr-idol-seasons_button-01",

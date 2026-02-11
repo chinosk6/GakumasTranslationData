@@ -102,6 +102,38 @@
       "name": "让姬崎莉波通过最终考试并获得{threshold}次SS以上评价吧"
     },
     {
+      "id": "dearness_event_jsna-001",
+      "name": "将十王星南的视觉能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_jsna-002",
+      "name": "在十王星南的培育中选择{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_jsna-003",
+      "name": "在十王星南的培育中选择{threshold}次咨询吧"
+    },
+    {
+      "id": "dearness_event_jsna-004",
+      "name": "在十王星南的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_jsna-005",
+      "name": "在十王星南的培育中选择{threshold}次活动补给・慰问品吧"
+    },
+    {
+      "id": "dearness_event_jsna-006",
+      "name": "十王星南通过{threshold}次视觉课程吧"
+    },
+    {
+      "id": "dearness_event_jsna-007",
+      "name": "在十王星南的培育中选择{threshold}次特别指导吧"
+    },
+    {
+      "id": "dearness_event_jsna-008",
+      "name": "让十王星南通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
       "id": "dearness_event_kcna-001",
       "name": "将仓本千奈的舞蹈能力值培养至1800以上并完成培育"
     },
@@ -320,6 +352,26 @@
     {
       "id": "dearness_normal-mission_hrnm-005",
       "name": "在姬崎莉波的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_jsna-001",
+      "name": "将十王星南的视觉能力值培养至2000以上并完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_jsna-002",
+      "name": "在十王星南的培育中累计使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_jsna-003",
+      "name": "在十王星南的培育中强化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_jsna-004",
+      "name": "让十王星南通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
+      "id": "dearness_normal-mission_jsna-005",
+      "name": "在十王星南的培育中自定义{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_kcna-001",
@@ -2851,6 +2903,106 @@
     },
     {
       "id": "mission-highscorerush-event-009-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_11",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_12",
+      "name": "将十王星南的视觉能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_13",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_14",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_21",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_22",
+      "name": "将雨夜燕的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_23",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_24",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_31",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_32",
+      "name": "在十王星南或雨夜燕的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_33",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_34",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_41",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_42",
+      "name": "在十王星南或雨夜燕的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_43",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_44",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_51",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_52",
+      "name": "在十王星南或雨夜燕的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_53",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_54",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-010-mission_56",
       "name": "通关第5天的全部任务"
     },
     {
@@ -6752,6 +6904,30 @@
     {
       "id": "achieve-i_card-jsna-3-011-06",
       "name": "【Star-mine】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-01",
+      "name": "【赤裸裸】十王星南的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-02",
+      "name": "【赤裸裸】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-03",
+      "name": "【赤裸裸】十王星南的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-04",
+      "name": "【赤裸裸】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-05",
+      "name": "【赤裸裸】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-06",
+      "name": "【赤裸裸】十王星南的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-kcna-2-000-04",
