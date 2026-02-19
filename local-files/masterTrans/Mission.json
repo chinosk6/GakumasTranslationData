@@ -198,6 +198,54 @@
       "name": "让葛城莉莉娅通过最终考试并获得{threshold}次SS以上评价吧"
     },
     {
+      "id": "dearness_event_relaunch_fktn-001",
+      "name": "将藤田琴音的舞蹈能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_fktn-002",
+      "name": "在藤田琴音的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_fktn-003",
+      "name": "藤田琴音通过{threshold}次舞蹈课程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_fktn-004",
+      "name": "让藤田琴音通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
+      "id": "dearness_event_relaunch_shro-001",
+      "name": "将筱泽广的歌唱能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_shro-002",
+      "name": "在筱泽广的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_shro-003",
+      "name": "筱泽广通过{threshold}次歌唱课程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_shro-004",
+      "name": "让筱泽广通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ssmk-001",
+      "name": "将紫云清夏的舞蹈能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_ssmk-002",
+      "name": "在紫云清夏的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ssmk-003",
+      "name": "紫云清夏通过{threshold}次舞蹈课程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ssmk-004",
+      "name": "让紫云清夏通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
       "id": "dearness_event_shro-001",
       "name": "将筱泽广的歌唱能力值培养至1800以上并完成培育"
     },
@@ -4896,6 +4944,38 @@
     {
       "id": "mission-research-event-003-mission_9",
       "name": "在持有技能卡「虹色梦想家」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_10",
+      "name": "在持有技能卡「天真烂漫」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_11",
+      "name": "在持有技能卡「存在感」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_12",
+      "name": "完成{threshold}次SP课程吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_2",
+      "name": "让方案：理性的培育用偶像取得{threshold}次最终考试合格吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_3",
+      "name": "在培育的咨询中兑换{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_8",
+      "name": "在持有技能卡「国民级偶像」的状态下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_9",
+      "name": "在持有技能卡「掌声不息」的状态下完成培育吧"
     },
     {
       "id": "mission-story-event-001-mission_1",

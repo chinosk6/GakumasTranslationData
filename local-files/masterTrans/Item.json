@@ -186,6 +186,12 @@
       "acquisitionRouteDescription": "兑换所等方式"
     },
     {
+      "id": "item-dearness-unlock-jsna",
+      "name": "星南的记录之钥",
+      "description": "解锁十王星南STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
       "id": "item-dearness-unlock-kcna",
       "name": "千奈的记录之钥",
       "description": "解锁仓本千奈STEP3亲密度交流的道具",
@@ -1423,6 +1429,12 @@
     },
     {
       "id": "item-research-event-003",
+      "name": "亚纱里老师贴纸",
+      "description": "可以在亚纱里老师的培育研讨会活动中，重新抽取回忆能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-004",
       "name": "亚纱里老师贴纸",
       "description": "可以在亚纱里老师的培育研讨会活动中，重新抽取回忆能力的道具",
       "acquisitionRouteDescription": "培育等方式"
