@@ -84,12 +84,46 @@ def merge_translated_csv_into_txt(
     replacements.sort(key=lambda x: x["length"], reverse=True)
     
     # 执行替换
+    # 为避免子串匹配问题（如 text=………… 匹配到 text=……………的前半部分）
+    # 需要确保匹配的是完整的属性值，即后面跟的是分隔符而不是属性值的一部分
     for replacement in replacements:
-        gakuen_txt = gakuen_txt.replace(
-            replacement["old"],
-            replacement["new"],
-            1,
-        )
+        old_str = replacement["old"]
+        new_str = replacement["new"]
+        
+        # 找到第一次出现的位置
+        pos = gakuen_txt.find(old_str)
+        if pos == -1:
+            continue  # 未找到，跳过
+            
+        # 检查后面的字符是否为分隔符
+        # 属性值后面通常是: 空格 ' '、右括号 ']'、右尖括号 '>'、换行 '\n'
+        end_pos = pos + len(old_str)
+        if end_pos < len(gakuen_txt):
+            next_char = gakuen_txt[end_pos]
+            # 如果后面不是分隔符，说明是部分匹配，需要继续查找
+            if next_char not in [' ', ']', '>', '\n']:
+                # 寻找下一个完整匹配
+                found = False
+                search_start = pos + 1
+                while True:
+                    pos = gakuen_txt.find(old_str, search_start)
+                    if pos == -1:
+                        break
+                    end_pos = pos + len(old_str)
+                    if end_pos >= len(gakuen_txt):
+                        found = True
+                        break
+                    next_char = gakuen_txt[end_pos]
+                    if next_char in [' ', ']', '>', '\n']:
+                        found = True
+                        break
+                    search_start = pos + 1
+                
+                if not found:
+                    continue  # 没找到完整匹配，跳过
+        
+        # 执行替换
+        gakuen_txt = gakuen_txt[:pos] + new_str + gakuen_txt[end_pos:]
     
     # 使用人名字典替换人名
     if name_dict:
