@@ -1,5 +1,5 @@
 import re, warnings
-from typing import Callable, Optional, Union
+from typing import Callable, Optional, Union, Dict
 from typing_extensions import Protocol
 from imas_tools.story.story_csv import StoryCsv
 from imas_tools.story.gakuen_parser import parse_messages
@@ -19,11 +19,15 @@ def merge_translated_csv_into_txt(
     csv_text: Union[str, list[str]],
     gakuen_txt: str,
     merger: Merger,
+    name_dict: Optional[Dict[str, str]] = None,
 ) -> str:
     story_csv = StoryCsv(csv_text)
     parsed = parse_messages(gakuen_txt)
     iterator = iter(story_csv.data)
 
+    # 收集所有需要进行的替换操作
+    replacements = []
+    
     for line in parsed:
         if line["__tag__"] == "message" or line["__tag__"] == "narration":
             if line.get("text"):
@@ -31,23 +35,23 @@ def merge_translated_csv_into_txt(
                 new_text = merger(
                     line["text"], next_csv_line["trans"], next_csv_line["text"]
                 )
-                gakuen_txt = gakuen_txt.replace(
-                    f"text={line['text']}",
-                    f"text={new_text}",
-                    1,
-                )
-        if line["__tag__"] == "title":
+                replacements.append({
+                    "old": f"text={line['text']}",
+                    "new": f"text={new_text}",
+                    "length": len(line['text'])
+                })
+        elif line["__tag__"] == "title":
             if line.get("title"):
                 next_csv_line = next(iterator)
                 new_text = merger(
                     line["title"], next_csv_line["trans"], next_csv_line["text"]
                 )
-                gakuen_txt = gakuen_txt.replace(
-                    f"title={line['title']}",
-                    f"title={new_text}",
-                    1,
-                )
-        if line["__tag__"] == "choicegroup":
+                replacements.append({
+                    "old": f"title={line['title']}",
+                    "new": f"title={new_text}",
+                    "length": len(line['title'])
+                })
+        elif line["__tag__"] == "choicegroup":
             if isinstance(line["choices"], list):
                 for choice in line["choices"]:
                     next_csv_line = next(iterator)
@@ -57,11 +61,11 @@ def merge_translated_csv_into_txt(
                         next_csv_line["text"],
                         is_choice=True,
                     )
-                    gakuen_txt = gakuen_txt.replace(
-                        f"text={choice['text']}",
-                        f"text={new_text}",
-                        1,
-                    )
+                    replacements.append({
+                        "old": f"text={choice['text']}",
+                        "new": f"text={new_text}",
+                        "length": len(choice['text'])
+                    })
             elif isinstance(line["choices"], dict):
                 next_csv_line = next(iterator)
                 new_text = merger(
@@ -70,11 +74,33 @@ def merge_translated_csv_into_txt(
                     next_csv_line["text"],
                     is_choice=True,
                 )
-                gakuen_txt = gakuen_txt.replace(
-                    f'text={line["choices"]["text"]}',
-                    f"text={new_text}",
-                    1,
-                )
+                replacements.append({
+                    "old": f'text={line["choices"]["text"]}',
+                    "new": f"text={new_text}",
+                    "length": len(line["choices"]["text"])
+                })
+    
+    # 按文本长度从长到短排序，避免短相似文本优先匹配的问题
+    replacements.sort(key=lambda x: x["length"], reverse=True)
+    
+    # 执行替换
+    for replacement in replacements:
+        gakuen_txt = gakuen_txt.replace(
+            replacement["old"],
+            replacement["new"],
+            1,
+        )
+    
+    # 使用人名字典替换人名
+    if name_dict:
+        # 按人名长度从长到短排序，避免短人名优先匹配的问题
+        sorted_names = sorted(name_dict.items(), key=lambda x: len(x[0]), reverse=True)
+        for jp_name, cn_name in sorted_names:
+            # 匹配 name=日文名 的模式
+            pattern = f"name={jp_name}"
+            replacement = f"name={cn_name}"
+            gakuen_txt = gakuen_txt.replace(pattern, replacement)
+    
     return gakuen_txt
 
 

@@ -25,6 +25,12 @@ def merge_translation_files(raw_folder: str, translation_folder: str, pretransla
 
             translation_file_index[k] = posixpath.join(translation_folder, tmp[k])
 
+    # 加载人名字典
+    name_dict = {}
+    if os.path.exists("name_dictionary.json"):
+        with open("name_dictionary.json", "r", encoding="utf-8") as f:
+            name_dict = json.load(f)
+
     for file in os.listdir(raw_folder):
         if not file.endswith(".txt") and not file.startswith("adv_"):
             continue
@@ -42,7 +48,7 @@ def merge_translation_files(raw_folder: str, translation_folder: str, pretransla
         
         try:
             merged_txt = merge_translated_csv_into_txt(
-                csv, txt, line_level_dual_lang_translation_merger
+                csv, txt, line_level_dual_lang_translation_merger, name_dict
             )
             with open(dest_resource_path, "w", encoding="utf-8") as f:
                 f.write(merged_txt)
