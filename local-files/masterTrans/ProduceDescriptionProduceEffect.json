@@ -31,27 +31,27 @@
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "歌唱课程加成+"
+      "name": "歌唱训练加成+"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "舞蹈课程加成+"
+      "name": "舞蹈训练加成+"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "视觉课程加成+"
+      "name": "视觉训练加成+"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "歌唱课程加成-"
+      "name": "歌唱训练加成-"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "舞蹈课程加成-"
+      "name": "舞蹈训练加成-"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "视觉课程加成-"
+      "name": "视觉训练加成-"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
@@ -187,35 +187,35 @@
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilAddition",
-      "name": "SP课程发生概率增加"
+      "name": "SP训练发生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "歌唱SP课程发生概率增加"
+      "name": "歌唱SP训练发生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-      "name": "舞蹈SP课程发生概率增加"
+      "name": "舞蹈SP训练发生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "视觉SP课程发生概率增加"
+      "name": "视觉SP训练发生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
-      "name": "SP课程发生概率减少"
+      "name": "SP训练发生概率减少"
     },
     {
       "type": "ProduceEffectType_ExamStatusEnchant",
-      "name": "课程时产生效果"
+      "name": "训练时产生效果"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountUp",
-      "name": "课程报酬中技能卡选项增加"
+      "name": "训练报酬中技能卡选项增加"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountDown",
-      "name": "课程报酬中技能卡选项减少"
+      "name": "训练报酬中技能卡选项减少"
     },
     {
       "type": "ProduceEffectType_ShopPriceDiscountMultiple",
@@ -271,11 +271,11 @@
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
-      "name": "课程报酬的P点数获得量增加"
+      "name": "训练报酬的P点数获得量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardProduceCardUpgradeProbabilityUp",
-      "name": "课程支援发生率增加"
+      "name": "训练支援发生率增加"
     },
     {
       "type": "ProduceEffectType_ProduceCardSelectRerollCountUp",
@@ -319,11 +319,11 @@
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "课程消耗的体力增加"
+      "name": "授课消耗的体力增加"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "课程消耗的体力减少"
+      "name": "授课消耗的体力减少"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",

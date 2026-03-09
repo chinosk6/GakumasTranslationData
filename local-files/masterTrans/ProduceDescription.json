@@ -7,22 +7,22 @@
   "data": [
     {
       "id": "Convert_001",
-      "name": "课程",
+      "name": "训练",
       "swapName": "回合"
     },
     {
       "id": "Convert_002",
-      "name": "课程",
+      "name": "训练",
       "swapName": "考试·舞台"
     },
     {
       "id": "Convert_ConditionThreshold",
-      "name": "课程CLEAR在",
+      "name": "训练CLEAR在",
       "swapName": "得分为"
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
-      "name": "课程未CLEAR",
+      "name": "训练未CLEAR",
       "swapName": "得分为999以下"
     },
     {
@@ -47,22 +47,22 @@
     },
     {
       "id": "Convert_StepLessonType_DanceLesson",
-      "name": "【舞蹈课程·舞蹈回合限定】",
+      "name": "【舞蹈训练·舞蹈回合限定】",
       "swapName": "如果是舞蹈回合，"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
-      "name": "【SP课程限定】",
-      "swapName": "【SP课程限定】"
+      "name": "【SP训练限定】",
+      "swapName": "【SP训练限定】"
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
-      "name": "【视觉课程·视觉回合限定】",
+      "name": "【视觉训练·视觉回合限定】",
       "swapName": "如果是视觉回合，"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
-      "name": "【歌唱课程·歌唱回合限定】",
+      "name": "【歌唱训练·歌唱回合限定】",
       "swapName": "如果是歌唱回合，"
     },
     {
@@ -242,7 +242,7 @@
     },
     {
       "id": "Label_ExamCardUpgrade",
-      "name": "课程中强化",
+      "name": "训练中强化",
       "swapName": "考试・舞台中强化"
     },
     {
@@ -687,7 +687,7 @@
     },
     {
       "id": "Label_ProduceCardIsPlayMovePositionTypeLost",
-      "name": "课程中1次",
+      "name": "训练中1次",
       "swapName": "考试・舞台中1次"
     },
     {

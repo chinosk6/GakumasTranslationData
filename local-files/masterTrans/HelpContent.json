@@ -575,19 +575,19 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-health-lesson",
       "order": 3,
-      "name": "体力（课程）"
+      "name": "体力（训练）"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-lesson",
       "order": 1,
-      "name": "课程"
+      "name": "训练"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-lesson-view",
       "order": 2,
-      "name": "课程界面"
+      "name": "训练界面"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -605,7 +605,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-perfect-lesson",
       "order": 14,
-      "name": "完美课程"
+      "name": "完美训练"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -1037,7 +1037,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-hard-lesson",
       "order": 26,
-      "name": "冲刺课程"
+      "name": "冲刺训练"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1061,7 +1061,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-lesson",
       "order": 24,
-      "name": "课程（培育）"
+      "name": "训练（培育）"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1175,7 +1175,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-self_lesson",
       "order": 41,
-      "name": "自主课程"
+      "name": "自主训练"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1187,7 +1187,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-shool-actibity",
       "order": 20,
-      "name": "授课"
+      "name": "授课/外出"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1199,7 +1199,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-sp-lesson",
       "order": 25,
-      "name": "SP课程"
+      "name": "SP训练"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1451,7 +1451,7 @@
       "helpCategoryId": "help-support",
       "id": "support-support-card-level-limit-rank",
       "order": 6,
-      "name": "上限解放"
+      "name": "解锁上限"
     },
     {
       "helpCategoryId": "help-support",

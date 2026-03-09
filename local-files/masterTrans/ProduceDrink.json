@@ -247,7 +247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardUpgrade",
-          "text": "课程中强化"
+          "text": "训练中强化"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1243,7 +1243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardUpgrade",
-          "text": "课程中强化"
+          "text": "训练中强化"
         }
       ],
       "name": "初星强化能量饮料"

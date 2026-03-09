@@ -14,7 +14,7 @@
     {
       "id": "s_card_p_skill_filter-lessonvocalspchangeratepermiladdition-p_trigger-produce_start-no_description",
       "order": 3,
-      "title": "SP课程发生概率+"
+      "title": "SP训练发生概率+"
     },
     {
       "id": "s_card_p_skill_filter-maxstaminaaddition-p_trigger-produce_start-no_description",
@@ -39,7 +39,7 @@
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_lesson-lesson_sp",
       "order": 32,
-      "title": "SP课程结束时体力回复"
+      "title": "SP训练结束时体力回复"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-start_present",
@@ -84,22 +84,22 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
       "order": 36,
-      "title": "SP课程结束时持有技能卡在20张以上的时候能力值上升"
+      "title": "SP训练结束时持有技能卡在20张以上的时候能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
       "order": 4,
-      "title": "课程结束时能力值上升"
+      "title": "训练结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_normal",
       "order": 5,
-      "title": "通常课程结束时能力值上升"
+      "title": "通常训练结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_sp",
       "order": 6,
-      "title": "SP课程结束时能力值上升"
+      "title": "SP训练结束时能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_activity",

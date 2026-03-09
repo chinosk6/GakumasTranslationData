@@ -794,7 +794,7 @@
           "text": "/ 概率中等"
         }
       ],
-      "name": "啾~ω姿势☆"
+      "name": "啾〜ω姿势☆"
     },
     {
       "id": "s_card-2-0037",
@@ -1307,6 +1307,22 @@
         }
       ],
       "name": "洗好的衣物叠叠高"
+    },
+    {
+      "id": "s_card-2-0071",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率中等"
+        }
+      ],
+      "name": "小小见面礼☆"
     },
     {
       "id": "s_card-3-0000",
@@ -2763,6 +2779,22 @@
         }
       ],
       "name": "发现你啦。"
+    },
+    {
+      "id": "s_card-3-0091",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率高"
+        }
+      ],
+      "name": "是我赢了呢～！"
     },
     {
       "id": "s_card-3-0098",

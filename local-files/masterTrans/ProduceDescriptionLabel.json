@@ -51,22 +51,22 @@
     {
       "id": "Convert_001",
       "produceDescriptions": [],
-      "name": "课程"
+      "name": "训练"
     },
     {
       "id": "Convert_002",
       "produceDescriptions": [],
-      "name": "课程"
+      "name": "训练"
     },
     {
       "id": "Convert_ConditionThreshold",
       "produceDescriptions": [],
-      "name": "课程CLEAR在"
+      "name": "训练CLEAR在"
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
       "produceDescriptions": [],
-      "name": "课程未CLEAR"
+      "name": "训练未CLEAR"
     },
     {
       "id": "Convert_ConditionThreshold_Value_100",
@@ -91,22 +91,22 @@
     {
       "id": "Convert_StepLessonType_DanceLesson",
       "produceDescriptions": [],
-      "name": "【仅限舞蹈课程・舞蹈回合】"
+      "name": "【仅限舞蹈训练・舞蹈回合】"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
       "produceDescriptions": [],
-      "name": "【仅限SP课程】"
+      "name": "【仅限SP训练】"
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
       "produceDescriptions": [],
-      "name": "【仅限视觉课程・视觉回合】"
+      "name": "【仅限视觉训练・视觉回合】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "produceDescriptions": [],
-      "name": "【仅限歌唱课程・歌唱回合】"
+      "name": "【仅限歌唱训练・歌唱回合】"
     },
     {
       "id": "Description_ProduceCardIsInitial",
@@ -119,7 +119,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1210,7 +1210,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1504,7 +1504,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1556,7 +1556,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1788,7 +1788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程中强化"
+          "text": "训练中强化"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1801,7 +1801,7 @@
           "text": "结束为止技能卡将强化"
         }
       ],
-      "name": "课程中强化"
+      "name": "训练中强化"
     },
     {
       "id": "Label_ExamConcentrationLessonMultipleAdditive",
@@ -2236,7 +2236,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2652,7 +2652,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2692,7 +2692,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "课程中强化"
+          "text": "训练中强化"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6427,7 +6427,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "课程・自主课程・试镜所提供的能力值上升将会增加"
+          "text": "训练・自主训练・试镜所提供的能力值上升将会增加"
         }
       ],
       "name": "能力值加成"
@@ -7067,7 +7067,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7093,7 +7093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程中仅限1次"
+          "text": "训练中仅限1次"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7113,7 +7113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7126,7 +7126,7 @@
           "text": "结束为止，向除外移动"
         }
       ],
-      "name": "课程中仅限1次"
+      "name": "训练中仅限1次"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckFirst",
@@ -8049,7 +8049,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "课程"
+          "text": "训练"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

@@ -9,7 +9,7 @@
     {
       "id": "Swap_Convert_001",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程"
+      "text": "训练"
     },
     {
       "id": "Swap_Convert_001",
@@ -19,7 +19,7 @@
     {
       "id": "Swap_Convert_002",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程"
+      "text": "训练"
     },
     {
       "id": "Swap_Convert_002",
@@ -29,7 +29,7 @@
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程CLEAR在"
+      "text": "训练CLEAR在"
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
@@ -39,7 +39,7 @@
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程未CLEAR"
+      "text": "训练未CLEAR"
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
@@ -89,7 +89,7 @@
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【仅限舞蹈课程・舞蹈回合】"
+      "text": "【仅限舞蹈训练・舞蹈回合】"
     },
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
@@ -99,17 +99,17 @@
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【仅限SP课程】"
+      "text": "【仅限SP训练】"
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "【仅限SP课程】"
+      "text": "【仅限SP训练】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【仅限视觉课程・视觉回合】"
+      "text": "【仅限视觉训练・视觉回合】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
@@ -119,7 +119,7 @@
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【仅限歌唱课程・歌唱回合】"
+      "text": "【仅限歌唱训练・歌唱回合】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
@@ -139,7 +139,7 @@
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程中强化"
+      "text": "训练中强化"
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
@@ -269,7 +269,7 @@
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "课程中仅限1次"
+      "text": "训练中仅限1次"
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",

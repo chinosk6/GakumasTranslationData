@@ -35,11 +35,11 @@
     },
     {
       "id": "effect_group-visible-event_school_stamina_down-000",
-      "name": "课程消耗的体力减少"
+      "name": "授课消耗的体力减少"
     },
     {
       "id": "effect_group-visible-event_school_stamina_up-000",
-      "name": "课程消耗的体力增加"
+      "name": "授课消耗的体力增加"
     },
     {
       "id": "effect_group-visible-exam_add_grow_effect-000",
@@ -75,7 +75,7 @@
     },
     {
       "id": "effect_group-visible-exam_card_upgrade-000",
-      "name": "课程中强化"
+      "name": "训练中强化"
     },
     {
       "id": "effect_group-visible-exam_concentration-000",
