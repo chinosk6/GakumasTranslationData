@@ -78,6 +78,34 @@
       "description": "可获得的每周任务Pt已达到上限"
     },
     {
+      "id": "produce_prepare.easy_mode_apply",
+      "description": "辅助模式已启用"
+    },
+    {
+      "id": "produce_prepare.easy_mode.continue_sheet.message",
+      "description": "是否解除已设置的辅助模式？"
+    },
+    {
+      "id": "produce_prepare.easy_mode.continue_sheet.title",
+      "description": "辅助模式设置确认"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.confirm",
+      "description": "启用辅助模式"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.message",
+      "description": "下次游玩{0}的难度：{1}时，可以启用辅助模式并开始培育"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.title",
+      "description": "辅助模式设置"
+    },
+    {
+      "id": "produce_prepare.easy_mode.start_produce_sheet.message",
+      "description": "将在辅助模式下开始培育\\n确定吗？"
+    },
+    {
       "id": "produce_prepare.edit.warning",
       "description": "编成可以针对每个培育进行设置。在不同培育中进行设置时，不会适用于其他培育。"
     },
@@ -124,6 +152,26 @@
     {
       "id": "research_event.target_idol_sheet.description",
       "description": "只有活动模式的P偶像才可以挑战活动模式的培育"
+    },
+    {
+      "id": "setting.produce.easy_mode_confirm",
+      "description": "显示辅助模式"
+    },
+    {
+      "id": "setting.produce.easy_mode_confirm.description",
+      "description": "开启此项后，当满足条件时，会显示启用辅助模式的消息。"
+    },
+    {
+      "id": "setting.produce.easy_mode_setting",
+      "description": "辅助模式设置"
+    },
+    {
+      "id": "setting.produce.easy_mode_setting.description",
+      "description": "开启此项后，\\n挑战NEXT IDOL AUDITION的难度：Pro时将启用辅助模式。"
+    },
+    {
+      "id": "setting.produce.easy_mode.title",
+      "description": "【培育】辅助模式"
     },
     {
       "id": "shop.web_store.confirm.description",

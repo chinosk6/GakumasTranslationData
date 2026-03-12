@@ -344,6 +344,10 @@
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",
       "name": "除去技能卡"
+    },
+    {
+      "type": 128,
+      "name": "对手的得分"
     }
   ]
 }
