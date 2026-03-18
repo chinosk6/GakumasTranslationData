@@ -575,7 +575,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-health-lesson",
       "order": 3,
-      "name": "体力（训练）"
+      "name": "体力(训练)"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -987,6 +987,12 @@
     },
     {
       "helpCategoryId": "help-produce",
+      "id": "produce-easy-mode",
+      "order": 54,
+      "name": "辅助模式"
+    },
+    {
+      "helpCategoryId": "help-produce",
       "id": "produce-ending",
       "order": 29,
       "name": "结局"
@@ -995,13 +1001,13 @@
       "helpCategoryId": "help-produce",
       "id": "produce-event",
       "order": 22,
-      "name": "偶像交流（培育）"
+      "name": "偶像交流(培育)"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-exam-audition",
       "order": 27,
-      "name": "考试（培育）"
+      "name": "考试(培育)"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1043,7 +1049,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-health-produce",
       "order": 14,
-      "name": "体力（培育）"
+      "name": "体力(培育)"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1061,7 +1067,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-lesson",
       "order": 24,
-      "name": "训练（培育）"
+      "name": "训练(培育)"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1073,7 +1079,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-memory-deck-edit",
       "order": 7,
-      "name": "回忆编成（培育）"
+      "name": "回忆编成(培育)"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1205,7 +1211,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-support-card-deck-edit",
       "order": 6,
-      "name": "支援卡编成（培育）"
+      "name": "支援卡编成(培育)"
     },
     {
       "helpCategoryId": "help-produce",

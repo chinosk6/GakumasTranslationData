@@ -231,7 +231,7 @@
           "text": "中对手的得分增加"
         }
       ],
-      "name": "对手的得分增加"
+      "name": "对手的得分"
     },
     {
       "id": "Label_AuditionNpcWeaken",
@@ -2906,7 +2906,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量会"
+          "text": "上升量会增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4057,7 +4057,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量会"
+          "text": "上升量会增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",

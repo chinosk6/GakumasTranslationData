@@ -1146,6 +1146,10 @@
       "name": "去抽取{threshold}次1.5th纪念 季节限定&Re;IRIS登场！SSR15%扭蛋吧"
     },
     {
+      "id": "hidden_mission-view-gasha-00800-free-10-006",
+      "name": "去抽取{threshold}次新入生应援！最多100连无料！10连无料扭蛋吧"
+    },
+    {
       "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
       "name": "去抽取{threshold}次Story of Re;IRIS放映纪念SSR1.5倍自选PICK UP扭蛋吧"
     },
@@ -1519,6 +1523,178 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_77",
+      "name": "通关第7天的全部任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_11",
+      "name": "消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_12",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_13",
+      "name": "开始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_14",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_15",
+      "name": "去抽取{threshold}次硬币扭蛋吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_21",
+      "name": "消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_22",
+      "name": "在培育中强化{threshold}次技能卡吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_23",
+      "name": "开始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_24",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_25",
+      "name": "去抽取{threshold}次硬币扭蛋吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_31",
+      "name": "消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_32",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_33",
+      "name": "开始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_34",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_35",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_41",
+      "name": "消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_42",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_43",
+      "name": "在培育中强化{threshold}次技能卡吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_44",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_45",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_51",
+      "name": "消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_52",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_53",
+      "name": "开始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_54",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_55",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_61",
+      "name": "消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_62",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_63",
+      "name": "在培育中强化{threshold}次技能卡吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_64",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_65",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_66",
+      "name": "通关第6天的全部任务"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_71",
+      "name": "消耗{threshold}点AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_72",
+      "name": "使用{threshold}次P饮料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_73",
+      "name": "开始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_74",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_75",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_76",
+      "name": "通关1次大师最终考试"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_77",
       "name": "通关第7天的全部任务"
     },
     {
@@ -5031,11 +5207,11 @@
     },
     {
       "id": "mission-research-event-005-mission_10",
-      "name": "在持有技能卡「魅惑的视线」的状态下完成培育吧"
+      "name": "获得技能卡「魅惑的视线」并完成培育吧"
     },
     {
       "id": "mission-research-event-005-mission_11",
-      "name": "在持有技能卡「天真烂漫」的状态下完成培育吧"
+      "name": "获得技能卡「天真烂漫」并完成培育吧"
     },
     {
       "id": "mission-research-event-005-mission_12",
@@ -5051,11 +5227,11 @@
     },
     {
       "id": "mission-research-event-005-mission_8",
-      "name": "在持有技能卡「成就」的状态下完成培育吧"
+      "name": "获得技能卡「成就」并完成培育吧"
     },
     {
       "id": "mission-research-event-005-mission_9",
-      "name": "在持有技能卡「国民级偶像」的状态下完成培育吧"
+      "name": "获得技能卡「国民级偶像」并完成培育吧"
     },
     {
       "id": "mission-story-event-001-mission_1",
