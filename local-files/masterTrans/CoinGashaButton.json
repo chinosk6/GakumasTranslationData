@@ -52,43 +52,43 @@
     },
     {
       "id": "coin_gasha_button-1-001",
-      "name": "1次抽取",
-      "description": "1次抽取"
+      "name": "抽取1次",
+      "description": "抽取1次"
     },
     {
       "id": "coin_gasha_button-1-002",
-      "name": "1次抽取",
-      "description": "1次抽取"
+      "name": "抽取1次",
+      "description": "抽取1次"
     },
     {
       "id": "coin_gasha_button-1-003",
-      "name": "1次抽取",
-      "description": "1次抽取"
+      "name": "抽取1次",
+      "description": "抽取1次"
     },
     {
       "id": "coin_gasha_button-1-004",
-      "name": "1次抽取",
-      "description": "1次抽取"
+      "name": "抽取1次",
+      "description": "抽取1次"
     },
     {
       "id": "coin_gasha_button-18m-aniv-001",
-      "name": "1次抽取",
-      "description": "1次抽取"
+      "name": "抽取1次",
+      "description": "抽取1次"
     },
     {
       "id": "coin_gasha_button-anniversary-001",
-      "name": "1次抽取",
-      "description": "1次抽取"
+      "name": "抽取1次",
+      "description": "抽取1次"
     },
     {
       "id": "coin_gasha_button-newyear-001",
-      "name": "1次抽取",
-      "description": "1次抽取"
+      "name": "抽取1次",
+      "description": "抽取1次"
     },
     {
       "id": "coin_gasha_button-newyear-002",
-      "name": "1次抽取",
-      "description": "1次抽取"
+      "name": "抽取1次",
+      "description": "抽取1次"
     },
     {
       "id": "highscorerush-event-001_box_01_button",
@@ -137,6 +137,11 @@
     },
     {
       "id": "highscorerush-event-010_box_01_button",
+      "name": "抽取",
+      "description": "抽取"
+    },
+    {
+      "id": "highscorerush-event-011_box_01_button",
       "name": "抽取",
       "description": "抽取"
     }

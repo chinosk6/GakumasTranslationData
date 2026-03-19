@@ -85,6 +85,12 @@
       "description": "10连扭蛋"
     },
     {
+      "id": "gasha_button-00810-ticket-001",
+      "order": 3,
+      "name": "用票据抽取10次",
+      "description": "10连扭蛋"
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "10连道具扭蛋",
@@ -261,7 +267,7 @@
     {
       "id": "gasha_ticket_ssr_button-5",
       "order": 1,
-      "name": "用1.5th Anniversary纪念SSR必得票据抽取",
+      "name": "用1.5th Anniversary纪念SSR必得扭蛋票据抽取",
       "description": "SSR必得单抽"
     },
     {

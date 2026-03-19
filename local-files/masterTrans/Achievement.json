@@ -1206,6 +1206,36 @@
       "description": "【全力以赴！】花海咲季的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-hski-3-017-01",
+      "name": "怒放的鲜花",
+      "description": "【Wildest Flower】花海咲季的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-02",
+      "name": "Wildest Flower",
+      "description": "【Wildest Flower】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-03",
+      "name": "这是我的东西哦！",
+      "description": "【Wildest Flower】花海咲季的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-04",
+      "name": "Wildest Flower +",
+      "description": "【Wildest Flower】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-05",
+      "name": "Wildest Flower ++",
+      "description": "【Wildest Flower】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-06",
+      "name": "Wildest Flower +++",
+      "description": "【Wildest Flower】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-hume-2-000-01",
       "name": "打倒姐姐",
       "description": "【偶像，开始！】花海佑芽的培育中通过最终考试"
@@ -4469,6 +4499,11 @@
       "id": "achieve-p_idol-jsna-021",
       "name": "与你共同前进",
       "description": "使用十王星南通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-jsna-022",
+      "name": "启明星的风格",
+      "description": "将十王星南的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-p_idol-jsna-023",

@@ -1325,6 +1325,22 @@
       "name": "小小见面礼☆"
     },
     {
+      "id": "s_card-2-0072",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率中等"
+        }
+      ],
+      "name": "骑士与顽皮的公主"
+    },
+    {
       "id": "s_card-3-0000",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -2795,6 +2811,22 @@
         }
       ],
       "name": "是我赢了呢～！"
+    },
+    {
+      "id": "s_card-3-0092",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率高"
+        }
+      ],
+      "name": "进化后的便当、好在意"
     },
     {
       "id": "s_card-3-0098",
