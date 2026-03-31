@@ -182,6 +182,26 @@
       "description": "通过获得活动Pt，并观看前一段交流解锁"
     },
     {
+      "id": "tour.exam.to_home.alert",
+      "description": "※若有中断数据，在活动期间进入特别活动即可继续\\n※若在不同设备上进入特别活动，中断数据将被清除"
+    },
+    {
+      "id": "tour.play_consumption_item_detail.add_initial_daily_diff_count.annotation",
+      "description": "※仅能在举办期间中使用"
+    },
+    {
+      "id": "tour.play_consumption_item_detail.annotation",
+      "description": "※仅能在举办期间中使用"
+    },
+    {
+      "id": "tour.play_consumption_item_detail.message",
+      "description": "这是在特别活动中挑战舞台时使用的道具。"
+    },
+    {
+      "id": "tour.top.user_status.point_complete_label",
+      "description": " "
+    },
+    {
       "id": "voice.idol_use_produce_card",
       "description": "使用P偶像固有技能卡"
     }

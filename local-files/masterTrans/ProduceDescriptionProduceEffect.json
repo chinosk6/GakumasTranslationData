@@ -346,7 +346,7 @@
       "name": "除去技能卡"
     },
     {
-      "type": 128,
+      "type": "ProduceEffectType_AuditionNpcWeaken",
       "name": "对手的得分"
     }
   ]

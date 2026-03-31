@@ -192,6 +192,12 @@
       "acquisitionRouteDescription": "兑换所等方式"
     },
     {
+      "id": "item-dearness-unlock-hski",
+      "name": "咲季的记录之钥",
+      "description": "解锁花海咲季STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
       "id": "item-dearness-unlock-jsna",
       "name": "星南的记录之钥",
       "description": "解锁十王星南STEP3亲密度交流的道具",
@@ -602,6 +608,12 @@
     {
       "id": "item-medal-story-event-013",
       "name": "修学旅行的土特产",
+      "description": "可以在活动兑换所交换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-medal-story-event-014",
+      "name": "手工彩色纸环",
       "description": "可以在活动兑换所交换各式报酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -1236,6 +1248,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_kllj-3-017",
+      "name": "[怦然心动]葛城莉莉娅的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_shro-1-000",
       "name": "[学园生活]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1362,6 +1380,12 @@
       "acquisitionRouteDescription": "活动兑换所等方式"
     },
     {
+      "id": "item-piece-idol_ssmk-3-017",
+      "name": "[怦然心动]紫云清夏的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_ttmr-1-000",
       "name": "[学园生活]月村手毬的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1426,6 +1450,12 @@
       "name": "[究竟从何时起]月村手毬的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-play-ticket_april-001",
+      "name": "演唱会挑战券",
+      "description": "可以在特别活动中挑战舞台的道具",
+      "acquisitionRouteDescription": "特别活动"
     },
     {
       "id": "item-play-ticket_tour-event-001",
