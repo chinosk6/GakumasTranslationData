@@ -74,6 +74,10 @@
       "description": "{0}解锁"
     },
     {
+      "id": "memory.inherit.select_produce_card.before_select.message",
+      "description": "请选择要更换的技能卡"
+    },
+    {
       "id": "mission.mission_list.max_point_text.event",
       "description": "可获得的每周任务Pt已达到上限"
     },
