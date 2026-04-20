@@ -2059,7 +2059,7 @@
     },
     {
       "id": "mission-daily-incrementmoneyexchangecount-1",
-      "name": "在金币兑换所兑换{threshold}次吧"
+      "name": "在金币兑换所中交换{threshold}次吧"
     },
     {
       "id": "mission-daily-incrementproduceclearcount-1",
@@ -4975,7 +4975,7 @@
     },
     {
       "id": "mission-normal-incrementmoneyexchangecount-1",
-      "name": "在金币兑换所兑换{threshold}次吧"
+      "name": "在金币兑换所中交换{threshold}次吧"
     },
     {
       "id": "mission-normal-incrementproduceclearcount-1",
@@ -5207,7 +5207,7 @@
     },
     {
       "id": "mission-panel-mission-1-1",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-panel-mission-1-2",
@@ -5471,7 +5471,7 @@
     },
     {
       "id": "mission-research-event-001-mission_3",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-research-event-001-mission_8",
@@ -5503,7 +5503,7 @@
     },
     {
       "id": "mission-research-event-002-mission_3",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-research-event-002-mission_8",
@@ -5535,7 +5535,7 @@
     },
     {
       "id": "mission-research-event-003-mission_3",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-research-event-003-mission_8",
@@ -5567,7 +5567,7 @@
     },
     {
       "id": "mission-research-event-004-mission_3",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-research-event-004-mission_8",
@@ -5599,7 +5599,7 @@
     },
     {
       "id": "mission-research-event-005-mission_3",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-research-event-005-mission_8",
@@ -5608,6 +5608,38 @@
     {
       "id": "mission-research-event-005-mission_9",
       "name": "获得技能卡「国民级偶像」并完成培育吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_10",
+      "name": "获得技能卡「闪耀吧！」并完成培育吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_11",
+      "name": "获得技能卡「成为偶像」并完成培育吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_12",
+      "name": "完成{threshold}次SP训练吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_2",
+      "name": "让方案：感性的培育用偶像取得{threshold}次最终考试合格吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_3",
+      "name": "在培育的咨询中交换{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_8",
+      "name": "获得技能卡「去往顶点」并完成培育吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_9",
+      "name": "获得技能卡「高潮」并完成培育吧"
     },
     {
       "id": "mission-story-event-001-mission_1",
@@ -5623,7 +5655,7 @@
     },
     {
       "id": "mission-story-event-001-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-001-mission_5",
@@ -5647,7 +5679,7 @@
     },
     {
       "id": "mission-story-event-002-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-002-mission_5",
@@ -5671,7 +5703,7 @@
     },
     {
       "id": "mission-story-event-003-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-003-mission_5",
@@ -5695,7 +5727,7 @@
     },
     {
       "id": "mission-story-event-004-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-004-mission_5",
@@ -5719,7 +5751,7 @@
     },
     {
       "id": "mission-story-event-006-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-006-mission_5",
@@ -5743,7 +5775,7 @@
     },
     {
       "id": "mission-story-event-007-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-007-mission_5",
@@ -5767,7 +5799,7 @@
     },
     {
       "id": "mission-story-event-008-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-008-mission_5",
@@ -5791,7 +5823,7 @@
     },
     {
       "id": "mission-story-event-009-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-009-mission_5",
@@ -5815,7 +5847,7 @@
     },
     {
       "id": "mission-story-event-010-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-010-mission_5",
@@ -5839,7 +5871,7 @@
     },
     {
       "id": "mission-story-event-011-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-011-mission_5",
@@ -5863,7 +5895,7 @@
     },
     {
       "id": "mission-story-event-012-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-012-mission_5",
@@ -5887,7 +5919,7 @@
     },
     {
       "id": "mission-story-event-013-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-013-mission_5",
@@ -5911,7 +5943,7 @@
     },
     {
       "id": "mission-story-event-014-mission_4",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "mission-story-event-014-mission_5",
@@ -5991,7 +6023,7 @@
     },
     {
       "id": "mission-weekly-incrementmoneyexchangecount-1",
-      "name": "在金币兑换所兑换{threshold}次吧"
+      "name": "在金币兑换所中交换{threshold}次吧"
     },
     {
       "id": "mission-weekly-incrementproduceclearcount-1",
@@ -6015,7 +6047,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_1",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "panel_mission-event-002-mission_11",
@@ -6123,7 +6155,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_1",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "panel_mission-event-004-mission_11",
@@ -6195,7 +6227,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_1",
-      "name": "在培育的咨询中兑换{threshold}次吧"
+      "name": "在培育的咨询中交换{threshold}次吧"
     },
     {
       "id": "panel_mission-event-006-mission_11",
@@ -9031,7 +9063,7 @@
     },
     {
       "id": "achieve-p_common-015",
-      "name": "咨询中兑换{threshold}次"
+      "name": "咨询中交换{threshold}次"
     },
     {
       "id": "achieve-p_common-016",
@@ -9567,7 +9599,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-013",
-      "name": "在藤田琴音的培育咨询中兑换{threshold}次"
+      "name": "在藤田琴音的培育咨询中交换{threshold}次"
     },
     {
       "id": "achieve-p_idol-fktn-014",
@@ -10075,7 +10107,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-012",
-      "name": "在十王星南的培育咨询中兑换{threshold}次"
+      "name": "在十王星南的培育咨询中交换{threshold}次"
     },
     {
       "id": "achieve-p_idol-jsna-013",
@@ -10183,7 +10215,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-013",
-      "name": "在仓本千奈的培育咨询中兑换{threshold}次"
+      "name": "在仓本千奈的培育咨询中交换{threshold}次"
     },
     {
       "id": "achieve-p_idol-kcna-014",
@@ -10587,7 +10619,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-013",
-      "name": "在月村手毬的培育咨询中兑换{threshold}次"
+      "name": "在月村手毬的培育咨询中交换{threshold}次"
     },
     {
       "id": "achieve-p_idol-ttmr-014",
@@ -10695,7 +10727,7 @@
     },
     {
       "id": "main_task_group-01-01#12",
-      "name": "去金币兑换所交换道具吧"
+      "name": "去金币兑换所中交换道具吧"
     },
     {
       "id": "main_task_group-01-01#13",

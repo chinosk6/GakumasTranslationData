@@ -803,7 +803,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-friend-invite",
       "order": 3,
-      "name": "好友招待功能"
+      "name": "好友邀请功能"
     },
     {
       "helpCategoryId": "help-menu",
@@ -1260,6 +1260,24 @@
       "id": "producer-ranking-season",
       "order": 2,
       "name": "赛季"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-bonus",
+      "order": 6,
+      "name": "活动奖励"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-coin",
+      "order": 5,
+      "name": "活动兑换所道具"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-point",
+      "order": 4,
+      "name": "累计活动Pt报酬"
     },
     {
       "helpCategoryId": "help-research-event",

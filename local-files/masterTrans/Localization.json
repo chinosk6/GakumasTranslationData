@@ -22,6 +22,10 @@
       "description": "※可以通过特别指导进行自定义"
     },
     {
+      "id": "common.story_event_point",
+      "description": "亚纱里老师的培育研讨会"
+    },
+    {
       "id": "competition.rehearsal_battle_confirm.label.description",
       "description": "※不会消耗挑战次数 / 不会获得评价Pt"
     },
@@ -120,6 +124,10 @@
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.title",
       "description": "十王邦夫的偶像强化月"
+    },
+    {
+      "id": "produce_prepare.top.event_icon.research.description",
+      "description": "现在可通过培育的奖励获得亚纱里老师贴纸、研讨狸猫、活动Pt"
     },
     {
       "id": "produce.card.move_position.deckall",
