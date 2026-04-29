@@ -17,6 +17,11 @@
       "name": "亲密度任务"
     },
     {
+      "missionPanelSheetGroupId": "dearness_panel-mission_hmsz_01",
+      "number": 1,
+      "name": "亲密度任务"
+    },
+    {
       "missionPanelSheetGroupId": "dearness_panel-mission_hrnm_01",
       "number": 1,
       "name": "亲密度任务"
@@ -163,6 +168,16 @@
     },
     {
       "missionPanelSheetGroupId": "panel_mission-event-008",
+      "number": 2,
+      "name": "第2片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-009",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-009",
       "number": 2,
       "name": "第2片"
     },

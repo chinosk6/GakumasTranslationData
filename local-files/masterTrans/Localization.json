@@ -86,6 +86,10 @@
       "description": "可获得的每周任务Pt已达到上限"
     },
     {
+      "id": "mission.panel.mission_text",
+      "description": "{0}"
+    },
+    {
       "id": "produce_prepare.easy_mode_apply",
       "description": "辅助模式已启用"
     },
