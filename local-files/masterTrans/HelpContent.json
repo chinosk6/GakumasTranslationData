@@ -219,6 +219,12 @@
     },
     {
       "helpCategoryId": "help-contest",
+      "id": "contest-myunit",
+      "order": 6,
+      "name": "个人组合"
+    },
+    {
+      "helpCategoryId": "help-contest",
       "id": "contest-preparation-period",
       "order": 7,
       "name": "举办准备期间"
