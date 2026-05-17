@@ -332,6 +332,10 @@
     {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
       "name": "好印象追加发动"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
+      "name": "再演"
     }
   ]
 }

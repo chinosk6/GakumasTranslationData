@@ -1360,6 +1360,13 @@
       "texts": []
     },
     {
+      "tutorialType": "TutorialType_PrimaStella",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
       "idolCardId": "",
       "step": 1,
@@ -1570,6 +1577,140 @@
     },
     {
       "tutorialType": "TutorialType_ProduceLegendTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceHatsuboshiIdolFestivalTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceHatsuboshiIdolFestivalFinalTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceHatsuboshiIdolFestivalSelectionSchedule",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceHatsuboshiIdolFestivalFinalSchedule",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceGrowthPanelTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        "可以解锁・强化H.I.F加成呢\\n来试试看吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProduceGrowthPanelTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 2,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceGrowthPanelTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 3,
+      "texts": [
+        "在这里试试解锁\\n任意加成面板吧"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProduceGrowthPanelTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 4,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceGrowthPanelTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 5,
+      "texts": [
+        "由于H.I.F加成已解锁，\\n能力值提升及培育中的效果都会生效"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProduceGrowthPanelTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 6,
+      "texts": [
+        "通过解锁・强化H.I.F加成，\\n能够更有利地推进H.I.F哦！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProduceGrowthPanelTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 7,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceGrowthPanelTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 8,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceCustomizeItemCustomizeEffect",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceStepOpenLesson",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceHatsuboshiIdolFestivalStepSchool",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceHatsuboshiIdolFestivalFinalStepAuditionMid1",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceSelectionMemoryCreate",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceSelectionMemorySelect",
       "idolCardId": "",
       "step": 1,
       "subStep": 1,

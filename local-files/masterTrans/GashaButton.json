@@ -199,6 +199,12 @@
       "description": "10连扭蛋"
     },
     {
+      "id": "gasha_button-00890-wednesday-001-ticket-01",
+      "order": 2,
+      "name": "用票据抽取",
+      "description": "用票据抽取"
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "10连道具扭蛋",
@@ -218,6 +224,12 @@
     },
     {
       "id": "gasha_button-continuous-001",
+      "order": 2,
+      "name": "用道具抽取",
+      "description": "扭蛋随心抽"
+    },
+    {
+      "id": "gasha_button-continuous-002",
       "order": 2,
       "name": "用道具抽取",
       "description": "扭蛋随心抽"
@@ -331,6 +343,18 @@
       "description": "10连扭蛋"
     },
     {
+      "id": "gasha_ticket_anniversary-001",
+      "order": 1,
+      "name": "用2nd Anniversary10连扭蛋票据抽取",
+      "description": "10连扭蛋"
+    },
+    {
+      "id": "gasha_ticket_anniversary-002",
+      "order": 1,
+      "name": "用2nd Anniversary巡演限定SSR P偶像必得10连扭蛋票据抽取",
+      "description": "巡演限定 SSR P偶像必得10连"
+    },
+    {
       "id": "gasha_ticket_christmas-001",
       "order": 3,
       "name": "用圣诞登录奖励扭蛋票据抽取",
@@ -394,6 +418,18 @@
       "id": "gasha_ticket_ssr_button-6",
       "order": 1,
       "name": "用MOIW2025纪念 SSR P偶像必得扭蛋票据抽取",
+      "description": "SSR偶像必得单抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button-7",
+      "order": 1,
+      "name": "用2nd Anniversary纪念SSR必得票据抽取",
+      "description": "SSR必得单抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button-8",
+      "order": 1,
+      "name": "用The 2nd Period 季节限定SSR P偶像必得10连扭蛋票据抽取",
       "description": "SSR偶像必得单抽"
     },
     {

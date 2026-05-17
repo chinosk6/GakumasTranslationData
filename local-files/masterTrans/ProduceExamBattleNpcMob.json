@@ -14,6 +14,10 @@
       "name": "雨夜燕"
     },
     {
+      "id": "npc_hif_border",
+      "name": "border"
+    },
+    {
       "id": "npc_krnh",
       "name": "贺阳燐羽"
     },
@@ -38,6 +42,10 @@
       "name": "蔓日由美"
     },
     {
+      "id": "npc_mob-da-6",
+      "name": "风宫铃奈"
+    },
+    {
       "id": "npc_mob-vi-1",
       "name": "赤羽香织"
     },
@@ -58,6 +66,10 @@
       "name": "莲田奈奈"
     },
     {
+      "id": "npc_mob-vi-6",
+      "name": "宫川恵那"
+    },
+    {
       "id": "npc_mob-vo-1",
       "name": "四谷莉莉"
     },
@@ -76,6 +88,18 @@
     {
       "id": "npc_mob-vo-5",
       "name": "宫地小春"
+    },
+    {
+      "id": "npc_mob-vo-6",
+      "name": "东田优美"
+    },
+    {
+      "id": "npc_mob-vo-7",
+      "name": "荻野奈乃香"
+    },
+    {
+      "id": "npc_mob-vo-8",
+      "name": "长本阳菜乃"
     },
     {
       "id": "npc_nia_01",
@@ -208,6 +232,26 @@
     {
       "id": "npc_sson",
       "name": "白草四音"
+    },
+    {
+      "id": "npc_unite-mob_01",
+      "name": "PRINCESS DOMINION"
+    },
+    {
+      "id": "npc_unite-mob_02",
+      "name": "Luminari Bell"
+    },
+    {
+      "id": "npc_unite-mob_03",
+      "name": "Nebula Note"
+    },
+    {
+      "id": "npc_unite-mob_04",
+      "name": "甜蜜♡Luce"
+    },
+    {
+      "id": "npc_unite-mob_05",
+      "name": "Candy・Rhythmica"
     }
   ]
 }

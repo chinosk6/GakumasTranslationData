@@ -531,6 +531,12 @@
     },
     {
       "helpCategoryId": "help-idol",
+      "id": "idol-primastella",
+      "order": 60,
+      "name": "『启明星』"
+    },
+    {
+      "helpCategoryId": "help-idol",
       "id": "idol-true-end-bonus",
       "order": 58,
       "name": "True End奖励"
@@ -621,9 +627,21 @@
     },
     {
       "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-conditions",
+      "order": 18,
+      "name": "关于技能卡的使用及效果的条件"
+    },
+    {
+      "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-powerup",
       "order": 6,
       "name": "强化技能卡"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-replay",
+      "order": 19,
+      "name": "再演"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -738,6 +756,18 @@
       "id": "help-main-story-event-story",
       "order": 1,
       "name": "初星交流活动"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "help-hif-produce-memory-ability",
+      "order": 9,
+      "name": "H.I.F专用能力"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "help-selection-memory",
+      "order": 8,
+      "name": "选拔考试回忆"
     },
     {
       "helpCategoryId": "help-memory",
@@ -936,6 +966,66 @@
       "id": "panel-mission-panel-mission",
       "order": 1,
       "name": "拼图任务"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-bonus",
+      "order": 64,
+      "name": "H.I.F加成"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce",
+      "order": 54,
+      "name": "Hatsuboshi IDOL FESTIVAL"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-finals",
+      "order": 60,
+      "name": "正赛"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-item-customize",
+      "order": 57,
+      "name": "自定义P道具"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-memory-ability",
+      "order": 63,
+      "name": "H.I.F专用能力"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-open-lesson",
+      "order": 56,
+      "name": "公开训练"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-schedule-interval",
+      "order": 61,
+      "name": "幕间休息"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-selection",
+      "order": 58,
+      "name": "选拔考试"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-star",
+      "order": 55,
+      "name": "星耀值"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-selection-memory",
+      "order": 59,
+      "name": "选拔考试回忆"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1236,6 +1326,12 @@
       "id": "produce-true-end-2",
       "order": 46,
       "name": "True End：N.I.A"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-true-end-3",
+      "order": 62,
+      "name": "True End：H.I.F"
     },
     {
       "helpCategoryId": "help-produce",
