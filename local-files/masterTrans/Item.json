@@ -360,6 +360,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-new-wednesday-26-0603-1",
+      "name": "学马星期三扭蛋票据",
+      "description": "可以在学马星期三扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-fix_1",
       "name": "SSR必得扭蛋票据",
       "description": "可以在SSR必得扭蛋中使用的票据",
@@ -1524,6 +1530,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_shro-3-018",
+      "name": "[荆棘之路]筱泽广的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_ssmk-1-000",
       "name": "[学园生活]紫云清夏的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1701,6 +1713,18 @@
       "id": "item-primastellamaterial-idol_hrnm-001",
       "name": "莉波的启明星之光",
       "description": "可以在姬崎莉波的『启明星』解锁时使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_kcna-001",
+      "name": "千奈的启明星之光",
+      "description": "可以在仓本千奈的『启明星』解锁时使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_shro-001",
+      "name": "广的启明星之光",
+      "description": "可以在筱泽广的『启明星』解锁时使用的道具",
       "acquisitionRouteDescription": "成就等方式"
     },
     {

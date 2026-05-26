@@ -334,6 +334,26 @@
       "name": "好印象追加发动"
     },
     {
+      "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
+      "name": "好调增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamLessonBuffAdditiveFix",
+      "name": "集中增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamAggressiveAdditiveFix",
+      "name": "干劲增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamReviewAdditiveFix",
+      "name": "好印象增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",
+      "name": "全力值增加量追加"
+    },
+    {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
       "name": "再演"
     }

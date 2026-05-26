@@ -4038,6 +4038,146 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-003-kcna-after_step_before_audition_mid1-1",
+      "title": "当天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-before-selection-01-01",
+      "title": "前往第1次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-before-selection-02-01",
+      "title": "前往第2次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-before-selection-03-01",
+      "title": "前往第3次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-final-failure-01",
+      "title": "我还不想、就这样结束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-main_match-opening-01",
+      "title": "『H.I.F正赛』，出发！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-007-after-selection-01-01",
+      "title": "通过第1次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-007-after-selection-02-01",
+      "title": "通过第2次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-007-after-selection-03-01",
+      "title": "通过第3次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-007-selection-ending-a-01",
+      "title": "通过『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-008-after-final-01-01",
+      "title": "『H.I.F正赛』第1轮结束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-008-final-ending-a-01",
+      "title": "『H.I.F正赛』优胜！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-selection-failure-01",
+      "title": "还不能、就此结束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-selection-opening-02",
+      "title": "目标是，通过『选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-after_step_before_audition_mid1-1",
+      "title": "当天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-before-selection-01-01",
+      "title": "前往第1次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-before-selection-02-01",
+      "title": "前往第2次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-before-selection-03-01",
+      "title": "前往第3次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-final-failure-01",
+      "title": "我还不想、就这样结束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-main_match-opening-01",
+      "title": "『H.I.F正赛』，出发！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-007-after-selection-01-01",
+      "title": "通过第1次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-007-after-selection-02-01",
+      "title": "通过第2次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-007-after-selection-03-01",
+      "title": "通过第3次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-007-selection-ending-a-01",
+      "title": "通过『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-008-after-final-01-01",
+      "title": "『H.I.F正赛』第1轮结束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-008-final-ending-a-01",
+      "title": "『H.I.F正赛』优胜！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-selection-failure-01",
+      "title": "还不能、就此结束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-selection-opening-02",
+      "title": "目标是，通过『选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-003-ttmr-after_step_before_audition_mid1-1",
       "title": "当天",
       "produceEventHintProduceConditionDescriptions": []
@@ -11323,6 +11463,266 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-event-003_kcna_activity_021",
+      "title": "家庭餐厅大满足",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_activity_022",
+      "title": "如果能变成鱼的话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_012",
+      "title": "受认可的歌声",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_013",
+      "title": "需要注意的歌声",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_014",
+      "title": "今天的歌唱授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_016",
+      "title": "关于制作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_017",
+      "title": "担当偶像是『启明星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_018",
+      "title": "受认可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_020",
+      "title": "今天的舞蹈授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_021",
+      "title": "配的上『启明星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_022",
+      "title": "关于个人偶像和偶像组合",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_023",
+      "title": "关于『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_024",
+      "title": "受认可的视觉",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_025",
+      "title": "需要注意的视觉",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_026",
+      "title": "今天的视觉授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_027",
+      "title": "关于培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_028",
+      "title": "如果成为『启明星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_029",
+      "title": "关于100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_030",
+      "title": "状态检查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_031",
+      "title": "现在心情怎么样～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_032",
+      "title": "状态检查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_033",
+      "title": "现在心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_034",
+      "title": "状态检查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_035",
+      "title": "现在心情怎么样？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_activity_021",
+      "title": "锻炼身体要从饮食开始……？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_activity_022",
+      "title": "梦中的水族馆演唱会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_012",
+      "title": "受认可的歌声",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_013",
+      "title": "需要注意的歌声",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_014",
+      "title": "今天的歌唱授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_016",
+      "title": "关于制作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_017",
+      "title": "担当偶像是『启明星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_018",
+      "title": "受认可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_020",
+      "title": "今天的舞蹈授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_021",
+      "title": "配的上『启明星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_022",
+      "title": "关于个人偶像和偶像组合",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_023",
+      "title": "关于『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_024",
+      "title": "受认可的视觉",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_025",
+      "title": "需要注意的视觉",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_026",
+      "title": "今天的视觉授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_027",
+      "title": "关于培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_028",
+      "title": "如果成为『启明星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_029",
+      "title": "关于100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_030",
+      "title": "状态检查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_031",
+      "title": "现在心情怎么样～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_032",
+      "title": "状态检查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_033",
+      "title": "现在心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_034",
+      "title": "状态检查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_035",
+      "title": "现在心情怎么样？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-event-003_ttmr_activity_021",
       "title": "今天要点什么？",
       "produceEventHintProduceConditionDescriptions": []
@@ -12665,6 +13065,21 @@
     {
       "id": "p_story-i_card-shro-3-016-03",
       "title": "未知万千 广阔无限 第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-018-01",
+      "title": "荆棘之路 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-018-02",
+      "title": "荆棘之路 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-018-03",
+      "title": "荆棘之路 第3话",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -15265,6 +15680,21 @@
     {
       "id": "p_story-s_card-3-0098-03",
       "title": "集大成的运动会",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0100-01",
+      "title": "训练员们的会议",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0100-02",
+      "title": "严厉的指导是为了谁？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0100-03",
+      "title": "时髦又年轻！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

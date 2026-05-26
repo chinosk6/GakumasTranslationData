@@ -2556,6 +2556,36 @@
       "description": "【未知万千 广阔无限】筱泽广的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-shro-3-018-01",
+      "name": "只属于我的回忆",
+      "description": "【荆棘之路】筱泽广的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-02",
+      "name": "荆棘之路",
+      "description": "【荆棘之路】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-03",
+      "name": "最棒的培育",
+      "description": "【荆棘之路】筱泽广的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-04",
+      "name": "荆棘之路 +",
+      "description": "【荆棘之路】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-05",
+      "name": "荆棘之路 ++",
+      "description": "【荆棘之路】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-06",
+      "name": "荆棘之路 +++",
+      "description": "【荆棘之路】筱泽广的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-ssmk-2-000-04",
       "name": "为了梦想的再出发 +",
       "description": "【为了梦想的再出发】紫云清夏的特训阶段提升至{threshold}级"
@@ -4811,6 +4841,11 @@
       "description": "观看仓本千奈的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-kcna-000-2",
+      "name": "我的顶级制作人",
+      "description": "观看仓本千奈的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-kcna-001",
       "name": "练习、练习、再练习",
       "description": "在仓本千奈的培育中使用技能卡{threshold}次"
@@ -4924,6 +4959,16 @@
       "id": "achieve-p_idol-kcna-024",
       "name": "我自荐参选哇！",
       "description": "使用仓本千奈通过最终考试并获得{threshold}次SSS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kcna-025",
+      "name": "愈发膨胀的梦想 ",
+      "description": "使用仓本千奈在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-kcna-026",
+      "name": "在鼓励下迈出的步伐",
+      "description": "使用仓本千奈在H.I.F中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-kcna-027",
@@ -5071,6 +5116,11 @@
       "description": "观看筱泽广的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-shro-000-2",
+      "name": "直到尽头，都要在一起哦",
+      "description": "观看筱泽广的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-shro-001",
       "name": "任务达成",
       "description": "在筱泽广的培育中使用技能卡{threshold}次"
@@ -5189,6 +5239,16 @@
       "id": "achieve-p_idol-shro-024",
       "name": "无数次的奇迹",
       "description": "使用筱泽广通过最终考试并获得{threshold}次SSS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-shro-025",
+      "name": "仅此一夜的奇迹",
+      "description": "使用筱泽广在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-shro-026",
+      "name": "痛苦、幸福又快乐的每一天",
+      "description": "使用筱泽广在H.I.F中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-shro-027",
