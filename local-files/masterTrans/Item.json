@@ -1464,6 +1464,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_kllj-3-018",
+      "name": "[荆棘之路]葛城莉莉娅的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_shro-1-000",
       "name": "[学园生活]筱泽广的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1722,9 +1728,21 @@
       "acquisitionRouteDescription": "成就等方式"
     },
     {
+      "id": "item-primastellamaterial-idol_kllj-001",
+      "name": "莉莉娅的启明星之光",
+      "description": "可以在葛城莉莉娅的『启明星』解锁时使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
       "id": "item-primastellamaterial-idol_shro-001",
       "name": "广的启明星之光",
       "description": "可以在筱泽广的『启明星』解锁时使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_ssmk-001",
+      "name": "清夏的启明星之光",
+      "description": "可以在紫云清夏的『启明星』解锁时使用的道具",
       "acquisitionRouteDescription": "成就等方式"
     },
     {
