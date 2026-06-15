@@ -18,6 +18,14 @@
       "description": "训练Pt不足。"
     },
     {
+      "id": "card.idol_card.prima_stella.unlock_confirm_sheet.limit_level_condition_text",
+      "description": "特训阶段{0}"
+    },
+    {
+      "id": "card.idol_card.prima_stella.unlock_confirm_sheet.list.empty_label",
+      "description": "没有目标P偶像"
+    },
+    {
       "id": "card.produce_card_customize.detail_sheet.nia_condition",
       "description": "※可以通过特别指导进行自定义"
     },
@@ -51,7 +59,7 @@
     },
     {
       "id": "home.gasha.continuous_share.title",
-      "description": "TVCM放映纪念随心抽结果"
+      "description": "H.I.F开幕纪念随心抽结果"
     },
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
@@ -64,6 +72,10 @@
     {
       "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
       "description": "持有数不足"
+    },
+    {
+      "id": "home.gasha.point_detail_overlay.point_limit_time",
+      "description": "兑换pt期限：{0}截止"
     },
     {
       "id": "home.produce.tutorial_reward",
@@ -92,6 +104,10 @@
     {
       "id": "mission.panel.mission_text",
       "description": "{0}"
+    },
+    {
+      "id": "picturebook.live.select.skin.lock",
+      "description": " "
     },
     {
       "id": "produce_prepare.easy_mode_apply",
@@ -126,6 +142,10 @@
       "description": "编成可以针对每个培育进行设置。在不同培育中进行设置时，不会适用于其他培育。"
     },
     {
+      "id": "produce_prepare.produce_character_unit.costume_change_sheet.warning1",
+      "description": "※选择「{0}」的演出时，无法设置培育用偶像的演唱会服装\\n※P演唱会不会受到影响"
+    },
+    {
       "id": "produce_prepare.top.event_icon.high_score_rush.description",
       "description": "在培育的报酬中可以获得星之闪耀"
     },
@@ -146,16 +166,64 @@
       "description": "Legend"
     },
     {
+      "id": "produce.hif.audition.qualify.audition_final.title",
+      "description": "选拔考试3"
+    },
+    {
+      "id": "produce.hif.audition.qualify.audition_mid1.title",
+      "description": "选拔考试1"
+    },
+    {
+      "id": "produce.hif.audition.qualify.audition_mid2.title",
+      "description": "选拔考试2"
+    },
+    {
+      "id": "produce.hif.audition.qualify.description",
+      "description": "与对手进行演出对决。 \\n超过突破线后，即可通过选拔考试。"
+    },
+    {
+      "id": "produce.hif.audition.qualify.title",
+      "description": "H.I.F选拔考试"
+    },
+    {
+      "id": "produce.hif.result.qualify.title",
+      "description": "选拔考试通过"
+    },
+    {
       "id": "produce.high_score_rush.gold.description",
       "description": "「十王邦夫的偶像强化月～星光璀璨～」中可以获得的道具。可以在活动扭蛋中使用。"
+    },
+    {
+      "id": "produce.interval.reroll_sheet.description",
+      "description": "要使用P点数，刷新技能卡和P饮料的列表，以及自定义和强化的次数吗？"
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
       "description": "由于指针处于悠闲状态，因此不会触发将指针变更为温存的效果。"
     },
     {
+      "id": "produce.schedule.step_exam_final_audition3.qualify",
+      "description": "选拔考试3"
+    },
+    {
+      "id": "produce.schedule.step_exam_mid1_audition3.qualify",
+      "description": "选拔考试1"
+    },
+    {
+      "id": "produce.schedule.step_exam_mid2_audition3.qualify",
+      "description": "选拔考试2"
+    },
+    {
+      "id": "produce.select.restrict.change",
+      "description": "无法进行变换的技能卡"
+    },
+    {
       "id": "produce.server_force_reset.confirm.description",
       "description": "正在游玩中的培育数据已被清除。"
+    },
+    {
+      "id": "produce.sheet.drink_max.description",
+      "description": "P饮料持有数量已达上限。\n请选择保留的饮料。"
     },
     {
       "id": "producer_ranking.character_reward.description",
@@ -175,23 +243,23 @@
     },
     {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
-      "description": "准备中"
+      "description": "解锁・强化H.I.F加成时会显示确认信息。"
     },
     {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.title",
-      "description": "准备中"
+      "description": "显示确认信息"
     },
     {
       "id": "setting.preference.other.produce_growth_panel.title",
-      "description": "准备中"
+      "description": "H.I.F加成设置"
     },
     {
       "id": "setting.produce.custom_item_customize_confirm",
-      "description": "准备中"
+      "description": "自定义P道具选择确认"
     },
     {
       "id": "setting.produce.custom_item_customize_confirm.description",
-      "description": "准备中"
+      "description": "获得・强化自定义P道具时会显示确认信息。"
     },
     {
       "id": "setting.produce.easy_mode_confirm",
@@ -215,27 +283,27 @@
     },
     {
       "id": "setting.produce.exit_interval_confirm",
-      "description": "准备中"
+      "description": "幕间休息结束确认"
     },
     {
       "id": "setting.produce.exit_interval_confirm.description",
-      "description": "准备中"
+      "description": "幕间休息结束时会显示确认信息。"
     },
     {
       "id": "setting.produce.reroll_interval_confirm",
-      "description": "准备中"
+      "description": "刷新执行确认"
     },
     {
       "id": "setting.produce.reroll_interval_confirm.description",
-      "description": "准备中"
+      "description": "在幕间休息进行刷新时会显示确认信息。"
     },
     {
       "id": "setting.produce.select_change_card_confirm",
-      "description": "准备中"
+      "description": "技能卡变换确认"
     },
     {
       "id": "setting.produce.select_change_card_confirm.description",
-      "description": "准备中"
+      "description": "选择技能卡进行变换时会显示确认信息。"
     },
     {
       "id": "shop.web_store.confirm.description",
@@ -264,6 +332,10 @@
     {
       "id": "tour.top.user_status.point_complete_label",
       "description": " "
+    },
+    {
+      "id": "voice.idol_use_prima_stella_produce_card",
+      "description": "使用P偶像专用传奇技能卡"
     },
     {
       "id": "voice.idol_use_produce_card",
