@@ -78,6 +78,10 @@
       "description": "兑换pt期限：{0}截止"
     },
     {
+      "id": "home.gasha.point_detail_overlay.resource_type_group_limit_time",
+      "description": "列表更新：{0}"
+    },
+    {
       "id": "home.produce.tutorial_reward",
       "description": "还能领取SSR培育用偶像！"
     },
@@ -308,6 +312,10 @@
     {
       "id": "shop.web_store.confirm.description",
       "description": "是否打开网页浏览器？\\n出生日期可以在【菜单 > 其他 > 输入出生日期】中进行设置。"
+    },
+    {
+      "id": "startup.gasha_point_expire_sheet.bottom_message",
+      "description": "可获得该兑换Pt的扭蛋"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
