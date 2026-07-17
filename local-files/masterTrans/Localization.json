@@ -246,6 +246,26 @@
       "description": "只有活动模式的P偶像才可以挑战活动模式的培育"
     },
     {
+      "id": "setting.preference.live.camera.angle_horizontal",
+      "description": "准备中"
+    },
+    {
+      "id": "setting.preference.live.camera.angle_vertical",
+      "description": "准备中"
+    },
+    {
+      "id": "setting.preference.live.camera.description",
+      "description": "开启此项后，在Live拍摄中进行手势操作时，摄像机的移动方向将会反转"
+    },
+    {
+      "id": "setting.preference.live.camera.description_panorama",
+      "description": ""
+    },
+    {
+      "id": "setting.preference.live.camera.position_depth",
+      "description": "准备中"
+    },
+    {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
       "description": "解锁・强化H.I.F加成时会显示确认信息。"
     },
@@ -308,6 +328,14 @@
     {
       "id": "setting.produce.select_change_card_confirm.description",
       "description": "选择技能卡进行变换时会显示确认信息。"
+    },
+    {
+      "id": "shop.need_init.description",
+      "description": "正在获取信息。\\n请更新。"
+    },
+    {
+      "id": "shop.need_init.title",
+      "description": "获取信息"
     },
     {
       "id": "shop.web_store.confirm.description",
