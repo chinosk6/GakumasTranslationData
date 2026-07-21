@@ -1386,6 +1386,36 @@
       "description": "【Wildest Flower】花海咲季的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-hski-3-018-01",
+      "name": "伸手所向之处",
+      "description": "【荆棘之路】花海咲季的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-02",
+      "name": "荆棘之路",
+      "description": "【荆棘之路】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-03",
+      "name": "来组建强力的卡组吧！",
+      "description": "【荆棘之路】花海咲季的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-04",
+      "name": "荆棘之路 +",
+      "description": "【荆棘之路】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-05",
+      "name": "荆棘之路 ++",
+      "description": "【荆棘之路】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-06",
+      "name": "荆棘之路 +++",
+      "description": "【荆棘之路】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-hski-3-019-01",
       "name": "向传说挑战",
       "description": "【GO MY WAY!!】花海咲季的培育中通过最终考试"
@@ -4621,6 +4651,11 @@
       "description": "观看花海咲季的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-hski-000-2",
+      "name": "我是顽强不屈的顶级偶像",
+      "description": "观看花海咲季的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-hski-001",
       "name": "不再逃避",
       "description": "在花海咲季的培育中使用技能卡{threshold}次"
@@ -4741,6 +4776,16 @@
       "description": "使用花海咲季通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
+      "id": "achieve-p_idol-hski-025",
+      "name": "最强的证明",
+      "description": "使用花海咲季在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hski-026",
+      "name": "竭尽全力的日子",
+      "description": "使用花海咲季在H.I.F中通过{threshold}次最终考试"
+    },
+    {
       "id": "achieve-p_idol-hski-027",
       "name": "崭新的花海咲季",
       "description": "让花海咲季通过最终考试并获得{threshold}次S4以上的评价吧"
@@ -4754,6 +4799,11 @@
       "id": "achieve-p_idol-hume-000-1",
       "name": "我最喜欢偶像了！",
       "description": "观看花海佑芽的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hume-000-2",
+      "name": "我才是世界最强的偶像",
+      "description": "观看花海佑芽的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-hume-001",
@@ -4869,6 +4919,16 @@
       "id": "achieve-p_idol-hume-024",
       "name": "成为姐姐的目标",
       "description": "使用花海佑芽通过最终考试并获得{threshold}次SSS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hume-025",
+      "name": "故事的开端",
+      "description": "使用花海佑芽在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hume-026",
+      "name": "坚信不疑、勇往直前的道路",
+      "description": "使用花海佑芽在H.I.F中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-hume-027",

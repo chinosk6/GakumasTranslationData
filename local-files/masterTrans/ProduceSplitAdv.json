@@ -53,8 +53,22 @@
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "hski",
+      "title": "H.I.F选拔考试"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
+      "title": "H.I.F正赛"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "hski",
       "title": "H.I.F正赛"
     },
     {

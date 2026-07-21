@@ -308,6 +308,12 @@
       "name": "兑换Pt/花"
     },
     {
+      "helpCategoryId": "help-grade-mission",
+      "id": "grade-mission",
+      "order": 65,
+      "name": "P评价等级成绩"
+    },
+    {
       "helpCategoryId": "help-guild",
       "id": "guild-create",
       "order": 2,

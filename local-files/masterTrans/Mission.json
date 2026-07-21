@@ -822,6 +822,54 @@
       "name": "在月村手毬的培育中自定义{threshold}次技能卡吧"
     },
     {
+      "id": "grade_mission-001-mission_1",
+      "name": "{threshold}名偶像获得A+以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_10",
+      "name": "1名偶像获得S4+以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_11",
+      "name": "6名偶像获得S4+以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_12",
+      "name": "13名偶像获得S4+以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_2",
+      "name": "{threshold}名偶像获得A+以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_3",
+      "name": "{threshold}名偶像获得A+以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_4",
+      "name": "{threshold}名偶像获得SS以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_5",
+      "name": "{threshold}名偶像获得SS以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_6",
+      "name": "{threshold}名偶像获得SS以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_7",
+      "name": "1名偶像获得S4以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_8",
+      "name": "6名偶像获得S4以上的评价吧"
+    },
+    {
+      "id": "grade_mission-001-mission_9",
+      "name": "13名偶像获得S4以上的评价吧"
+    },
+    {
       "id": "hidden_mission-achieve-o_014_001",
       "name": "在联合竞技中取得第一名吧"
     },
@@ -1152,6 +1200,14 @@
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-hrnm",
       "name": "莉波达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-hski",
+      "name": "咲季达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-hume",
+      "name": "佑芽达成A-End"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-kcna",
@@ -2078,6 +2134,14 @@
       "name": "姬崎莉波完成{threshold}次「H.I.F」：正赛的培育吧"
     },
     {
+      "id": "mission-daily_mission_HIF_clear-mission_17",
+      "name": "花海咲季完成{threshold}次「H.I.F」：正赛的培育吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_18",
+      "name": "花海佑芽完成{threshold}次「H.I.F」：正赛的培育吧"
+    },
+    {
       "id": "mission-daily_mission_HIF_clear-mission_20",
       "name": "仓本千奈完成{threshold}次「H.I.F」：正赛的培育吧"
     },
@@ -2108,6 +2172,14 @@
     {
       "id": "mission-daily_mission_HIF_clear-mission_29",
       "name": "让姬崎莉波的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_30",
+      "name": "让花海咲季的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_31",
+      "name": "让花海佑芽的亲密度Lv达到{threshold}吧"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_33",
@@ -8170,6 +8242,30 @@
       "name": "【Wildest Flower】花海咲季的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-hski-3-018-01",
+      "name": "【荆棘之路】花海咲季的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-02",
+      "name": "【荆棘之路】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-03",
+      "name": "【荆棘之路】花海咲季的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-04",
+      "name": "【荆棘之路】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-05",
+      "name": "【荆棘之路】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hski-3-018-06",
+      "name": "【荆棘之路】花海咲季的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-hski-3-019-01",
       "name": "【GO MY WAY!!】花海咲季的培育中通过最终考试"
     },
@@ -10758,6 +10854,10 @@
       "name": "观看花海咲季的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-hski-000-2",
+      "name": "观看花海咲季的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-hski-001",
       "name": "在花海咲季的培育中使用技能卡{threshold}次"
     },
@@ -10854,6 +10954,14 @@
       "name": "使用花海咲季通过最终考试并获得{threshold}次SSS+以上评价"
     },
     {
+      "id": "achieve-p_idol-hski-025",
+      "name": "使用花海咲季在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hski-026",
+      "name": "使用花海咲季在H.I.F中通过{threshold}次最终考试"
+    },
+    {
       "id": "achieve-p_idol-hski-027",
       "name": "让花海咲季通过最终考试并获得{threshold}次S4以上的评价吧"
     },
@@ -10864,6 +10972,10 @@
     {
       "id": "achieve-p_idol-hume-000-1",
       "name": "观看花海佑芽的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hume-000-2",
+      "name": "观看花海佑芽的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-hume-001",
@@ -10956,6 +11068,14 @@
     {
       "id": "achieve-p_idol-hume-024",
       "name": "使用花海佑芽通过最终考试并获得{threshold}次SSS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hume-025",
+      "name": "使用花海佑芽在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hume-026",
+      "name": "使用花海佑芽在H.I.F中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-hume-027",

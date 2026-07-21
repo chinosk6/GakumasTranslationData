@@ -50,6 +50,14 @@
       "description": "已完成兑换"
     },
     {
+      "id": "grade_mission.top.button.idol.disabled",
+      "description": "没有培育结果"
+    },
+    {
+      "id": "grade_mission.top.next_mission.description",
+      "description": "{1}名偶像获得{0}以上的评价"
+    },
+    {
       "id": "high_score_event.top.adv.title_label",
       "description": "偶像强化月间\\n〜星光璀璨〜"
     },

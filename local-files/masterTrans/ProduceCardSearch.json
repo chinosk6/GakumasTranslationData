@@ -1158,6 +1158,21 @@
       ]
     },
     {
+      "id": "p_card_search-deck_all-p_card-03-ido-3_197",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-ido-3_197",
+          "text": "伸手所向之处"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-deck_all-starter",
       "produceDescriptions": [
         {
@@ -2579,6 +2594,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "随机2张手牌中的技能卡（R）"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-r-sr-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "除外中的技能卡（R,SR）"
         }
       ]
     },
@@ -4729,6 +4759,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-2_106",
           "text": "行走步调"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-03-ido-3_197",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-ido-3_197",
+          "text": "伸手所向之处"
         }
       ]
     },
