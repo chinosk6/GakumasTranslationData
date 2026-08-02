@@ -336,6 +336,36 @@
       "description": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-atbm-3-018-01",
+      "name": "让群星散落吧",
+      "description": "【互噬】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-02",
+      "name": "互噬",
+      "description": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-03",
+      "name": "我会回应你的期待的",
+      "description": "【互噬】雨夜燕的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-04",
+      "name": "互噬 +",
+      "description": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-05",
+      "name": "互噬 ++",
+      "description": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-06",
+      "name": "互噬 +++",
+      "description": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-fktn-2-000-04",
       "name": "可爱♡开始啦 +",
       "description": "【可爱♡开始啦】藤田琴音的特训阶段提升至{threshold}级"
@@ -3573,7 +3603,7 @@
     {
       "id": "achieve-p_common-015",
       "name": "常客",
-      "description": "咨询中交换{threshold}次"
+      "description": "咨询中兑换{threshold}次"
     },
     {
       "id": "achieve-p_common-016",
@@ -4283,7 +4313,7 @@
     {
       "id": "achieve-p_idol-fktn-013",
       "name": "精打细算",
-      "description": "在藤田琴音的培育咨询中交换{threshold}次"
+      "description": "在藤田琴音的培育咨询中兑换{threshold}次"
     },
     {
       "id": "achieve-p_idol-fktn-014",
@@ -5003,7 +5033,7 @@
     {
       "id": "achieve-p_idol-jsna-012",
       "name": "全部给我",
-      "description": "在十王星南的培育咨询中交换{threshold}次"
+      "description": "在十王星南的培育咨询中兑换{threshold}次"
     },
     {
       "id": "achieve-p_idol-jsna-013",
@@ -5148,7 +5178,7 @@
     {
       "id": "achieve-p_idol-kcna-013",
       "name": "财力",
-      "description": "在仓本千奈的培育咨询中交换{threshold}次"
+      "description": "在仓本千奈的培育咨询中兑换{threshold}次"
     },
     {
       "id": "achieve-p_idol-kcna-014",
@@ -5733,7 +5763,7 @@
     {
       "id": "achieve-p_idol-ttmr-013",
       "name": "绝不妥协",
-      "description": "在月村手毬的培育咨询中交换{threshold}次"
+      "description": "在月村手毬的培育咨询中兑换{threshold}次"
     },
     {
       "id": "achieve-p_idol-ttmr-014",

@@ -162,6 +162,12 @@
       "acquisitionRouteDescription": "活动模式的培育等方式"
     },
     {
+      "id": "item-coin-highscorerush-event-015",
+      "name": "星之闪耀",
+      "description": "可以在十王邦夫的偶像强化月～星光璀璨～(雨夜燕/十王星南)的活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活动模式的培育等方式"
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "R偶像的碎片",
       "description": "可以在R偶像才能开花中使用的道具",
@@ -396,6 +402,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-new-wednesday-26-0731-1",
+      "name": "学马星期三扭蛋票据",
+      "description": "可以在学马星期三扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-fix_1",
       "name": "SSR必得扭蛋票据",
       "description": "可以在SSR必得扭蛋中使用的票据",
@@ -453,6 +465,12 @@
       "id": "item-gashaticket-ssr-idol-fix_5",
       "name": "The 2nd Period 季节限定SSR P偶像必得10连扭蛋票据",
       "description": "可以在The 2nd Period 季节限定SSR P偶像必得10连扭蛋票据扭蛋中使用的道具",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-fix_6",
+      "name": "STEP3全偶像登场纪念 SSR P偶像必得票据",
+      "description": "可以在STEP3全偶像登场纪念 SSR P偶像必得票据扭蛋中使用的票据",
       "acquisitionRouteDescription": ""
     },
     {
@@ -974,6 +992,12 @@
     {
       "id": "item-piece-idol_atbm-3-012",
       "name": "[Campus mode!!]雨夜燕的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-3-018",
+      "name": "[互噬]雨夜燕的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
