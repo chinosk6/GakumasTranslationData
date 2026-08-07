@@ -12,8 +12,8 @@
     },
     {
       "type": "TermsType_PrivacyPolicy",
-      "name": "隐私政策",
-      "url": "https://legal.bandainamcoent.co.jp/privacy/?lang=jp"
+      "name": "加入群聊",
+      "url": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=991990192&card_type=group&source=qrcode"
     },
     {
       "type": "TermsType_GlobalConsent",

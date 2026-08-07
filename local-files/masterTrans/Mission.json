@@ -38,6 +38,38 @@
       "name": "让有村麻央通过最终考试并获得{threshold}次SS以上评价吧"
     },
     {
+      "id": "dearness_event_atbm-001",
+      "name": "将雨夜燕的舞蹈能力值培养至1800以上并完成培育"
+    },
+    {
+      "id": "dearness_event_atbm-002",
+      "name": "在雨夜燕的培育中选择{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_atbm-003",
+      "name": "在雨夜燕的培育中选择{threshold}次咨询吧"
+    },
+    {
+      "id": "dearness_event_atbm-004",
+      "name": "在雨夜燕的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_atbm-005",
+      "name": "在雨夜燕的培育中选择{threshold}次活动补给・慰问品吧"
+    },
+    {
+      "id": "dearness_event_atbm-006",
+      "name": "雨夜燕通过{threshold}次舞蹈训练吧"
+    },
+    {
+      "id": "dearness_event_atbm-007",
+      "name": "在雨夜燕的培育中选择{threshold}次特别指导吧"
+    },
+    {
+      "id": "dearness_event_atbm-008",
+      "name": "让雨夜燕通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
       "id": "dearness_event_fktn-001",
       "name": "将藤田琴音的舞蹈能力值培养至1800以上并完成培育"
     },
@@ -600,6 +632,26 @@
     {
       "id": "dearness_normal-mission_amao-005",
       "name": "在有村麻央的培育中自定义{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_atbm-001",
+      "name": "将雨夜燕的舞蹈能力值培养至2000以上并完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_atbm-002",
+      "name": "在雨夜燕的培育中累计使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_atbm-003",
+      "name": "在雨夜燕的培育中强化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_atbm-004",
+      "name": "让雨夜燕通过最终考试并获得{threshold}次SS以上评价吧"
+    },
+    {
+      "id": "dearness_normal-mission_atbm-005",
+      "name": "在雨夜燕的培育中自定义{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_fktn-001",
@@ -4170,6 +4222,106 @@
       "name": "通关第5天的全部任务"
     },
     {
+      "id": "mission-highscorerush-event-015-mission_11",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_12",
+      "name": "将雨夜燕的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_13",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_14",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_16",
+      "name": "通关第1天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_21",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_22",
+      "name": "将十王星南的视觉能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_23",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_24",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_26",
+      "name": "通关第2天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_31",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_32",
+      "name": "在雨夜燕或十王星南的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_33",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_34",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_36",
+      "name": "通关第3天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_41",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_42",
+      "name": "在雨夜燕或十王星南的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_43",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_44",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_46",
+      "name": "通关第4天的全部任务"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_51",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_52",
+      "name": "在雨夜燕或十王星南的培育中通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_53",
+      "name": "在雨夜燕的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_54",
+      "name": "在十王星南的培育中累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-highscorerush-event-015-mission_56",
+      "name": "通关第5天的全部任务"
+    },
+    {
       "id": "mission-main-story-event-001-mission_11",
       "name": "消耗{threshold}点AP吧"
     },
@@ -7102,6 +7254,42 @@
       "name": "使用{threshold}次P饮料"
     },
     {
+      "id": "panel_mission-event-011-mission_1",
+      "name": "回收金币吧"
+    },
+    {
+      "id": "panel_mission-event-011-mission_2",
+      "name": "开始{threshold}次工作吧"
+    },
+    {
+      "id": "panel_mission-event-011-mission_3",
+      "name": "去抽取{threshold}次硬币扭蛋吧"
+    },
+    {
+      "id": "panel_mission-event-011-mission_4",
+      "name": "在金币兑换所中兑换{threshold}次吧"
+    },
+    {
+      "id": "panel_mission-event-011-mission_5",
+      "name": "去挑战{threshold}次竞技场吧"
+    },
+    {
+      "id": "panel_mission-event-011-mission_6",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "panel_mission-event-011-mission_7",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "panel_mission-event-011-mission_8",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "panel_mission-event-011-mission_9",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
       "id": "panel_mission-event-niv-mission_1",
       "name": "以B+以上得分通过{threshold}次最终考试吧"
     },
@@ -7400,6 +7588,30 @@
     {
       "id": "achieve-i_card-atbm-3-012-06",
       "name": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-01",
+      "name": "【互噬】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-02",
+      "name": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-03",
+      "name": "【互噬】雨夜燕的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-04",
+      "name": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-05",
+      "name": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-018-06",
+      "name": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
