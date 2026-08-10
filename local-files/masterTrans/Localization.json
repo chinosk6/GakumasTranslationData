@@ -122,6 +122,14 @@
       "description": " "
     },
     {
+      "id": "produce_card_skin.preview_overlay.label.select_skin",
+      "description": "可以确认使用技能卡时的演出效果"
+    },
+    {
+      "id": "produce_card_skin.top.label.description",
+      "description": "可以更改技能卡的外观和培育中的部分演出效果。"
+    },
+    {
       "id": "produce_prepare.easy_mode_apply",
       "description": "辅助模式已启用"
     },

@@ -301,6 +301,13 @@
       "appealText": ""
     },
     {
+      "id": "gasha_button-00970-wednesday-001-ticket-01",
+      "order": 1,
+      "name": "用票据抽取",
+      "description": "用票据抽取",
+      "appealText": ""
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "10连道具扭蛋",
@@ -357,6 +364,55 @@
       "appealText": ""
     },
     {
+      "id": "gasha_button-gasha-00970-stepup-001-01-003",
+      "order": 1,
+      "name": "STEP1 3次",
+      "description": "3连扭蛋",
+      "appealText": ""
+    },
+    {
+      "id": "gasha_button-gasha-00970-stepup-001-2-010",
+      "order": 1,
+      "name": "STEP2 10次",
+      "description": "10连扭蛋",
+      "appealText": ""
+    },
+    {
+      "id": "gasha_button-gasha-00970-stepup-001-3-010",
+      "order": 1,
+      "name": "STEP3 10次",
+      "description": "10连扭蛋",
+      "appealText": ""
+    },
+    {
+      "id": "gasha_button-gasha-00970-ticket-001",
+      "order": 1,
+      "name": "用票据抽取",
+      "description": "用票据抽取",
+      "appealText": ""
+    },
+    {
+      "id": "gasha_button-gasha-00970-ticket-002",
+      "order": 1,
+      "name": "用票据抽取",
+      "description": "用票据抽取",
+      "appealText": ""
+    },
+    {
+      "id": "gasha_button-gasha-00970-ticket-003",
+      "order": 1,
+      "name": "用票据抽取",
+      "description": "用票据抽取",
+      "appealText": ""
+    },
+    {
+      "id": "gasha_button-gasha-00970-ticket-004",
+      "order": 1,
+      "name": "用票据抽取",
+      "description": "用票据抽取",
+      "appealText": ""
+    },
+    {
       "id": "gasha_button-pickup-001-01",
       "order": 2,
       "name": "1次扭蛋",
@@ -404,6 +460,13 @@
       "name": "10连扭蛋",
       "description": "10连扭蛋",
       "appealText": "必得SSR"
+    },
+    {
+      "id": "gasha_button-pickup-01-discount",
+      "order": 3,
+      "name": "10连扭蛋",
+      "description": "10连扭蛋",
+      "appealText": "必得1张以上SR"
     },
     {
       "id": "gasha_button-select-pickup-01",

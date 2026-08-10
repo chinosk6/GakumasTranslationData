@@ -216,6 +216,12 @@
       "acquisitionRouteDescription": "兑换所等方式"
     },
     {
+      "id": "item-dearness-unlock-atbm",
+      "name": "燕的记录之钥",
+      "description": "解锁雨夜燕STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
       "id": "item-dearness-unlock-fktn",
       "name": "琴音的记录之钥",
       "description": "解锁藤田琴音STEP3亲密度交流的道具",
@@ -294,6 +300,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-gacha-coin-2026-summer",
+      "name": "培育硬币",
+      "description": "可以在暑假硬币扭蛋中使用的硬币",
+      "acquisitionRouteDescription": "培育"
+    },
+    {
       "id": "item-gacha-coin-anniversary-001",
       "name": "小初美硬币",
       "description": "可以在1st Anniversary硬币扭蛋中使用的硬币",
@@ -316,6 +328,12 @@
       "name": "初星福引券 2026",
       "description": "可以在谨贺新年！福引扭蛋中使用的道具",
       "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-gacha-selection-ticket-007-stepup-skin",
+      "name": "附带技能卡皮肤的SSR P偶像必得扭蛋票据兑换券",
+      "description": "可以在票据兑换所中兑换附带技能卡皮肤的培育用偶像的必得扭蛋票据的券",
+      "acquisitionRouteDescription": "STEP UP扭蛋的STEP3的附赠奖励"
     },
     {
       "id": "item-gachaticket-2nd-anniv-10-001",
@@ -376,6 +394,30 @@
       "name": "圣诞扭蛋10连票据",
       "description": "可以在圣诞登录奖励扭蛋中使用的票据",
       "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-gasha-00970-ticket-001",
+      "name": "【与你共度的湛蓝夏日】紫云清夏必得扭蛋票据",
+      "description": "可以在附带技能卡皮肤的目标P偶像 与你共度的湛蓝夏日 清夏必得扭蛋中使用的票据",
+      "acquisitionRouteDescription": "票据兑换所"
+    },
+    {
+      "id": "item-gashaticket-gasha-00970-ticket-002",
+      "name": "【与你共度的湛蓝夏日】姬崎莉波必得扭蛋票据",
+      "description": "可以在附带技能卡皮肤的目标P偶像 与你共度的湛蓝夏日 莉波必得扭蛋中使用的票据",
+      "acquisitionRouteDescription": "票据兑换所"
+    },
+    {
+      "id": "item-gashaticket-gasha-00970-ticket-003",
+      "name": "【冠菊】葛城莉莉娅必得扭蛋票据",
+      "description": "可以在附带技能卡皮肤的目标P偶像 冠菊 莉莉娅必得扭蛋中使用的票据",
+      "acquisitionRouteDescription": "票据兑换所"
+    },
+    {
+      "id": "item-gashaticket-gasha-00970-ticket-004",
+      "name": "【冠菊】藤田琴音必得扭蛋票据",
+      "description": "可以在附带技能卡皮肤的目标P偶像 冠菊 琴音必得扭蛋中使用的票据",
+      "acquisitionRouteDescription": "票据兑换所"
     },
     {
       "id": "item-gashaticket-new-wednesday-26-0603-1",
@@ -511,6 +553,12 @@
     },
     {
       "id": "item-gashaticket-wednesday-260715",
+      "name": "学马星期三扭蛋票据",
+      "description": "可以在学马星期三扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-260812",
       "name": "学马星期三扭蛋票据",
       "description": "可以在学马星期三扭蛋中使用的票据",
       "acquisitionRouteDescription": ""
@@ -1966,6 +2014,12 @@
       "name": "2nd Anniversary自选票据",
       "description": "可以在票据兑换所中兑换培育用偶像以及支援卡的票据",
       "acquisitionRouteDescription": "商店等方式"
+    },
+    {
+      "id": "item-selection-ticket-007",
+      "name": "暑假支援卡自选票据",
+      "description": "可以在票据兑换所中兑换支援卡的票据",
+      "acquisitionRouteDescription": "暑假硬币扭蛋"
     },
     {
       "id": "item-staminaregen-1",
