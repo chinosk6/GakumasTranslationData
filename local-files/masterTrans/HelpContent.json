@@ -35,7 +35,7 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event",
       "order": 1,
-      "name": "巡演活动"
+      "name": "故事活动"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
@@ -1254,6 +1254,12 @@
       "id": "produce-refresh",
       "order": 15,
       "name": "休息"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-replay",
+      "order": 65,
+      "name": "回放"
     },
     {
       "helpCategoryId": "help-produce",

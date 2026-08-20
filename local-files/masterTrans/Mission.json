@@ -1562,6 +1562,10 @@
       "name": "去抽取{threshold}次含有季节限定，最多100连无料！10连无料扭蛋吧"
     },
     {
+      "id": "hidden_mission-view-gasha-00980-free-10-009",
+      "name": "去抽取{threshold}次360°Live追加纪念！最多100连无料扭蛋吧"
+    },
+    {
       "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
       "name": "去抽取{threshold}次Story of Re;IRIS放映纪念SSR1.5倍自选PICK UP扭蛋吧"
     },
@@ -1791,6 +1795,26 @@
     },
     {
       "id": "mission-box-gasha-event-020-mission_5",
+      "name": "完成{threshold}次SP训练吧"
+    },
+    {
+      "id": "mission-box-gasha-event-021-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-box-gasha-event-021-mission_2",
+      "name": "通过{threshold}次最终考试吧"
+    },
+    {
+      "id": "mission-box-gasha-event-021-mission_3",
+      "name": "去抽取{threshold}次活动BOX扭蛋吧"
+    },
+    {
+      "id": "mission-box-gasha-event-021-mission_4",
+      "name": "累计获得{threshold}培育评价吧"
+    },
+    {
+      "id": "mission-box-gasha-event-021-mission_5",
       "name": "完成{threshold}次SP训练吧"
     },
     {
@@ -8910,6 +8934,30 @@
       "name": "【ENDLESS DANCE】十王星南的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-jsna-3-020-01",
+      "name": "【「喂……我要说了哦。」】十王星南的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-020-02",
+      "name": "【「喂……我要说了哦。」】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-020-03",
+      "name": "【「喂……我要说了哦。」】十王星南的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-020-04",
+      "name": "【「喂……我要说了哦。」】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-020-05",
+      "name": "【「喂……我要说了哦。」】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-020-06",
+      "name": "【「喂……我要说了哦。」】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-kcna-2-000-04",
       "name": "【挺起胸膛一步步前进】仓本千奈的特训阶段提升至{threshold}级"
     },
@@ -9988,6 +10036,30 @@
     {
       "id": "achieve-i_card-ttmr-3-018-06",
       "name": "【荆棘之路】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-021-01",
+      "name": "【「喂……我要说了哦。」】月村手毬的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-021-02",
+      "name": "【「喂……我要说了哦。」】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-021-03",
+      "name": "【「喂……我要说了哦。」】月村手毬的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-021-04",
+      "name": "【「喂……我要说了哦。」】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-021-05",
+      "name": "【「喂……我要说了哦。」】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-021-06",
+      "name": "【「喂……我要说了哦。」】月村手毬的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-m_amao-001",
