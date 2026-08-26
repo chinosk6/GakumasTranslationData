@@ -289,22 +289,22 @@
     {
       "id": "voice_group-amao-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-amao-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-amao-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-amao-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-amao-othr-0002-cmmn",
@@ -549,22 +549,22 @@
     {
       "id": "voice_group-atbm-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-atbm-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-atbm-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-atbm-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-atbm-othr-0002-cmmn",
@@ -4105,6 +4105,76 @@
       "id": "voice_group-cidol-hmsz-3-019-detail",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0140_02",
       "title": "换装②"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-detail",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0173_01",
+      "title": "换装①（泳装）"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-detail",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0173_02",
+      "title": "换装②（泳装）"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-detail",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0177_01",
+      "title": "换装①（连衣裙）"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-detail",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0177_02",
+      "title": "换装②（连衣裙）"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_produce_schedule-01",
+      "title": "培育①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_produce_schedule-02",
+      "title": "培育②"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_produce_schedule-03",
+      "title": "培育③"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-020-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_produce_schedule-04",
+      "title": "培育④"
     },
     {
       "id": "voice_group-cidol-hrnm-1-000-detail",
@@ -13519,22 +13589,22 @@
     {
       "id": "voice_group-fktn-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-fktn-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-fktn-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-fktn-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-fktn-othr-0002-cmmn",
@@ -13815,6 +13885,26 @@
       "id": "voice_group-hmsz-cstm-0140-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0140_02",
       "title": "GO MY WAY!!"
+    },
+    {
+      "id": "voice_group-hmsz-cstm-0173-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0173_01",
+      "title": "「我要说了哦。」"
+    },
+    {
+      "id": "voice_group-hmsz-cstm-0173-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0173_02",
+      "title": "「我要说了哦。」"
+    },
+    {
+      "id": "voice_group-hmsz-cstm-0177-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0177_01",
+      "title": "「我要说了哦。」"
+    },
+    {
+      "id": "voice_group-hmsz-cstm-0177-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0177_02",
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hmsz-othr-0002-cmmn",
@@ -14139,22 +14229,22 @@
     {
       "id": "voice_group-hrnm-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hrnm-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hrnm-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hrnm-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hrnm-othr-0002-cmmn",
@@ -14469,22 +14559,22 @@
     {
       "id": "voice_group-hski-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hski-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hski-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hski-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hski-othr-0002-cmmn",
@@ -14789,22 +14879,22 @@
     {
       "id": "voice_group-hume-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hume-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hume-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hume-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-hume-othr-0002-cmmn",
@@ -15109,22 +15199,22 @@
     {
       "id": "voice_group-jsna-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-jsna-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-jsna-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-jsna-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-jsna-othr-0002-cmmn",
@@ -15449,22 +15539,22 @@
     {
       "id": "voice_group-kcna-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-kcna-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-kcna-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-kcna-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-kcna-othr-0002-cmmn",
@@ -15789,22 +15879,22 @@
     {
       "id": "voice_group-kllj-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-kllj-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-kllj-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-kllj-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-kllj-othr-0002-cmmn",
@@ -16189,22 +16279,22 @@
     {
       "id": "voice_group-shro-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-shro-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-shro-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-shro-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-shro-othr-0002-cmmn",
@@ -16514,22 +16604,22 @@
     {
       "id": "voice_group-ssmk-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0175_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-ssmk-cstm-0175-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0175_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-ssmk-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0176_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-ssmk-cstm-0176-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0176_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-ssmk-othr-0002-cmmn",
@@ -16854,22 +16944,22 @@
     {
       "id": "voice_group-ttmr-cstm-0173-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0173_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-ttmr-cstm-0173-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0173_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-ttmr-cstm-0177-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0177_01",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-ttmr-cstm-0177-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0177_02",
-      "title": "「喂……我要说了哦。」"
+      "title": "「我要说了哦。」"
     },
     {
       "id": "voice_group-ttmr-othr-0002-cmmn",

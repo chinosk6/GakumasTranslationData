@@ -262,20 +262,8 @@
       "description": "只有活动模式的P偶像才可以挑战活动模式的培育"
     },
     {
-      "id": "setting.preference.live.camera.angle_horizontal",
-      "description": "准备中"
-    },
-    {
-      "id": "setting.preference.live.camera.angle_vertical",
-      "description": "准备中"
-    },
-    {
       "id": "setting.preference.live.camera.description",
       "description": "开启此项后，在Live拍摄中进行手势操作时，摄像机的移动方向将会反转"
-    },
-    {
-      "id": "setting.preference.live.camera.description_panorama",
-      "description": ""
     },
     {
       "id": "setting.preference.live.camera.position_depth",
@@ -344,6 +332,10 @@
     {
       "id": "setting.produce.select_change_card_confirm.description",
       "description": "选择技能卡进行变换时会显示确认信息。"
+    },
+    {
+      "id": "setting.produce.support_event_produce_card_upgrade",
+      "description": "以已强化状态获得技能卡"
     },
     {
       "id": "shop.need_init.description",

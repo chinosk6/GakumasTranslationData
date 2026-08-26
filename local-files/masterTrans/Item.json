@@ -570,6 +570,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-wednesday-260826",
+      "name": "学马星期三扭蛋票据",
+      "description": "可以在学马星期三扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-wednesday-fainal-26-001-1",
       "name": "咲季的特别票据",
       "description": "可以在每日学马星期三最终季扭蛋中使用的票据",
@@ -835,6 +841,12 @@
     },
     {
       "id": "item-medal-research-event-006",
+      "name": "研讨狸猫",
+      "description": "可以在活动兑换所中兑换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-medal-research-event-007",
       "name": "研讨狸猫",
       "description": "可以在活动兑换所中兑换各式报酬的道具",
       "acquisitionRouteDescription": "培育等方式"
@@ -1182,6 +1194,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hmsz-3-020",
+      "name": "[「我要说了哦。」]秦谷美铃的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hrnm-1-000",
       "name": "[学园生活]姬崎莉波的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1471,7 +1489,7 @@
     },
     {
       "id": "item-piece-idol_jsna-3-020",
-      "name": "[「喂……我要说了哦。」]十王星南的碎片",
+      "name": "[「我要说了哦。」]十王星南的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "活动扭蛋等方式"
     },
@@ -1837,7 +1855,7 @@
     },
     {
       "id": "item-piece-idol_ttmr-3-021",
-      "name": "[「喂……我要说了哦。」]月村手毬的碎片",
+      "name": "[「我要说了哦。」]月村手毬的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1993,6 +2011,12 @@
     },
     {
       "id": "item-research-event-006",
+      "name": "亚纱里老师贴纸",
+      "description": "可以在亚纱里老师的培育研讨会活动中，重新抽取回忆能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-007",
       "name": "亚纱里老师贴纸",
       "description": "可以在亚纱里老师的培育研讨会活动中，重新抽取回忆能力的道具",
       "acquisitionRouteDescription": "培育等方式"

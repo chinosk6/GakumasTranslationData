@@ -1638,6 +1638,12 @@
       "id": "tower-rule",
       "order": 2,
       "name": "偶像之路规则"
+    },
+    {
+      "helpCategoryId": "help-trail",
+      "id": "trail",
+      "order": 1,
+      "name": "回忆里的服装"
     }
   ]
 }
