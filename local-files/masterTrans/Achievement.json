@@ -2046,6 +2046,36 @@
       "description": "【ENDLESS DANCE】十王星南的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-jsna-3-017-01",
+      "name": "闪耀光辉的路标",
+      "description": "【荆棘之路】十王星南的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-02",
+      "name": "荆棘之路",
+      "description": "【荆棘之路】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-03",
+      "name": "比她更进一步的，我的身姿！",
+      "description": "【荆棘之路】十王星南的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-04",
+      "name": "荆棘之路 +",
+      "description": "【荆棘之路】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-05",
+      "name": "荆棘之路 ++",
+      "description": "【荆棘之路】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-06",
+      "name": "荆棘之路 +++",
+      "description": "【荆棘之路】十王星南的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-jsna-3-020-01",
       "name": "令人入迷的侧颜",
       "description": "【「我要说了哦。」】十王星南的培育中通过最终考试"
@@ -4431,6 +4461,11 @@
       "description": "观看藤田琴音的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-fktn-000-2",
+      "name": "我会让你幸福的",
+      "description": "观看藤田琴音的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-fktn-001",
       "name": "QOL",
       "description": "在藤田琴音的培育中使用技能卡{threshold}次"
@@ -4549,6 +4584,16 @@
       "id": "achieve-p_idol-fktn-024",
       "name": "把能做的事全都做上！",
       "description": "使用藤田琴音通过最终考试并获得{threshold}次SSS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-fktn-025",
+      "name": "梦中所见的光景",
+      "description": "使用藤田琴音在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-fktn-026",
+      "name": "一路累积的成果",
+      "description": "使用藤田琴音在H.I.F中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-fktn-027",
@@ -5156,6 +5201,11 @@
       "description": "观看十王星南的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-jsna-000-2",
+      "name": "成为我的东西吧",
+      "description": "观看十王星南的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-jsna-001",
       "name": "崭新的一面",
       "description": "在十王星南的培育中使用技能卡{threshold}次"
@@ -5274,6 +5324,16 @@
       "id": "achieve-p_idol-jsna-024",
       "name": "属于我们的两个梦想",
       "description": "使用十王星南通过最终考试并获得{threshold}次SSS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-jsna-025",
+      "name": "十王星南的遗产",
+      "description": "使用十王星南在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-jsna-026",
+      "name": "我们之间的故事",
+      "description": "使用十王星南在H.I.F中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-jsna-027",

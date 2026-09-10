@@ -3069,6 +3069,22 @@
       "name": "大运动会，开始！"
     },
     {
+      "id": "s_card-3-0099",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率高"
+        }
+      ],
+      "name": "马上就要正式上场了呢"
+    },
+    {
       "id": "s_card-3-0100",
       "upgradeProduceCardProduceDescriptions": [
         {

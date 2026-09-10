@@ -312,6 +312,12 @@
       "acquisitionRouteDescription": "培育"
     },
     {
+      "id": "item-gacha-coin-2026-summer2",
+      "name": "培育应援硬币",
+      "description": "可以在H.I.F挑战突破1500万次纪念！培育应援硬币扭蛋中使用的硬币",
+      "acquisitionRouteDescription": "培育"
+    },
+    {
       "id": "item-gacha-coin-anniversary-001",
       "name": "小初美硬币",
       "description": "可以在1st Anniversary硬币扭蛋中使用的硬币",
@@ -1506,6 +1512,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_jsna-3-017",
+      "name": "[荆棘之路]十王星南的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_jsna-3-020",
       "name": "[「我要说了哦。」]十王星南的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1926,6 +1938,12 @@
       "acquisitionRouteDescription": "成就等方式"
     },
     {
+      "id": "item-primastellamaterial-idol_fktn-001",
+      "name": "琴音的启明星之光",
+      "description": "可以在藤田琴音的『启明星』解锁时使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
       "id": "item-primastellamaterial-idol_hmsz-001",
       "name": "美铃的启明星之光",
       "description": "可以在秦谷美铃的『启明星』解锁时使用的道具",
@@ -1947,6 +1965,12 @@
       "id": "item-primastellamaterial-idol_hume-001",
       "name": "佑芽的启明星之光",
       "description": "可以在花海佑芽的『启明星』解锁时使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_jsna-001",
+      "name": "星南的启明星之光",
+      "description": "可以在十王星南的『启明星』解锁时使用的道具",
       "acquisitionRouteDescription": "成就等方式"
     },
     {
@@ -2098,6 +2122,12 @@
       "name": "暑假支援卡自选票据",
       "description": "可以在票据兑换所中兑换支援卡的票据",
       "acquisitionRouteDescription": "暑假硬币扭蛋"
+    },
+    {
+      "id": "item-selection-ticket-008",
+      "name": "培育应援支援卡自选票据",
+      "description": "可以在票据兑换所中兑换支援卡的票据",
+      "acquisitionRouteDescription": "H.I.F挑战突破1500万次纪念！培育应援硬币扭蛋"
     },
     {
       "id": "item-staminaregen-1",
