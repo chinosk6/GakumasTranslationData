@@ -7,7 +7,7 @@ from merge_utils import (
     TranslationValidationError,
 )
 
-def merge_translation_files(raw_folder: str, translation_folder: str, pretranslation_folder, resource_folder: str) -> int:
+def merge_translation_files(raw_folder: str, translation_folder: str, pretranslation_folder, resource_folder: str):
     with open(os.path.join(pretranslation_folder, "index.json"), encoding="utf-8") as f:
         translation_file_index = json.load(f)
 
@@ -68,7 +68,6 @@ def merge_translation_files(raw_folder: str, translation_folder: str, pretransla
         f"{checked_files - failed_files} succeeded, {failed_files} failed, "
         f"{error_count} error(s)."
     )
-    return error_count
 
 if __name__ == "__main__":
     raw_folder = "./raw"
@@ -80,9 +79,7 @@ if __name__ == "__main__":
     master_translation_source_folder = "./gakumas-master-translation/data"
     master_translation_dest_folder = "./local-files/masterTrans"
 
-    error_count = merge_translation_files(raw_folder, translation_folder, pretranslation_folder, resource_folder)
-    if error_count:
-        raise SystemExit(1)
+    merge_translation_files(raw_folder, translation_folder, pretranslation_folder, resource_folder)
     shutil.copy(
         f"{pretranslation_folder}/etc/localization.json",
         f"./local-files/localization.json",

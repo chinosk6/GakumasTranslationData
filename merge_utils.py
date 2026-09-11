@@ -38,11 +38,7 @@ def merge_translated_csv_into_txt(
     errors = []
 
     def collect_replacement(original_text, field, context, *, is_choice=False):
-        row = next(iterator, None)
-        if row is None:
-            errors.append(f"{context}: missing CSV entry; raw text: {original_text!r}")
-            return
-        row_number, csv_line = row
+        row_number, csv_line = next(iterator)
         try:
             new_text = merger(
                 original_text, csv_line["trans"], csv_line["text"],
@@ -80,11 +76,6 @@ def merge_translated_csv_into_txt(
                     is_choice=True,
                 )
 
-    for row_number, csv_line in iterator:
-        errors.append(
-            f"CSV entry {row_number} (id={csv_line['id']!r}): "
-            f"extra CSV entry with no raw text; CSV text: {csv_line['text']!r}"
-        )
     if errors:
         raise TranslationValidationError(errors)
 

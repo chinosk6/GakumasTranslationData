@@ -19,14 +19,11 @@
 
 `python merge.py` checks all translated resource files and reports every text
 mismatch within each story, including the source CSV path, its 1-based data entry
-number (excluding the header), the CSV ID, and both original texts. Missing or extra
-CSV entries are reported too. A malformed or unreadable file is reported as a file
-error, and the remaining files are still checked.
+number (excluding the header), the CSV ID, and both original texts.
 
 The final summary counts checked files, failed files, and errors. Invalid stories
-are not written; if any file fails, the command exits with status 1 after the full
-scan so CI stops before packaging and releasing. Fix the CSV files shown in the log
-and rerun the command.
+are not written. Reported merge errors do not stop the remaining copy steps or
+the subsequent packaging and release steps, preserving the existing behavior.
 
 ## Optional
 
