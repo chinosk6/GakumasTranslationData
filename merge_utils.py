@@ -15,6 +15,14 @@ class Merger(Protocol):
     ) -> str: ...
 
 
+class TranslationValidationError(ValueError):
+    """All row-level validation errors found in one story."""
+
+    def __init__(self, errors: list[str]):
+        self.errors = errors
+        super().__init__("\n".join(errors))
+
+
 def merge_translated_csv_into_txt(
     csv_text: Union[str, list[str]],
     gakuen_txt: str,
@@ -23,63 +31,63 @@ def merge_translated_csv_into_txt(
 ) -> str:
     story_csv = StoryCsv(csv_text)
     parsed = parse_messages(gakuen_txt)
-    iterator = iter(story_csv.data)
+    iterator = iter(enumerate(story_csv.data, start=1))
 
     # 收集所有需要进行的替换操作
     replacements = []
-    
-    for line in parsed:
+    errors = []
+
+    def collect_replacement(original_text, field, context, *, is_choice=False):
+        row = next(iterator, None)
+        if row is None:
+            errors.append(f"{context}: missing CSV entry; raw text: {original_text!r}")
+            return
+        row_number, csv_line = row
+        try:
+            new_text = merger(
+                original_text, csv_line["trans"], csv_line["text"],
+                is_choice=is_choice,
+            )
+        except ValueError as exc:
+            errors.append(
+                f"CSV entry {row_number} (id={csv_line['id']!r}), {context}: {exc}"
+            )
+            return
+        replacements.append({
+            "old": f"{field}={original_text}",
+            "new": f"{field}={new_text}",
+            "length": len(original_text),
+        })
+
+    for entry_number, line in enumerate(parsed, start=1):
+        context = f"script entry {entry_number} ({line['__tag__']})"
         if line["__tag__"] == "message" or line["__tag__"] == "narration":
             if line.get("text"):
-                next_csv_line = next(iterator)
-                new_text = merger(
-                    line["text"], next_csv_line["trans"], next_csv_line["text"]
-                )
-                replacements.append({
-                    "old": f"text={line['text']}",
-                    "new": f"text={new_text}",
-                    "length": len(line['text'])
-                })
+                collect_replacement(line["text"], "text", context)
         elif line["__tag__"] == "title":
             if line.get("title"):
-                next_csv_line = next(iterator)
-                new_text = merger(
-                    line["title"], next_csv_line["trans"], next_csv_line["text"]
-                )
-                replacements.append({
-                    "old": f"title={line['title']}",
-                    "new": f"title={new_text}",
-                    "length": len(line['title'])
-                })
+                collect_replacement(line["title"], "title", context)
         elif line["__tag__"] == "choicegroup":
             if isinstance(line["choices"], list):
-                for choice in line["choices"]:
-                    next_csv_line = next(iterator)
-                    new_text = merger(
-                        choice["text"],
-                        next_csv_line["trans"],
-                        next_csv_line["text"],
+                for choice_number, choice in enumerate(line["choices"], start=1):
+                    collect_replacement(
+                        choice["text"], "text", f"{context}, choice {choice_number}",
                         is_choice=True,
                     )
-                    replacements.append({
-                        "old": f"text={choice['text']}",
-                        "new": f"text={new_text}",
-                        "length": len(choice['text'])
-                    })
             elif isinstance(line["choices"], dict):
-                next_csv_line = next(iterator)
-                new_text = merger(
-                    line["choices"]["text"],
-                    next_csv_line["trans"],
-                    next_csv_line["text"],
+                collect_replacement(
+                    line["choices"]["text"], "text", f"{context}, choice 1",
                     is_choice=True,
                 )
-                replacements.append({
-                    "old": f'text={line["choices"]["text"]}',
-                    "new": f"text={new_text}",
-                    "length": len(line["choices"]["text"])
-                })
-    
+
+    for row_number, csv_line in iterator:
+        errors.append(
+            f"CSV entry {row_number} (id={csv_line['id']!r}): "
+            f"extra CSV entry with no raw text; CSV text: {csv_line['text']!r}"
+        )
+    if errors:
+        raise TranslationValidationError(errors)
+
     # 按文本长度从长到短排序，避免短相似文本优先匹配的问题
     replacements.sort(key=lambda x: x["length"], reverse=True)
     
