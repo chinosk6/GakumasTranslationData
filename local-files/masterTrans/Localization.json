@@ -58,6 +58,14 @@
       "description": "{1}名偶像获得{0}以上的评价"
     },
     {
+      "id": "high_score_event.event_info.caution_exam_effect",
+      "description": "在游玩部分方案的偶像时，出现的技能卡、P道具、P饮料与通常培育时相同。\n※在培育「Hatsuboshi IDOL FESTIVAL」的「选拔考试」中，不会出现活动P道具与常规P道具。"
+    },
+    {
+      "id": "high_score_event.event_info.caution_plan",
+      "description": "在游玩部分方案的偶像时，出现的技能卡、P道具、P饮料与通常培育时相同。\n※在培育「Hatsuboshi IDOL FESTIVAL」的「选拔考试」中，不会出现活动P道具与常规P道具。"
+    },
+    {
       "id": "high_score_event.top.adv.title_label",
       "description": "偶像强化月间\\n〜星光璀璨〜"
     },
