@@ -47,6 +47,11 @@
       "title": "选择活动补给・慰问品时体力回复"
     },
     {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_card",
+      "order": 42,
+      "title": "在咨询中兑换技能卡后打分上升"
+    },
+    {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
       "order": 29,
       "title": "在咨询中兑换P饮料后能力值上升"
@@ -180,6 +185,16 @@
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-p_card_search-ssr-deck_all-1",
       "order": 34,
       "title": "技能卡（SSR）获得时能力值上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_full_power-000-0008_0000",
+      "order": 40,
+      "title": "技能卡获得时持有的全力效果的技能卡在8张以上的时候打分上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_preservation-000-0008_0000",
+      "order": 41,
+      "title": "技能卡获得时持有的温存效果的技能卡在8张以上的时候打分上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",

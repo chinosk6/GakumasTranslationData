@@ -35,6 +35,13 @@
       "appealText": ""
     },
     {
+      "id": "gasha_button_01018-ssr-idol-001",
+      "order": 1,
+      "name": "有偿10连扭蛋",
+      "description": "有偿10连扭蛋",
+      "appealText": ""
+    },
+    {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
       "name": "有偿10连扭蛋",
@@ -360,6 +367,13 @@
       "id": "gasha_button-01000-wednesday-001",
       "order": 1,
       "name": "用学马星期三扭蛋票据抽取",
+      "description": "用票据抽取",
+      "appealText": ""
+    },
+    {
+      "id": "gasha_button-01018-wednesday-001-ticket-01",
+      "order": 1,
+      "name": "用票据抽取",
       "description": "用票据抽取",
       "appealText": ""
     },
