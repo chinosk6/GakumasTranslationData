@@ -66,7 +66,7 @@
       "routeDescription": "请前往主页的亲密度进行确认"
     },
     {
-      "tutorialType": 32,
+      "tutorialType": "TutorialType_GradeMission",
       "name": "P评价等级成绩",
       "description": "「P评价等级成绩」功能解锁",
       "routeDescription": "可在任务中的普通任务里确认"

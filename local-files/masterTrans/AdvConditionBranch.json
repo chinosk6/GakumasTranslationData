@@ -1,0 +1,35 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "conditionIndex",
+      "priority"
+    ]
+  },
+  "data": [
+    {
+      "id": "kllj_reversi",
+      "conditionIndex": 0,
+      "priority": 0,
+      "title": "通常演出"
+    },
+    {
+      "id": "kllj_reversi",
+      "conditionIndex": 0,
+      "priority": 1,
+      "title": "REVERSI演出"
+    },
+    {
+      "id": "ssmk_reversi",
+      "conditionIndex": 0,
+      "priority": 0,
+      "title": "通常演出"
+    },
+    {
+      "id": "ssmk_reversi",
+      "conditionIndex": 0,
+      "priority": 1,
+      "title": "REVERSI演出"
+    }
+  ]
+}

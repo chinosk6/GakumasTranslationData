@@ -1,0 +1,420 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "id": "live_additional_asset_amao-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_amao-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_amao-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_amao-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_amao-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_amao-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_atbm-3-017_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_atbm-3-017_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_atbm-3-017_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_atbm-3-017_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_atbm-3-017_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_atbm-3-017_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_fktn-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_fktn-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_fktn-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_fktn-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_fktn-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_fktn-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hmsz-3-020_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_hmsz-3-020_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hmsz-3-020_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hmsz-3-020_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hmsz-3-020_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hmsz-3-020_001",
+      "number": 7,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hmsz-3-020_001",
+      "number": 8,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hmsz-3-020_001",
+      "number": 9,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hrnm-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_hrnm-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hrnm-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hrnm-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hrnm-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hrnm-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hski-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_hski-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hski-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hski-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hski-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hski-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hume-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_hume-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hume-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hume-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hume-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_hume-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_jsna-3-020_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_jsna-3-020_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_jsna-3-020_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_jsna-3-020_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_jsna-3-020_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_jsna-3-020_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kcna-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_kcna-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kcna-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kcna-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kcna-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kcna-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kllj-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_kllj-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kllj-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kllj-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kllj-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_kllj-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_shro-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_shro-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_shro-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_shro-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_shro-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_shro-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ssmk-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_ssmk-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ssmk-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ssmk-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ssmk-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ssmk-3-021_001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ttmr-3-021_001",
+      "number": 1,
+      "description": "身穿具有专属演出的服装时，可变更培育Live演出。"
+    },
+    {
+      "id": "live_additional_asset_ttmr-3-021_001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ttmr-3-021_001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ttmr-3-021_001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ttmr-3-021_001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ttmr-3-021_001",
+      "number": 7,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ttmr-3-021_001",
+      "number": 8,
+      "description": ""
+    },
+    {
+      "id": "live_additional_asset_ttmr-3-021_001",
+      "number": 9,
+      "description": ""
+    }
+  ]
+}

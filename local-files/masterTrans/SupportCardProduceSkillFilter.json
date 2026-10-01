@@ -192,6 +192,11 @@
       "title": "技能卡获得时持有的全力效果的技能卡在8张以上的时候打分上升"
     },
     {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000-0008_0000",
+      "order": 43,
+      "title": "技能卡获得时持有的好调效果的技能卡在8张以上的时候打分上升"
+    },
+    {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_preservation-000-0008_0000",
       "order": 41,
       "title": "技能卡获得时持有的温存效果的技能卡在8张以上的时候打分上升"

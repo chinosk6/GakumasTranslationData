@@ -1,0 +1,23 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "targetCharacterId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "id": "kllj_reversi",
+      "targetCharacterId": "kllj",
+      "number": 1,
+      "title": "REVERSI演出"
+    },
+    {
+      "id": "ssmk_reversi",
+      "targetCharacterId": "ssmk",
+      "number": 1,
+      "title": "REVERSI演出"
+    }
+  ]
+}

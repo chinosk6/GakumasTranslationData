@@ -1,0 +1,25 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "tour-april-001",
+      "name": "4月1日的幻想舞台"
+    },
+    {
+      "id": "tour-event-001",
+      "name": "巡演活动 大阪篇"
+    },
+    {
+      "id": "tour-event-002",
+      "name": "巡演活动 涩谷篇"
+    },
+    {
+      "id": "tour-event-006",
+      "name": "最后的文化祭"
+    }
+  ]
+}
