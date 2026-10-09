@@ -187,6 +187,11 @@
       "title": "技能卡（SSR）获得时能力值上升"
     },
     {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000-0008_0000",
+      "order": 44,
+      "title": "技能卡获得时持有的干劲效果的技能卡在8张以上的时候打分上升"
+    },
+    {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_full_power-000-0008_0000",
       "order": 40,
       "title": "技能卡获得时持有的全力效果的技能卡在8张以上的时候打分上升"
