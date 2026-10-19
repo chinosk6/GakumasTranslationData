@@ -3793,6 +3793,36 @@
       ]
     },
     {
+      "id": "p_card_search-target-p_card-01-act-2_108-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-2_108",
+          "text": "再出发"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-01-act-2_113-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-2_113",
+          "text": "冲动"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-target-p_card-01-ido-3_213",
       "produceDescriptions": [
         {
@@ -3853,6 +3883,21 @@
       ]
     },
     {
+      "id": "p_card_search-target-p_card-01-men-1_026-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-men-1_026",
+          "text": "竞争原理"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-target-p_card-01-men-1_034-for_hif_memory",
       "produceDescriptions": [
         {
@@ -3864,6 +3909,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-1_034",
           "text": "喘口气"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-01-men-1_091-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-men-1_091",
+          "text": "安定感"
         }
       ]
     },
@@ -4153,6 +4213,21 @@
       ]
     },
     {
+      "id": "p_card_search-target-p_card-02-act-2_044-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-act-2_044",
+          "text": "天使的微笑"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-target-p_card-02-act-2_045-for_hif_memory",
       "produceDescriptions": [
         {
@@ -4239,6 +4314,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-2_062",
           "text": "闪闪纸片"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-02-act-2_116-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-act-2_116",
+          "text": "雀跃步伐"
         }
       ]
     },
@@ -4389,6 +4479,36 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_076",
           "text": "形象改造"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-02-men-1_093-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-1_093",
+          "text": "焕彩妆容"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-02-men-1_094-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-1_094",
+          "text": "罗曼蒂克"
         }
       ]
     },
@@ -4884,6 +5004,36 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-2_106",
           "text": "行走步调"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-03-act-2_118-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-2_118",
+          "text": "全力冲刺"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-03-act-2_120-for_hif_memory",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-2_120",
+          "text": "干劲全开"
         }
       ]
     },
