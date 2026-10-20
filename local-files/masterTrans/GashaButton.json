@@ -103,6 +103,14 @@
       "highAppealText": ""
     },
     {
+      "id": "gasha_button_merge-ssr-01040",
+      "order": 1,
+      "name": "有偿10连扭蛋",
+      "description": "有偿10连扭蛋",
+      "appealText": "",
+      "highAppealText": ""
+    },
+    {
       "id": "gasha_button-001-01",
       "order": 2,
       "name": "1次扭蛋",
@@ -440,6 +448,14 @@
     },
     {
       "id": "gasha_button-01020-wednesday-001-ticket-01",
+      "order": 1,
+      "name": "用票据抽取",
+      "description": "用票据抽取",
+      "appealText": "",
+      "highAppealText": ""
+    },
+    {
+      "id": "gasha_button-01040-wednesday-001-ticket-01",
       "order": 1,
       "name": "用票据抽取",
       "description": "用票据抽取",
