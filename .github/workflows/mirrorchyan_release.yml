@@ -1,0 +1,35 @@
+name: mirrorchyan_release
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        default: ''
+        required: false
+
+jobs:
+  mirrorchyan:
+    if: ${{ github.repository_owner == 'chinosk6' }}
+    runs-on: macos-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ''
+            arch: ''
+            filename: 'GakumasTranslationData.zip'
+    steps:
+      - uses: MirrorChyan/uploading-action@v1
+        with:
+          filetype: latest-release
+          filename: ${{ matrix.filename }}
+          mirrorchyan_rid: GakumasTranslationData
+          tag: ${{ inputs.tag }}
+
+          os: ${{ matrix.os }}
+          arch: ${{ matrix.arch }}
+
+          owner: chinosk6
+          repo: GakumasTranslationData
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          upload_token: ${{ secrets.MirrorChyanUploadToken }}

@@ -11,6 +11,10 @@ on:
         type: boolean
         default: false
 
+permissions:
+  actions: write
+  contents: write
+
 jobs:
   check-and-release:
     runs-on: ubuntu-latest
@@ -93,6 +97,15 @@ jobs:
           name: ${{ env.NEW_VERSION }}
           body: 'New release ${{ env.NEW_VERSION }}'
           allowUpdates: true
+
+      - name: Trigger MirrorChyan workflows
+        if: env.updated == 'true'
+        shell: bash
+        run: |
+          gh workflow run mirrorchyan_release.yml --repo "$GITHUB_REPOSITORY" -f tag="${{ env.NEW_VERSION }}"
+          gh workflow run mirrorchyan_release_note.yml --repo "$GITHUB_REPOSITORY" -f tag="${{ env.NEW_VERSION }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Changes
         if: env.updated == 'true'
