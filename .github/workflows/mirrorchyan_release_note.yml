@@ -1,0 +1,26 @@
+name: mirrorchyan_release_note
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        default: ''
+        required: false
+  release:
+    types: [edited]
+
+jobs:
+  mirrorchyan:
+    if: ${{ github.repository_owner == 'chinosk6' }}
+    runs-on: macos-latest
+    steps:
+      - id: uploading
+        uses: MirrorChyan/release-note-action@v1
+        with:
+          mirrorchyan_rid: GakumasTranslationData
+          version_name: ${{ inputs.tag }}
+
+          owner: chinosk6
+          repo: GakumasTranslationData
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          upload_token: ${{ secrets.MirrorChyanUploadToken }}
