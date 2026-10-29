@@ -330,6 +330,14 @@
       "name": "好印象强化"
     },
     {
+      "type": "ProduceExamEffectType_ExamEnthusiasticTurnAdd",
+      "name": "热意延长"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamEffectTimerEndTurn",
+      "name": "预约发动"
+    },
+    {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
       "name": "好印象追加发动"
     },

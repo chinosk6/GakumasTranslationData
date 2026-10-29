@@ -1226,6 +1226,10 @@
       "name": "麻央在HIF正赛中优胜"
     },
     {
+      "id": "hidden_mission-dearness-story-atbm-37",
+      "name": "燕在HIF正赛中优胜"
+    },
+    {
       "id": "hidden_mission-dearness-story-fktn-37",
       "name": "琴音在HIF正赛中优胜"
     },
@@ -1500,6 +1504,10 @@
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-amao",
       "name": "麻央达成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-atbm",
+      "name": "燕达成A-End"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-fktn",
@@ -2486,6 +2494,10 @@
       "name": "有村麻央完成{threshold}次「H.I.F」：正赛的培育吧"
     },
     {
+      "id": "mission-daily_mission_HIF_clear-mission_13",
+      "name": "雨夜燕完成{threshold}次「H.I.F」：正赛的培育吧"
+    },
+    {
       "id": "mission-daily_mission_HIF_clear-mission_14",
       "name": "藤田琴音完成{threshold}次「H.I.F」：正赛的培育吧"
     },
@@ -2532,6 +2544,10 @@
     {
       "id": "mission-daily_mission_HIF_clear-mission_25",
       "name": "让有村麻央的亲密度Lv达到{threshold}吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_26",
+      "name": "让雨夜燕的亲密度Lv达到{threshold}吧"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_27",
@@ -6830,6 +6846,38 @@
       "name": "获得技能卡「魅惑的视线」并完成培育吧"
     },
     {
+      "id": "mission-research-event-010-mission_1",
+      "name": "登录{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-010-mission_10",
+      "name": "获得技能卡「觉醒」并完成培育吧"
+    },
+    {
+      "id": "mission-research-event-010-mission_11",
+      "name": "获得技能卡「喘口气」并完成培育吧"
+    },
+    {
+      "id": "mission-research-event-010-mission_12",
+      "name": "完成{threshold}次SP训练吧"
+    },
+    {
+      "id": "mission-research-event-010-mission_2",
+      "name": "让方案：非凡的培育用偶像取得{threshold}次最终考试合格吧"
+    },
+    {
+      "id": "mission-research-event-010-mission_3",
+      "name": "在培育的咨询中兑换{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-010-mission_8",
+      "name": "获得技能卡「天真烂漫」并完成培育吧"
+    },
+    {
+      "id": "mission-research-event-010-mission_9",
+      "name": "获得技能卡「魅惑的表演」并完成培育吧"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "登录{threshold}天吧"
     },
@@ -8160,6 +8208,30 @@
     {
       "id": "achieve-i_card-atbm-3-012-06",
       "name": "【Campus mode!!】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-01",
+      "name": "【荆棘之路】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-02",
+      "name": "【荆棘之路】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-03",
+      "name": "【荆棘之路】雨夜燕的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-04",
+      "name": "【荆棘之路】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-05",
+      "name": "【荆棘之路】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-06",
+      "name": "【荆棘之路】雨夜燕的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-atbm-3-018-01",
@@ -11238,6 +11310,10 @@
       "name": "观看雨夜燕的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-atbm-000-2",
+      "name": "观看雨夜燕的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-atbm-001",
       "name": "在雨夜燕的培育中使用技能卡{threshold}次"
     },
@@ -11328,6 +11404,14 @@
     {
       "id": "achieve-p_idol-atbm-024",
       "name": "使用雨夜燕通过最终考试并获得{threshold}次SSS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-025",
+      "name": "使用雨夜燕在H.I.F中通过最终考试并获得S4+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-026",
+      "name": "使用雨夜燕在H.I.F中通过{threshold}次最终考试"
     },
     {
       "id": "achieve-p_idol-atbm-027",

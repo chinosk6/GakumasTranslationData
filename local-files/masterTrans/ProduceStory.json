@@ -3898,6 +3898,76 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-003-atbm-after_step_before_audition_mid1-1",
+      "title": "当天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-01-01",
+      "title": "前往第1次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-02-01",
+      "title": "前往第2次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-03-01",
+      "title": "前往第3次『选拔考试』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-final-failure-01",
+      "title": "我还不想、就这样结束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-main_match-opening-01",
+      "title": "『H.I.F正赛』，出发！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-01-01",
+      "title": "通过第1次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-02-01",
+      "title": "通过第2次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-03-01",
+      "title": "通过第3次『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-selection-ending-a-01",
+      "title": "通过『H.I.F选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-008-after-final-01-01",
+      "title": "『H.I.F正赛』第1轮结束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-008-final-ending-a-01",
+      "title": "『H.I.F正赛』优胜！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-selection-failure-01",
+      "title": "还不能、就此结束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-selection-opening-02",
+      "title": "目标是，通过『选拔考试』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-003-fktn-after_step_before_audition_mid1-1",
       "title": "当天",
       "produceEventHintProduceConditionDescriptions": []
@@ -11623,6 +11693,136 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-event-003_atbm_activity_021",
+      "title": "限定菜单是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_activity_022",
+      "title": "宁静的水族馆",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_012",
+      "title": "受认可的歌声",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_013",
+      "title": "需要注意的歌声",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_014",
+      "title": "今天的歌唱授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_016",
+      "title": "关于制作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_017",
+      "title": "『启明星』十王星南",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_018",
+      "title": "受认可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_020",
+      "title": "今天的舞蹈授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_021",
+      "title": "配的上『启明星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_022",
+      "title": "关于个人偶像和偶像组合",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_023",
+      "title": "关于『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_024",
+      "title": "受认可的视觉",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_025",
+      "title": "需要注意的视觉",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_026",
+      "title": "今天的视觉授课",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_027",
+      "title": "关于培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_028",
+      "title": "如果成为『启明星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_029",
+      "title": "关于100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_030",
+      "title": "状态检查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_031",
+      "title": "现在心情怎么样～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_032",
+      "title": "状态检查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_033",
+      "title": "现在心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_034",
+      "title": "状态检查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_035",
+      "title": "现在心情怎么样？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-event-003_fktn_activity_021",
       "title": "自由搭配的饮品",
       "produceEventHintProduceConditionDescriptions": []
@@ -13215,6 +13415,21 @@
     {
       "id": "p_story-i_card-atbm-3-012-03",
       "title": "Campus mode!! 第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-015-01",
+      "title": "荆棘之路 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-015-02",
+      "title": "荆棘之路 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-015-03",
+      "title": "荆棘之路 第3话",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

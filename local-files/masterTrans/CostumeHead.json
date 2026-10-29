@@ -211,6 +211,16 @@
       "description": "雨夜燕的偶像之路 通关第25关"
     },
     {
+      "id": "costume_head_atbm-cstm-0136",
+      "name": "荆棘之路",
+      "description": "【荆棘之路】雨夜燕 获得"
+    },
+    {
+      "id": "costume_head_atbm-cstm-0137",
+      "name": "荆棘之路",
+      "description": "【荆棘之路】雨夜燕的才能开花第4阶段 获得"
+    },
+    {
       "id": "costume_head_atbm-cstm-0145",
       "name": "互噬",
       "description": "【互噬】雨夜燕 获得"
@@ -448,7 +458,7 @@
     {
       "id": "costume_head_fktn-hair-0009",
       "name": "大蝴蝶结",
-      "description": "高级任务通行证 2025年11月 获得"
+      "description": "高级任务通行证 2025年11月 等方式获得"
     },
     {
       "id": "costume_head_fktn-hair-0012",
@@ -469,6 +479,11 @@
       "id": "costume_head_fktn-hair-0038",
       "name": "乔装用眼镜",
       "description": "高级任务通行证 2026年7月 获得"
+    },
+    {
+      "id": "costume_head_fktn-hair-0039",
+      "name": "俏皮蝴蝶结",
+      "description": "高级任务通行证 2026年11月 获得"
     },
     {
       "id": "costume_head_hmsz-cstm-0011",
@@ -923,7 +938,7 @@
     {
       "id": "costume_head_hski-hair-0009",
       "name": "大蝴蝶结",
-      "description": "高级任务通行证 2025年11月 获得"
+      "description": "高级任务通行证 2025年11月 等方式获得"
     },
     {
       "id": "costume_head_hski-hair-0023",
@@ -939,6 +954,11 @@
       "id": "costume_head_hski-hair-0038",
       "name": "乔装用眼镜",
       "description": "高级任务通行证 2026年7月 获得"
+    },
+    {
+      "id": "costume_head_hski-hair-0039",
+      "name": "俏皮蝴蝶结",
+      "description": "高级任务通行证 2026年11月 获得"
     },
     {
       "id": "costume_head_hski-schl-0000",
@@ -2078,7 +2098,7 @@
     {
       "id": "costume_head_ttmr-hair-0009",
       "name": "大蝴蝶结",
-      "description": "高级任务通行证 2025年11月 获得"
+      "description": "高级任务通行证 2025年11月 等方式获得"
     },
     {
       "id": "costume_head_ttmr-hair-0023",
@@ -2094,6 +2114,11 @@
       "id": "costume_head_ttmr-hair-0038",
       "name": "乔装用眼镜",
       "description": "高级任务通行证 2026年7月 获得"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0039",
+      "name": "俏皮蝴蝶结",
+      "description": "高级任务通行证 2026年11月 获得"
     }
   ]
 }

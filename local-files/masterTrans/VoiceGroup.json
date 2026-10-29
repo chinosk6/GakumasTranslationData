@@ -557,6 +557,16 @@
       "title": "奇迹正是现在(ﾟ∀ﾟ)！"
     },
     {
+      "id": "voice_group-atbm-cstm-0125-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0125_01",
+      "title": "全力以赴！"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0125-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0125_02",
+      "title": "全力以赴！"
+    },
+    {
       "id": "voice_group-atbm-cstm-0128-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0128_01",
       "title": "ENDLESS DANCE"
@@ -565,6 +575,16 @@
       "id": "voice_group-atbm-cstm-0128-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0128_02",
       "title": "ENDLESS DANCE"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0136-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0136_01",
+      "title": "荆棘之路"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0136-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0136_02",
+      "title": "荆棘之路"
     },
     {
       "id": "voice_group-atbm-cstm-0140-cmmn",
@@ -2197,6 +2217,46 @@
       "title": "主页③"
     },
     {
+      "id": "voice_group-cidol-atbm-3-011_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-011_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-011_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-011-detail",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0125_01",
+      "title": "换装①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-011-detail",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0125_02",
+      "title": "换装②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-011-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-011-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-011-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
       "id": "voice_group-cidol-atbm-3-012_home",
       "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_home_cmmn-01",
       "title": "主页①"
@@ -2295,6 +2355,66 @@
       "id": "voice_group-cidol-atbm-3-013-detail",
       "voiceAssetId": "sud_vo_system_cidol-atbm-3-013_home_cmmn-03",
       "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-detail",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0136_01",
+      "title": "换装①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-detail",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0136_02",
+      "title": "换装②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_produce_schedule-01",
+      "title": "培育①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_produce_schedule-02",
+      "title": "培育②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_produce_schedule-03",
+      "title": "培育③"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-015-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_produce_schedule-04",
+      "title": "培育④"
     },
     {
       "id": "voice_group-cidol-atbm-3-016_home",
@@ -14597,6 +14717,16 @@
       "title": "全力以赴！"
     },
     {
+      "id": "voice_group-fktn-cstm-0125-cmmn",
+      "voiceAssetId": "sud_vo_system_fktn-cstm-0125_01",
+      "title": "全力以赴啦啦队服"
+    },
+    {
+      "id": "voice_group-fktn-cstm-0125-cmmn",
+      "voiceAssetId": "sud_vo_system_fktn-cstm-0125_02",
+      "title": "全力以赴啦啦队服"
+    },
+    {
       "id": "voice_group-fktn-cstm-0128-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0128_01",
       "title": "ENDLESS DANCE"
@@ -18100,6 +18230,16 @@
       "id": "voice_group-ttmr-cstm-0123-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0123_02",
       "title": "换装②"
+    },
+    {
+      "id": "voice_group-ttmr-cstm-0125-cmmn",
+      "voiceAssetId": "sud_vo_system_ttmr-cstm-0125_01",
+      "title": "全力以赴啦啦队服"
+    },
+    {
+      "id": "voice_group-ttmr-cstm-0125-cmmn",
+      "voiceAssetId": "sud_vo_system_ttmr-cstm-0125_02",
+      "title": "全力以赴啦啦队服"
     },
     {
       "id": "voice_group-ttmr-cstm-0128-cmmn",
