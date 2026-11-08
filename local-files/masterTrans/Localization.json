@@ -30,8 +30,16 @@
       "description": "※可以通过特别指导进行自定义"
     },
     {
+      "id": "card.sort.research_event_consumption_item_bonus",
+      "description": "亚纱里老师的培育研讨会 活动奖励"
+    },
+    {
+      "id": "card.sort.story_event_point_bonus",
+      "description": "冰渡香名江Episode0 活动奖励"
+    },
+    {
       "id": "common.story_event_point",
-      "description": "亚纱里老师的培育研讨会"
+      "description": "活动Pt"
     },
     {
       "id": "competition.rehearsal_battle_confirm.label.description",
@@ -368,6 +376,10 @@
     {
       "id": "story.idol.others.birthday",
       "description": "其他"
+    },
+    {
+      "id": "story.story_event.section.main_story_condition_lock_text",
+      "description": "通过获得任务Pt来解锁"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",

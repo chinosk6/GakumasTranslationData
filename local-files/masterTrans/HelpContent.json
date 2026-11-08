@@ -80,6 +80,48 @@
       "name": "活动交流"
     },
     {
+      "helpCategoryId": "help-character-introduction-event",
+      "id": "help-character-introduction-event-bonus",
+      "order": 4,
+      "name": "活动奖励"
+    },
+    {
+      "helpCategoryId": "help-character-introduction-event",
+      "id": "help-character-introduction-event-coin",
+      "order": 6,
+      "name": "活动兑换所道具"
+    },
+    {
+      "helpCategoryId": "help-character-introduction-event",
+      "id": "help-character-introduction-event-commu",
+      "order": 3,
+      "name": "交流的解锁"
+    },
+    {
+      "helpCategoryId": "help-character-introduction-event",
+      "id": "help-character-introduction-event-finish",
+      "order": 7,
+      "name": "活动结束后"
+    },
+    {
+      "helpCategoryId": "help-character-introduction-event",
+      "id": "help-character-introduction-event-mission",
+      "order": 2,
+      "name": "活动任务"
+    },
+    {
+      "helpCategoryId": "help-character-introduction-event",
+      "id": "help-character-introduction-event-point",
+      "order": 5,
+      "name": "累计活动Pt报酬"
+    },
+    {
+      "helpCategoryId": "help-character-introduction-event",
+      "id": "help-character-introduction-event-story",
+      "order": 1,
+      "name": "冰渡香名江Episode0"
+    },
+    {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-exchange",
       "order": 5,
