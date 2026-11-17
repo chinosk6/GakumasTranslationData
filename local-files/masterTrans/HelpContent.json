@@ -681,6 +681,12 @@
     },
     {
       "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-metamorphose",
+      "order": 20,
+      "name": "蜕变"
+    },
+    {
+      "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-powerup",
       "order": 6,
       "name": "强化技能卡"

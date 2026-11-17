@@ -1518,6 +1518,237 @@
       ]
     },
     {
+      "id": "p_story-001-hkne-after-audition-final-failure-01",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试不合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-01",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-02",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-03",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第3名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-04",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-failure-01",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-01",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "期中考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-02",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "期中考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-03",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "期中考试以第3名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-04",
+      "title": "考试的结果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-01",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度7以上",
+        "在培育考试前将所有能力值达到审查标准的80%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-02",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "在培育考试前将所有能力值达到审查标准的50%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-03",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-01",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度7以上",
+        "在培育考试前将所有能力值达到审查标准的80%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-02",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "在培育考试前将所有能力值达到审查标准的50%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-03",
+      "title": "令人在意的样子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-before-audition-final-normal-01",
+      "title": "出发！ 迎接最终考试",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-before-audition-mid-normal-01",
+      "title": "出发！ 参加期中考试",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-01",
+      "title": "【A End】迈出第一步之后",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-02",
+      "title": "【B End】身为偶像而言",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上",
+        "最终考试以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-03",
+      "title": "【C End】渴望听到的话语",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试合格"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-04",
+      "title": "【D End】开始踏上的征途",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试中获得第4名或第5名"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-05",
+      "title": "【E End】身为侍从的选择",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试中获得第6名"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-true-01",
+      "title": "True End",
+      "produceEventHintProduceConditionDescriptions": [
+        "最终考试以第1名合格",
+        "获得成就「身为女仆，也是偶像」",
+        "获得成就「与您同行」",
+        "获得成就「无可挑剔的表演」"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-fb-01",
+      "title": "千里之行始于足下",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-fb-02",
+      "title": "作为偶像的目标",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-fb-03",
+      "title": "向着星辰绽放的花朵",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-01",
+      "title": "培育开始！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-02",
+      "title": "冰渡香名江，出发！",
+      "produceEventHintProduceConditionDescriptions": [
+        "开始培育"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-03",
+      "title": "冰渡香名江，出发！",
+      "produceEventHintProduceConditionDescriptions": [
+        "开始培育"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-04",
+      "title": "冰渡香名江，出发！",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-05",
+      "title": "冰渡香名江，出发！",
+      "produceEventHintProduceConditionDescriptions": [
+        "亲密度4以上"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-true-01",
+      "title": "为了更接近梦想",
+      "produceEventHintProduceConditionDescriptions": [
+        "观看香名江的True End"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-true-02",
+      "title": "为了更接近梦想",
+      "produceEventHintProduceConditionDescriptions": [
+        "观看香名江的True End"
+      ]
+    },
+    {
       "id": "p_story-001-hmsz-after-audition-final-failure-01",
       "title": "考试的结果是…",
       "produceEventHintProduceConditionDescriptions": [
@@ -5230,6 +5461,171 @@
     {
       "id": "p_story-event-001_fktn_school_011",
       "title": "琴音的训练",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_001",
+      "title": "红茶品鉴",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_002",
+      "title": "你在意的偶像是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_003",
+      "title": "传闻中的女仆咖啡厅",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_004",
+      "title": "今晚做什么料理？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_005",
+      "title": "那本书是什么书？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_006",
+      "title": "审问下午茶时间",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_007",
+      "title": "大小姐的选择",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_008",
+      "title": "服装在这里！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_009",
+      "title": "休息日怎么过大讲座",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_010",
+      "title": "烦恼卡拉OK包厢",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_011",
+      "title": "两人总是形影不离",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_012",
+      "title": "个性派偶像",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_013",
+      "title": "拍肩背后的真相",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_014",
+      "title": "近侍的职责",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_015",
+      "title": "强制放松日",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_016",
+      "title": "先从聊聊开始",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_017-01",
+      "title": "幻之蜜瓜包",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_017-02",
+      "title": "幻之蜜瓜包",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_018-01",
+      "title": "冰渡的一招",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_018-02",
+      "title": "冰渡的一招",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_019",
+      "title": "放松身心的野餐",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_020",
+      "title": "注意仪容！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_001",
+      "title": "现场独有的知识",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_002",
+      "title": "两人之间的信任关系？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_003",
+      "title": "支持很重要！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_004",
+      "title": "香名江的优势",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_005",
+      "title": "什么时候开始穿应援法被的？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_006",
+      "title": "正在播出的是谁？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_007",
+      "title": "SP是什么？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_008",
+      "title": "安可！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_009",
+      "title": "泡澡时间很重要！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_010",
+      "title": "两人的培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_011",
+      "title": "香名江的训练",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13583,6 +13979,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hkne-3-000-01",
+      "title": "蜕变 第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hkne-3-000-02",
+      "title": "蜕变 第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hkne-3-000-03",
+      "title": "蜕变 第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hmsz-3-000-01",
       "title": "月之龟 第1话",
       "produceEventHintProduceConditionDescriptions": []
@@ -15213,6 +15624,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-1-0013-01",
+      "title": "因为有你陪我并肩奔跑",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-1-0013-02",
+      "title": "今天也一起加油吧♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-2-0000-01",
       "title": "亲爱的拥抱……？",
       "produceEventHintProduceConditionDescriptions": []
@@ -16040,6 +16461,16 @@
     {
       "id": "p_story-s_card-2-0082-02",
       "title": "万圣节快乐！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0084-01",
+      "title": "千奈流打扫法",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0084-02",
+      "title": "女仆的秘诀究竟是！？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -17768,6 +18199,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-3-0115-01",
+      "title": "挑战超大汉堡",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0115-02",
+      "title": "同款汉堡",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0115-03",
+      "title": "这里是高级餐厅吗？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0122-01",
       "title": "友情的证明",
       "produceEventHintProduceConditionDescriptions": []
@@ -17945,6 +18391,56 @@
     {
       "id": "story-dearness-fktn-999",
       "title": "第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-001",
+      "title": "第1话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-002",
+      "title": "第2话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-003",
+      "title": "第3话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-004",
+      "title": "第4话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-005",
+      "title": "第5话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-006",
+      "title": "第6话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-007",
+      "title": "第7话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-008",
+      "title": "第8话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-009",
+      "title": "第9话",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-010",
+      "title": "第10话",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

@@ -63,12 +63,28 @@
       "highAppealText": ""
     },
     {
+      "id": "gasha_button_01070-ssr-idol-001",
+      "order": 1,
+      "name": "有偿10连扭蛋",
+      "description": "有偿10连扭蛋",
+      "appealText": "",
+      "highAppealText": ""
+    },
+    {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
       "name": "有偿10连扭蛋",
       "description": "有偿10连扭蛋",
       "appealText": "",
       "highAppealText": ""
+    },
+    {
+      "id": "gasha_button_item-gachaticket-2.5th-anniv-10-001",
+      "order": 1,
+      "name": "用2.5th Anniversary10连扭蛋票据抽取",
+      "description": "10连扭蛋",
+      "appealText": "必得1张以上SR",
+      "highAppealText": "必得1张以上SR"
     },
     {
       "id": "gasha_button_merge-ssr-00530",
@@ -507,6 +523,46 @@
       "order": 1,
       "name": "用SSR P偶像出现率10倍票据抽取",
       "description": "用SSR P偶像出现率10倍票据抽取",
+      "appealText": "",
+      "highAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ssr-idol-002",
+      "order": 1,
+      "name": "用2.5th Anniversary含有季节限定 SSR P偶像必得扭蛋票据抽取",
+      "description": "用2.5th Anniversary含有季节限定 SSR P偶像必得扭蛋票据抽取",
+      "appealText": "必得SSR",
+      "highAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ssr-support-002",
+      "order": 1,
+      "name": "用2.5th Anniversary含有季节限定 SSR 支援卡必得扭蛋票据抽取",
+      "description": "用2.5th Anniversary含有季节限定 SSR 支援卡必得扭蛋票据抽取",
+      "appealText": "必得SSR",
+      "highAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ticket-001",
+      "order": 1,
+      "name": "用SSR P偶像必得2名！2连扭蛋票据抽取",
+      "description": "用SSR P偶像必得2名！2连扭蛋票据抽取",
+      "appealText": "",
+      "highAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ticket-002",
+      "order": 1,
+      "name": "用SSR P偶像出现率10倍！10连扭蛋票据抽取",
+      "description": "用SSR P偶像出现率10倍！10连扭蛋票据抽取",
+      "appealText": "",
+      "highAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-wednesday-001",
+      "order": 1,
+      "name": "用票据抽取",
+      "description": "用票据抽取",
       "appealText": "",
       "highAppealText": ""
     },

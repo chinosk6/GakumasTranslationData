@@ -82,6 +82,12 @@
       "name": "技能卡替换",
       "description": "「技能卡替换」功能解锁",
       "routeDescription": "可以在培育中进行确认"
+    },
+    {
+      "tutorialType": "TutorialType_Refine",
+      "name": "　",
+      "description": "　",
+      "routeDescription": "　"
     }
   ]
 }

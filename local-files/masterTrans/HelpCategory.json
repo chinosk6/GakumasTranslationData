@@ -203,9 +203,21 @@
       "texts": []
     },
     {
+      "id": "help-refine",
+      "order": 101,
+      "name": "　",
+      "texts": []
+    },
+    {
       "id": "help-research-event",
       "order": 28,
       "name": "亚纱里老师的培育研讨会",
+      "texts": []
+    },
+    {
+      "id": "help-selectloginbonus",
+      "order": 102,
+      "name": "自选登录奖励",
       "texts": []
     },
     {
@@ -248,6 +260,12 @@
       "id": "help-trail",
       "order": 30,
       "name": "回忆里的服装",
+      "texts": []
+    },
+    {
+      "id": "help-unitstoryevent",
+      "order": 103,
+      "name": "　",
       "texts": []
     }
   ]

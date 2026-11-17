@@ -3627,6 +3627,86 @@
       "title": "换装②"
     },
     {
+      "id": "voice_group-cidol-hkne-1-000-detail",
+      "voiceAssetId": "sud_vo_system_hkne-othr-0004_01",
+      "title": "换装①"
+    },
+    {
+      "id": "voice_group-cidol-hkne-1-000-detail",
+      "voiceAssetId": "sud_vo_system_hkne-othr-0004_02",
+      "title": "换装②"
+    },
+    {
+      "id": "voice_group-cidol-hkne-2-000-detail",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0000_01",
+      "title": "换装①"
+    },
+    {
+      "id": "voice_group-cidol-hkne-2-000-detail",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0000_02",
+      "title": "换装②"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000_home",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000_home",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000_home",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-detail",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0108_01",
+      "title": "换装①"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-detail",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0108_02",
+      "title": "换装②"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_produce_schedule-01",
+      "title": "培育①"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_produce_schedule-02",
+      "title": "培育②"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_produce_schedule-03",
+      "title": "培育③"
+    },
+    {
+      "id": "voice_group-cidol-hkne-3-000-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hkne-3-000_produce_schedule-04",
+      "title": "培育④"
+    },
+    {
       "id": "voice_group-cidol-hmsz-1-000-detail",
       "voiceAssetId": "sud_vo_system_hmsz-schl-0000_01",
       "title": "换装①"
@@ -14924,6 +15004,96 @@
     {
       "id": "voice_group-fktn-trng-0002-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-trng-0002_02",
+      "title": "初星学园体操服"
+    },
+    {
+      "id": "voice_group-hkne-cstm-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0000_01",
+      "title": "初始"
+    },
+    {
+      "id": "voice_group-hkne-cstm-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0000_02",
+      "title": "初始"
+    },
+    {
+      "id": "voice_group-hkne-cstm-0069-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0069_01",
+      "title": "儿童罩衫"
+    },
+    {
+      "id": "voice_group-hkne-cstm-0069-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0069_02",
+      "title": "儿童罩衫"
+    },
+    {
+      "id": "voice_group-hkne-cstm-0108-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0108_01",
+      "title": "蜕变"
+    },
+    {
+      "id": "voice_group-hkne-cstm-0108-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0108_02",
+      "title": "蜕变"
+    },
+    {
+      "id": "voice_group-hkne-cstm-0111-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0111_01",
+      "title": "水手服泳装"
+    },
+    {
+      "id": "voice_group-hkne-cstm-0111-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-cstm-0111_02",
+      "title": "水手服泳装"
+    },
+    {
+      "id": "voice_group-hkne-othr-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-othr-0002_01",
+      "title": "温泉泳装"
+    },
+    {
+      "id": "voice_group-hkne-othr-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-othr-0002_02",
+      "title": "温泉泳装"
+    },
+    {
+      "id": "voice_group-hkne-othr-0004-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-othr-0004_01",
+      "title": "仓本家的女仆装"
+    },
+    {
+      "id": "voice_group-hkne-othr-0004-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-othr-0004_02",
+      "title": "仓本家的女仆装"
+    },
+    {
+      "id": "voice_group-hkne-schl-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-schl-0000_01",
+      "title": "初星学园制服"
+    },
+    {
+      "id": "voice_group-hkne-schl-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-schl-0000_02",
+      "title": "初星学园制服"
+    },
+    {
+      "id": "voice_group-hkne-trng-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-trng-0000_01",
+      "title": "练习服"
+    },
+    {
+      "id": "voice_group-hkne-trng-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-trng-0000_02",
+      "title": "练习服"
+    },
+    {
+      "id": "voice_group-hkne-trng-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-trng-0002_01",
+      "title": "初星学园体操服"
+    },
+    {
+      "id": "voice_group-hkne-trng-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_hkne-trng-0002_02",
       "title": "初星学园体操服"
     },
     {

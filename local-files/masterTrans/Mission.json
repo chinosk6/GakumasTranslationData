@@ -1314,6 +1314,10 @@
       "name": "SSR琴音获得B评价"
     },
     {
+      "id": "hidden_mission-normal-produce-clear-i_card-hkne-3-000-b",
+      "name": "SSR香名江获得B评价"
+    },
+    {
       "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
       "name": "SSR美铃获得B评价"
     },
@@ -1438,6 +1442,10 @@
       "name": "在「偶像之路」中获得星星"
     },
     {
+      "id": "hidden_mission-view-ending-a-hkne",
+      "name": "观看香名江的A End"
+    },
+    {
       "id": "hidden_mission-view-ending-a-hmsz",
       "name": "观看美铃的A End"
     },
@@ -1494,8 +1502,16 @@
       "name": "手毬达成A-End"
     },
     {
+      "id": "hidden_mission-view-ending-b-hkne",
+      "name": "观看香名江的B End"
+    },
+    {
       "id": "hidden_mission-view-ending-b-hmsz",
       "name": "观看美铃的B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-c-hkne",
+      "name": "观看香名江的C End"
     },
     {
       "id": "hidden_mission-view-ending-c-hmsz",
@@ -1710,6 +1726,10 @@
       "name": "观看琴音的True End"
     },
     {
+      "id": "hidden_mission-view-ending-true-hkne",
+      "name": "观看香名江的True End"
+    },
+    {
       "id": "hidden_mission-view-ending-true-hmsz",
       "name": "观看美铃的True End"
     },
@@ -1727,7 +1747,7 @@
     },
     {
       "id": "hidden_mission-view-ending-true-jsna",
-      "name": "观看星南的TrueEnd"
+      "name": "观看星南的True End"
     },
     {
       "id": "hidden_mission-view-ending-true-kcna",
@@ -6262,6 +6282,10 @@
       "name": "燕碎片礼包触发条件"
     },
     {
+      "id": "mission-normal-view-shop_pack_hkne-0001",
+      "name": "香名江碎片礼包触发条件"
+    },
+    {
       "id": "mission-normal-view-shop_pack_hmsz-0001",
       "name": "美铃碎片礼包触发条件"
     },
@@ -8006,6 +8030,78 @@
       "name": "通过{threshold}次最终考试吧"
     },
     {
+      "id": "panel_mission-event-012-mission_1",
+      "name": "完成{threshold}次花海咲季的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_11",
+      "name": "在金币兑换所中兑换{threshold}次吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_12",
+      "name": "完成{threshold}次葛城莉莉娅的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_13",
+      "name": "完成{threshold}次紫云清夏的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_14",
+      "name": "完成{threshold}次雨夜燕的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_15",
+      "name": "完成{threshold}次十王星南的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_16",
+      "name": "完成秦谷美铃的培育{threshold}次吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_17",
+      "name": "去挑战{threshold}次竞技场吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_18",
+      "name": "完成{threshold}次有村麻央的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_19",
+      "name": "完成{threshold}次姬崎莉波的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_2",
+      "name": "完成{threshold}次月村手毬的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_3",
+      "name": "完成{threshold}次藤田琴音的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_4",
+      "name": "回收金币吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_5",
+      "name": "完成{threshold}次冰渡香名江的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_6",
+      "name": "开始{threshold}次工作吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_7",
+      "name": "完成{threshold}次花海佑芽的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_8",
+      "name": "完成{threshold}次仓本千奈的培育吧"
+    },
+    {
+      "id": "panel_mission-event-012-mission_9",
+      "name": "完成{threshold}次筱泽广的培育吧"
+    },
+    {
       "id": "panel_mission-event-niv-mission_1",
       "name": "以B+以上得分通过{threshold}次最终考试吧"
     },
@@ -8592,6 +8688,54 @@
     {
       "id": "achieve-i_card-fktn-3-019-06",
       "name": "【GO MY WAY!!】藤田琴音的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-01",
+      "name": "【怀揣憧憬一步步向前】冰渡香名江的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-02",
+      "name": "【怀揣憧憬一步步向前】冰渡香名江的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-03",
+      "name": "【怀揣憧憬一步步向前】冰渡香名江的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-04",
+      "name": "【怀揣憧憬一步步向前】冰渡香名江的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-05",
+      "name": "【怀揣憧憬一步步向前】冰渡香名江的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-06",
+      "name": "【怀揣憧憬一步步向前】冰渡香名江的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-01",
+      "name": "【蜕变】冰渡香名江的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-02",
+      "name": "【蜕变】冰渡香名江的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-03",
+      "name": "【蜕变】冰渡香名江的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-04",
+      "name": "【蜕变】冰渡香名江的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-05",
+      "name": "【蜕变】冰渡香名江的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-06",
+      "name": "【蜕变】冰渡香名江的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
@@ -11078,6 +11222,10 @@
       "name": "获得{threshold}个藤田琴音的成就之★"
     },
     {
+      "id": "achieve-m_hkne-001",
+      "name": "获得{threshold}个冰渡香名江的成就之★"
+    },
+    {
       "id": "achieve-m_hmsz-001",
       "name": "获得{threshold}个秦谷美铃的成就之★"
     },
@@ -11123,7 +11271,7 @@
     },
     {
       "id": "achieve-o_002",
-      "name": "累计工作时间{threshold}小时"
+      "name": "累计工作{threshold}小时"
     },
     {
       "id": "achieve-o_003",
@@ -11363,7 +11511,7 @@
     },
     {
       "id": "achieve-p_idol-amao-001",
-      "name": "在有村麻央的培育中使用技能卡{threshold}次"
+      "name": "在有村麻央的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-amao-002",
@@ -11387,7 +11535,7 @@
     },
     {
       "id": "achieve-p_idol-amao-007",
-      "name": "完成有村麻央的培育{threshold}次"
+      "name": "完成{threshold}次有村麻央的培育"
     },
     {
       "id": "achieve-p_idol-amao-008",
@@ -11470,6 +11618,42 @@
       "name": "让有村麻央通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-amao-030",
+      "name": "有村麻央累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-amao-031",
+      "name": "有村麻央累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-amao-033",
+      "name": "有村麻央累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-amao-034",
+      "name": "在有村麻央的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-amao-035",
+      "name": "有村麻央累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-amao-036",
+      "name": "观看{threshold}种有村麻央的True Live"
+    },
+    {
+      "id": "achieve-p_idol-amao-037",
+      "name": "有村麻央累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-amao-038",
+      "name": "有村麻央拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-amao-039",
+      "name": "有村麻央挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-atbm-000",
       "name": "观看雨夜燕的True End"
     },
@@ -11483,7 +11667,7 @@
     },
     {
       "id": "achieve-p_idol-atbm-001",
-      "name": "在雨夜燕的培育中使用技能卡{threshold}次"
+      "name": "在雨夜燕的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-atbm-002",
@@ -11507,7 +11691,7 @@
     },
     {
       "id": "achieve-p_idol-atbm-007",
-      "name": "完成雨夜燕的培育{threshold}次"
+      "name": "完成{threshold}次雨夜燕的培育"
     },
     {
       "id": "achieve-p_idol-atbm-008",
@@ -11584,6 +11768,42 @@
     {
       "id": "achieve-p_idol-atbm-027",
       "name": "让雨夜燕通过最终考试并获得{threshold}次S4以上的评价吧"
+    },
+    {
+      "id": "achieve-p_idol-atbm-030",
+      "name": "雨夜燕累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-atbm-031",
+      "name": "雨夜燕累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-atbm-033",
+      "name": "雨夜燕累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-atbm-034",
+      "name": "在雨夜燕的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-atbm-035",
+      "name": "雨夜燕累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-atbm-036",
+      "name": "观看{threshold}种雨夜燕的True Live"
+    },
+    {
+      "id": "achieve-p_idol-atbm-037",
+      "name": "雨夜燕累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-atbm-038",
+      "name": "雨夜燕拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-atbm-039",
+      "name": "雨夜燕挑战{threshold}次竞技场"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -11815,7 +12035,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-001",
-      "name": "在藤田琴音的培育中使用技能卡{threshold}次"
+      "name": "在藤田琴音的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-fktn-002",
@@ -11839,7 +12059,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-007",
-      "name": "完成藤田琴音的培育{threshold}次"
+      "name": "完成{threshold}次藤田琴音的培育"
     },
     {
       "id": "achieve-p_idol-fktn-008",
@@ -11922,6 +12142,174 @@
       "name": "让藤田琴音通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-fktn-030",
+      "name": "藤田琴音累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-fktn-031",
+      "name": "藤田琴音累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-fktn-033",
+      "name": "藤田琴音累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-fktn-034",
+      "name": "在藤田琴音的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-fktn-035",
+      "name": "藤田琴音累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-fktn-036",
+      "name": "观看{threshold}种藤田琴音的True Live"
+    },
+    {
+      "id": "achieve-p_idol-fktn-037",
+      "name": "藤田琴音累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-fktn-038",
+      "name": "藤田琴音拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-fktn-039",
+      "name": "藤田琴音挑战{threshold}次竞技场"
+    },
+    {
+      "id": "achieve-p_idol-hkne-000",
+      "name": "观看冰渡香名江的True End"
+    },
+    {
+      "id": "achieve-p_idol-hkne-001",
+      "name": "在冰渡香名江的培育中使用{threshold}次技能卡"
+    },
+    {
+      "id": "achieve-p_idol-hkne-002",
+      "name": "使用冰渡香名江完成{threshold}次训练"
+    },
+    {
+      "id": "achieve-p_idol-hkne-003",
+      "name": "使用冰渡香名江完成{threshold}次SP训练"
+    },
+    {
+      "id": "achieve-p_idol-hkne-004",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次B以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-005",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次A以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-006",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次S以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-007",
+      "name": "完成{threshold}次冰渡香名江的培育"
+    },
+    {
+      "id": "achieve-p_idol-hkne-008",
+      "name": "将冰渡香名江的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-hkne-009",
+      "name": "在冰渡香名江的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "achieve-p_idol-hkne-010",
+      "name": "冰渡香名江获得{threshold}粉丝"
+    },
+    {
+      "id": "achieve-p_idol-hkne-011",
+      "name": "将冰渡香名江的亲密度提升至Lv{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-012",
+      "name": "在冰渡香名江的培育中累计获得评价{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-013",
+      "name": "在冰渡香名江的培育中强化技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hkne-014",
+      "name": "将冰渡香名江的视觉能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-hkne-015",
+      "name": "在「偶像之路」中获得{threshold}个★的完成条件"
+    },
+    {
+      "id": "achieve-p_idol-hkne-016",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次S+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-017",
+      "name": "在冰渡香名江的定期公演『初』难易度：Master下获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-hkne-018",
+      "name": "在培育中选择{threshold}次特别指导"
+    },
+    {
+      "id": "achieve-p_idol-hkne-020",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次SS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-021",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次SS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-023",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次SSS以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-024",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次SSS+以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-027",
+      "name": "使用冰渡香名江通过最终考试并获得{threshold}次S4以上评价"
+    },
+    {
+      "id": "achieve-p_idol-hkne-030",
+      "name": "冰渡香名江累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-hkne-031",
+      "name": "冰渡香名江累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-hkne-033",
+      "name": "冰渡香名江累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-hkne-034",
+      "name": "在冰渡香名江的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-hkne-035",
+      "name": "冰渡香名江累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-hkne-036",
+      "name": "观看{threshold}种冰渡香名江的True Live"
+    },
+    {
+      "id": "achieve-p_idol-hkne-037",
+      "name": "冰渡香名江累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-hkne-038",
+      "name": "冰渡香名江拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-hkne-039",
+      "name": "冰渡香名江挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "观看秦谷美铃的True End"
     },
@@ -11935,7 +12323,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-001",
-      "name": "在秦谷美铃的培育中使用技能卡{threshold}次"
+      "name": "在秦谷美铃的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-hmsz-002",
@@ -12038,6 +12426,42 @@
       "name": "让秦谷美铃通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-hmsz-030",
+      "name": "秦谷美铃累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-031",
+      "name": "秦谷美铃累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-033",
+      "name": "秦谷美铃累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-034",
+      "name": "在秦谷美铃的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-035",
+      "name": "秦谷美铃累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-036",
+      "name": "观看{threshold}种秦谷美铃的True Live"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-037",
+      "name": "秦谷美铃累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-038",
+      "name": "秦谷美铃拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-039",
+      "name": "秦谷美铃挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "观看姬崎莉波的True End"
     },
@@ -12051,7 +12475,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-001",
-      "name": "在姬崎莉波的培育中使用技能卡{threshold}次"
+      "name": "在姬崎莉波的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-hrnm-002",
@@ -12075,7 +12499,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-007",
-      "name": "完成姬崎莉波的培育{threshold}次"
+      "name": "完成{threshold}次姬崎莉波的培育"
     },
     {
       "id": "achieve-p_idol-hrnm-008",
@@ -12158,6 +12582,42 @@
       "name": "让姬崎莉波通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-hrnm-030",
+      "name": "姬崎莉波累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-031",
+      "name": "姬崎莉波累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-033",
+      "name": "姬崎莉波累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-034",
+      "name": "在姬崎莉波的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-035",
+      "name": "姬崎莉波累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-036",
+      "name": "观看{threshold}种姬崎莉波的True Live"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-037",
+      "name": "姬崎莉波累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-038",
+      "name": "姬崎莉波拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-039",
+      "name": "姬崎莉波挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-hski-000",
       "name": "观看花海咲季的True End"
     },
@@ -12171,7 +12631,7 @@
     },
     {
       "id": "achieve-p_idol-hski-001",
-      "name": "在花海咲季的培育中使用技能卡{threshold}次"
+      "name": "在花海咲季的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-hski-002",
@@ -12195,7 +12655,7 @@
     },
     {
       "id": "achieve-p_idol-hski-007",
-      "name": "完成花海咲季的培育{threshold}次"
+      "name": "完成{threshold}次花海咲季的培育"
     },
     {
       "id": "achieve-p_idol-hski-008",
@@ -12278,6 +12738,42 @@
       "name": "让花海咲季通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-hski-030",
+      "name": "花海咲季累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-hski-031",
+      "name": "花海咲季累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-hski-033",
+      "name": "花海咲季累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-hski-034",
+      "name": "在花海咲季的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-hski-035",
+      "name": "花海咲季累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-hski-036",
+      "name": "观看{threshold}种花海咲季的True Live"
+    },
+    {
+      "id": "achieve-p_idol-hski-037",
+      "name": "花海咲季累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-hski-038",
+      "name": "花海咲季拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-hski-039",
+      "name": "花海咲季挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "观看花海佑芽的True End"
     },
@@ -12291,7 +12787,7 @@
     },
     {
       "id": "achieve-p_idol-hume-001",
-      "name": "在花海佑芽的培育中使用技能卡{threshold}次"
+      "name": "在花海佑芽的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-hume-002",
@@ -12315,7 +12811,7 @@
     },
     {
       "id": "achieve-p_idol-hume-007",
-      "name": "完成花海佑芽的培育{threshold}次"
+      "name": "完成{threshold}次花海佑芽的培育"
     },
     {
       "id": "achieve-p_idol-hume-008",
@@ -12394,6 +12890,42 @@
       "name": "让花海佑芽通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-hume-030",
+      "name": "花海佑芽累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-hume-031",
+      "name": "花海佑芽累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-hume-033",
+      "name": "花海佑芽累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-hume-034",
+      "name": "在花海佑芽的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-hume-035",
+      "name": "花海佑芽累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-hume-036",
+      "name": "观看{threshold}种花海佑芽的True Live"
+    },
+    {
+      "id": "achieve-p_idol-hume-037",
+      "name": "花海佑芽累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-hume-038",
+      "name": "花海佑芽拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-hume-039",
+      "name": "花海佑芽挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-jsna-000",
       "name": "观看十王星南的True End"
     },
@@ -12407,7 +12939,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-001",
-      "name": "在十王星南的培育中使用技能卡{threshold}次"
+      "name": "在十王星南的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-jsna-002",
@@ -12431,7 +12963,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-007",
-      "name": "完成十王星南的培育{threshold}次"
+      "name": "完成{threshold}次十王星南的培育"
     },
     {
       "id": "achieve-p_idol-jsna-008",
@@ -12514,6 +13046,42 @@
       "name": "让十王星南通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-jsna-030",
+      "name": "十王星南累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-jsna-031",
+      "name": "十王星南累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-jsna-033",
+      "name": "十王星南累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-jsna-034",
+      "name": "在十王星南的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-jsna-035",
+      "name": "十王星南累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-jsna-036",
+      "name": "观看{threshold}种十王星南的True Live"
+    },
+    {
+      "id": "achieve-p_idol-jsna-037",
+      "name": "十王星南累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-jsna-038",
+      "name": "十王星南拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-jsna-039",
+      "name": "十王星南挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "观看仓本千奈的True End"
     },
@@ -12527,7 +13095,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-001",
-      "name": "在仓本千奈的培育中使用技能卡{threshold}次"
+      "name": "在仓本千奈的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-kcna-002",
@@ -12551,7 +13119,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-007",
-      "name": "完成仓本千奈的培育{threshold}次"
+      "name": "完成{threshold}次仓本千奈的培育"
     },
     {
       "id": "achieve-p_idol-kcna-008",
@@ -12630,6 +13198,42 @@
       "name": "让仓本千奈通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-kcna-030",
+      "name": "仓本千奈累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-kcna-031",
+      "name": "仓本千奈累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-kcna-033",
+      "name": "仓本千奈累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-kcna-034",
+      "name": "在仓本千奈的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-kcna-035",
+      "name": "仓本千奈累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-kcna-036",
+      "name": "观看{threshold}种仓本千奈的True Live"
+    },
+    {
+      "id": "achieve-p_idol-kcna-037",
+      "name": "仓本千奈累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-kcna-038",
+      "name": "仓本千奈拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-kcna-039",
+      "name": "仓本千奈挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "观看葛城莉莉娅的True End"
     },
@@ -12643,7 +13247,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-001",
-      "name": "在葛城莉莉娅的培育中使用技能卡{threshold}次"
+      "name": "在葛城莉莉娅的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-kllj-002",
@@ -12667,7 +13271,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-007",
-      "name": "完成葛城莉莉娅的培育{threshold}次"
+      "name": "完成{threshold}次葛城莉莉娅的培育"
     },
     {
       "id": "achieve-p_idol-kllj-008",
@@ -12746,6 +13350,42 @@
       "name": "让葛城莉莉娅通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-kllj-030",
+      "name": "葛城莉莉娅累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-kllj-031",
+      "name": "葛城莉莉娅累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-kllj-033",
+      "name": "葛城莉莉娅累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-kllj-034",
+      "name": "在葛城莉莉娅的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-kllj-035",
+      "name": "葛城莉莉娅累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-kllj-036",
+      "name": "观看{threshold}种葛城莉莉娅的True Live"
+    },
+    {
+      "id": "achieve-p_idol-kllj-037",
+      "name": "葛城莉莉娅累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-kllj-038",
+      "name": "葛城莉莉娅拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-kllj-039",
+      "name": "葛城莉莉娅挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-shro-000",
       "name": "观看筱泽广的True End"
     },
@@ -12759,7 +13399,7 @@
     },
     {
       "id": "achieve-p_idol-shro-001",
-      "name": "在筱泽广的培育中使用技能卡{threshold}次"
+      "name": "在筱泽广的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-shro-002",
@@ -12783,7 +13423,7 @@
     },
     {
       "id": "achieve-p_idol-shro-007",
-      "name": "完成筱泽广的培育{threshold}次"
+      "name": "完成{threshold}次筱泽广的培育"
     },
     {
       "id": "achieve-p_idol-shro-008",
@@ -12866,6 +13506,42 @@
       "name": "让筱泽广通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-shro-030",
+      "name": "筱泽广累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-shro-031",
+      "name": "筱泽广累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-shro-033",
+      "name": "筱泽广累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-shro-034",
+      "name": "在筱泽广的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-shro-035",
+      "name": "筱泽广累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-shro-036",
+      "name": "观看{threshold}种筱泽广的True Live"
+    },
+    {
+      "id": "achieve-p_idol-shro-037",
+      "name": "筱泽广累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-shro-038",
+      "name": "筱泽广拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-shro-039",
+      "name": "筱泽广挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-ssmk-000",
       "name": "观看紫云清夏的True End"
     },
@@ -12879,7 +13555,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-001",
-      "name": "在紫云清夏的培育中使用技能卡{threshold}次"
+      "name": "在紫云清夏的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-ssmk-002",
@@ -12903,7 +13579,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-007",
-      "name": "完成紫云清夏的培育{threshold}次"
+      "name": "完成{threshold}次紫云清夏的培育"
     },
     {
       "id": "achieve-p_idol-ssmk-008",
@@ -12982,6 +13658,42 @@
       "name": "让紫云清夏通过最终考试并获得{threshold}次S4以上的评价吧"
     },
     {
+      "id": "achieve-p_idol-ssmk-030",
+      "name": "紫云清夏累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-031",
+      "name": "紫云清夏累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-033",
+      "name": "紫云清夏累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-034",
+      "name": "在紫云清夏的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-035",
+      "name": "紫云清夏累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-036",
+      "name": "观看{threshold}种紫云清夏的True Live"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-037",
+      "name": "紫云清夏累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-038",
+      "name": "紫云清夏拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-039",
+      "name": "紫云清夏挑战{threshold}次竞技场"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "观看月村手毬的True End"
     },
@@ -12995,7 +13707,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-001",
-      "name": "在月村手毬的培育中使用技能卡{threshold}次"
+      "name": "在月村手毬的培育中使用{threshold}次技能卡"
     },
     {
       "id": "achieve-p_idol-ttmr-002",
@@ -13019,7 +13731,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-007",
-      "name": "完成月村手毬的培育{threshold}次"
+      "name": "完成{threshold}次月村手毬的培育"
     },
     {
       "id": "achieve-p_idol-ttmr-008",
@@ -13100,6 +13812,42 @@
     {
       "id": "achieve-p_idol-ttmr-027",
       "name": "让月村手毬通过最终考试并获得{threshold}次S4以上的评价吧"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-030",
+      "name": "月村手毬累计获得{threshold}种服装"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-031",
+      "name": "月村手毬累计获得{threshold}种发型"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-033",
+      "name": "月村手毬累计解锁{threshold}首歌曲"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-034",
+      "name": "在月村手毬的制作人排行榜中{threshold}个赛季进入前2000名"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-035",
+      "name": "月村手毬累计获得{threshold}种P偶像"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-036",
+      "name": "观看{threshold}种月村手毬的True Live"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-037",
+      "name": "月村手毬累计工作{threshold}小时"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-038",
+      "name": "月村手毬拍摄{threshold}张照片"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-039",
+      "name": "月村手毬挑战{threshold}次竞技场"
     },
     {
       "id": "achievement_char_hume-024",

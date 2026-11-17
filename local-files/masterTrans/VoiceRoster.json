@@ -259,7 +259,7 @@
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "amao",
@@ -3004,7 +3004,7 @@
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "fktn",
@@ -3429,6 +3429,441 @@
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_work_start-02",
+      "title": "工作开始②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_cmmn_clothe-01",
+      "title": "换装"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_birthday-01",
+      "title": "主页（生日）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-04",
+      "title": "主页④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-05",
+      "title": "主页⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-06",
+      "title": "主页⑥"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-07",
+      "title": "主页⑦"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-08",
+      "title": "主页⑧"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-09",
+      "title": "主页（亲密度Lv1〜3）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-10",
+      "title": "主页（亲密度Lv3〜5）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-11",
+      "title": "主页（亲密度Lv3〜5）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-12",
+      "title": "主页（亲密度Lv5〜6）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-13",
+      "title": "主页（亲密度Lv6〜8）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-14",
+      "title": "主页（亲密度Lv7〜9）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-15",
+      "title": "主页（亲密度Lv10〜）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-16",
+      "title": "主页（亲密度Lv10〜）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-17",
+      "title": "主页（亲密度Lv10〜）③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-18",
+      "title": "主页⑨"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-19",
+      "title": "主页⑩"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-20",
+      "title": "主页⑪"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-21",
+      "title": "主页⑫"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-22",
+      "title": "主页⑬"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-23",
+      "title": "主页⑭"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-24",
+      "title": "主页⑮"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-25",
+      "title": "主页⑯"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_touch-01",
+      "title": "主页⑰"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_touch-02",
+      "title": "主页⑱"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-01",
+      "title": "主页（早晨）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-02",
+      "title": "主页（早晨）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-03",
+      "title": "主页（白天）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-04",
+      "title": "主页（白天）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-05",
+      "title": "主页（傍晚）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-06",
+      "title": "主页（傍晚）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-07",
+      "title": "主页（晚上）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-08",
+      "title": "主页（晚上）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-09",
+      "title": "主页（2027新年）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-10",
+      "title": "主页（2027情人节）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-11",
+      "title": "主页（2027万圣节）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-12",
+      "title": "主页（2026圣诞节）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-13",
+      "title": "主页（2026大晦日）"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-14",
+      "title": "主页（春季）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-15",
+      "title": "主页（春季）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-16",
+      "title": "主页（春季）③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-17",
+      "title": "主页（夏季）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-18",
+      "title": "主页（夏季）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-19",
+      "title": "主页（夏季）③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-20",
+      "title": "主页（秋季）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-21",
+      "title": "主页（秋季）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-22",
+      "title": "主页（秋季）③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-23",
+      "title": "主页（冬季）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-24",
+      "title": "主页（冬季）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-25",
+      "title": "主页（冬季）③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_idol_potential-01",
+      "title": "才能开花①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_idol_potential-02",
+      "title": "才能开花②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-01",
+      "title": "培育结果（True End）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-02",
+      "title": "培育结果（True End）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-03",
+      "title": "培育结果（True End）③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-04",
+      "title": "培育结果（A End）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-05",
+      "title": "培育结果（A End）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-06",
+      "title": "培育结果（A End）③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-07",
+      "title": "培育结果（B〜C End）①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-08",
+      "title": "培育结果（B〜C End）②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-01",
+      "title": "活动据点①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-02",
+      "title": "活动据点②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-03",
+      "title": "活动据点③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-04",
+      "title": "活动据点④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-05",
+      "title": "活动据点⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-06",
+      "title": "活动据点⑥"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-07",
+      "title": "屋顶①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-08",
+      "title": "屋顶②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-09",
+      "title": "屋顶③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-10",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-11",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-12",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-13",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-14",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-15",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-16",
+      "title": "活动据点⑦"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-17",
+      "title": "活动据点⑧"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-18",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-19",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_result-01",
+      "title": "工作成功"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_result-02",
+      "title": "工作大成功"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_start-01",
+      "title": "工作开始①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_start-02",
       "title": "工作开始②"
     },
     {
@@ -4359,7 +4794,7 @@
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "hrnm",
@@ -5034,7 +5469,7 @@
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "hski",
@@ -5714,7 +6149,7 @@
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "hume",
@@ -6389,7 +6824,7 @@
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "jsna",
@@ -7049,7 +7484,7 @@
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "kcna",
@@ -7724,7 +8159,7 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "kllj",
@@ -8384,7 +8819,7 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "shro",
@@ -9059,7 +9494,7 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "ssmk",
@@ -9734,7 +10169,7 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-13",
-      "title": "主页（2024除夕）"
+      "title": "主页（2024大晦日）"
     },
     {
       "characterId": "ttmr",
